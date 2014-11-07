@@ -67,11 +67,6 @@ Every time someone asks you what you’re doing you have an opportunity to bring
   
 
 ## Your 1 Minute Pitch: Sell the vision 
-
-If you haven’t already, read [How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) and [Pitching Hacks](http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf).
-
-  
-
 **_People don’t want to throw a hackathon; they want to change the world._**
 
   
@@ -80,7 +75,7 @@ In 1 minute, you should be able to convince just about anyone that hackathons ca
 
   
 
-You’ll have to iterate on this pitch a ton to make it work, but it’s totally doable. 
+You’ll have to iterate on this pitch a ton to make it work, but it’s totally doable. If you haven’t already, read [How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) and [Pitching Hacks](http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf).
 
   
 
@@ -150,21 +145,21 @@ People with buy-in generally have no problem making you intros. These intros wil
 
 ## Everyone on the team is always recruiting
 
-Want to know why Facebook beat Myspace? Read this post: [http://algeri-wong.com/yishan/engineering-management.html](http://algeri-wong.com/yishan/engineering-management.html)
+Want to know why Facebook beat Myspace? [Read this](http://algeri-wong.com/yishan/engineering-management.html)
 
   
 
-Everyone on your team should always be recruiting the best people they know. Every time you onboard someone, ask who else they’d love to work with.  At every meeting, emphasize that the team is everything and spend at least a few minutes on recruiting strategies.
+**Everyone on your team should always be recruiting the best people they know.** Every time you onboard someone, ask who else they’d love to work with.  At every meeting, emphasize that the team is everything and spend at least a few minutes on recruiting strategies.
 
   
 
-Everyone on the team should have their own effective 1-minute pitch ASAP. If people aren’t there yet, get them there. Encourage everyone on the team to be pitching all the time.
+**Everyone on the team should have their own effective 1-minute pitch ASAP.** If people aren’t there yet, get them there. Encourage everyone on the team to be pitching all the time.
 
   
 
 ## Convince people to do things they aren’t qualified to do. 
 
-Experience is overrated -- most of what you’ll be doing will be new anyways. Find the most open-minded, passionate, hardest-working people around. 
+**Experience is overrated** -- most of what you’ll be doing will be new anyways. Find the most open-minded, passionate, hardest-working people around. 
 
   
 
@@ -187,7 +182,7 @@ You need to make sure everyone on your team has the right mindset going into the
 
   
 
-The most common mindset you need to dispel is that as a organizers you’re doing a service for hackers. Instead, team members should be asking how do you give hackers a 5 star experience? After all, they are your users.
+The most common mindset you need to dispel is that as a organizers you’re doing a service for hackers. Instead, team members should be asking _how do you give hackers a 5 star experience?_ After all, they are your users.
 
   
 
@@ -195,11 +190,11 @@ Fight informational asymmetry. The biggest risk is that you don’t know someone
 
   
 
-If you have transparency throughout your team, it’s really easy to see who isn’t getting shit done. Don’t be afraid to fire these people. That doesn’t always mean kicking them off the team, but you need to find someone else to take on their responsibilities right away.
+If you have **transparency** throughout your team, it’s really easy to see who isn’t getting shit done. **Don’t be afraid to fire** these people. That doesn’t always mean kicking them off the team, but you need to find someone else to take on their responsibilities right away.
 
   
 
-->**_The team, the team, the team_**<-
+## **_The team, the team, the team_**
 
   
 
