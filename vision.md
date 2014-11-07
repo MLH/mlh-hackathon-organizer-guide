@@ -15,7 +15,7 @@ PennApps focuses on bringing together the top hackers from all around the world.
 
 **Multi-university hackathons** have many benefits, chiefly that attendees have the opportunity to meet and work with students from other schools. This changes the game for many hackers when they realize they can work with people beyond just their own school. That said, if your hackathon is focused on education and has limited space, maybe it makes more sense to restrict it to your own school.
 
-Opening your hackathon to **HS Hackers** can change the game. This is an unparalleled opportunity to attract the top high schoolers to your university for an amazing experience. The High School Hacker community is thriving and they’ve even taken the win at top hackathons like MHacks and PennApps. That said, many universities have minor policies that you’ll have to work around. 
+Opening your hackathon to [**HS Hackers**](https://www.facebook.com/groups/PennAppsHS) can change the game. This is an unparalleled opportunity to attract the top high schoolers to your university for an amazing experience. The High School Hacker community is thriving and they’ve even taken the win at top hackathons like MHacks and PennApps. That said, many universities have minor policies that you’ll have to work around. 
 
 My general advice is to ask for forgiveness not permission. [With minors, that’s not always the best strategy.](minors.md) 
 
@@ -23,13 +23,15 @@ Everything has it’s tradeoffs but early on you want to think about the audienc
 
 ## What?
 
-All hackathons are not created equal. 
+_All hackathons are not created equal._ 
 
 What makes your hackathon different? How is it unique? 
 
-Now that hackathons are taking the world by storm, hackers have many different options, so it’s critical to differentiate and specialize. 
+Now that hackathons are taking the world by storm, hackers have many different options, so it’s crucial to differentiate and specialize. 
 
-Is your hackathon going to be known as the place to build your sickest hardware hacks or is it going to be a mobile app paradise? Maybe you’ll even do a throwback and focus on web/desktop apps. The possibilities are endless but once you’ve answered “Who” you should ask those people what they want.
+Is your hackathon going to be known as the place to build your sickest hardware hacks or is it going to be a mobile app paradise? Maybe you’ll even do a throwback and focus on web/desktop apps. 
+
+**The possibilities are endless but once you’ve answered “Who” you should ask those people what they want.**
 
 ## When?
 
