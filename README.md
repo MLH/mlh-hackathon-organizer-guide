@@ -4,8 +4,7 @@ The Book of Hackathon is an open-source initiative to make a hackathon playbook.
 
 Follow the playbook and it will walk you through every step of throwing a great hackathon.
 
-**Disclaimer:**   
-The Book of Hackathon is never finished. Try new things. 
+**Disclaimer:** _The Book of Hackathon is never finished. Try everything._
 
 ## Chapter 0: Getting Started
 0. **General Checklist**  
