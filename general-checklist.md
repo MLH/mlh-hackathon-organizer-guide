@@ -1,3 +1,4 @@
+# General Checklist
 As we dive into the Hackathon Playbook, we’ll be honing in on many particular aspects of what makes a great hackathon great. We really don’t want you to lost focus on what matters most. People are everything. 
 
   
@@ -11,12 +12,11 @@ Throwing a hackathon is easy. Throwing a great hackathon takes an entire team of
   
 
 Here’s a general hackathon checklist:
-
-(anyone on your team should be able to answer these questions at any time)
+_(anyone on your team should be able to answer these questions at any time)_
 
   
 
-1. Hackers 
+1. **Hackers**
     1. Outreach 
         1. How many hackers do you expect to attend?  
         2. How many signups do you have? 
@@ -28,7 +28,7 @@ Here’s a general hackathon checklist:
         2. When does it end? 
         3. Who can come? 
 
-2. Venue 
+2. **Venue** 
     1. Do you have a venue signed and booked? 
     2. How many people can it hold? 
     3. What’s the address? 
@@ -38,7 +38,7 @@ Here’s a general hackathon checklist:
     7. Where will buses drop people off? 
     8. Where will opening/closing take place? 
 
-3. Food/Drinks 
+3. **Food/Drinks** 
     1. Are there catering restrictions at your venue? 
     2. Who are you catering from? 
     3. What food will be served? 
@@ -48,31 +48,31 @@ Here’s a general hackathon checklist:
     5. What drinks will you have? 
     6. Caffeine? 
 
-4. Power 
+4. **Power** 
     1. Who runs power for the building?  
     2. Will they be around the weekend of? 
     3. Can the building support this many computers plugged in at the same time? 
     4. Are there enough plugs for everyone? 
 
-5. Wifi 
+5. **Wifi** 
     1. Who runs wifi for the building? 
     2. Who runs wifi for the school? 
 
-6. Sponsors/Budget 
+6. **Sponsors/Budget** 
     1. What’s your budget? 
     2. How much have you raised so far (in cash)? 
     3. How much is in the bank? 
     4. Where will you put sponsors in the venue? 
     5. What do sponsors do when they arrive? 
 
-7. School 
+7. **School** 
     1. Does administration know you’re having a hackathon? 
     2. Which admins are champions for your cause? 
     3. Which admins could block you? 
     4. Is the school sponsoring yet? 
     5. How about student government? 
 
-8. Opening/Closing 
+8. **Opening/Closing** 
     1. Opening Kickoff 
     2. Closing Ceremony 
     3. Judging 
@@ -86,7 +86,7 @@ Here’s a general hackathon checklist:
 
         3. How do attendees claim my prizes/when will they receive them? 
 
-9. Team 
+9. **Team** 
     1. Who’s directing buses? 
     2. Who’s directing registration? 
     3. Who’s directing opening/closing? 
