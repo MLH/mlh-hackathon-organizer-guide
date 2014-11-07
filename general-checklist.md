@@ -84,8 +84,9 @@ These are questions everyone on your team should be able to answer at any given 
     4. Prizes 
         1. Where can I see the list of all prizes? 
         2. Who can give out a prize? 
-            1. If sponsors will give out the prizes themselves, when? 
-        3. How do attendees claim my prizes/when will they receive them? 
+        3. When are prizes given out? 
+        4. How do attendees claim prizes?
+        5. When will prizes be sent out? 
 
 ### 9. Team 
     1. Who’s directing buses? 
