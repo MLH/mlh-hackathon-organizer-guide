@@ -10,7 +10,7 @@ Imagine you are building a startup.
 
   
 
-Hackers are your users, sponsors are your paying customers, and your team is everything.
+_Hackers are your users, sponsors are your paying customers, and **your team is everything.**_
 
   
 
@@ -24,7 +24,7 @@ They will be on the ground with you for an entire weekend as you try to keep the
 
 ## Snipe the best talent
 
-If you’re waiting for your team to come to you, you’re doing it wrong.
+**_If you’re waiting for your team to come to you, you’re doing it wrong._**
 
   
 
@@ -40,7 +40,7 @@ Ask the heads of other organizations who their best people are and go after them
 
   
 
-Good Hacker != Good Hackathon Organizer 
+    Good Hacker != Good Hackathon Organizer 
 
   
 
