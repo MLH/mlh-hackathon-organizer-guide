@@ -1,18 +1,18 @@
-# General Checklist
 As we dive into the Hackathon Playbook, we’ll be honing in on many particular aspects of what makes a great hackathon great. We really don’t want you to lost focus on what matters most. People are everything. 
 
   
 
-All you really need to throw a hackathon is people ready to build things. Even if your wifi, power, and venue all fall through, the right people will produce their own ethernet cords from raw materials, help you take over a nearby library or coffee shop, and look up documentation on their phones while coding locally.
+All you really need to throw a hackathon is people ready to build things. Even if your wifi, power, and venue all fall through, the right people will produce their own ethernet cords from raw materials, help you take over a nearby library or coffee shop, and look up documentation on their phones while coding locally.  
 
-  
 
+
+# General Checklist
 Throwing a hackathon is easy. Throwing a great hackathon takes an entire team of people firing on all cylinders. 
 
   
 
-Here’s a general hackathon checklist:
-_(anyone on your team should be able to answer these questions at any time)_
+There are a ton of moving parts so we made a general hackathon checklist to help you keep track of everything that needs to get done. These are questions everyone on your team should be able to answer at any given time:
+
 
   
 
