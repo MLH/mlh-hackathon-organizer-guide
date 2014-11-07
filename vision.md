@@ -1,4 +1,4 @@
-# Who/What/When/Where   Why are you throwing a hackathon?
+# Who/What/When/Where/Why are you throwing a hackathon?
 Early decisions will end up defining your hackathon. Once you get started, you’ll be so heads down just trying to make sure your hackathon happens that it’s easy to forget to answer some of these questions. 
 
 We think it’s super important to spend a day with your team thinking about these questions so that everyone is on the same page from the start. 
