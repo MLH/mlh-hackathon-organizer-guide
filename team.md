@@ -10,7 +10,7 @@ Imagine you are building a startup.
 
   
 
-_Hackers are your users, sponsors are your paying customers, and **your team is everything.**_
+**Hackers are your users, sponsors are your paying customers, and _your team is everything._**
 
   
 
