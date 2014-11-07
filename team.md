@@ -72,7 +72,7 @@ If you haven’t already, read [How to Win Friends & Influence People](http://ww
 
   
 
-People don’t want to throw a hackathon; they want to change the world.
+**_People don’t want to throw a hackathon; they want to change the world._**
 
   
 
@@ -84,7 +84,7 @@ You’ll have to iterate on this pitch a ton to make it work, but it’s totally
 
   
 
-Pitch all the time. Start with your own story and work from there to your more radical vision for how the hackathon will change people’s lives forever.
+**Pitch all the time.** Start with your own story and work from there to your more radical vision for how the hackathon will change people’s lives forever.
 
   
 
@@ -92,7 +92,7 @@ Several months before the first MHacks, we took a trip to rally hackers at the m
 
   
 
-If you don’t sound crazy when you’re giving the pitch, you’re probably not thinking big enough. 
+_If you don’t sound crazy when you’re giving the pitch, you’re probably not thinking big enough._ 
 
   
 
@@ -136,11 +136,11 @@ That doesn’t necessarily mean that they will actually take on a major responsi
 
 _As soon as you bring someone on, give them a title._ 
 
-Example: “MHacks Organizer” or “MHacks Advisor” 
+    Example: “MHacks Organizer” or “MHacks Advisor” 
 
   
 
-These are free to give out and you’ll be surprised how valuable they are to people. By simply adding someone to the group, telling them how to help, and giving them a title, you can make just about anyone feel like they are part of the team.
+These are free to give out and you’ll be surprised how valuable they are to people. **By simply adding someone to the group, telling them how to help, and giving them a title, you can make just about anyone feel like they are part of the team.**
 
   
 
