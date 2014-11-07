@@ -11,7 +11,11 @@ Throwing a hackathon is easy. Throwing a great hackathon takes an entire team of
 
   
 
-There are a ton of moving parts so we made a general hackathon checklist to help you keep track of everything that needs to get done. These are questions everyone on your team should be able to answer at any given time:
+There's a ton of moving parts so we made a general checklist to help you keep track of everything that needs to get done to make your hackathon a success.   
+
+
+
+These are questions everyone on your team should be able to answer at any given time:
 
 
   
