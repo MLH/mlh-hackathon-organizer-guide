@@ -31,6 +31,10 @@ Now that hackathons are taking the world by storm, hackers have many different o
 
 Is your hackathon going to be known as the place to build your sickest hardware hacks or is it going to be a mobile app paradise? Maybe you’ll even do a throwback and focus on web/desktop apps. 
 
+Hackathons are more than just one-off events. They build a community. What does that community care about? 
+
+People are going to be spending hours upon hours with one another at your hackathon. Create an environment that empowers people to do the impossible, inspires creativity, and most importantly, makes people feel comfortable. It doesn't happen by itself.
+
 **The possibilities are endless but once you’ve answered “Who” you should ask those people what they want.**
 
 ## When?
