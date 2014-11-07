@@ -12,7 +12,7 @@ This is the most time-sensitive part of organizing a hackathon. It’s also the 
 
 You’ll want to crowdsource this, so ask your friends where the sickest hackathon spaces will be. Maybe even post a facebook status.
 
-### What makes a good hackathon venue?
+## What makes a good hackathon venue?
 
 While having rooms for teams that want to hack alone is nice, **your largest central hacking space will quickly become the epicenter of energy.** Keeping the energy up nonstop here is crucial. Some hackathons even bring in DJs to spin through the night.
 
