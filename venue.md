@@ -1,4 +1,4 @@
-# Having a bad venue is the easiest way for your hackathon to fail.
+## Having a bad venue is the easiest way for your hackathon to fail.
 
 Hackathons generally stretch for 24-48 hours. That’s a long time. **If your venue sucks, people will leave.**
 
@@ -12,7 +12,7 @@ This is the most time-sensitive part of organizing a hackathon. It’s also the 
 
 You’ll want to crowdsource this, so ask your friends where the sickest hackathon spaces will be. Maybe even post a facebook status.
 
-## What makes a good hackathon venue?
+### What makes a good hackathon venue?
 
 While having rooms for teams that want to hack alone is nice, **your largest central hacking space will quickly become the epicenter of energy.** Keeping the energy up nonstop here is crucial. Some hackathons even bring in DJs to spin through the night.
 
@@ -28,11 +28,9 @@ Consider the fact that most venues haven’t experienced even close to the load 
 
 Most hackers have multiple devices. On top of their laptop and smartphone, many hackers will have an extra device or two. It’s unlikely your venue has experienced the density of devices your hackathon will bring. 
 
-Even if you have plenty of bandwidth, the density of devices can take down most routers. **We commonly run up against the device limits of routers.** 
+Even if you have plenty of bandwidth, the density of devices can take down most routers. _We commonly run up against the device limits of routers._ 
 
-**Have backup plans. Use ethernet.**
-
-[http://news.mlh.io/mhacks-organizer-we-planned-for-wifi-going-down-within-the-first-two-hours-09-13-2014](http://news.mlh.io/mhacks-organizer-we-planned-for-wifi-going-down-within-the-first-two-hours-09-13-2014)
+[**Have backup plans. Use ethernet.**](http://news.mlh.io/mhacks-organizer-we-planned-for-wifi-going-down-within-the-first-two-hours-09-13-2014)
 
 ## Power
 
