@@ -65,7 +65,7 @@ _Location and venue are important early decisions to make._
 
 **Schools generally have venues that are free or cheap to use.** Leverage these, but understand that many times it comes at a cost -- **universities tend to want some control over the event.** In the past, this has caused issues for many hackathons so make sure you build a strong relationship and maintain really effective communication with the faculty members making decisions here. You’d be surprised how flexible universities can be when you build relationships with the right people.
 
-Another thing to consider: some venues have specific caterers you have to use. Make sure you calculate this into the cost of the venue as this tends to cost more since you can’t shop around for as many competing quotes.
+Another thing to consider: _some venues have specific caterers you have to use._ Make sure you calculate this into the cost of the venue as this tends to cost more since you can’t shop around for as many competing quotes.
 
 ## Why?
 
@@ -86,6 +86,6 @@ Hackathons have tons of benefits. Figure out the specific metrics of success tha
 
 From your emails, facebook posts, and tweets to the way you run admissions, your vision will end up defining your hackathon. Make sure everyone on the team sees it.
 
-Hackathons can change the world.
+**Hackathons can change the world.**
 
 **How will yours?**
