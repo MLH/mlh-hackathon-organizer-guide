@@ -129,7 +129,7 @@ That doesn’t necessarily mean that they will actually take on a major responsi
 
   
 
-_As soon as you bring someone on, give them a title._ 
+**As soon as you bring someone on, give them a title.** 
 
     Example: “MHacks Organizer” or “MHacks Advisor” 
 
