@@ -52,7 +52,7 @@ People will be here for unnatural amounts of time. **Don’t underestimate the i
 
 ## How to get a venue
 
-To convince a venue to let you throw a hackathon you’ll likely have to work your way up the bureaucracy to someone who can break the rules. 24/7 weekend events aren’t standard for most venues, so make sure you’re contacting venues around your area starting now. 
+To convince a venue to let you throw a hackathon **you’ll likely have to work your way up the bureaucracy to someone who can break the rules.** 24/7 weekend events aren’t standard for most venues, so make sure you’re contacting venues around your area starting now. 
 
 You’ll likely have to do some convincing.
 
