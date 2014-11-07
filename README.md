@@ -7,10 +7,10 @@ Follow the playbook and it will walk you through every step of throwing a great 
 **Disclaimer:** _The Book of Hackathon is never finished. Try everything._
 
 ## Chapter 0: Getting Started
-0. **General Checklist**  
-1. **Vision:** _Who/What/When/Where/Why are you throwing a hackathon?_  
-2. **Team:** _The most important part of hackathon organizing: building your team._    
-3. **Venue:** _Having a bad venue is the easiest way for your hackathon to fail._  
+0. [**General Checklist**](general-checklist.md)  
+1. [**Vision:** _Who/What/When/Where/Why are you throwing a hackathon?_](vision.md)  
+2. [**Team:** _The most important part of hackathon organizing: building your team._](team.md)    
+3. [**Venue:** _Having a bad venue is the easiest way for your hackathon to fail._](venue.md)  
 
 ## Chapter 1: Fundraising 
 
