@@ -1,8 +1,9 @@
+# Who/What/When/Where/Why are you throwing a hackathon?
 Early decisions will end up defining your hackathon. Once you get started, you’ll be so heads down just trying to make sure your hackathon happens that it’s easy to forget to answer some of these questions. 
 
 We think it’s super important to spend a day with your team thinking about these questions so that everyone is on the same page from the start. 
 
-Aside: Always be flexible and willing to change.
+_Aside: Always be flexible and willing to change._
 
 ## Who?
 
@@ -12,13 +13,11 @@ Are hackathons for existing hackers or are they a factory to turn normal people 
 
 PennApps focuses on bringing together the top hackers from all around the world. Unhackathon wants to build the most fun experience for beginners. MHacks believes the magic happens when you mix the highest potential newbies with the top hackers. There are unlimited possibilities.
 
-Multi-university hackathons have many benefits, chiefly that attendees have the opportunity to meet and work with students from other schools. This changes the game for many hackers when they realize they can work with people beyond just their own school. That said, if your hackathon is focused on education and has limited space, maybe it makes more sense to restrict it to your own school.
+**Multi-university hackathons** have many benefits, chiefly that attendees have the opportunity to meet and work with students from other schools. This changes the game for many hackers when they realize they can work with people beyond just their own school. That said, if your hackathon is focused on education and has limited space, maybe it makes more sense to restrict it to your own school.
 
-Opening your hackathon to HS Hackers can change the game. This is an unparalleled opportunity to attract the top high schoolers to your university for an amazing experience. The High School Hacker community is thriving and they’ve even taken the win at top hackathons like MHacks and PennApps. That said, many universities have minor policies that you’ll have to work around. 
+Opening your hackathon to **HS Hackers** can change the game. This is an unparalleled opportunity to attract the top high schoolers to your university for an amazing experience. The High School Hacker community is thriving and they’ve even taken the win at top hackathons like MHacks and PennApps. That said, many universities have minor policies that you’ll have to work around. 
 
-My general advice is to ask for forgiveness not permission. With minors, that’s not always the best strategy. Having anyone at your event under 18 carries additional liability. Given the nature of the weekend-long event, at the least, you should make sure you have parental consent. Liability waivers are a great way of doing this so that you hit two birds with one stone. 
-
-Some universities have strict policies against hosting minors at all. A loophole that some hackathons have used to get around this is if they attend or take classes at another university.
+My general advice is to ask for forgiveness not permission. [With minors, that’s not always the best strategy.](minors.md) 
 
 Everything has it’s tradeoffs but early on you want to think about the audience you’re trying to reach and what sort of experience you want them to have. The rest of your decisions going forward will be guided by your hackathon’s unique style and philosophy.
 
@@ -87,4 +86,4 @@ From your emails, facebook posts, and tweets to the way you run admissions, your
 
 Hackathons can change the world.
 
-How will yours?
+**How will yours?**
