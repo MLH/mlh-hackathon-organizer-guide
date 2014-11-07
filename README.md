@@ -7,8 +7,6 @@ Follow the playbook and it will walk you through every step of throwing a great 
 **Disclaimer:**   
 The Book of Hackathon is never finished. Try new things. 
 
-As you discover strategies that work better, give back to the community by sending us a pull request. 
-
 ## Chapter 0: Getting Started
 0. **General Checklist**  
 1. **Vision:** _Who/What/When/Where/Why are you throwing a hackathon?_  
@@ -20,4 +18,6 @@ As you discover strategies that work better, give back to the community by sendi
 ## Chapter 2: Outreach
 
 ## Chapter 3: Running a Hackathon
+
+_As you discover strategies that work better, give back to the community by sending us a pull request._
 
