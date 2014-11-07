@@ -35,27 +35,27 @@ Is your hackathon going to be known as the place to build your sickest hardware 
 
 ## When?
 
+**Figuring out potential dates early on is super important.** It’s tough to raise funding or book a venue (the two most time-sensitive aspects of organizing a hackathon) until you have a date. You’ll often have to be flexible on date to get the best venues. Sponsors and attendees tend to be more flexible with the dates of your event than venue managers are.
+
 There are a few different philosophies with regards to when you should throw a hackathon. 
 
-In general, the earlier the better. 
+_In general, the earlier the better._ 
 
 That said, now that there are multiple hackathons going on every weekend, you should consult the Hackathon Season schedule to find out ideal dates so that you do not overlap with our events in your region: [http://mlh.io/events](http://mlh.io/events)
 
-Hackathons hosted early in the semester avoid exams.
+Hackathons hosted early in the semester **avoid exams.**
 
-Hosting your hackathon later in the semester gives you time to learn from previous hackathons. Also, momentum builds throughout Hackathon Season, so it may become more advantageous 
+Hosting your hackathon later in the semester gives you time to learn from previous hackathons. Also, momentum builds throughout Hackathon Season, so it may become more advantageous to do your hackathon later. 
 
-Definitely take your team to another hackathon as yours approaches. Offer to volunteer. Take notes. It’s significantly easier to identify where things may go wrong before your event rather than on-the-fly. If you want your team to feel more comfortable under pressure, throwing a hackathon later in the semester of academic year definitely makes sense.
+Definitely take your team to another hackathon as yours approaches. Offer to volunteer. Take notes. It’s significantly easier to identify where things may go wrong before your event rather than on-the-fly. _If you want your team to feel more comfortable under pressure, throwing a hackathon later in the semester of academic year definitely makes sense._
 
-Winter presents a whole host of tradeoffs, especially if you have buses coming in from other schools. Expect delays -- buses and flights will inevitably be affected by the weather. If you go to a school in the South, throwing a hackathon in Winter could give you a huge advantage. Students want to travel away from the cold to sunny, warm places. 
+**Winter** presents a whole host of tradeoffs, especially if you have buses coming in from other schools. Expect delays -- buses and flights will inevitably be affected by the weather. If you go to a school in the South, throwing a hackathon in Winter could give you a huge advantage. Students want to travel away from the cold to sunny, warm places. 
 
-Figuring out potential dates early on is super important. It’s tough to raise funding or book a venue (the two most time-sensitive aspects of organizing a hackathon) until you have a date. You’ll often have to be flexible on date to get the best venues. Sponsors and attendees tend to be more flexible with the dates of your event than venue managers are.
-
-Competing with other hackathons in your region puts a drain on potential sponsors, mentors, and attendees. That said, demand for hackathons is through the roof right now so it’s not the end of the world if you’re on the same weekend as another hackathon -- in fact, it’s more and more likely inevitable.
+**Competing with other hackathons** in your region puts a drain on potential sponsors, mentors, and attendees. That said, demand for hackathons is through the roof right now so it’s not the end of the world if you’re on the same weekend as another hackathon -- in fact, it’s more and more likely inevitable.
 
 If you’re thinking about throwing a 500 person hackathon next year, start with a 100 person event this semester. Throwing your second event will be infinitely easier. It’s not a zero sum game. Throwing a hackathon this semester will just get people more excited about the bigger event next semester.
 
-Don’t wait. Throw your first hackathon now. 
+**Don’t wait. Throw your first hackathon now.** 
 
 ## Where?
 
