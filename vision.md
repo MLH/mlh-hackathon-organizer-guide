@@ -31,7 +31,7 @@ Now that hackathons are taking the world by storm, hackers have many different o
 
 Is your hackathon going to be known as the place to build your sickest hardware hacks or is it going to be a mobile app paradise? Maybe you’ll even do a throwback and focus on web/desktop apps. 
 
-Hackathons are more than just one-off events. They build a community. What does that community care about? 
+Hackathons are more than just one-off events. They build a community that lives on far beyond that weekend. What does that community care about? 
 
 People are going to be spending hours upon hours with one another at your hackathon. Create an environment that empowers people to do the impossible, inspires creativity, and most importantly, makes people feel comfortable. It doesn't happen by itself.
 
@@ -77,7 +77,9 @@ Why are you throwing this hackathon anyways? **What’s your vision?**
 
 When things aren’t working out (a sponsor falls through, director leaves the team to focus on school, etc.) you need to know why you are doing this to pull your team through. There are so many points in time where any hackathon could just fall apart and not happen at all. We see it all the time. Fortunately, we’ve seen teams with a strong vision succeed against all odds over and over again.
 
-Focusing on metrics like signups and money raised is important, but it’s not enough. Throwing a great hackathon is a lot of work and you need to have some core motivation to draw on to do the impossible. **Your vision plays out in everything you do.** 
+Focusing on metrics like signups and money raised is important, but it’s not enough. Throwing a great hackathon is a lot of work and you need to have some core motivation to draw on to do the impossible.  
+
+**Your vision plays out in everything you do.** 
 
 Here are a few examples: 
 
