@@ -2,7 +2,7 @@ Early decisions will end up defining your hackathon. Once you get started, youâ€
 
 We think itâ€™s super important to spend a day with your team thinking about these questions so that everyone is on the same page from the start. 
 
-Aside: Always be flexible and willing to change.
+_Aside: Always be flexible and willing to change._
 
 ## Who?
 
@@ -87,4 +87,4 @@ From your emails, facebook posts, and tweets to the way you run admissions, your
 
 Hackathons can change the world.
 
-How will yours?
+**How will yours?**
