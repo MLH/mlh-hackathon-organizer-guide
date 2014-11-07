@@ -35,7 +35,7 @@ Is your hackathon going to be known as the place to build your sickest hardware 
 
 ## When?
 
-**Figuring out potential dates early on is super important.** It’s tough to raise funding or book a venue (the two most time-sensitive aspects of organizing a hackathon) until you have a date. You’ll often have to be flexible on date to get the best venues. Sponsors and attendees tend to be more flexible with the dates of your event than venue managers are.
+**Figuring out potential dates early on is super important.** It’s tough to raise funding or book a venue _(the two most time-sensitive aspects of organizing a hackathon)_ until you have a date. You’ll often have to be flexible on date to get the best venues. Sponsors and attendees tend to be more flexible with the dates of your event than venue managers are.
 
 There are a few different philosophies with regards to when you should throw a hackathon. 
 
@@ -47,7 +47,7 @@ Hackathons hosted early in the semester **avoid exams.**
 
 Hosting your hackathon later in the semester gives you time to learn from previous hackathons. Also, momentum builds throughout Hackathon Season, so it may become more advantageous to do your hackathon later. 
 
-Definitely take your team to another hackathon as yours approaches. Offer to volunteer. Take notes. It’s significantly easier to identify where things may go wrong before your event rather than on-the-fly. _If you want your team to feel more comfortable under pressure, throwing a hackathon later in the semester of academic year definitely makes sense._
+**Take your team to another hackathon** as yours approaches. Offer to volunteer. Take notes. It’s significantly easier to identify where things may go wrong before your event rather than on-the-fly. _If you want your team to feel more comfortable under pressure, throwing a hackathon later in the semester of academic year definitely makes sense._
 
 **Winter** presents a whole host of tradeoffs, especially if you have buses coming in from other schools. Expect delays -- buses and flights will inevitably be affected by the weather. If you go to a school in the South, throwing a hackathon in Winter could give you a huge advantage. Students want to travel away from the cold to sunny, warm places. 
 
@@ -61,19 +61,19 @@ If you’re thinking about throwing a 500 person hackathon next year, start with
 
 Do you want to throw your hackathon in conjunction with your school...outside of your school to have more flexibility? 
 
-Location and venue are important early decisions to make.
+_Location and venue are important early decisions to make._
 
-Schools generally have venues that are free or cheap to use. Leverage these, but understand that many times it comes at a cost -- universities tend to want some control over the event. In the past, this has caused issues for many hackathons so make sure you build a strong relationship and maintain really effective communication with the faculty members making decisions here. You’d be surprised how flexible universities can be when you build relationships with the right people.
+**Schools generally have venues that are free or cheap to use.** Leverage these, but understand that many times it comes at a cost -- **universities tend to want some control over the event.** In the past, this has caused issues for many hackathons so make sure you build a strong relationship and maintain really effective communication with the faculty members making decisions here. You’d be surprised how flexible universities can be when you build relationships with the right people.
 
 Another thing to consider: some venues have specific caterers you have to use. Make sure you calculate this into the cost of the venue as this tends to cost more since you can’t shop around for as many competing quotes.
 
 ## Why?
 
-Why are you throwing this hackathon anyways? What’s your vision?
+Why are you throwing this hackathon anyways? **What’s your vision?**
 
 When things aren’t working out (a sponsor falls through, director leaves the team to focus on school, etc.) you need to know why you are doing this to pull your team through. There are so many points in time where any hackathon could just fall apart and not happen at all. We see it all the time. Fortunately, we’ve seen teams with a strong vision succeed against all odds over and over again.
 
-Focusing on metrics like signups and money raised is important, but it’s not enough. Throwing a great hackathon is a lot of work and you need to have some core motivation to draw on to do the impossible. Your vision plays out in everything you do. 
+Focusing on metrics like signups and money raised is important, but it’s not enough. Throwing a great hackathon is a lot of work and you need to have some core motivation to draw on to do the impossible. **Your vision plays out in everything you do.** 
 
 Here are a few examples: 
 
