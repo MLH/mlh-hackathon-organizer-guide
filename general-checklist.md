@@ -17,13 +17,13 @@ _(anyone on your team should be able to answer these questions at any time)_
   
 
 ### 1. Hackers
-    1. **Outreach** 
+    1. Outreach 
         1. How many hackers do you expect to attend?  
         2. How many signups do you have? 
         3. Facebook Group & Page 
         4. Website 
 
-    2. **Event** 
+    2. Event 
         1. When does it start? 
         2. When does it end? 
         3. Who can come? 
@@ -43,7 +43,6 @@ _(anyone on your team should be able to answer these questions at any time)_
     2. Who are you catering from? 
     3. What food will be served? 
         1. What options do you have for people with dietary restrictions? (vegetarian, vegan, kosher, gluten-free, etc.) 
-
     4. When will food be served? 
     5. What drinks will you have? 
     6. Caffeine? 
@@ -78,15 +77,13 @@ _(anyone on your team should be able to answer these questions at any time)_
     3. Judging 
         1. How will you judge the hacks? 
         2. Who will judge the hacks? 
-
     4. Prizes 
         1. Where can I see the list of all prizes? 
         2. Who can give out a prize? 
             1. If sponsors will give out the prizes themselves, when? 
-
         3. How do attendees claim my prizes/when will they receive them? 
 
-### 9. **Team** 
+### 9. Team 
     1. Who’s directing buses? 
     2. Who’s directing registration? 
     3. Who’s directing opening/closing? 
