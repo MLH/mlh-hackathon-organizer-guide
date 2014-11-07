@@ -8,7 +8,7 @@ As soon as you find a suitable venue, book the date.
 
 Initially, do this without signing anything that binds you. After you book a venue, never stop looking for an even better one. If you find a better venue, you can almost always cancel with the initial choice without a problem. 
 
-This is the most time-sensitive part of organizing a hackathon. It’s also the easiest place to fail. **_Make a list of potential venues right now._** 
+**_Make a list of potential venues right now._** This is the most time-sensitive part of organizing a hackathon. It’s also the easiest place to fail. 
 
 You’ll want to crowdsource this, so ask your friends where the sickest hackathon spaces will be. Maybe even post a facebook status.
 
