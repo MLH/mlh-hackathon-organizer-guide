@@ -1,3 +1,8 @@
+---
+layout: page
+title: Finding a Hackathon Venue
+permalink: /finding-a-hackathon-venue/
+---
 ## Having a bad venue is the easiest way for your hackathon to fail.
 
 Hackathons generally stretch for 24-48 hours. That’s a long time. **If your venue sucks, people will leave.**

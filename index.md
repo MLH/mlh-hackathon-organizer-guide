@@ -1,3 +1,6 @@
+---
+layout: default
+---
 As we dive into the Hackathon Playbook, we’ll be honing in on many particular aspects of what makes a great hackathon great. We really don’t want you to lost focus on what matters most. People are everything. 
 
   

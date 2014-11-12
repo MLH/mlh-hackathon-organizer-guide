@@ -1,3 +1,8 @@
+---
+layout: page
+title: Building Your Hackathon Organizing Team
+permalink: /building-your-hackathon-organizing-team/
+---
 # Building a team
 
   
