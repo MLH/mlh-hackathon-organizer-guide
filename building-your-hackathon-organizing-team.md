@@ -45,7 +45,7 @@ Ask the heads of other organizations who their best people are and go after them
 
   
 
-    Good Hacker != Good Hackathon Organizer 
+> Good Hacker != Good Hackathon Organizer 
 
   
 
@@ -136,7 +136,7 @@ That doesn’t necessarily mean that they will actually take on a major responsi
 
 **As soon as you bring someone on, give them a title.** 
 
-    Example: “MHacks Organizer” or “MHacks Advisor” 
+> Example: “MHacks Organizer” or “MHacks Advisor” 
 
   
 
