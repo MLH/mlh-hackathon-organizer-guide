@@ -723,7 +723,7 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 
 **T-shirts**
 
-* $8 to $10 per head
+* $8 to $10 per head for American Apparel, or $4 to $6 for a cheaper brand
 
 **Food**
 
