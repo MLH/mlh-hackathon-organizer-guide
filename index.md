@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # INTRODUCTION
 
 *"I learned more in one weekend than I did in the last month of lectures!"*
