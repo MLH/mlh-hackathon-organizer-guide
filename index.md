@@ -369,7 +369,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Don’t be afraid to ask their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get?" 
 
-* Before you hang up, ask for all follow up call.
+* Before you hang up, schedule a follow up call.
 
 **4. Make a Proposal**
 
