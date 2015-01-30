@@ -28,7 +28,7 @@ Major League Hacking's [mission](https://mlh.io/about) is to spread the hacker e
 
 Few of your planning decisions will truly make or break your hackathon, but your choice of venue is one of them. It often takes more time than expected to secure the right location, so the earlier you begin scouting, the better! Having a confirmed venue will also prove to potential sponsors and attendees that you’re serious about hosting a great event.
 
-Keep in mind your venue should be **free**! Most of the time, you *will *be able to find a university or company sponsored space. 
+Keep in mind your venue should be **free**! Most of the time, you *will* be able to find a university or company sponsored space. 
 
 **Research venues on your campus**
 
@@ -98,6 +98,8 @@ Before you book an event space, make sure it has everything you need help you ho
 
 Most venues come with their own specific list of rules and required fees. A few questions to ask:
 
+* Will any prices you are being quoted for be guaranteed not to exceed a certain maximum estimate?
+
 * Does the building require you to pay for catering, security, a fire marshall, janitors, etc.?
 
 * Does the venue have a loading dock for deliveries?
@@ -130,13 +132,15 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 **BUILD A KILLER LEADERSHIP TEAM**
 
-Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, think like a startup CEO: choose enthusiastic and smart people with complementary skills.* *Here’s what a hackathon leadership team looks like:
+Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, think like a startup CEO: choose enthusiastic and smart people with complementary skills. Here’s what a hackathon leadership team looks like:
 
 * Head of logistics — books venue, develops and runs schedule, orders services and supplies
 
 * Head of finance — secures sponsorships, makes sure vendors get paid, and manages the cash flow and budget.
 
 * Head of marketing — promotes event. In charge of marketing strategy, website, social media, etc.
+
+* Head of hacker experience - this could be the responsibility of another member of the team, but it is extremely important to have everyone in your organization thinking about how to create the best possible hacker experience at your event.
 
 **MLH TIPS**
 
@@ -206,7 +210,7 @@ At MLH, our goal is to give you the tools to throw the best hackathon humanly po
 
 (You can see the full list [here](https://mlh.io/become-an-official-event). )
 
-The sooner your hackathon gets sanctioned, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be* at least* 30 days before the event and you should have a confirmed time and location. 
+The sooner your hackathon gets sanctioned, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be *at least* 30 days before the event and you should have a confirmed time and location. 
 
 **RESOURCES**
 
@@ -231,7 +235,7 @@ When you’re finished reading this section of the guide, we strongly recommend 
 
 Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template](https://docs.google.com/spreadsheets/d/18xo4w05PeC-xOVSGJ9c6sigu2O7xHpbgWd7p8TjYHj0/edit#gid=41626453) based on estimated costs and your expected number of attendee.
 
-Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will *always *need this extra money.
+Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will *always* need this extra money.
 
 Resources:
 
@@ -305,7 +309,7 @@ Your prospectus should include:
 
     * Let companies know custom packages are available.
 
-Be sure to include the following info on *all *materials — we can’t tell you how many times this gets overlooked!
+Be sure to include the following info on *all* materials — we can’t tell you how many times this gets overlooked!
 
 * Event name
 
@@ -499,7 +503,7 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 
 * [ThisIsWhyImBroke.com](http://thisiswhyimbroke.com/)
 
-* [ThinkGeek.com](http://thinkgeek.com/) *Sign up below to be the ***_first_*** to hear about new excerpts and the release of the full Manual.*
+* [ThinkGeek.com](http://thinkgeek.com/)
 
 **MLH TIPS**
 
