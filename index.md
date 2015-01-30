@@ -963,7 +963,7 @@ Hacking Deadline
 
 * Get teams to to submit what they’ve been working on to either HackerLeague or Challenge Post. It’s important that every team member is registered on the platform and added to the hackathon project.
 
-* MLH Tip: Make deadline an hour before real deadline 
+* MLH Tip: Announce a deadline that is an hour before your real deadline 
 
 * Have an organizer ask each team if they submitted their idea. 
 
