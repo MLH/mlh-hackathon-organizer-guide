@@ -305,7 +305,7 @@ Your prospectus should include:
 
 * An overview of available sponsorships — what companies get and how much it will cost them.
 
-    * We recommend including three sponsorship tiers: reasonable, moderate, and. expensive. (Any one tier should not comprise more than 25 percent of your budget.)
+    * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. (Any one tier should not comprise more than 25 percent of your budget.)
 
     * Let companies know custom packages are available.
 
