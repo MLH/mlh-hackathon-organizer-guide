@@ -30,13 +30,13 @@ Few of your planning decisions will truly make or break your hackathon, but your
 
 Keep in mind your venue should be **free**! Most of the time, you *will *be able to find a university or company sponsored space. 
 
-**Research venues on your campus **
+**Research venues on your campus**
 
 On-campus venues are best because they’re usually free. Research past events at your school to get a sense of each available space’s capabilities. Do they meet your hackathon’s requirements? Make a list of your favorites.
 
 Note: Each venue usually has one university bureaucrat in charge of it; try to find out who that is. One shortcut is to contact students who previously held events at that space and ask them how they recommend you proceed.
 
-**Enlist a campus advocate to help you navigate the bureaucracy **
+**Enlist a campus advocate to help you navigate the bureaucracy**
 
 A university advocate — such as a professor or dean — can make your venue search immeasurably easier by helping you navigate your school’s unique booking process.
 
@@ -84,11 +84,11 @@ Before you book an event space, make sure it has everything you need help you ho
 
 * **Power** — Is there enough amperage for hundreds of computers, phones, and hardware devices? (Assume at least 2.5 devices per participants.)
 
-* **AV equipment and staff **— What AV equipment is available? Does the space offer staff to help you set it up?
+* **AV equipment and staff**— What AV equipment is available? Does the space offer staff to help you set it up?
 
 * **Tables and chairs** — How many seats and tables do you need? Does the venue provide them, or do you need to rent from an outside vendor?
 
-* **Food **— Does the venue offer catering? If it does, are you required to use it? How much will this cost?
+* **Food**— Does the venue offer catering? If it does, are you required to use it? How much will this cost?
 
 * **Accessibility** — Can hackers in need of physical accommodation conveniently access the building?
 
@@ -106,7 +106,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Are you permitted to host an overnight event? It’s important to let the potential venue know that people will be working in the space overnight. The key word here is "working" -- in many instances, it is against fire code to allow attendees to sleep. (You can always set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight.)
 
-**MLH TIPS **
+**MLH TIPS**
 
 * Book early!
 
@@ -239,7 +239,7 @@ Resources:
 
 * Bitcamp’s [Open Source Budget](https://medium.com/bitcampfire-stories/bitcamps-open-source-budget-14a86974b5b2)
 
-**Understand your sponsors:** **who they are, what they want, and how they operate**
+**Understand your sponsors: who they are, what they want, and how they operate**
 
 You’ll be targeting five types of sponsors:
 
@@ -289,7 +289,7 @@ Sponsors’ top practical concerns:
 
 * Many company budgets are quarterly. Q1 and Q4 are often the best times to get money because budgets are more flexible.
 
-**Put together a sponsorship prospectus **
+**Put together a sponsorship prospectus**
 
 Before approaching sponsors, create a short info packet with three tiers of sponsorship. [This doesn’t need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
@@ -323,7 +323,7 @@ Be sure to include the following info on *all *materials — we can’t tell you
 
 Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
 
-**1.** **Set targets and do your research**
+**1. Set targets and do your research**
 
 * Compile a list of potential sponsors:
 
@@ -377,7 +377,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Less is more! Choose a uniform color scheme and keep text to a minimum on each slide.
 
-**5.** **Follow Up and Track Your Progress**
+**5. Follow Up and Track Your Progress**
 
 * Email a week or two later offering to answer questions.
 
@@ -385,7 +385,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * When a sponsor says yes, invoice them immediately.
 
-**Tracking your incoming and outgoing funds **
+**Tracking your incoming and outgoing funds**
 
 * Keep in mind that sponsorship money comes in on a rolling basis
 
@@ -585,7 +585,7 @@ More info needed. Do you have any advice or materials related to workshops?
 
 When promoting your hackathon, it’s useful to keep in mind that most events have a 50 to 30 percent drop-off in attendance. Given these stats, it’s your goal to over-market and overbook!
 
-**Tell your hackathon’s story **
+**Tell your hackathon’s story**
 
 What’s your hackathon’s "brand?" How is it unique? Why would *you* want to attend?
 
@@ -665,7 +665,7 @@ Charter buses are typically the most affordable option for getting hackers to an
 
 * Dishing out seats on a first come, first serve often works best
 
-**2. Create a travel itinerary**** **
+**2. Create a travel itinerary**
 
 * Exact locations of pick-up and drop-off points
 
@@ -711,7 +711,7 @@ Occasionally, you will need to issue travel reimbursements for some or all of yo
 
 **RESOURCES**
 
-* *Webinar: **[Hackathon Transportation 10*1](https://www.youtube.com/watch?v=wGKX_koCPIk)* *
+* Webinar: **[Hackathon Transportation 101](https://www.youtube.com/watch?v=wGKX_koCPIk)**
 
 **ORDER SUPPLIES AND BOOK VENDORS**
 
@@ -721,7 +721,7 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 
 * $8 to $10 per head
 
-**Food **
+**Food**
 
 * 24-hour event: 4 to 5 meals
 
@@ -877,7 +877,7 @@ Any others?
 
 Make your volunteers responsible for specific tasks. They should be working on something relevant at any given time during their shifts.
 
-**Set-up** **your event**
+**Set-up your event**
 
 * Set up tables and chairs
 
@@ -909,7 +909,7 @@ Make your volunteers responsible for specific tasks. They should be working on s
 
 **Have organizers handle the following tasks during the corresponding times:**
 
-**Serve breakfast? **
+**Serve breakfast?**
 
 **Welcome and brief sponsors**
 
