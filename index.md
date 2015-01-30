@@ -957,7 +957,7 @@ During Hacking
 
 * One volunteer should be in charge of each special area or activity at the hackathon: for example, the hardware room, photo booth, etc.
 
-* Checking in on hackers: feeding them snacks, making sure their power and WIFI i working, etc.
+* Checking in on hackers: feeding them snacks, making sure their power and WIFI are working, etc.
 
 Hacking Deadline
 
