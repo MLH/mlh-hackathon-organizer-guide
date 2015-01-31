@@ -7,6 +7,8 @@ layout: default
 
 Are you ready to host your school’s very own hackathon?
 
+[Submit a Pull Request to Help Us Evolve the Guide](https://github.com/MLH/hackathon-organizer-guide)
+
 [Each semester, more than 50](https://mlh.io/about)[,000](https://mlh.io/about)[ developers, designers, and makers compete for their school's glory at the](https://mlh.io/about)[ 150+](https://mlh.io/about)[ official MLH hackathons around the world.](https://mlh.io/about) Whether you’re hosting your first or third MLH hackathon, our organizer guide will give you the tools to blow away your student hacker community.
 
 Major League Hacking's [mission](https://mlh.io/about) is to spread the hacker ethos to every student on the planet; to cultivate communities where aspiring hackers have the opportunity to learn, build, and share their creations with the world.
