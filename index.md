@@ -102,7 +102,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Will any prices you are being quoted for be guaranteed not to exceed a certain maximum estimate?
 
-* Does the building require you to pay for catering, security, a fire marshall, janitors, etc.?
+* Does the building require you to pay for catering, security, a fire marshal, janitors, etc.?
 
 * Does the venue have a loading dock for deliveries?
 
@@ -116,7 +116,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Watch out for hidden fees and venue restrictions and requirements.
 
-* Your venue should be free! Do everything in your power to ensure you don’t have to deal with the cost and logistical headache of paying for a space and everything that comes ith it.
+* Your venue should be free! Do everything in your power to ensure you don’t have to deal with the cost and logistical headache of paying for a space and everything that comes with it.
 
 * Negotiate to reserve your venue for the day before so you have plenty of time to set up. 
 
