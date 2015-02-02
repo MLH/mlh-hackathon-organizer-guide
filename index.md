@@ -96,6 +96,14 @@ Before you book an event space, make sure it has everything you need help you ho
 
 * **Security** — Will there be a secure space where sponsors, organizers, and attendees can keep their expensive equipment?
 
+If your venue does not have some of these things, but you're on-campus, you may be able to work with other parts of your administration to get them. For example:
+
+* Talk to your school's IT department about fortifying WiFi during your event or renting access points and switches. This can sometimes be done for free or with a security deposit. If you have a supportive administration, they may also come in and help you set it up.
+
+* If you don't have access to the venue's fuse box, talk to the school's electricians to see if you can get special access or have one of them on site/on call.
+
+* If you don't have enough extension cords or power strips, other organizations on campus may have them and be willing to lend them out. e.g. the organization that runs your school's career fair.
+
 **Ask about venue requirements and restrictions**
 
 Most venues come with their own specific list of rules and required fees. A few questions to ask:
@@ -812,9 +820,23 @@ Ideally, you’ve been updating your site on a rolling basis as more information
 
 **FINALIZE YOUR EMERGENCY PLAN**
 
-*More info needed.*
+You should be hoping for the best but planning for the worst. Spend some time coming up with emergency/nightmare scenarios and build up a document with [contingency plans](http://en.wikipedia.org/wiki/Contingency_plan). This document should also include emergency contact numbers and other vital information. Some examples of these scenarios include:
 
+* A fire starts in your venue.
+
+* Too much power gets used and a fuse in the building gets tripped.
+
+* A hacker has a medical emergency.
+
+* Someone is caught trying to steal something expensive like networking equipment.
+
+The list goes on, and you should have instructions on how each one should be handled. Make sure all volunteers have access to the document, and having a physical copy of it on-site can be helpful.
+
+In terms of emergency contacts, you should include campus security, the local non-emergency police number (not 911) for situations that are not time-critical, and all of your main organizers, along with the times they will be available on-site.
+
+You should also notify local emergency services that you will be hosting a large event with a lot of students not from your school. They should have some protocol for large events and will ideally have a person on-site or on call through the duration of the event.
  
+It is impossible to prepare for every possible scenario, so if something unexpected happens, remember to stay calm, try to isolate the issue, and resolve it with a level head. **Make sure at least one member of your organizing team is awake and alert at all times.**
 
 ## 1 WEEK BEFORE
 
