@@ -4,4 +4,6 @@ The MLH Hackathon Organizer's Guide is a community initiative to make a student 
 
 Follow the playbook and it will walk you through every step of throwing a great hackathon.
 
+You can find the guide [here](http://guide.mlh.io/).
+
 **Disclaimer:** _The Book of Hackathon is never finished. Try everything, contribute your learnings back to the guide with a pull request._
