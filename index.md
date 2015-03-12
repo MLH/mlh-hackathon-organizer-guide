@@ -21,7 +21,10 @@ Major League Hacking's [mission](https://mlh.io/about) is to spread the hacker e
 
 ---
 
+<h1>Table of Contents</h1>
 
+* Table of Contents
+{:toc}
 
 ---
 

@@ -148,7 +148,12 @@ pre {
     }
 }
 
-
+#markdown-toc {
+    -moz-column-width: 300px;
+    -webkit-column-width: 300px;
+    column-width: 300px;
+    list-style-position: inside;
+}
 
 /**
  * Wrapper

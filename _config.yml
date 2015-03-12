@@ -13,3 +13,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  toc_levels: "1,2,3"
