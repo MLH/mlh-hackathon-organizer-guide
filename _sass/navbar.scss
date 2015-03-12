@@ -1,0 +1,61 @@
+header {
+    background-color: $grey-color-vlight;
+    border: 1px solid $grey-color-light;
+    height: 50px;
+    line-height: 50px;
+    font-size: 14px;
+
+    .title, .site-title {
+      font-weight: bold;
+      line-height: 50px;
+      padding: 0 10px;
+      float: left;
+    }
+
+    .logo-banner {
+      background: url(/images/header-banner-small.png);
+      height: 92px;
+      left: 50%;
+      margin-left: -90px;
+      padding: 0;
+      position: absolute;
+      text-align: center;
+      top: 0;
+      width: 181px;
+      z-index: 1000;
+
+      img {
+        padding-top: 5px;
+        width: 135px;
+      }
+    }
+
+    .powered-by {
+      float: right;
+
+      li {
+        list-style: none;
+        float: left;
+        padding: 0 10px;
+      }
+    }
+
+    @include media-query($on-palm) {
+      .logo-banner {
+          background: none;
+          position: relative;
+          margin: 0;
+          height: auto;
+          float: left;
+          left: 0;
+          width: auto;
+          img {
+            height: 50px;
+            width: auto;
+            line-height: 50;
+            padding: 0;
+            float: left;
+          }
+        }
+    }
+}
