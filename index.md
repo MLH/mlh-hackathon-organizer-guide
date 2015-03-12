@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# INTRODUCTION
+# Introduction
 
 > "I learned more in one weekend than I did in the last month of lectures!"
 
@@ -13,32 +13,38 @@ Are you ready to host your school’s very own hackathon?
 
 Major League Hacking's [mission](https://mlh.io/about) is to spread the hacker ethos to every student on the planet; to cultivate communities where aspiring hackers have the opportunity to learn, build, and share their creations with the world.
 
-**RESOURCES**
+#### Resources
 
 * Article: [How to Throw an Epic Hackathon](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
 * MLH: [Official Slack channel](https://mlh.slack.com/?redir=%2Fhome)
 
-* * *
+---
 
+<h1>Table of Contents</h1>
 
-# ORGANIZER TIMELINE
+* Table of Contents
+{:toc}
 
-## 4 TO 9 MONTHS BEFORE
+---
 
-### LOCK DOWN A VENUE
+# Organizer Timeline
+
+## 4 To 9 Months Before
+
+### Lock Down A Venue
 
 Few of your planning decisions will truly make or break your hackathon, but your choice of venue is one of them. It often takes more time than expected to secure the right location, so the earlier you begin scouting, the better! Having a confirmed venue will also prove to potential sponsors and attendees that you’re serious about hosting a great event.
 
 Keep in mind your venue should be **free**! Most of the time, you *will* be able to find a university or company sponsored space. 
 
-**Research venues on your campus**
+#### Research Venues On Your Campus
 
 On-campus venues are best because they’re usually free. Research past events at your school to get a sense of each available space’s capabilities. Do they meet your hackathon’s requirements? Make a list of your favorites.
 
 Note: Each venue usually has one university bureaucrat in charge of it; try to find out who that is. One shortcut is to contact students who previously held events at that space and ask them how they recommend you proceed.
 
-**Enlist a campus advocate to help you navigate the bureaucracy**
+#### Enlist A Campus Advocate To Help You Navigate The Bureaucracy
 
 A university advocate — such as a professor or dean — can make your venue search immeasurably easier by helping you navigate your school’s unique booking process.
 
@@ -74,7 +80,7 @@ Big Fat Warning: Whenever possible, don’t fall into the trap of paying to rent
 
 If you really can’t find a free venue, look into renting a coworking space with most of this infrastructure in place.
 
-**Make sure your venue has everything you need**
+#### Make Sure Your Venue Has Everything You Need
 
 Before you book an event space, make sure it has everything you need help you host a successful hackathon. 
 
@@ -96,7 +102,7 @@ Before you book an event space, make sure it has everything you need help you ho
 
 * **Security** — Will there be a secure space where sponsors, organizers, and attendees can keep their expensive equipment?
 
-**Ask about venue requirements and restrictions**
+#### Ask About Venue Requirements And Restrictions
 
 Most venues come with their own specific list of rules and required fees. A few questions to ask:
 
@@ -110,7 +116,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Are you permitted to host an overnight event? It’s important to let the potential venue know that people will be working in the space overnight. The key word here is "working" -- in many instances, it is against fire code to allow attendees to sleep. (You can always set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight.)
 
-**MLH TIPS**
+#### MLH Tips
 
 * Book early!
 
@@ -122,7 +128,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Make sure your space is aware your will be hosting an overnight event.
 
-**RESOURCES**
+#### Resources
 
 * MLH: [Venue checklist](https://docs.google.com/document/d/1NRs6pM0mEetgIFJVvPr5pN5O3diOuTKuhbGZkWMb87c/edit) 
 
@@ -130,9 +136,9 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Article: [Wi-Fi That Works](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93) 
 
-## 4 MONTHS BEFORE
+## 4 Months Before
 
-**BUILD A KILLER LEADERSHIP TEAM**
+### Build A Killer Leadership Team
 
 Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, think like a startup CEO: choose enthusiastic and smart people with complementary skills. Here’s what a hackathon leadership team looks like:
 
@@ -144,19 +150,19 @@ Every first-rate hackathon has an exceptional leadership team behind it. When se
 
 * Head of hacker experience - this could be the responsibility of another member of the team, but it is extremely important to have everyone in your organization thinking about how to create the best possible hacker experience at your event.
 
-**MLH TIPS**
+#### MLH Tips
 
 * To avoid confusion and increase efficiency, make *one person* responsible for each category of deliverables.
 
 * To accurately track progress, encourage transparency among team leaders. Consider creating a status spreadsheet that each person can update on a daily or weekly basis.
 
-**RESOURCES**
+#### Resources
 
 * Video: [Team Recruitment and Development](https://www.youtube.com/watch?v=wSOxWVdJhHg)
 
 * MLH: [Building Your Organization Hackathon Team](http://guide.mlh.io/building-your-hackathon-organizing-team/)
 
-**SET UP A PLACEHOLDER WEBSITE**
+### Set Up A Placeholder Website
 
 Until an event has a website, it doesn’t exist to most people. Publishing a basic website the second you’ve committed to hosting a hackathon will help you drive interest to it, capture potential attendee email addresses, and answer questions from interested students:
 
@@ -178,13 +184,13 @@ The first iteration of your site should include:
 
     * A basic FAQ about your event to explain things to someone who has never seen or been to a hackathon before. A good FAQ example: [PennApps](http://2015s.pennapps.com/)
 
-**MLH TIPS**
+#### MLH Tips
 
 * You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
 
 * As early as possible, celebrate what differentiates your event [link to marketing section]
 
-**RESOURCES**
+#### Resources
 
 * Screenshots of previous placeholder sites (if available)
 
@@ -192,7 +198,7 @@ The first iteration of your site should include:
 
 * Links to recommended services such as LaunchRock or GitHub Pages?
 
-**GET MLH SANCTIONED**
+### Get MLH Sanctioned
 
 At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH sanctioned events receive the following benefits: 
 
@@ -214,7 +220,7 @@ At MLH, our goal is to give you the tools to throw the best hackathon humanly po
 
 The sooner your hackathon gets sanctioned, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be *at least* 30 days before the event and you should have a confirmed time and location. 
 
-**RESOURCES**
+#### Resources
 
 * MLH: [Become an Official Event](https://mlh.io/become-an-official-event) 
 
@@ -224,7 +230,7 @@ The sooner your hackathon gets sanctioned, the more time you’ll have to take a
 
 * MLH: [Hardware list](https://mlh.io/hardware-lab)
 
-**LAND SPONSORSHIPS**
+### Land Sponsorships
 
 It’s nearly impossible to host a serious hackathon without money. That said, landing quality sponsorship is manageable if you break the process into small steps and give yourself plenty of lead time. The more practice you get approaching and negotiating with potential backers, the better you’ll become at the art of fundraising.
 
@@ -234,7 +240,7 @@ When you’re finished reading this section of the guide, we strongly recommend 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Draft your budget**
+### Draft Your Budget
 
 Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template](https://docs.google.com/spreadsheets/d/18xo4w05PeC-xOVSGJ9c6sigu2O7xHpbgWd7p8TjYHj0/edit#gid=41626453) based on estimated costs and your expected number of attendee.
 
@@ -246,7 +252,7 @@ Resources:
 
 * Bitcamp’s [Open Source Budget](https://medium.com/bitcampfire-stories/bitcamps-open-source-budget-14a86974b5b2)
 
-**Understand your sponsors: who they are, what they want, and how they operate**
+### Understand Your Sponsors: Who They Are, What They Want, And How They operate
 
 You’ll be targeting five types of sponsors:
 
@@ -290,13 +296,13 @@ Sponsors’ top practical concerns:
 
     * How do the sponsors feel about your competency: is the event well-organized so far? Have you been professional in all communications?
 
-**MLH TIPS**
+#### MLH Tips
 
 * Keep mind the person you’re talking with is often not the person who makes the final sponsorship decisions. Make sure all materials you send are as clear as possible to ensure decision makers have enough information to say yes without taking time to contact you. 
 
 * Many company budgets are quarterly. Q1 and Q4 are often the best times to get money because budgets are more flexible.
 
-**Put together a sponsorship prospectus**
+### Put Together A Sponsorship Prospectus
 
 Before approaching sponsors, create a short info packet with three tiers of sponsorship. [This doesn’t need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
@@ -326,11 +332,11 @@ Be sure to include the following info on *all* materials — we can’t tell you
 
 * Contact email and phone 
 
-**The 5-Step MLH Sponsorship Process**
+### The 5-step MLH Sponsorship Process
 
 Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
 
-**1. Set targets and do your research**
+#### 1. Set Targets And Do Your Research
 
 * Compile a list of potential sponsors:
 
@@ -342,7 +348,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
     * Fundraising announcements
 
-**2. Get In Touch**
+#### 2. Get In Touch
 
 * Send a well-crafted, thoughtful email. 
 
@@ -360,7 +366,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Follow up: don’t worry if you don’t receive a response to your initial email; wait a week and ask again.
 
-**3. Have an Exploratory Phone Call**
+#### 3. Have An Exploratory Phone Call
 
 * Make sure the sponsor knows what a hackathon is —  use analogies like comparing it to a science fair
 
@@ -374,7 +380,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Before you hang up, schedule a follow up call.
 
-**4. Make a Proposal**
+#### 4. Make A Proposal
 
 * Do this right away. Sometimes it’s as easy as sending over a prospectus with the packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
 
@@ -384,7 +390,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Less is more! Choose a uniform color scheme and keep text to a minimum on each slide.
 
-**5. Follow Up and Track Your Progress**
+#### 5. Follow Up And Track Your Progress
 
 * Email a week or two later offering to answer questions.
 
@@ -392,7 +398,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * When a sponsor says yes, invoice them immediately.
 
-**Tracking your incoming and outgoing funds**
+#### Tracking Your Incoming And Outgoing Funds
 
 * Keep in mind that sponsorship money comes in on a rolling basis
 
@@ -402,21 +408,21 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-ybgtN2GjTQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-* **MLH TIPS**
+#### MLH Tips
 
-    * Appoint one person to act as the point of contact for all sponsors (most likely your head of finance).
+* Appoint one person to act as the point of contact for all sponsors (most likely your head of finance).
 
-    * Target local companies. [Typically sponsors who are located closer will be able to send more company reps, bring more stuff, and relate more to the hackers. ](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
+* Target local companies. [Typically sponsors who are located closer will be able to send more company reps, bring more stuff, and relate more to the hackers. ](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
-    * Be willing to negotiate offerings — to a point. It’s important to preserve the integrity of your hackathon.
+* Be willing to negotiate offerings — to a point. It’s important to preserve the integrity of your hackathon.
 
-    * If rejected, ask for something else! Many companies that can’t contribute money are happy to send a judge or an onsite mentor.
+* If rejected, ask for something else! Many companies that can’t contribute money are happy to send a judge or an onsite mentor.
 
-    * Under promise and over deliver so sponsors feel they got the most bang for their buck.
+* Under promise and over deliver so sponsors feel they got the most bang for their buck.
 
-    * Make sure you’ve got your taxes under control. We recommend speaking with an accountant.
+* Make sure you’ve got your taxes under control. We recommend speaking with an accountant.
 
-**RESOURCES**
+#### Resources
 
 * Webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w)
 
@@ -444,15 +450,15 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Examples of lead tracking Excel sheet?
 
-## 2 MONTHS BEFORE
+## 2 Months Before
 
-**LINE UP GREAT PRIZES**
+### Line Up Great Prizes
 
 Prizes are a great way to reward hackers for their hard work. When selecting them, it’s important to [seriously consider why you are giving a prize, what sort of behaviors that prize rewards, and how you can go about motivating those behaviors. No one wants to be seen as a stingy starfish, but prizes say a lot about who you are as a community, why you are there in the first place, and they influence the vibe of your event — big time.](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
 
-### Prize ideas
+### Prize Ideas
 
-#### **Gear – Cool items to use with future hacks**
+#### Gear – Cool Items To Use With Future Hacks
 
 * [Oculus Rift](https://www.oculusvr.com/order/)
 
@@ -472,7 +478,7 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 
 * Parts or Gift Cards for Inventables, Sparkfun, or Adafruit
 
-#### **Experiences – a memorable, one-time adventure with friends**
+#### Experiences – A Memorable, One-time Adventure With Friends
 
 * Movie Tickets
 
@@ -488,7 +494,7 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 
 * Company trip – visit and hang out with your favorite companies for a day
 
-#### **Novelty – things hackers love, but might not buy for themselves**
+#### Novelty – Things Hackers Love, But Might Not Buy For Themselves
 
 * Retro Video Games
 
@@ -508,17 +514,17 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 
 * [ThinkGeek.com](http://thinkgeek.com/)
 
-**MLH TIPS**
+#### MLH Tips
 
 * MLH doesn’t recommend cash prizes.
 
 * Order prizes early — many cool items will be back-ordered.
 
-**RESOURCES**
+#### Resources
 
 * Article: [Are Hackathon Prizes the Worst Thing Since Moldy Sliced Bread?](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014) 
 
-**BOOK MENTORS AND JUDGES**
+### Book Mentors And Judges
 
 You’ll need to recruit a variety of tech experts to mentor your attendees, speak at your event and judge your hackathon. Consider targeting:
 
@@ -538,7 +544,7 @@ Networking tips for recruiting speakers and judges:
 
 * Have department heads reach out for you when helpful
 
-**A note about judges**
+#### A Note About Judges
 
 We recommend selecting judges that have a strong technical aptitude. If you’re planning to do Science Fair Judging and Presentations, your judges for each should be separate. For expo judging, ensure you have a minimum of one judge per thirty participants.
 
@@ -550,13 +556,13 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 
     * Have department heads reach out for you 
 
-**MLH TIPS**
+#### MLH Tips
 
 * Start close to home. Often your best chances at hosting strong speakers will come from personal and school connections.
 
 * Consider recruiting a high-energy MC. [This person will be the face of the event to hackers and sponsors, so having someone who is excited about hacking with some public speaking experience helps hold the entire event together.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
-**RESOURCES**
+#### Resources
 
 * Article: [How to Judge a Hackathon: Finding the Chosen One](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 
@@ -564,7 +570,7 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 
 FAQ question: "How should I set up the judging process?"
 
-**SCHEDULE WORKSHOPS**
+### Schedule Workshops
 
 More info needed. Do you have any advice or materials related to workshops?
 
@@ -574,13 +580,13 @@ More info needed. Do you have any advice or materials related to workshops?
 
 * Recommended number depending on number of attendees
 
-**UPDATE YOUR WEBSITE**
+### Update Your Website
 
 * Add all new information, including prizes
 
 * Creating an attendee survey form
 
-**RESOURCES**
+#### Resources
 
 * Template: attendee survey form
 
@@ -588,11 +594,11 @@ More info needed. Do you have any advice or materials related to workshops?
 
  
 
-**PROMOTE YOUR EVENT**
+### Promote Your Event
 
 When promoting your hackathon, it’s useful to keep in mind that most events have a 50 to 30 percent drop-off in attendance. Given these stats, it’s your goal to over-market and overbook!
 
-**Tell your hackathon’s story**
+#### Tell Your Hackathon’s Story
 
 What’s your hackathon’s "brand?" How is it unique? Why would *you* want to attend?
 
@@ -606,7 +612,7 @@ It would be great to include a short case study or example "about us" page from 
 
  effective branding works.
 
-**Get the word out**
+#### Get The Word Out
 
 * Invite students from other schools to attend
 
@@ -638,9 +644,9 @@ It would be great to include a short case study or example "about us" page from 
 
     * Tell your school’s paper
 
-    * Enlist MLH’s PR resources to get potential pre-event coverage in local and tech media
+    * Enlist MLH’s PR#### RESOURCES to get potential pre-event coverage in local and tech media
 
-**RESOURCES**
+#### Resources
 
 * Video: [Hackathons as Branding](https://www.youtube.com/watch?v=cwJNYXlOuYo&index=20&list=PLPDgudJ_VDUdqhQldG7SqXGxaj-FiLGmP)
 
@@ -648,19 +654,19 @@ It would be great to include a short case study or example "about us" page from 
 
 * Article: [Hackathons are For Beginners](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000) 
 
-## 1 MONTH BEFORE
+## 1 Month Before
 
-**GET FINAL HEADCOUNT**
+### Get Final Headcount
 
 Work to confirm a solid headcount. Having this will help you when making food and swag orders. Generally, events see a 30-50% attrition rate, so make sure you consider this in your planning.
 
-**ORGANIZE TRANSPORTATION**
+### Organize Transportation
 
 If your venue is free, transportation and travel reimbursements are often the most expensive part of putting on a hackathon. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX_koCPIk) to ensure your transportation planning runs smoothly. While many hackers have come to expect some sort of funded transportation, it is not required in order to put on a successful hackathon.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wGKX_koCPIk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-**Charter buses**
+#### Charter Buses
 
 Charter buses are typically the most affordable option for getting hackers to and from your event. Keep in mind as you plan that most buses fit 56 attendees, and the average cost per weekend is $3,300 (based on 31 hackathons in Spring 2014). Your hackathon date matters as well: for example, bus prices are often higher in April because so many schools charter them during that month for class trips.
 
@@ -692,7 +698,7 @@ Charter buses are typically the most affordable option for getting hackers to an
 
 * Create a quote spreadsheet for each route and every company you requested info from. Include company name, price, contact info, number of buses available, etc.
 
-**Travel reimbursements**
+#### Travel Reimbursements
 
 Occasionally, you will need to issue travel reimbursements for some or all of your attendees. A few tips:
 
@@ -704,7 +710,7 @@ Occasionally, you will need to issue travel reimbursements for some or all of yo
 
 * Keep all receipts for tax purposes
 
-**MLH TIPS**
+#### MLH Tips
 
 * Local bus companies are usually much cheaper than national ones because national companies typically sublease from local companies. (So there’s a markup)
 
@@ -716,7 +722,7 @@ Occasionally, you will need to issue travel reimbursements for some or all of yo
 
 * Don’t be cheap. Watch the Transportation Webinar below to hear some stories about why it’s important to pay for quality buses
 
-**RESOURCES**
+#### Resources
 
 * Webinar: **[Hackathon Transportation 101](https://www.youtube.com/watch?v=wGKX_koCPIk)**
 
@@ -750,7 +756,7 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 
 * For opening ceremony and final demos, plan on having access to a room that can fit all of your attendees seated with a projector.
 
-**CREATE YOUR SCHEDULE**
+### Create Your Schedule
 
 Schedules can definitely change, but it’s good for participants (and organizers) to know what to expect. Please, send us your schedule and we can help ensure it’s realistic.
 
@@ -770,7 +776,7 @@ All schedules include:
 
 * Judging - If you have multiple judging phases, be sure to block out enough time for each of them with some buffer time in between
 
-**RESOURCES**
+#### Resources
 
 * Example: past schedules of successful events
 
@@ -782,13 +788,13 @@ All schedules include:
 
 * [Picking the Chosen One Article](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 
-**MLH TIPS**
+#### MLH Tips
 
 * Send your schedule to MLH to ensure it’s realistic
 
 * Encourage sponsors to show up earlier to set-up
 
-**UPDATE WEBSITE WITH FINAL INFO**
+### Update Website With Final Info
 
 Ideally, you’ve been updating your site on a rolling basis as more information and sponsorships are finalized. About a month before, you want to 
 
@@ -810,15 +816,15 @@ Ideally, you’ve been updating your site on a rolling basis as more information
 
 * Will they need charter bus or travel reimbursement (does this jibe with transportation timeline?)
 
-**FINALIZE YOUR EMERGENCY PLAN**
+### Finalize Your Emergency Plan
 
 *More info needed.*
 
  
 
-## 1 WEEK BEFORE
+## 1 Week Before
 
-**SEND REMINDERS**
+### Send Reminders
 
 A week before your hackathon is the perfect time to remind everyone involved about what needs to happen. Be sure
 
@@ -834,7 +840,7 @@ A week before your hackathon is the perfect time to remind everyone involved abo
 
 Info needed from people: name, email, school, under 18, gender, dietary restrictions, special needs, tshirt size, transp
 
-**DO A RUN-THROUGH**
+### Do A Run-through
 
 Just like a play or a wedding, it’s important to rehearse your schedule once with all team members. 
 
@@ -864,7 +870,7 @@ Any others?
 
 * Physically walk-through the run-of-show document in the event space.
 
-**MLH TIPS**
+#### MLH Tips
 
 * Keep in mind most organizers, especially team leaders, will be responsible for more than one thing
 
@@ -872,19 +878,19 @@ Any others?
 
 * Assign at least one organizer to make sure the event is going well and put out fires as needed
 
-**RESOURCES**
+#### Resources
 
 * [Example volunteer guide](https://www.dropbox.com/s/y1rf6p97pmmu5mx/PRINT-StudentHackRules.docx?dl=0)
 
 * *If you have minors attending your event you must consult with your venue, school administrators, and/or a lawyer to make sure all necessary paperwork is taken care of*
 
-**DAY OF EVENT**
+## Day Of Event
 
-**Brief volunteers**
+### Brief Volunteers
 
 Make your volunteers responsible for specific tasks. They should be working on something relevant at any given time during their shifts.
 
-**Set-up your event**
+### Set-up Your Event
 
 * Set up tables and chairs
 
@@ -914,7 +920,7 @@ Make your volunteers responsible for specific tasks. They should be working on s
 
 * "Meditation room"
 
-**Have organizers handle the following tasks during the corresponding times:**
+### Have Organizers Handle The Following Tasks During The Corresponding times:
 
 **Serve breakfast?**
 
@@ -972,7 +978,7 @@ Hacking Deadline
 
 * If you have science fair style judging, have hackers go eat lunch in a separate room while you reconfigure the hacking area for demos
 
-**Run social media**
+### Run Social Media
 
 On the day of the hackathon, social media will play a critical role in communicating hackathon news and schedule updates to attendees. Make sure to designate ONE channel of communication for all updates so every attendee knows where to find important info.
 
@@ -980,7 +986,7 @@ On the day of the hackathon, social media will play a critical role in communica
 
 * Updates to the FB invite if necessary 
 
-**Kick Off Your Hackathon**
+### Kick Off Your Hackathon
 
 * Checking in guests
 
@@ -998,13 +1004,13 @@ On the day of the hackathon, social media will play a critical role in communica
 
 * Restocking supplies and picking up garbage
 
-**MLH TIPS**
+#### MLH Tips
 
 * When setting up, [position the sponsor tables next to the hackers. Having the mentors literally next to the hackers makes it really easy for people to ask them for help and for the sponsors to feel as if they are part of the event](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014).
 
  
 
-**_AFTER THE EVENT_**
+## After The Event
 
  
 
@@ -1022,7 +1028,7 @@ Congratulations  — you pulled off a successful hackathon! To close out your ev
 
 * Schedule a retrospective with MLH.
 
-**RESOURCES**
+#### Resources
 
 * Template: [Post-event survey ](https://docs.google.com/a/majorleaguehacking.com/file/d/0B6RXFVhdoM-5aFRXOC1jTHM4TUE/edit)
 
