@@ -750,6 +750,8 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 
 * To determine how much food you need, multiply $7 per meal x the number of meals x per head of expected attendance. Add $5 to $10 per person for snacks and drinks depending on length of your hackathon.
 
+* Food is a great opportunity to showcase what makes your city special and celebrate any special themes you might have. Use it as an opportunity to share local cuisine that your participants are sure to remember.  
+
 * Develop a plan to Donate leftovers to homeless shelter
 
 **Tables and chairs**
