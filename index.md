@@ -168,8 +168,6 @@ Every first-rate hackathon has an exceptional leadership team behind it. When se
 
 * Video: [Team Recruitment and Development](https://www.youtube.com/watch?v=wSOxWVdJhHg)
 
-* MLH: [Building Your Organization Hackathon Team](http://guide.mlh.io/building-your-hackathon-organizing-team/)
-
 ### Set Up A Placeholder Website
 
 Until an event has a website, it doesn’t exist to most people. Publishing a basic website the second you’ve committed to hosting a hackathon will help you drive interest to it, capture potential attendee email addresses, and answer questions from interested students:
