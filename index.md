@@ -168,7 +168,7 @@ Every first-rate hackathon has an exceptional leadership team behind it. When se
 
 * Video: [Team Recruitment and Development](https://www.youtube.com/watch?v=wSOxWVdJhHg)
 
-* MLH: [Building Your Organization Hackathon Team](http://guide.mlh.io/building-your-hackathon-organizing-team/)
+* Article: [The First Step in Planning a Successful Hackathon](https://medium.com/hackathons-anonymous/the-first-step-in-planning-a-successful-hackathon-6cd4f8bd25a2)
 
 ### Set Up A Placeholder Website
 
