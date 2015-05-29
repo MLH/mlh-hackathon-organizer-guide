@@ -442,21 +442,9 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Article: [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
 
-* Template: [Budget spreadsheet](https://docs.google.com/spreadsheets/d/18xo4w05PeC-xOVSGJ9c6sigu2O7xHpbgWd7p8TjYHj0/edit#gid=41626453) (note: amounts need to be converted from £ to $) 
+* Template: [Budget spreadsheet](https://docs.google.com/spreadsheets/d/18xo4w05PeC-xOVSGJ9c6sigu2O7xHpbgWd7p8TjYHj0/edit#gid=41626453) 
 
-* Example: [Previous sponsorship decks ](https://drive.google.com/folderview?id=0B8-F8gy-xe8cZlMwWVFvWnFVWW8&usp=sharing)(note: these need to be moved to an MLH-owned location)
-
-* Template: sponsorship prospectus 
-
-* Template: sponsor invoice
-
-* Form: standard sponsorship contract
-
-* Examples of past budgets for various hackathon sizes?
-
-* Examples of successful introduction-based and cold emails to sponsors?
-
-* Examples of lead tracking Excel sheet?
+* Example: [Previous sponsorship decks ](https://github.com/MLH/hackathon-organizer-guide/tree/gh-pages/previous-sponsorship-decks)
 
 ## 2 Months Before
 
