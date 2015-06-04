@@ -36,7 +36,7 @@ Major League Hacking's [mission](https://mlh.io/about) is to spread the hacker e
 
 Few of your planning decisions will truly make or break your hackathon, but your choice of venue is one of them. It often takes more time than expected to secure the right location, so the earlier you begin scouting, the better! Having a confirmed venue will also prove to potential sponsors and attendees that you’re serious about hosting a great event.
 
-Keep in mind your venue should be **free**! Most of the time, you *will* be able to find a university or company sponsored space. 
+Keep in mind your venue should be _free_! Most of the time, you *will* be able to find a university or company sponsored space. 
 
 #### Research Venues On Your Campus
 
