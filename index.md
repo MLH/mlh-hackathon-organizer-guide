@@ -50,11 +50,13 @@ A university advocate — such as a professor or dean — can make your venue se
 
 In many cases, this person will be your organization’s advisor. If you need to recruit an ally, learn how to sell your event. [You should have a quick elevator pitch that everyone on your organizing committee can give ("No, we will not be breaking into your bank account. Actually a hackathon is…"). Find something your administration understands, and relate a hackathon to that.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
+We have created two guides for school administrators. These guides explain what a hackathon is, why it is beneficial for a school, and why it is beneficial for students. It also includes various resources that will be useful for university advocates to use to convince other faculty members. The guides are available [here](http://news.mlh.io/hackathon-guides-for-parents-and-administrators-09-10-2015).
+
 In a short email to potential advocates, you can include:
 
 * A brief definition of a hackathon. (We like to explain it as weekend long invention competition)
 
-* This guide
+* [The guide](http://news.mlh.io/hackathon-guides-for-parents-and-administrators-09-10-2015)
 
 * Video and/or photos of past events
 
@@ -641,6 +643,10 @@ It would be great to include a short case study or example "about us" page from 
     * Tell your school’s paper
 
     * Enlist MLH’s PR#### RESOURCES to get potential pre-event coverage in local and tech media
+
+* Reach out to parent groups (more useful for high school hackathons)
+
+    * Share our [Parent Hackathon Guide](https://mlh.io/parent-hackathon-guide) with parent organizations that are interested in hearing about events for their children.
 
 #### Resources
 
