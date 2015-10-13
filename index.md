@@ -146,7 +146,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Article: [Wi-Fi That Works](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93) 
 
-* [Example pitch deck for college administration](college-administration-pitch-decks/Hack Western College Administrator Pitch Deck.pdf) 
+* [Example pitch deck for college administration](https://drive.google.com/open?id=0B5M9RAAV23diTHpiaFphZUNNeDA) 
 
 ## 4 Months Before
 
