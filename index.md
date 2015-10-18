@@ -100,7 +100,7 @@ Before you book an event space, make sure it has everything you need help you ho
 
 * **Food**— Does the venue offer catering? If it does, are you required to use it? How much will this cost?
 
-* **Accessibility** — Can hackers in need of physical accommodation conveniently access the building? Can hackers who need to sleep during the hackathon find a safe place to do so (If there is a fire code regulation you should allocate resources to set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight).
+* **Accessibility** — Can hackers in need of physical accommodation conveniently access the building? Can hackers who need to sleep during the hackathon find a safe place to do so (If there is a fire code regulation you should allocate resources to set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight)?
 
 * **Security** — Will there be a secure space where sponsors, organizers, and attendees can keep their expensive equipment?
 
