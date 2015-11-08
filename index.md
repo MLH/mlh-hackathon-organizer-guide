@@ -821,6 +821,8 @@ Ideally, you’ve been updating your site on a rolling basis as more information
   * T-shirt size
 
   * Will they need charter bus or travel reimbursement (does this jibe with transportation timeline?)
+  
+  * Liability waiver
 
 ### Finalize Your Emergency Plan
 
