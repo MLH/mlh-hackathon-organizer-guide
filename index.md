@@ -674,8 +674,6 @@ If your venue is free, transportation and travel reimbursements are often the mo
 
 Charter buses are typically the most affordable option for getting hackers to and from your event. Keep in mind as you plan that most buses fit 56 attendees, and the average cost per weekend is $3,300 (based on 31 hackathons in Spring 2014). Your hackathon date matters as well: for example, bus prices are often higher in April because so many schools charter them during that month for class trips.
 
-Many organizers have used [Sharethebus](https://www.sharethebus.com/) to make their bus organization process easier. Sharethebus removes all friction involved in bringing groups of people to your hackathon. Their web app makes it easy to organize, book, and join bus trips. 
-
 
 1. **Determine how many seats you’ll need**
 
@@ -695,9 +693,9 @@ Many organizers have used [Sharethebus](https://www.sharethebus.com/) to make th
 
 **3. Collect quotes**
 
-* Use [Sharethebus](https://www.sharethebus.com) to organize all buses to your event and requests quotes directly from them. They’re experts in the bus industry, and will look around until they find you the best quotes.
-
 * Use [BusRates.com](http://www.busrates.com/) to sort bus companies by number of buses available, number of seats, bus ages, and cost. We recommend only requesting quotes from companies with 4 star ratings or above.
+
+* [Sharethebus](https://www.sharethebus.com) allows you to organize buses to your event in a central dashboard and request quotes directly from bus companies. They also will help you compare and find the cheapest bus company. The companies on Sharethebus are pre-vetted so you don't have to worry about ratings.
 
 * Questions to ask
 
