@@ -210,15 +210,13 @@ The first iteration of your site should include:
 
 * Links to recommended services such as LaunchRock or GitHub Pages?
 
-### Get MLH Sanctioned
+### Become a MLH Member Event
 
-At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH sanctioned events receive the following benefits: 
+At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events receive the following benefits: 
 
 * Mentorship and advice
 
 * Introductions to potential sponsors
-
-* PR assistance
 
 * Onsite hackathon support
 
@@ -230,13 +228,15 @@ At MLH, our goal is to give you the tools to throw the best hackathon humanly po
 
 (You can see the full list [here](https://mlh.io/become-an-official-event). )
 
-The sooner your hackathon gets sanctioned, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be *at least* 30 days before the event and you should have a confirmed time and location. 
+The sooner your hackathon gets applies for membership, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be *at least* 30 days before the event and you should have a confirmed time and location. 
 
 #### Resources
 
 * MLH: [Become an Official Event](https://mlh.io/become-an-official-event) 
 
-* MLH: [Event Sanctioning Guide](http://static.mlh.io/docs/event-sanctioning-guide.pdf) 
+* MLH: [Event Membership Guide](http://static.mlh.io/docs/event-membership-guidelines.pdf) 
+
+* MLH: [Community Values](https://mlh.io/community-values) 
 
 * MLH: [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 
