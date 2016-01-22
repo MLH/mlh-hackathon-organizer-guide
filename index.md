@@ -90,7 +90,7 @@ Before you book an event space, make sure it has everything you need help you ho
 
 * **The right physical space** — Your venue must have space for attendees to hack and listen to speakers, as well as designated areas for hardware, food, sponsors, and MLH.
 
-* **WiFi** — Can the WiFi support a large number of people in a condensed space? It should be able to handle 4 devices per attendee. See more info [here](https://docs.google.com/document/d/1NRs6pM0mEetgIFJVvPr5pN5O3diOuTKuhbGZkWMb87c/edit).
+* **WiFi** — Can the WiFi support a large number of people in a condensed space? It should be able to handle 4 devices per attendee. See more info [here](https://docs.google.com/document/d/1NRs6pM0mEetgIFJVvPr5pN5O3diOuTKuhbGZkWMb87c/edit).  Also be sure to review the [Hackathon Network Checklist](http://bit.ly/HackathonNetworkChecklist) for specific questions, tips, and resources to aid in your assessment and planning.
 
 * **Power** — Is there enough amperage for hundreds of computers, phones, and hardware devices? (Assume at least 2.5 devices per participants.)
 
@@ -141,6 +141,8 @@ Most venues come with their own specific list of rules and required fees. A few 
 #### Resources
 
 * MLH: [Venue checklist](https://docs.google.com/document/d/1NRs6pM0mEetgIFJVvPr5pN5O3diOuTKuhbGZkWMb87c/edit) 
+
+* [Hackathon Network Checklist](http://bit.ly/HackathonNetworkChecklist)
 
 * Article: [The Many Flavors of WiFi ](https://medium.com/@danielceckert/the-many-flavors-of-wifi-5bdbeeca87f4)
 
