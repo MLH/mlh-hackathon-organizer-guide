@@ -453,6 +453,10 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Webinar: [Budgeting for Your Hackathon](https://www.youtube.com/watch?v=-ybgtN2GjTQ)
 
+* Webinar: [Fundraising for High School Hackathons](https://www.youtube.com/watch?v=q44l5Hd87TQ)
+
+* Webinar: [MLH Office Hours: Sponsorship w/ Tyler Laredo](https://www.youtube.com/watch?v=PGYud3pCiIQ)
+
 * Article: [How Do I Find Sponsors?](http://news.mlh.io/find-sponsors-questions-sponsorship-workshop-12-30-2014)
 
 * Article: [Hackathon Fundraising: Getting Started](http://news.mlh.io/hackathon-fundraising-getting-started-06-16-2014)
