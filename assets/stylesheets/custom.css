@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'MLH Outage';
+    src: url('/assets/fonts/outage.ttf');
+}
+
+/* Summary */
+
+.book .book-summary ul.summary > li:first-child {
+  display: none;
+}
+
+.book .book-summary ul.summary:before {
+  background: url(/assets/images/miscellaneous/logos/mlh-whitescale.png) center center no-repeat;
+  background-size: 35% auto;
+  width: 100%;
+  height: 100px;
+  display: block;
+  content: "";
+}
+
+.book .book-summary ul.summary {
+  background: #318CE7;
+}
+
+.book .book-summary ul.summary li span {
+  color: #318CE7;
+  opacity: 1;
+}
+
+.book .book-summary ul.summary li a,
+.book .book-summary ul.summary li span {
+  color: #0047AB;
+}
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active > a {
+  color: #fff;
+}
+
+/* Search */
+
+.book .book-summary .book-search input,
+.book .book-summary .book-search input:focus,
+.book .book-summary .book-search input:hover {
+  color: #318CE7;
+  text-align: center;
+}
+
+/* Header */
+
+.btn.pull-right,
+.dropdown.pull-right {
+  display: none !important;
+}
+
+.dropdown-menu .buttons:nth-child(1) .button,
+.dropdown-menu .buttons:last-child .button {
+  display: none;
+}
+
+/* Content */
+
+.book .book-body .page-wrapper .page-inner h1 {
+  font-family: 'MLH Outage', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a {
+  color: #318CE7;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a:focus,
+.book .book-body .page-wrapper .page-inner section.normal a:hover {
+  color: #0047AB;
+}
