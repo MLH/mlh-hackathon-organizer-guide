@@ -2,5 +2,5 @@
 
 * [README.md](README.md)
 * Organizer Timeline
-* Introduction
+* [Introduction](introduction.md)
 
