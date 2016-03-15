@@ -2,6 +2,8 @@
 
 * [README.md](README.md)
 * [Introduction](introduction.md)
-* 4 To 9 Months Before
 * Organizer Timeline
+    * 4 To 9 Months Before
+        * [Lock Down A Venue] (Organizer-Timeline/4-To-9-Months-Before/venue.md
+/SUMMARY.md)
 
