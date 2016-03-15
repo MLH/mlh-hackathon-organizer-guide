@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MLH Outage';
-    src: url('/assets/fonts/outage.ttf');
+    src: url('/hackathon-organizer-guide/content/assets/fonts/outage.ttf');
 }
 
 /* Summary */
@@ -10,7 +10,7 @@
 }
 
 .book .book-summary ul.summary:before {
-  background: url(/assets/images/miscellaneous/logos/mlh-whitescale.png) center center no-repeat;
+  background: url(/hackathon-organizer-guide/content/assets/images/miscellaneous/logos/mlh-whitescale.png) center center no-repeat;
   background-size: 35% auto;
   width: 100%;
   height: 100px;
