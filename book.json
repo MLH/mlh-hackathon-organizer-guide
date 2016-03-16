@@ -1,5 +1,8 @@
 {
     "styles": {
         "website": "assets/stylesheets/custom.css"
+    },
+    "layout": {
+            "footerPath" : "layouts/footer.html"
     }
 }

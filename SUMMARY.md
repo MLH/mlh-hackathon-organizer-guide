@@ -31,6 +31,8 @@
         * [Send Reminders](Organizer-Timeline/1-Week-Before/Send-Reminders.md)
         * [Do A Run-Through](Organizer-Timeline/1-Week-Before/Run-Through.md)
     * Day Of Event
-        * [Setup Your Event](/Organizer-Timeline/Day-Of-Event/Setup-Your-Event.md)
-        * [Social Media](/Organizer-Timeline/Day-Of-Event/Social-Media.md)
-        * [Kick Off](/Organizer-Timeline/Day-Of-Event/Kick-Off.md)
+        * [Setup Your Event](Organizer-Timeline/Day-Of-Event/Setup-Your-Event.md)
+        * [Social Media](Organizer-Timeline/Day-Of-Event/Social-Media.md)
+        * [Kick Off](Organizer-Timeline/Day-Of-Event/Kick-Off.md)
+    * [After The Event](Organizer-Timeline/After-The-Event.md)
+* [Closing](closing.md)
