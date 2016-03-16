@@ -27,3 +27,6 @@
         * [Create Your Schedule](/Organizer-Timeline/1-Month-Before/Create-Your-Schedule.md)
         * [Update Website With Final Info](/Organizer-Timeline/1-Month-Before/Website.md)
         * [Finalize Your Emergency Plan](/Organizer-Timeline/1-Month-Before/Finalize-Your-Emergency-Plan.md)
+    * 1 Week Before
+        * [Send Reminders](Organizer-Timeline/1-Week-Before/Send-Reminders.md)
+        * [Do A Run-Through](Organizer-Timeline/1-Week-Before/Run-Through.md)
