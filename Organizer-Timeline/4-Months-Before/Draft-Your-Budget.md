@@ -17,6 +17,7 @@ Over the years the we've found the averages costs for major budget items are as 
 
 Resources:
 
+
 * Major League Hacking's [Budget Template with reccomended figures](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit)
 
 * Bitcamp’s [Open Source Budget](https://medium.com/bitcampfire-stories/bitcamps-open-source-budget-14a86974b5b2)
