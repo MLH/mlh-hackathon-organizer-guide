@@ -661,7 +661,7 @@ It would be great to include a short case study or example "about us" page from 
 
     * Tell your school’s paper
 
-    * Enlist MLH’s PR#### RESOURCES to get potential pre-event coverage in local and tech media
+#### RESOURCES to get potential pre-event coverage in local and tech media
 
 * Reach out to parent groups (more useful for high school hackathons)
 
