@@ -10,10 +10,10 @@
 }
 
 .book .book-summary ul.summary:before {
-  background: url('/assets/images/miscellaneous/logos/mlh-whitescale.png') center bottom no-repeat;
+  background: url('/assets/images/miscellaneous/logos/mlh-whitescale.png') center 40px no-repeat;
   background-size: 35% auto;
   width: 100%;
-  height: 95px;
+  height: 110px;
   display: block;
   content: "Hackathon Organizer Guide";
   text-align: center;
