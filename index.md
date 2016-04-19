@@ -136,7 +136,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Negotiate to reserve your venue for the day before so you have plenty of time to set up. 
 
-* Make sure your space is aware your will be hosting an overnight event.
+* Make sure your space is aware you will be hosting an overnight event.
 
 #### Resources
 
