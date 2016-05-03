@@ -1,20 +1,7 @@
-# The MLH Hackathon Organizer's Guide
+# MLH Hackathon Organizer's Guide
 
-The MLH Hackathon Organizer's Guide is a community initiative to make a student hackathon playbook. 
+Welcome to the MLH Hackathon Organizer Guide! This is a community initiative by [Major League Hacking](http://mlh.io) that contains a lot of the lessons that we and the hackathon community around the world have learnt from organizing hackathons &mdash; all in a single student hackathon playbook.
 
-Follow the playbook and it will walk you through every step of throwing a great hackathon.
+Take a look and learn some of the practices used by hackathon organizers all around the world. This guide should contain most, if not all, of the practices you need to throw a great hackathon.
 
-You can find the guide [here](http://guide.mlh.io/).
-
-**Disclaimer:** _The Book of Hackathon is never finished. Try everything, contribute your learnings back to the guide with a pull request._
-
-## Getting Started 
-
-The MLH Hackathon Organizer's Guide is built on top of [Jekyll](http://jekyllrb.com/). Currently Jekyll is not supported on Windows. 
-
-To get started on OSX after you've cloned this repo run:
-
-    % gem install jekyll
-    % jekyll serve
-
-The guide will now be running locally on port 4000. For more information checkout the [jekyll docs](http://jekyllrb.com/docs/installation/).
+**Disclaimer:** The hackathon organizer guide is never finished. It's an ongoing project that we're always trying to update as we and the global hackathon organizer community learn. Try everything, contribute your learnings back to the guide with a pull request over on [our GitHub repository for this guide](http://github.com/mlh/hackathon-organizer-guide).
