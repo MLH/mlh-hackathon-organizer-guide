@@ -10,12 +10,12 @@
 }
 
 .book .book-summary ul.summary:before {
-  background: url('/assets/images/miscellaneous/logos/mlh-whitescale.png') center 40px no-repeat;
+  background: url('/assets/images/miscellaneous/logos/mlh-whitescale.png') center center no-repeat;
   background-size: 35% auto;
   width: 100%;
   height: 110px;
   display: block;
-  content: "Hackathon Organizer Guide";
+  content: "";
   text-align: center;
   color: #fff;
   font-size: 13px;
@@ -23,17 +23,17 @@
 }
 
 .book .book-summary ul.summary {
-  background: #318CE7;
+  background: #E73152;
 }
 
 .book .book-summary ul.summary li span {
-  color: #318CE7;
+  color: #E73152;
   opacity: 1;
 }
 
 .book .book-summary ul.summary li a,
 .book .book-summary ul.summary li span {
-  color: #0047AB;
+  color: #FFADC5;
 }
 
 .book .book-summary ul.summary li a:hover,
@@ -46,7 +46,7 @@
 .book .book-summary .book-search input,
 .book .book-summary .book-search input:focus,
 .book .book-summary .book-search input:hover {
-  color: #318CE7;
+  color: #E73152;
   text-align: center;
 }
 
@@ -69,10 +69,10 @@
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a {
-  color: #318CE7;
+  color: #E73152;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a:focus,
 .book .book-body .page-wrapper .page-inner section.normal a:hover {
-  color: #0047AB;
+  color: #E73152;
 }
