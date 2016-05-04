@@ -1,11 +1,11 @@
 # Summary
 
-* [README.md](README.md)
+* [README](README.md)
 * [Introduction](introduction.md)
 * Organizer Timeline
     * 4 To 9 Months Before
         * [Lock Down A Venue](Organizer-Timeline/4-To-9-Months-Before/Venue.md)
-    * 4-Months-Before
+    * 4 Months Before
         * [Build A Killer Leadership Team](Organizer-Timeline/4-Months-Before/Build-A-Killer-Leadership-Team.md)
         * [Set Up A Placeholder Website](Organizer-Timeline/4-Months-Before/Set-Up-A-Placeholder-Website.md)
         * [Become a MLH Member Event](Organizer-Timeline/4-Months-Before/Become-a-MLH-Member-Event.md)
