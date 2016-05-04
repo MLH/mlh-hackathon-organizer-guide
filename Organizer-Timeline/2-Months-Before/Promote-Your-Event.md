@@ -48,11 +48,11 @@ It would be great to include a short case study or example "about us" page from 
 
     * Tell your school’s paper
 
-    * Enlist MLH’s PR## RESOURCES to get potential pre-event coverage in local and tech media
+## Resources to get potential pre-event coverage in local and tech media
 
 * Reach out to parent groups (more useful for high school hackathons)
 
-    * Share our [Parent Hackathon Guide](https://mlh.io/parent-hackathon-guide) with parent organizations that are interested in hearing about events for their children.
+* Share our [Parent Hackathon Guide](https://mlh.io/parent-hackathon-guide) with parent organizations that are interested in hearing about events for their children.
 
 ## Resources
 
