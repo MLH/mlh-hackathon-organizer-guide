@@ -10,10 +10,10 @@
 }
 
 .book .book-summary ul.summary:before {
-  background: url("/assets/images/miscellaneous/logos/mlh-whitescale.png") center center no-repeat;
-  background-size: 35% auto;
+  background: url("/assets/images/miscellaneous/logos/organizer-guide.svg") center center no-repeat;
+  background-size: 85% auto;
   width: 100%;
-  height: 110px;
+  height: 80px;
   display: block;
   content: "";
   text-align: center;
