@@ -1,6 +1,5 @@
 # Summary
 
-* [README](README.md)
 * [Introduction](introduction.md)
 * Organizer Timeline
     * 4 To 9 Months Before
@@ -35,4 +34,5 @@
         * [Social Media](Organizer-Timeline/Day-Of-Event/Social-Media.md)
         * [Kick Off](Organizer-Timeline/Day-Of-Event/Kick-Off.md)
     * [After The Event](Organizer-Timeline/After-The-Event.md)
-* [Closing](closing.md)
+* [Contributors](contributors.md)
+* [README](README.md)
