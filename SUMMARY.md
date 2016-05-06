@@ -35,4 +35,3 @@
         * [Kick Off](Organizer-Timeline/Day-Of-Event/Kick-Off.md)
     * [After The Event](Organizer-Timeline/After-The-Event.md)
 * [Contributors](contributors.md)
-* [README](README.md)
