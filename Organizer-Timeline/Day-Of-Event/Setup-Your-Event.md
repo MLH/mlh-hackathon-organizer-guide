@@ -1,4 +1,4 @@
-# Set-up Your Event
+# Setup Your Event
 
 * Set up tables and chairs
 
