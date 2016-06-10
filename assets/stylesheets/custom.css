@@ -43,9 +43,13 @@
 
 /* Search */
 
-.book .book-summary .book-search input,
-.book .book-summary .book-search input:focus,
-.book .book-summary .book-search input:hover {
+.book > .book-summary > #book-search-input {
+  margin-bottom: 0;
+}
+
+.book > .book-summary > #book-search-input > input,
+.book > .book-summary > #book-search-input > input:focus,
+.book > .book-summary > #book-search-input > input:hover {
   color: #353535;
   text-align: center;
 }
