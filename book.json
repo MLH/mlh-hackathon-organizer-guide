@@ -4,5 +4,9 @@
     "ga": { "token": "UA-43729070-9" }
   },
   "styles": { "website": "assets/stylesheets/custom.css" },
-  "layout": { "footerPath" : "layouts/footer.html" }
+  "layout": { "footerPath" : "layouts/footer.html" },
+  "introduction": {
+        "path": "introduction.md",
+        "title": "Introduction"
+    }
 }

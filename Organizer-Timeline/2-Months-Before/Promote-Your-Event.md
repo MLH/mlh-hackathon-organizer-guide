@@ -38,11 +38,11 @@ It would be great to include a short case study or example "about us" page from 
 
 * Launch a social media campaign
 
-    * Make a Facebook event page and twitter account. Invite and connect to all your friends and members of on and off-campus hacker groups. Hackers@ Berkeley example?
+    * Make a Facebook event page and twitter account. Invite and connect to all your friends and members of on and off-campus hacker groups. Check out the [Florida](floridahackers.com) [Hackers](http://floridahackers.slack.com/signup) [Community](https://www.facebook.com/groups/1023750727698510/) for some examples.
 
     * Ask other hackathons to tweet about you
 
-    * Consider Facebook ads MIT example?
+    * Consider Facebook ads.
 
 * Get pre-event press coverage
 
