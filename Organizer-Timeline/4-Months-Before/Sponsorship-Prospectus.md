@@ -28,6 +28,10 @@ Be sure to include the following info on *all* materials — we can’t tell you
 
 * Contact email and phone
 
+When you’re finished reading this section of the guide, we strongly recommend watching our MLH Office Hours about Sponsorship with Tyler Laredo.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gDytK-ke42s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 Resources:
 
 * [Past Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/tree/master/Previous-Sponsorship-Decks)
