@@ -12,9 +12,7 @@ What’s your hackathon’s "brand?" How is it unique? Why would *you* want to a
 
 * Highlight hackathon benefits perks and the ease of attending: it’s free of cost, transportation will be provided, etc.
 
-It would be great to include a short case study or example "about us" page from a successful hackathon here to show, rather than just tell, organizers how
-
- effective branding works.
+It would be great to include a short case study or example "about us" page from a successful hackathon here to show, rather than just tell, organizers how effective branding works.
 
 ## Get The Word Out
 
