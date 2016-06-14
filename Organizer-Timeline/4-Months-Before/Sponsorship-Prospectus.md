@@ -6,7 +6,7 @@ Your prospectus should include:
 
 * The basics: date, location, number of expected attendees, etc.
 
-* The story behind your event, an introduction to your team, and a note about what you’re trying to accomplish, as well as what makes your event special. What are its differentiating factors? [link to marketing?]
+* The story behind your event, an introduction to your team, and a note about what you’re trying to accomplish, as well as what makes your event special. What are its differentiating factors?
 
 * An overview of available sponsorships — what companies get and how much it will cost them.
 
@@ -27,3 +27,9 @@ Be sure to include the following info on *all* materials — we can’t tell you
 * Website URL
 
 * Contact email and phone
+
+Resources:
+
+* [Past Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/tree/master/Previous-Sponsorship-Decks)
+
+
