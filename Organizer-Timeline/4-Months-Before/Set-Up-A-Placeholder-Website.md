@@ -13,12 +13,16 @@ The first iteration of your site should include:
 * Links to your event’s Facebook page and Twitter account
 
 * A date when visitors should check back for more info
+    
+* A basic FAQ about your event to explain things to someone who has never seen or been to a hackathon before. A good FAQ example: [MLH Prime](http://prime.mlh.io/#faqs)
 
 * A page just for sponsors, including:
 
     * An email address for sponsorship inquiries
+    
+    * Some information about your event and your team
 
-    * A basic FAQ about your event to explain things to someone who has never seen or been to a hackathon before. A good FAQ example: [PennApps](http://2015s.pennapps.com/)
+
 
 ## MLH Tips
 
@@ -26,10 +30,8 @@ The first iteration of your site should include:
 
 * As early as possible, celebrate what differentiates your event [link to marketing section]
 
+* It's never to early to open registration. Check out [MyMLH](my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple! 
+ 
 ## Resources
 
-* Screenshots of previous placeholder sites (if available)
-
-* Example pre-registration form
-
-* Links to recommended services such as LaunchRock or GitHub Pages?
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ukSrPm1Zews" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

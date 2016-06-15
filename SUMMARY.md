@@ -17,7 +17,6 @@
         * [Prizing](Organizer-Timeline/2-Months-Before/Prizes.md)
         * [Book Mentors And Judges](Organizer-Timeline/2-Months-Before/Mentors-and-Judges.md)
         * [Schedule Workshops](Organizer-Timeline/2-Months-Before/Workshops.md)
-        * [Update Your Website](Organizer-Timeline/2-Months-Before/Website.md)
         * [Promote Your Event](Organizer-Timeline/2-Months-Before/Promote-Your-Event.md)
     * 1 Month Before
         * [Get Final Headcount](/Organizer-Timeline/1-Month-Before/Headcount.md)
