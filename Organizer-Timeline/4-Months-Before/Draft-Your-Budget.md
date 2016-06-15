@@ -13,7 +13,7 @@ Over the years the we've found the averages costs for major budget items are as 
 | Food | $7 per person per meal |
 | Snacks & Drinks | $10 per person |
 | T-Shirts | $5-8 per person (dependent on volume) |
-| Busses | $3,500 per bus |
+| Buses | $3,500 per bus |
 
 Resources:
 
