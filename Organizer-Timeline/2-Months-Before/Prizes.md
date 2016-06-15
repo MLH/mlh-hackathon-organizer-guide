@@ -44,7 +44,7 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 
 * Retro Video Games
 
-* [Custom Trophies (Swift and I got a great burger from Ordr.in)](http://pandodaily.files.wordpress.com/2012/10/imag1058.jpeg?w=584&h=349)
+* [Custom Trophies](https://assets.pando.com/uploads/2012/10/imag1058.jpeg)
 
 * [Foursquare Title Belt](http://blog.programmableweb.com/wp-content/foursquaretitlebelt.jpg)
 
