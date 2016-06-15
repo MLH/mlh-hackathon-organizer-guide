@@ -28,7 +28,7 @@ The first iteration of your site should include:
 
 * You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
 
-* As early as possible, celebrate what differentiates your event [link to marketing section]
+* As early as possible, [celebrate what differentiates your event](http://guide.mlh.io/Organizer-Timeline/2-Months-Before/Promote-Your-Event.html).
 
 * It's never to early to open registration. Check out [MyMLH](my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple! 
  
