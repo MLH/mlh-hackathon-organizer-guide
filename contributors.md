@@ -15,6 +15,7 @@ A full list of community contributors to the Guide are listed below, in alphabet
 A full list of events that have contributors to the Guide by sharing internal documents to serve as examples are listed below, in alphabetical order: 
 
 - [inspirewit](http://inspirewit.com/)
+- [Hack Western](https://hackwestern.com/)
 - [QHacks](http://qhacks.io/)
 - [StacsHack](http://stacshack.org/)
 - [StudentHack](http://www.studenthack.com/)

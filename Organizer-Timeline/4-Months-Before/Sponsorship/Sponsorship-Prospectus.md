@@ -34,6 +34,6 @@ When you’re finished reading this section of the guide, we strongly recommend 
 
 Resources:
 
-* [Past Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/tree/master/Previous-Sponsorship-Decks)
+* [Past Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
 
 
