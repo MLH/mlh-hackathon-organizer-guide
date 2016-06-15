@@ -30,7 +30,7 @@ All schedules include:
 
     * [24 hours — SendGrid Internal](https://www.hackerleague.org/hackathons/sendgrid-internal-hackathon/wikipages/53a877ee9cbedf8d02000002) (Saturday and Sunday)
 
-    * [36 hours: PennApps](http://2014s.pennapps.com/#Schedule)
+    * [36 hours: Hackcon IV](http://hackcon.io/na/)
 
 * [Picking the Chosen One Article](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 
