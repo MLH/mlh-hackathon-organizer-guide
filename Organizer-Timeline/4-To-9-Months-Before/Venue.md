@@ -113,3 +113,5 @@ Most venues come with their own specific list of rules and required fees. A few 
 * Article: [Wi-Fi That Works](https://medium.com/mhacks-iv/wi-fi-that-works-9afe3dec3d93)
 
 * [Hack Western pitch deck for college administration](https://github.com/MLH/hackathon-organizer-guide/tree/master/Organizer-Resources)
+
+* [MLH Office Hours: Venues with Sami Alabed](https://www.youtube.com/watch?v=w3mJXfvGFrM)
