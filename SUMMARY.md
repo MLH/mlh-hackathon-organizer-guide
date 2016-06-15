@@ -11,7 +11,7 @@
         * Sponsorship
             * [Introduction to Fundraising](Organizer-Timeline/4-Months-Before/Sponsorship/Land-Sponsorships.md)
             * [Budget](Organizer-Timeline/4-Months-Before/Sponsorship/Draft-Your-Budget.md)
-            * [Understand Your Sponsors: Who They Are, What They Want, And How They operate](Organizer-Timeline/4-Months-Before/Sponsorship/Understand-Your-Sponsors.md)
+            * [Understand Your Sponsors](Organizer-Timeline/4-Months-Before/Sponsorship/Understand-Your-Sponsors.md)
             * [Put Together A Sponsorship Prospectus](Organizer-Timeline/4-Months-Before/Sponsorship/Sponsorship-Prospectus.md)
             * [The 5-step MLH Sponsorship Process](Organizer-Timeline/4-Months-Before/Sponsorship/MLH-Sponsorship-Process.md)
     * 2 Months Before
