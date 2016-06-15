@@ -1,4 +1,4 @@
-# Land Sponsorships
+# Introduction to Fundraising
 
 It’s nearly impossible to host a serious hackathon without money. That said, landing quality sponsorship is manageable if you break the process into small steps and give yourself plenty of lead time. The more practice you get approaching and negotiating with potential backers, the better you’ll become at the art of fundraising.
 

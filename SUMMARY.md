@@ -8,11 +8,12 @@
         * [Build A Killer Leadership Team](Organizer-Timeline/4-Months-Before/Build-A-Killer-Leadership-Team.md)
         * [Set Up A Placeholder Website](Organizer-Timeline/4-Months-Before/Set-Up-A-Placeholder-Website.md)
         * [Become a MLH Member Event](Organizer-Timeline/4-Months-Before/Become-a-MLH-Member-Event.md)
-        * [Land Sponsorships](Organizer-Timeline/4-Months-Before/Land-Sponsorships.md)
-        * [Budget](Organizer-Timeline/4-Months-Before/Draft-Your-Budget.md)
-        [Understand Your Sponsors: Who They Are, What They Want, And How They operate](* Organizer-Timeline/4-Months-Before/Understand-Your-Sponsors.md)
-        * [Put Together A Sponsorship Prospectus](Organizer-Timeline/4-Months-Before/Sponsorship-Prospectus.md)
-        * [The 5-step MLH Sponsorship Process](Organizer-Timeline/4-Months-Before/MLH-Sponsorship-Process.md)
+        * Sponsorship
+            * [Introduction to Fundraising](Organizer-Timeline/4-Months-Before/Sponsorship/Land-Sponsorships.md)
+            * [Budget](Organizer-Timeline/4-Months-Before/Sponsorship/Draft-Your-Budget.md)
+            * [Understand Your Sponsors: Who They Are, What They Want, And How They operate](* Organizer-Timeline/4-Months-Before/Sponsorship/Understand-Your-Sponsors.md)
+            * [Put Together A Sponsorship Prospectus](Organizer-Timeline/4-Months-Before/Sponsorship/Sponsorship-Prospectus.md)
+            * [The 5-step MLH Sponsorship Process](Organizer-Timeline/4-Months-Before/Sponsorship/MLH-Sponsorship-Process.md)
     * 2 Months Before
         * [Prizing](Organizer-Timeline/2-Months-Before/Prizes.md)
         * [Book Mentors And Judges](Organizer-Timeline/2-Months-Before/Mentors-and-Judges.md)
