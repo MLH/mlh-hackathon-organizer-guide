@@ -16,6 +16,10 @@ Are you ready to host your school’s very own hackathon?
 
 Major League Hacking's [mission is to empower hackers](https://mlh.io/about). This guide helps us support organizers in their pursuit to throw incredible hackathons and empower hackers to build great hacks.
 
+#### License
+
+The Hackathon Organizer Guide is open sourced under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. [Read more here](LICENSE.md).
+
 #### Resources
 
 * Article: [How to Throw an Epic Hackathon](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
