@@ -34,4 +34,6 @@ The first iteration of your site should include:
  
 ## Resources
 
+[Workshop on setting up MyMLH](https://youtu.be/ukSrPm1Zews)
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ukSrPm1Zews" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
