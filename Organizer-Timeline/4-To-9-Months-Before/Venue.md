@@ -52,6 +52,8 @@ If you really can’t find a free venue, look into renting a coworking space wit
 
 Before you book an event space, make sure it has everything you need help you host a successful hackathon.
 
+* **Pokéstop/Gym ** - Is your venue a Pokéstop? or gym? Make sure it is at least close to one if it is not, it is also worth investing in Lure modules. 
+ 
 * **Enough capacity** — The average first MLH hackathon is around 300 student hackers. Can the venue accommodate the number of attendees you plan to host?
 
 * **The right physical space** — Your venue must have space for attendees to hack and listen to speakers, as well as designated areas for hardware, food, sponsors, and MLH.
