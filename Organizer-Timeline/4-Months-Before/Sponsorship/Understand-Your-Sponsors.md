@@ -1,4 +1,5 @@
-# Understand Your Sponsors: Who They Are, What They Want, And How They operate
+# Understand Your Sponsors 
+## Who They Are, What They Want, And How They operate
 
 You’ll be targeting five types of sponsors:
 
