@@ -10,12 +10,10 @@ Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the s
 
 Over the years the we've found the averages costs for major budget items are as follows:
 
-| Item | Cost |
-|:-----|:-----|
-| Food | $7 per person per meal |
-| Snacks & Drinks | $10 per person |
-| T-Shirts | $5-8 per person (dependent on volume) |
-| Busses | $3,500 per bus |
+- **Food**: $7 per person per meal
+- **Snacks & Drinks**: $10 per person
+- **T-Shirts**: $5-8 per person (dependent on volume)
+- **Busses**: $3,500 per bus
 
 Resources:
 
