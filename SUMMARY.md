@@ -35,4 +35,5 @@
     * [After The Event](Organizer-Timeline/After-The-Event.md)
 * Organizer Resources
     * [Example Documents](Organizer-Resources/Example-Documents.md)
+    * [Software for Hackathons](Organizer-Resources/Software-for-Hackathons.md)
 * [Contributors](contributors.md)
