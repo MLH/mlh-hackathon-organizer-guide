@@ -11,7 +11,11 @@ Student Hackathon Organizers have been building software to make manging their e
 
 * [Nucleus](https://github.com/hacktx/nucleus) - An extensible and comprehensive hackathon application system that integrates with MyMLH, Slack and more from HackTX. Built using **PHP**. 
 
+## Mentorship
+
+* [HelpQ](https://github.com/ehzhang/HELPq) - An extensible real-time queue application for mentorship at hackathons. Built using **Meteor** by the HackMIT team.
+
 ## Judging
 
 * [Devpost Expo / Table Number App](https://github.com/nealrs/expo) - An expo / table numbers app for your Devpost hackathon. Updated via **CSV** and built using **HTML/CSS/JS**.
-
+* [Gavel](https://github.com/anishathalye/gavel) - A hackathon judging system that uses fancy math to get great results. Built using **Python/Flask** by the HackMIT team.
