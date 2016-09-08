@@ -38,8 +38,8 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 
 ## Resources
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Abhe2PavXyA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 * Article: [How to Judge a Hackathon: Finding the Chosen One](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 
-* Examples of past speakers for different sized hackathons?
-
-FAQ question: "How should I set up the judging process?"
+* Hackcon IV: [How to Setup your Devpost](https://www.youtube.com/watch?v=E5EJb3l-pBQ&index=17&list=PLPDgudJ_VDUcS5ELB-_OZ3Zy5nn5iqvSi)
