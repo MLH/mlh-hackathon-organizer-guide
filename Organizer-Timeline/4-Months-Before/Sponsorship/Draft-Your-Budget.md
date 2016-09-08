@@ -22,4 +22,6 @@ Resources:
 
 * Bitcamp’s [Open Source Budget](https://medium.com/bitcampfire-stories/bitcamps-open-source-budget-14a86974b5b2)
 
-* Major League Hacking [Transportation Workshop](https://www.youtube.com/watch?v=wGKX_koCPIk)
+* Hackcon IV: [Running a Hackathon in the Red](https://www.youtube.com/watch?v=IRK3KmhE_go&index=10&list=PLPDgudJ_VDUcS5ELB-_OZ3Zy5nn5iqvSi) 
+
+* Major League Hacking's [Transportation Workshop](https://www.youtube.com/watch?v=wGKX_koCPIk)
