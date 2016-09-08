@@ -5,6 +5,7 @@ Student Hackathon Organizers have been building software to make manging their e
 ## Hacker Identity
 
 * [MyMLH](https://my.mlh.io/) - MyMLH is an API that enables hackers to easily share and manage their data in one click. Integrate it into your apps using **OAuth**.
+* [MLH-Hackathon-Boilerplate](https://github.com/MLH/mlh-hackathon-boilerplate) - Boilerplate code for any new MLH Member Hackathon looking to build a website integrated with MyMLH. Written entirely in **Jekyll**, which [GitHub pages](https://pages.github.com/) automatically compiles to make hosting seamless. 
 * [omniauth-mlh](https://github.com/MLH/omniauth-mlh) - The official OmniAuth strategy for MyMLH, making it extremely easy to integrate MyMLH into your existing **Ruby/Rails** apps.
 
 ## Admissions 
