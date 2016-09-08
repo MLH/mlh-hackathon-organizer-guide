@@ -22,8 +22,6 @@ The first iteration of your site should include:
     
     * Some information about your event and your team
 
-
-
 ## MLH Tips
 
 * You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
@@ -32,8 +30,8 @@ The first iteration of your site should include:
 
 * It's never to early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple! 
  
-## Resources
+### Resources:
 
-[Workshop on setting up MyMLH](https://youtu.be/ukSrPm1Zews)
+* [MLH-Hackathon-Boilerplate](https://github.com/MLH/mlh-hackathon-boilerplate) - Boilerplate code for any new MLH Member Hackathon looking to build a website integrated with MyMLH. Written entirely in **Jekyll**, which [GitHub pages](https://pages.github.com/) automatically compiles to make hosting seamless. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ukSrPm1Zews" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

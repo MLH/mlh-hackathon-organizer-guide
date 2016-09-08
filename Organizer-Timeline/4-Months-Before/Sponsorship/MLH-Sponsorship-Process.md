@@ -2,6 +2,8 @@
 
 Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QI9NVe2wA5w?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ## 1. Set Targets And Do Your Research
 
 * Compile a list of potential sponsors:
@@ -71,8 +73,6 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 * Develop a process for collecting and spending money. Ask about club accounts
 
 * Have one person in charge of maintaining the budget, outstanding invoices, and accounts payable so that they understand when money is coming in and out
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/-ybgtN2GjTQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## MLH Tips
 

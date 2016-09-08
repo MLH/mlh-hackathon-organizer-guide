@@ -1,5 +1,7 @@
 # Setup Your Event
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0M37UcnFRL8" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 * Set up tables and chairs
 
 * Make sure WiFi is working (or set it up)

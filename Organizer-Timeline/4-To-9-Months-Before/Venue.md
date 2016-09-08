@@ -12,6 +12,8 @@ Note: Each venue usually has one university bureaucrat in charge of it; try to f
 
 ## Enlist A Campus Advocate To Help You Navigate The Bureaucracy
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UAka9RZ68kk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 A university advocate — such as a professor or dean — can make your venue search immeasurably easier by helping you navigate your school’s unique booking process.
 
 In many cases, this person will be your organization’s advisor. If you need to recruit an ally, learn how to sell your event. [You should have a quick elevator pitch that everyone on your organizing committee can give ("No, we will not be breaking into your bank account. Actually a hackathon is…"). Find something your administration understands, and relate a hackathon to that.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)

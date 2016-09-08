@@ -1,5 +1,7 @@
 # Become a MLH Member Event
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nBZL2guES_Q" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events receive the following benefits:
 
 * Mentorship and advice
