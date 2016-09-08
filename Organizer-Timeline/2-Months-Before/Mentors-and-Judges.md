@@ -36,7 +36,7 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 
 * Consider recruiting a high-energy MC. [This person will be the face of the event to hackers and sponsors, so having someone who is excited about hacking with some public speaking experience helps hold the entire event together.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
-## Resources
+### Resources:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Abhe2PavXyA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

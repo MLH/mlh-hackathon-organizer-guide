@@ -27,3 +27,8 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 ## AV equipment
 
 * For opening ceremony and final demos, plan on having access to a room that can fit all of your attendees seated with a projector.
+
+### Resources:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RP6qmeGnyCo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
