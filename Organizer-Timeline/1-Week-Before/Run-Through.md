@@ -2,7 +2,7 @@
 
 Just like a play or a wedding, it’s important to rehearse your schedule once with all team members.
 
-* Create and distribute a run-of-show document with:
+* Create and distribute a [run-of-show document](https://docs.google.com/spreadsheets/d/1e2B4-AYUU3Y0xFmiTGLYfRosP2IdXxF1Ud5GvGh-6cE/edit?usp=sharing) with:
 
 * A timeline including the official hackathon schedule and a secondary staff schedule denoting what needs to happen behind the scenes — and when
 
@@ -37,6 +37,8 @@ Any others?
 * Assign at least one organizer to make sure the event is going well and put out fires as needed
 
 ## Resources
+
+* [Example Run of Show](https://docs.google.com/spreadsheets/d/1e2B4-AYUU3Y0xFmiTGLYfRosP2IdXxF1Ud5GvGh-6cE/edit?usp=sharing)
 
 * [Example volunteer guide](https://www.dropbox.com/s/y1rf6p97pmmu5mx/PRINT-StudentHackRules.docx?dl=0)
 
