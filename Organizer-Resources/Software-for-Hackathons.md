@@ -12,6 +12,10 @@ Student Hackathon Organizers have been building software to make manging their e
 
 * [Nucleus](https://github.com/hacktx/nucleus) - An extensible and comprehensive hackathon application system that integrates with MyMLH, Slack and more from HackTX. Built using **PHP**. 
 
+## Communication
+
+* [Slack](https://slack.com) - A simple, extensible, free to use communication tool that can be used for almost anything at hackathons.
+
 ## Mentorship
 
 * [HelpQ](https://github.com/ehzhang/HELPq) - An extensible real-time queue application for mentorship at hackathons. Built using **Meteor** by the HackMIT team.
