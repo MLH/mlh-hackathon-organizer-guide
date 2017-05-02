@@ -14,6 +14,8 @@ Student Hackathon Organizers have been building software to make manging their e
 
 ## Mentorship
 
+* [SkillFlow](https://github.com/SkillFlowHQ/hackathon-resources/blob/master/guides/organizer-setup.md) - A real-time slack-based application for mentorship at hackathons.
+
 * [HelpQ](https://github.com/ehzhang/HELPq) - An extensible real-time queue application for mentorship at hackathons. Built using **Meteor** by the HackMIT team.
 
 ## Judging
