@@ -12,7 +12,7 @@ You’ll need to recruit a variety of tech experts to mentor your attendees, spe
 
 Networking tips for recruiting speakers and judges:
 
-* It’s similar to the process of contacting sponsors [link to sponsorship section of guide]
+* It’s similar to the process of [contacting sponsors](Organizer-Timeline/4-Months-Before/Sponsorship/Land-Sponsorships.md).
 
 * Consider who you know and who your school knows
 
