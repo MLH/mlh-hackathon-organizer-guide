@@ -106,4 +106,4 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Template: [Budget spreadsheet](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit?usp=sharing)
 
-* Example: [Previous sponsorship decks ](https://github.com/MLH/hackathon-organizer-guide/tree/gh-pages/previous-sponsorship-decks)
+* Example: [Previous sponsorship decks ](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
