@@ -28,7 +28,7 @@ The first iteration of your site should include:
 
 * As early as possible, [celebrate what differentiates your event](http://guide.mlh.io/Organizer-Timeline/2-Months-Before/Promote-Your-Event.html).
 
-* It's never to early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple! 
+* It's never too early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple! 
  
 ### Resources:
 
