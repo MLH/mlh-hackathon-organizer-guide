@@ -20,7 +20,7 @@
         * [Promote Your Event](Organizer-Timeline/2-Months-Before/Promote-Your-Event.md)
     * 1 Month Before
         * [Get Final Headcount](/Organizer-Timeline/1-Month-Before/Headcount.md)
-        * [Organizer Transportation](/Organizer-Timeline/1-Month-Before/Organize-Transportation.md)
+        * [Organize Transportation](/Organizer-Timeline/1-Month-Before/Organize-Transportation.md)
         * [Order Supplies and Book Vendors](/Organizer-Timeline/1-Month-Before/Supplies-And-Vendors.md)
         * [Create Your Schedule](/Organizer-Timeline/1-Month-Before/Create-Your-Schedule.md)
         * [Update Website With Final Info](/Organizer-Timeline/1-Month-Before/Website.md)
