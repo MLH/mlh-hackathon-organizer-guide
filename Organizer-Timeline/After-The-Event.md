@@ -14,6 +14,8 @@ Congratulations  — you pulled off a successful hackathon! To close out your ev
 
 * Schedule a retrospective with MLH.
 
+* Attend [MLH Hackcon](https://hackcon.mlh.io/) to collaborate with other hackathon organizers, share your story, and connect with our great community.
+
 ## Resources
 
 * Template: [Post-event survey ](https://docs.google.com/a/majorleaguehacking.com/file/d/0B6RXFVhdoM-5aFRXOC1jTHM4TUE/edit)
