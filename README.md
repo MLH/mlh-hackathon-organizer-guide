@@ -32,7 +32,7 @@ The Hackathon Organizer Guide is open sourced under the [Creative Commons Attrib
 
 [mlh]: https://mlh.io
 [mlh-about]: https://mlh.io/about
-[mlh-hackathon-organizer-guide]: (https://github.com/mlh/hackathon-organizer-guide)
+[mlh-hackathon-organizer-guide]: https://github.com/mlh/hackathon-organizer-guide
 [mlh-slack]: https://mlh.slack.com
 [creative-commons]: https://creativecommons.org/licenses/by/4.0/
 [license]: LICENSE.md
