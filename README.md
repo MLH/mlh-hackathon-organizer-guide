@@ -28,8 +28,6 @@ The Hackathon Organizer Guide is open sourced under the [Creative Commons Attrib
 
 - Article: [How to Throw an Epic Hackathon][how-to-throw-an-epic-hackathon]
 
-- MLH: [Official Slack channel][mlh-slack]
-
 [mlh]: https://mlh.io
 [mlh-about]: https://mlh.io/about
 [mlh-hackathon-organizer-guide]: https://github.com/mlh/hackathon-organizer-guide
