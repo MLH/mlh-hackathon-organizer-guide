@@ -15,6 +15,8 @@ Student Hackathon Organizers have been building software to make manging their e
 ## Registration
 
 * [Quill](https://github.com/techx/quill) - A registration system designed especially for hackathons. For hackers, it's a clean and streamlined interface to submit registration and confirmation information. For hackathon organizers, it's an easy way to manage applications, view registration stats, and more! Built using **Node.js** by the HackMIT team.
+* [HackAssistant Registration](https://github.com/hackassistant/registration) - A hackathon registration server. Hackers: registration form and travel reimbursement management. Organizers: Application review and management, QR code checkin process, volunteers and organizers roles, reimbursement receipts review. Fork and deploy on Heroku in an instant! Built using **Python/Django** by the HackUPC and HackCU Team .
+
 
 ## Communication
 
