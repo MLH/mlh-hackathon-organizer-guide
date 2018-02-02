@@ -1,6 +1,6 @@
 ## Cupstacking
 
-Student Hackathon Organizers have been building software to make manging their events even easier. Take a look at the following software solutions that you could potentially deploy to mange aspects of your event.
+Host a Cup Stacking Mini-Event at your hackathon! 
 
 ### What is Cupstacking?
 
