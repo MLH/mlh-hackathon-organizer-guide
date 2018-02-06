@@ -17,3 +17,13 @@ Major League Hacking is excited to support hackathons through two different aven
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+
+
+<table>
+  <tr>
+    <th> Category </th>
+    <th> Offering </th>
+    <th> League Member Event </th>
+    <th> MLH Localhost Hackathon </th>
+  </tr>
+</table>
