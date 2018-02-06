@@ -14,7 +14,7 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
-    <th rowspan="6"> Support </th>
+    <th rowspan="7"> Support </th>
   </tr>
   <tr>
     <td> Pre-Event Calls with our Hackathon Experts </td>
