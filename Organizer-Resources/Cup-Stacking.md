@@ -1,12 +1,12 @@
-## Cupstacking
+# Cupstacking
 
 Host a Cup Stacking Mini-Event at your hackathon!
 
-### What is Cup Stacking?
+## What is Cup Stacking?
 
 Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity with their friends and fellow hackers. In teams of two, the participants attempt to create the tallest tower of cups stacked on top of each other.
 
-### Preparations
+## Preparations
 
 1. Tell hackers to bring their laptops/phones to use for registration.
 2. Be ready to tweet about cup stacking! Make sure you tag @mlhacks and use the event hashtag, as well as #mlhlocalhost.
@@ -14,7 +14,7 @@ Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity w
 4. Have a device that can be used as a timer (a smart phone works great). You'll also need a way to record team names and the height of their towers. We recommend a simple spreadsheet!
 5. (Optional) A megaphone or microphone is very useful for calling teams when it’s their turn if you have a large amount of attendees.
 
-### Cup Stacking Procedures
+## Cup Stacking Procedures
 
 1. Have everyone register at mlhlocal.host/checkin on their laptops/phones.
 2. All participants should compete in pairs. If that results in too many teams for your time frame, have participants compete in groups of 4, then break them back into pairs for the final round.
