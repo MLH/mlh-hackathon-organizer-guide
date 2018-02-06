@@ -157,6 +157,12 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
   <tr>
     <td>  </td>
+    <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
+    <td> Yes <br> <em>Based on Availability</em </td>
+    <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
+  </tr>
+  <tr>
+    <td>  </td>
     <td> Season T-Shirts </td>
     <td> Yes </td>
     <td> No </td>
@@ -166,12 +172,6 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> Inclusion in Season Rankings </td>
     <td> Yes </td>
     <td> No </td>
-  </tr>
-  <tr>
-    <td>  </td>
-    <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
-    <td> Yes <br> <em>Based on Availability</em </td>
-    <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
   </tr>
   <tr>
     <td> </td>
