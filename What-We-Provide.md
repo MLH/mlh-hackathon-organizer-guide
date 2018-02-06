@@ -33,7 +33,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes <br> <em> 1 call</em> </td>
     </tr>
     <tr>
-      <td> Hackathon organizing resources (video, guide, etc.) </td>
+      <td> Hackathon Organizing Resources (video, guide, etc.) </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -67,12 +67,12 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Discounted tickets to Hackathon Organizer Conference </td>
+      <td> Discounted Tickets to Hackathon Organizer Conference </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Introductions to organizers and sponsors in the MLH network </td>
+      <td> Introductions to Organizers and Sponsors in the MLH Network </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -86,14 +86,14 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Event listed on MLH Website </td>
+      <td> Event Listed on MLH Website </td>
       <td> Yes <br> <em>Season Page</em> </td>
-      <td> Yes <br> <em>Select Repeated Events Only</em></td>
+      <td> Yes <br> <em>Selected Repeat Events Only</em></td>
     </tr>
     <tr>
       <td> Blog Post Recap </td>
-      <td> No </td>
-      <td> Yes </td>
+      <td> Yes <br> <em>Selected Events Only</em></td>
+      <td> Yes <br> <em>Selected Events Only</em></td>
     </tr>
   </tbody>
 
@@ -110,7 +110,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Other Stickers (Sponsor stickers, Github stickers) </td>
+      <td> Other Stickers (Sponsor Stickers, Github Stickers) </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -122,7 +122,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
     <tr>
       <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
       <td> Yes <br> <em>Based on Availability</em </td>
-      <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
+      <td> Yes <br> <em> Yes, Soylent only, USA Only</em> </td>
     </tr>
     <tr>
       <td> Season T-Shirts </td>
@@ -149,7 +149,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Other Free Software (Github Student Developer Pack, Softheon, etc.)</td>
+      <td> Other Free Software (Github Student Developer Pack, Softheon API Access, etc.)</td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -180,7 +180,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
     <tr>
       <td> Cup Stacking Mini-Event </td>
       <td> Yes <br> <em> Facilitated by MLH Representative On-Site </td>
-      <td> Guide Available <a href="Organizer-Resources/Cup-Stacking.md"> Here </a> <br> <em> Cups Not Provided </em> </td>
+      <td> Guide <a href="Organizer-Resources/Cup-Stacking.md"> Available</a> <br> <em> Cups Not Provided </em> </td>
     </tr>
     <tr>
       <td> MLH Photographer </td>
