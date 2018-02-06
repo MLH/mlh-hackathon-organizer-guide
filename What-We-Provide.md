@@ -145,9 +145,15 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
   <tr>
     <td>  </td>
-    <td> Blog Post Recap </td>
-    <td> No </td>
+    <td> Other Stickers (Sponsor stickers, Github stickers) </td>
     <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Prizes </td>
+    <td> Yes <br> <em> Medals for Top Teams & Prizes for Official MLH Sponsor Categories </em> </td>
+    <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </em> </td>
   </tr>
   <tr>
     <td> </td>
