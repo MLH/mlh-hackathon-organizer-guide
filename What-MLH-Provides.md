@@ -119,7 +119,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
     <tr>
       <td> Prizes </td>
       <td> Yes <br> <em> Medals for Top Teams & Prizes for Official MLH Sponsor Categories </em> </td>
-      <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </td>
+      <td> Yes <br> <em> Award Certificates for 1st, 2nd, 3rd Place and Social Media </td>
     </tr>
     <tr>
       <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
