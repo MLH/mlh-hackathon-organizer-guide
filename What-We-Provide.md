@@ -1,8 +1,10 @@
 # What MLH Provides
 
-Major League Hacking is excited to support hackathons through two different avenues: The League and MLH Localhost. See the chart below to learn what we provide to each!
+At Major League Hacking, our mission is to empower hackers. One way that we accomplish our mission is by providing this organizer guide to anyone in the world who wants to host a hackathon.
 
-## The League vs. MLH Localhost
+MLH also provides two different avenues for high-touch support for hackathons: The League and MLH Localhost. See the chart below to learn what we provide to each!
+
+## League Member Events vs. MLH Localhost Hackathons
 
 <table>
 
@@ -10,8 +12,8 @@ Major League Hacking is excited to support hackathons through two different aven
     <tr>
       <th> Category </th>
       <th> Offering </th>
-      <th> League Member Event </th>
-      <th> MLH Localhost Hackathon </th>
+      <th> League Member Events </th>
+      <th> MLH Localhost Hackathons </th>
     </tr>
   </thead>
 
@@ -19,16 +21,16 @@ Major League Hacking is excited to support hackathons through two different aven
     <tr>
       <th rowspan="6"> Support </th>
       <td> Pre-Event Calls with our Hackathon Experts </td>
-      <td> Yes <br> <em>2&ndash;3</em> </td>
-      <td> Yes <br> <em> 1 </em> </td>
+      <td> Yes <br> <em>2&ndash;3 calls</em> </td>
+      <td> Yes <br> <em> 1 call</em> </td>
     </tr>
     <tr>
-      <td> Hackathon organizing resouces (video, guide, etc.) </td>
+      <td> Hackathon organizing resources (video, guide, etc.) </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Preferred Vendor Rates & Intros </td>
+      <td> Preferred Vendor Rates & Introductions </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -38,8 +40,8 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Day-Of Event Support </td>
-      <td> Yes <br> <em> Representative On-site </em> </td>
+      <td> Day&ndash;Of Event Support </td>
+      <td> Yes <br> <em> Representative On&ndash;site </em> </td>
       <td> No </td>
     </tr>
     <tr>
@@ -62,7 +64,7 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Intros to organizers and sponsors in the MLH network </td>
+      <td> Introductions to organizers and sponsors in the MLH network </td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>
@@ -139,7 +141,7 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> Yes </td>
     </tr>
     <tr>
-      <td> Other Free Software (Github Student Developer Pack, Softheon, etc)</td>
+      <td> Other Free Software (Github Student Developer Pack, Softheon, etc.)</td>
       <td> Yes </td>
       <td> Yes </td>
     </tr>

@@ -83,6 +83,6 @@
 
 /* Table */
 
-tbody {
+tbody, thead {
   border: 2px solid black;
 }
