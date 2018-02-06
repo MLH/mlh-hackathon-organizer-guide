@@ -79,9 +79,6 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
   <tr>
     <th rowspan="4"> Marketing </th>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
   </tr>
   <tr>
     <td> Social Media Support </td>
