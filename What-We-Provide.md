@@ -153,7 +153,25 @@ Major League Hacking is excited to support hackathons through two different aven
     <td>  </td>
     <td> Prizes </td>
     <td> Yes <br> <em> Medals for Top Teams & Prizes for Official MLH Sponsor Categories </em> </td>
-    <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </em> </td>
+    <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Season T-Shirts </td>
+    <td> Yes </td>
+    <td> No </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Inclusion in Season Rankings </td>
+    <td> Yes </td>
+    <td> No </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
+    <td> Yes <br> <em>Based on Availability</em </td>
+    <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
   </tr>
   <tr>
     <td> </td>
