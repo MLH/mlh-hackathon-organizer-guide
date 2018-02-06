@@ -180,4 +180,78 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> </td>
   </tr>
 
+  <tr>
+    <td> Hardware &amp; Software</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Hosting Credit </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Free Domains </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Other Free Software (Github Student Developer Pack, Softheon, etc)</td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Hardware Lab </td>
+    <td> Yes </td>
+    <td> No </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td> Miscellaneous </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Post-Event Surveying </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> MyMLH Registration Support </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> !Light Mini-Event </td>
+    <td> Available on Request </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> Cup Stacking Mini-Event </td>
+    <td> Yes <br> <em> Facilitated by MLH Representative On-Site </td>
+    <td> Guide Available [Here](Organizer-Resources/Cup-Stacking.md) <br> <em> Cups Not Provided </em> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> MLH Photographer </td>
+    <td> Selected Events </td>
+    <td> No </td>
+  </tr>
+
 </table>
