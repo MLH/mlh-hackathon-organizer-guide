@@ -6,7 +6,8 @@ Major League Hacking is excited to support hackathons through two different aven
 
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
 | ----------- | ------------ | -------------------- | ------------------------ |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Support     | Pre-Event Call | Yes | MLH Localhost Hackathon  |
+                With our Hackathon Experts
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
 | Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
