@@ -6,12 +6,14 @@ Major League Hacking is excited to support hackathons through two different aven
 
 <table>
 
-  <tr>
-    <th> Category </th>
-    <th> Offering </th>
-    <th> League Member Event </th>
-    <th> MLH Localhost Hackathon </th>
-  </tr>
+  <thead>
+    <tr>
+      <th> Category </th>
+      <th> Offering </th>
+      <th> League Member Event </th>
+      <th> MLH Localhost Hackathon </th>
+    </tr>
+  </thead>
 
   <tbody>
     <tr>
@@ -64,6 +66,9 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> Yes </td>
       <td> Yes </td>
     </tr>
+  </tbody>
+
+  <tbody>
     <tr>
       <th rowspan="3"> Marketing </th>
       <td> Social Media Support </td>
@@ -80,6 +85,8 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> No </td>
       <td> Yes </td>
     </tr>
+  </tbody>
+  
   <tbody>
     <tr>
       <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
