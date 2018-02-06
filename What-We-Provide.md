@@ -64,6 +64,13 @@ Major League Hacking is excited to support hackathons through two different aven
 
   <tr>
     <td> Community </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+
+  <tr>
+    <td>  </td>
     <td> Access to Online Hackathon Organizer Community </td>
     <td> Yes </td>
     <td> Yes </td>
@@ -89,6 +96,12 @@ Major League Hacking is excited to support hackathons through two different aven
 
   <tr>
     <td> Marketing </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>  </td>
     <td> Social Media Support </td>
     <td> Yes </td>
     <td> Yes </td>
