@@ -31,12 +31,12 @@ Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity w
     * No chairs/tables/other furniture to stand on. You can use your partner’s back for more height if they let you!
 
     * Once time is called, participants need to put their hands straight up in the air! No cheating!
-    
+
     * Cup tower must stand during the whole counting period!
 
 5. Run each round, counting the height of each standing tower at the end. It should simply be a round number &mdash; for example, “Team Hackerzz: 19 Cups”. Continue running rounds until all of the teams have had a chance to stack.
 
-6. Remember to tweet about the event as it goes on! Tag **@MLHacks** and use the event’s hashtag, as well as **#mlhlocalhost!**.
+6. Remember to tweet about the event as it goes on! Tag **@MLHacks** and use the event’s hashtag, as well as **#mlhlocalhost!**
 
 7. Optional: You can do a final round with the top 4 teams from previous rounds, or run the event bracket-style.
 
