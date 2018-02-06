@@ -4,8 +4,8 @@ Major League Hacking is excited to support hackathons through two different aven
 
 ## The League vs. MLH Localhost
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Offering      | Offering      | League Event  | League Event  |
+| ------------- | ------------- | ------------- | ------------- |
+| Offering      | col 3 is      | right-aligned | right-aligned |
+| Offering      | col 2 is      | centered      | right-aligned |
+| Offering      | zebra stripes | are neat      | right-aligned |
