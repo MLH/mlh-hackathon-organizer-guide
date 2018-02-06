@@ -19,20 +19,39 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
   <tr>
     <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> Hackathon organizing resouces (video, guide, etc.) </td>
+    <td> Yes </td>
+    <td> Yes </td>
   </tr>
   <tr>
     <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> Preferred Vendor Rates & Intros </td>
+    <td> Yes </td>
+    <td> Yes </td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>  </td>
+    <td> Code of Conduct </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Day-Of Event Support </td>
+    <td> Yes <br> <em> Representative On-site </em> </td>
+    <td> No </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Github New Member Grants </td>
+    <td> Yes </td>
+    <td> No </td>
+  </tr>
+
+  <tr>
+    <td>  </td>
+    <td> Day-Of Event Support </td>
+    <td> Yes <br> <em> Representative On-site </em> </td>
+    <td> No </td>
   </tr>
 </table>
