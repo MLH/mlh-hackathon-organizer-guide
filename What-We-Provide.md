@@ -49,9 +49,21 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
+    <td> Community </td>
+    <td> Access to Online Hackathon Organizer Community </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
     <td>  </td>
-    <td> Day-Of Event Support </td>
-    <td> Yes <br> <em> Representative On-site </em> </td>
-    <td> No </td>
+    <td> Discounted tickets to Hackathon Organizer Conference </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Intros to organizers and sponsors in the MLH network </td>
+    <td> Yes </td>
+    <td> Yes </td>
   </tr>
 </table>
