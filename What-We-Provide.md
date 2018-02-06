@@ -47,10 +47,6 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> No </td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
   </tr>
 
   <tr>
