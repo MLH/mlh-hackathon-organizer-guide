@@ -80,6 +80,7 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> No </td>
       <td> Yes </td>
     </tr>
+  <tbody>
     <tr>
       <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
       <td> "I Demoed" Stickers </td>
@@ -118,53 +119,57 @@ Major League Hacking is excited to support hackathons through two different aven
     </tr>
   </tbody>
 
-  <tr>
-    <th rowspan="4"> Hardware &amp; Software</th>
-    <td> Hosting Credit </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Free Domains </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Other Free Software (Github Student Developer Pack, Softheon, etc)</td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Hardware Lab </td>
-    <td> Yes </td>
-    <td> No </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th rowspan="4"> Hardware &amp; Software</th>
+      <td> Hosting Credit </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Free Domains </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Other Free Software (Github Student Developer Pack, Softheon, etc)</td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Hardware Lab </td>
+      <td> Yes </td>
+      <td> No </td>
+    </tr>
+  </tbody>
 
-  <tr>
-    <th rowspan="5"> Miscellaneous </th>
-    <td> Post-Event Surveying </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> MyMLH Registration Support </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> !Light Mini-Event </td>
-    <td> Available on Request </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Cup Stacking Mini-Event </td>
-    <td> Yes <br> <em> Facilitated by MLH Representative On-Site </td>
-    <td> Guide Available <a href="Organizer-Resources/Cup-Stacking.md"> Here </a> <br> <em> Cups Not Provided </em> </td>
-  </tr>
-  <tr>
-    <td> MLH Photographer </td>
-    <td> Selected Events </td>
-    <td> No </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th rowspan="5"> Miscellaneous </th>
+      <td> Post-Event Surveying </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> MyMLH Registration Support </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> !Light Mini-Event </td>
+      <td> Available on Request </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Cup Stacking Mini-Event </td>
+      <td> Yes <br> <em> Facilitated by MLH Representative On-Site </td>
+      <td> Guide Available <a href="Organizer-Resources/Cup-Stacking.md"> Here </a> <br> <em> Cups Not Provided </em> </td>
+    </tr>
+    <tr>
+      <td> MLH Photographer </td>
+      <td> Selected Events </td>
+      <td> No </td>
+    </tr>
+  </tbody>
 
 </table>
