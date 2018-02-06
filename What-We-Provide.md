@@ -55,6 +55,12 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> Yes </td>
     <td> No </td>
   </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 
   <tr>
     <td> Community </td>
@@ -73,6 +79,12 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> Intros to organizers and sponsors in the MLH network </td>
     <td> Yes </td>
     <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 
   <tr>
@@ -93,6 +105,11 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> No </td>
     <td> Yes </td>
   </tr>
-
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
 
 </table>
