@@ -4,8 +4,15 @@ Major League Hacking is excited to support hackathons through two different aven
 
 ## The League vs. MLH Localhost
 
-| Offering      | Offering      | League Event  | League Event  |
-| ------------- | ------------- | ------------- | ------------- |
-| Offering      | col 3 is      | right-aligned | right-aligned |
-| Offering      | col 2 is      | centered      | right-aligned |
-| Offering      | zebra stripes | are neat      | right-aligned |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| ----------- | ------------ | -------------------- | ------------------------ |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
+| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
