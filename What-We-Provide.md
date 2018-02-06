@@ -79,7 +79,7 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
-    <th rowspan="3"> Marketing </th>
+    <th rowspan="4"> Marketing </th>
     <td>  </td>
     <td>  </td>
     <td>  </td>
@@ -107,7 +107,7 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
-    <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
+    <th rowspan="8"> Swag, Freebies, &amp; Prizes </td>
   </tr>
   <tr>
     <td> "I Demoed" Stickers </td>
@@ -152,7 +152,7 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
-    <th rowspan="4"> Hardware &amp; Software</th>
+    <th rowspan="5"> Hardware &amp; Software</th>
   </tr>
   <tr>
     <td> Hosting Credit </td>
@@ -182,7 +182,7 @@ Major League Hacking is excited to support hackathons through two different aven
   </tr>
 
   <tr>
-    <th rowspan="5"> Miscellaneous </th>
+    <th rowspan="6"> Miscellaneous </th>
   </tr>
   <tr>
     <td> Post-Event Surveying </td>
