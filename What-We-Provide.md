@@ -4,26 +4,35 @@ Major League Hacking is excited to support hackathons through two different aven
 
 ## The League vs. MLH Localhost
 
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| ----------- | ------------ | -------------------- | ------------------------ |
-| Support     | Pre-Event Call | Yes | MLH Localhost Hackathon  |
-                With our Hackathon Experts
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-| Category    | Offering     | League Member Event  | MLH Localhost Hackathon  |
-
-
 <table>
   <tr>
     <th> Category </th>
     <th> Offering </th>
     <th> League Member Event </th>
     <th> MLH Localhost Hackathon </th>
+  </tr>
+  <tr>
+    <td> Support </td>
+    <td> Pre-Event Calls with our Hackathon Experts </td>
+    <td> Yes <br> <em>2&ndash;3</em> </td>
+    <td> Yes <br> <em> 1 </em> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 </table>
