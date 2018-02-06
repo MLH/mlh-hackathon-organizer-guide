@@ -245,7 +245,7 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> </td>
     <td> Cup Stacking Mini-Event </td>
     <td> Yes <br> <em> Facilitated by MLH Representative On-Site </td>
-    <td> Guide Available [Here](Organizer-Resources/Cup-Stacking.md) <br> <em> Cups Not Provided </em> </td>
+    <td> Guide Available <a href="Organizer-Resources/Cup-Stacking.md"> Here </a> <br> <em> Cups Not Provided </em> </td>
   </tr>
   <tr>
     <td> </td>
