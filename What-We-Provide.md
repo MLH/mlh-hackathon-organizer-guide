@@ -4,6 +4,14 @@ At Major League Hacking, our mission is to empower hackers. One way that we acco
 
 MLH also provides two different avenues for high-touch support for hackathons: The League and MLH Localhost. See the chart below to learn what we provide to each!
 
+## League Member Events
+
+To become a League Member Event, please submit an application [here](https://majorleaguehacking.typeform.com/to/Kr9zPl). Note that there are several requirements for consideration, which you can read about [here](https://github.com/MLH/mlh-policies/blob/master/membership-guide.md#membership-requirements).
+
+## MLH Localhost Hackathon
+
+To host an MLH Localhost Hackathon, please submit an application [here](https://majorleaguehacking.typeform.com/to/mrON1j?source=organizer-guide).
+
 ## League Member Events vs. MLH Localhost Hackathons
 
 <table>
