@@ -86,7 +86,7 @@ Major League Hacking is excited to support hackathons through two different aven
       <td> Yes </td>
     </tr>
   </tbody>
-  
+
   <tbody>
     <tr>
       <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
