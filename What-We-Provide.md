@@ -47,75 +47,76 @@ Major League Hacking is excited to support hackathons through two different aven
     </tr>
   </tbody>
 
-  <tr>
-    <th rowspan="3"> Community </th>
-    <td> Access to Online Hackathon Organizer Community </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Discounted tickets to Hackathon Organizer Conference </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Intros to organizers and sponsors in the MLH network </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <th rowspan="3"> Marketing </th>
-    <td> Social Media Support </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Event listed on MLH Website </td>
-    <td> Yes <br> <em>Season Page</em> </td>
-    <td> Yes <br> <em>Select Repeated Events Only</em></td>
-  </tr>
-  <tr>
-    <td> Blog Post Recap </td>
-    <td> No </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
-    <td> "I Demoed" Stickers </td>
-    <td> Yes <br> <em> Customized w/Event Branding </em> </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> MLH Stickers and Season Stickers </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Other Stickers (Sponsor stickers, Github stickers) </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Prizes </td>
-    <td> Yes <br> <em> Medals for Top Teams & Prizes for Official MLH Sponsor Categories </em> </td>
-    <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </td>
-  </tr>
-  <tr>
-    <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
-    <td> Yes <br> <em>Based on Availability</em </td>
-    <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
-  </tr>
-  <tr>
-    <td> Season T-Shirts </td>
-    <td> Yes </td>
-    <td> No </td>
-  </tr>
-  <tr>
-    <td> Inclusion in Season Rankings </td>
-    <td> Yes </td>
-    <td> No </td>
-  </tr>
-
+  <tbody>
+    <tr>
+      <th rowspan="3"> Community </th>
+      <td> Access to Online Hackathon Organizer Community </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Discounted tickets to Hackathon Organizer Conference </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Intros to organizers and sponsors in the MLH network </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <th rowspan="3"> Marketing </th>
+      <td> Social Media Support </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Event listed on MLH Website </td>
+      <td> Yes <br> <em>Season Page</em> </td>
+      <td> Yes <br> <em>Select Repeated Events Only</em></td>
+    </tr>
+    <tr>
+      <td> Blog Post Recap </td>
+      <td> No </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <th rowspan="7"> Swag, Freebies, &amp; Prizes </td>
+      <td> "I Demoed" Stickers </td>
+      <td> Yes <br> <em> Customized w/Event Branding </em> </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> MLH Stickers and Season Stickers </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Other Stickers (Sponsor stickers, Github stickers) </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Prizes </td>
+      <td> Yes <br> <em> Medals for Top Teams & Prizes for Official MLH Sponsor Categories </em> </td>
+      <td> Yes <br> <em> Award Certificates for1st, 2nd, 3rd Place and Social Media </td>
+    </tr>
+    <tr>
+      <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
+      <td> Yes <br> <em>Based on Availability</em </td>
+      <td> Yes <br> <em> Yes, Soylent only, USA </em> </td>
+    </tr>
+    <tr>
+      <td> Season T-Shirts </td>
+      <td> Yes </td>
+      <td> No </td>
+    </tr>
+    <tr>
+      <td> Inclusion in Season Rankings </td>
+      <td> Yes </td>
+      <td> No </td>
+    </tr>
+  </tbody>
 
   <tr>
     <th rowspan="4"> Hardware &amp; Software</th>
