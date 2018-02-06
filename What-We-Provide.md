@@ -6,7 +6,7 @@ MLH also provides two different avenues for high-touch support for hackathons: T
 
 ## League Member Events
 
-To become a League Member Event, please submit an [application](https://majorleaguehacking.typeform.com/to/Kr9zPl). Note that there are several [requirements](https://github.com/MLH/mlh-policies/blob/master/membership-guide.md#membership-requirements).
+To become a League Member Event, please submit an [application](https://majorleaguehacking.typeform.com/to/Kr9zPl). Note that there are several minimum [requirements](https://github.com/MLH/mlh-policies/blob/master/membership-guide.md#membership-requirements) to be considered for membership in the League.
 
 ## MLH Localhost Hackathon
 
