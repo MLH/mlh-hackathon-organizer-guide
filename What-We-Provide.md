@@ -5,12 +5,14 @@ Major League Hacking is excited to support hackathons through two different aven
 ## The League vs. MLH Localhost
 
 <table>
+
   <tr>
     <th> Category </th>
     <th> Offering </th>
     <th> League Member Event </th>
     <th> MLH Localhost Hackathon </th>
   </tr>
+
   <tr>
     <td> Support </td>
     <td> Pre-Event Calls with our Hackathon Experts </td>
@@ -66,4 +68,25 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> Yes </td>
     <td> Yes </td>
   </tr>
+
+  <tr>
+    <td> Marketing </td>
+    <td> Social Media Support </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Event listed on MLH Website </td>
+    <td> Yes <br> <em>Season Page</em> </td>
+    <td> Yes <br> <em>Select Repeated Events Only</em></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Blog Post Recap </td>
+    <td> No </td>
+    <td> Yes </td>
+  </tr>
+
+
 </table>
