@@ -10,7 +10,7 @@ To become a League Member Event, please submit an application [here](https://maj
 
 ## MLH Localhost Hackathon
 
-To host an MLH Localhost Hackathon, please submit an application [here](https://majorleaguehacking.typeform.com/to/mrON1j?source=organizer-guide).
+To host an MLH Localhost Hackathon, please submit an application [here](https://majorleaguehacking.typeform.com/to/mrON1j?source=organizer-guide). You can learn more about [MLH Localhost](https://localhost.mlh.io) and [MLH Localhost Hackathons](https://localhost.mlh.io/activities/hackathon/) on our website. 
 
 ## League Member Events vs. MLH Localhost Hackathons
 
