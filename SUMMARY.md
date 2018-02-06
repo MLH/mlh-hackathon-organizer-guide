@@ -32,6 +32,8 @@
         * [Setup Your Event](Organizer-Timeline/Day-Of-Event/Setup-Your-Event.md)
         * [Social Media](Organizer-Timeline/Day-Of-Event/Social-Media.md)
         * [Kick Off](Organizer-Timeline/Day-Of-Event/Kick-Off.md)
+        * [Host an Exciting Mini-Event](Organizer-Resources/minievents.md)
+          * [Cup Stacking](Organizer-Resources/cupstacking.md)
     * [After The Event](Organizer-Timeline/After-The-Event.md)
 * Organizer Resources
     * [Example Documents](Organizer-Resources/Example-Documents.md)
