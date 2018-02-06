@@ -125,4 +125,35 @@ Major League Hacking is excited to support hackathons through two different aven
     <td> </td>
   </tr>
 
+  <tr>
+    <td> Swag, Freebies, &amp; Prizes </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> "I Demoed" Stickers </td>
+    <td> Yes <br> <em> Customized w/Event Branding </em> </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> MLH Stickers and Season Stickers </td>
+    <td> Yes </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td> Blog Post Recap </td>
+    <td> No </td>
+    <td> Yes </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
 </table>
