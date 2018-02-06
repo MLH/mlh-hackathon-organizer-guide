@@ -13,44 +13,39 @@ Major League Hacking is excited to support hackathons through two different aven
     <th> MLH Localhost Hackathon </th>
   </tr>
 
-  <tr>
-    <th rowspan="6"> Support </th>
-    <td> Pre-Event Calls with our Hackathon Experts </td>
-    <td> Yes <br> <em>2&ndash;3</em> </td>
-    <td> Yes <br> <em> 1 </em> </td>
-  </tr>
-
-  <tr>
-    <td> Hackathon organizing resouces (video, guide, etc.) </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Preferred Vendor Rates & Intros </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Code of Conduct </td>
-    <td> Yes </td>
-    <td> Yes </td>
-  </tr>
-  <tr>
-    <td> Day-Of Event Support </td>
-    <td> Yes <br> <em> Representative On-site </em> </td>
-    <td> No </td>
-  </tr>
-  <tr>
-    <td> Github New Member Grants </td>
-    <td> Yes </td>
-    <td> No </td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th rowspan="6"> Support </th>
+      <td> Pre-Event Calls with our Hackathon Experts </td>
+      <td> Yes <br> <em>2&ndash;3</em> </td>
+      <td> Yes <br> <em> 1 </em> </td>
+    </tr>
+    <tr>
+      <td> Hackathon organizing resouces (video, guide, etc.) </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Preferred Vendor Rates & Intros </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Code of Conduct </td>
+      <td> Yes </td>
+      <td> Yes </td>
+    </tr>
+    <tr>
+      <td> Day-Of Event Support </td>
+      <td> Yes <br> <em> Representative On-site </em> </td>
+      <td> No </td>
+    </tr>
+    <tr>
+      <td> Github New Member Grants </td>
+      <td> Yes </td>
+      <td> No </td>
+    </tr>
+  </tbody>
 
   <tr>
     <th rowspan="3"> Community </th>
