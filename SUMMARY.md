@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [What MLH Provides](What-MLH-Provides.md)
 * Organizer Timeline
     * 4 To 9 Months Before
         * [Lock Down A Venue](Organizer-Timeline/4-To-9-Months-Before/Venue.md)
@@ -32,6 +33,8 @@
         * [Setup Your Event](Organizer-Timeline/Day-Of-Event/Setup-Your-Event.md)
         * [Social Media](Organizer-Timeline/Day-Of-Event/Social-Media.md)
         * [Kick Off](Organizer-Timeline/Day-Of-Event/Kick-Off.md)
+        * [Host an Exciting Mini-Event](Organizer-Resources/Mini-Events.md)
+          * [Cup Stacking](Organizer-Resources/Cup-Stacking.md)
     * [After The Event](Organizer-Timeline/After-The-Event.md)
 * Organizer Resources
     * [Example Documents](Organizer-Resources/Example-Documents.md)

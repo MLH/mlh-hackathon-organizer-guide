@@ -80,3 +80,9 @@
 .book .book-body .page-wrapper .page-inner section.normal a:hover {
   color: #0047AB;
 }
+
+/* Table */
+
+tbody, thead {
+  border: 2px solid black;
+}
