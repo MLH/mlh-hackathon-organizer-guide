@@ -5,12 +5,12 @@ At Major League Hacking, our mission is to empower hackers. One way that we acco
 MLH also provides two different avenues for high-touch hackathon support: The League and MLH Localhost. See the chart below to learn what we provide to each!
 
 ## League Member Events
-League Member Events are competitive hackathons organized by students and hosted at colleges and universities in North America, the UK, and the EU. These events must target at least 100 attendees in North America and at least 80 attendees in the UK and the EU. League Member hackathons must last 24 hours or more.
+League Member Events are hackathons organized by students and hosted at colleges and universities in North America, the UK, and the EU. These events must target at least 100 attendees in North America and at least 80 attendees in the UK and the EU. League Member hackathons must last 24 hours or more.
 
 To become a League Member Event, please submit an [application](https://majorleaguehacking.typeform.com/to/Kr9zPl). Please review these [requirements](https://github.com/MLH/mlh-policies/blob/master/membership-guide.md#membership-requirements) to be considered for membership in The League.
 
 ## MLH Localhost Hackathons
-MLH Localhost Hackathons do not have minimum size or length requirements, although we recommend a minimum size of at least 20 participants and at least a 12 hour timeframe for the best experience. MLH Localhost Hackathons do not have to be hosted by university students &ndash; just by anyone who is passionate about engaging their local hacker community!
+MLH Localhost Hackathons do not have minimum size or length requirements, although we recommend a minimum size of at least 20 participants and at least a 12 hour timeframe for the best experience!
 
 To host an MLH Localhost Hackathon, please submit an [application](https://majorleaguehacking.typeform.com/to/mrON1j?source=organizer-guide). You can learn more about [MLH Localhost](https://localhost.mlh.io) and [MLH Localhost Hackathons](https://localhost.mlh.io/activities/hackathon/) on our website.
 
