@@ -32,7 +32,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <th rowspan="6"> Support </th>
       <td> Pre-Event Calls with our Hackathon Experts </td>
       <td> Yes <br> <em>2&ndash;3 calls</em> </td>
-      <td> Yes <br> <em> 1 call</em> </td>
+      <td> Yes <br> <em> 1 &ndash; 2 calls</em> </td>
     </tr>
     <tr>
       <td> Hackathon Organizing Resources (video, guide, etc.) </td>
@@ -124,7 +124,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
     <tr>
       <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
       <td> Yes <br> <em>Based on Availability</em </td>
-      <td> Yes <br> <em> Yes, Soylent only, USA Only</em> </td>
+      <td> Yes <br> <em> Soylent only, USA Only</em> </td>
     </tr>
     <tr>
       <td> Season T-Shirts </td>
