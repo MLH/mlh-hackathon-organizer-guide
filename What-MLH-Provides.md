@@ -122,7 +122,7 @@ To host an MLH Localhost Hackathon, please submit an [application](https://major
       <td> Yes <br> <em> Award Certificates for 1st, 2nd, 3rd Place and Social Media </td>
     </tr>
     <tr>
-      <td> Snacks & Drinks (Soylent &amp; Awake Chocolate) </td>
+      <td> Snacks & Drinks (Soylent, Awake Chocolate, and FORTO Coffee Shots) </td>
       <td> Yes <br> <em>Based on Availability</em </td>
       <td> Yes <br> <em> Soylent only, USA Only</em> </td>
     </tr>
