@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [What MLH Provides](What-MLH-Provides.md)
 * Organizer Timeline
     * 4 To 9 Months Before
         * [Lock Down A Venue](Organizer-Timeline/4-To-9-Months-Before/Venue.md)
