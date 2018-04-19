@@ -132,3 +132,7 @@ Record and justify your signup process and the data it gathers.
 - When I withdraw consent
 - When I object to processing where SharkHacks can not prove a legitimate overriding interesting the processing
   - So I would not be able to object to having my check-in data collected, as SharkHacks has a key interest in using that data to determine whether or not I’m a bad actor, unless I decided that I no longer wanted to attend the event
+
+## Other Resources
+
+- https://ti.to/gdpr/ - a handy guide for conference organisers! 
