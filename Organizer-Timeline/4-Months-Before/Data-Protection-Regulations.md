@@ -1,6 +1,7 @@
 # Data Protection Regulations
+**Before reading this, please do note that the information here has not been added by a lawyer. This is instead a series of guidelines. If in doubt, always seek professional legal advice.**
 
-This is the excitement you came for - data protection regulations! Unfortunately, every single hackathon that stores data on hackers needs to make sure they have policies on how that data is used and stored. Whilst this sounds like a dull task, it's an important one, and with the advice here you won't really have to worry about it for the rest of the event!
+This is the excitement you came for - data protection regulations! Unfortunately, every single hackathon that stores data on hackers needs to make sure they have policies on how that data is used and stored. Whilst this sounds like a dull task, it's an important one, and these guidelines should help to make sure you're all set.
 
 ## [General Data Protection Regulation (GDPR)](https://www.eugdpr.org/)
 
@@ -8,26 +9,32 @@ The biggest thing at the moment is the General Data Protection Regulation, or GD
 
 These regulations protect all EU citizens, and **apply to anybody holding data on EU citizens, including entities not in the EU but with EU attendees.** This means that if you're running your awesome hackathon in New York but want to invite some of the cool folks from the EU, you will have to make sure their data is held and processed in compliance with GDPR.
 
-Here's a list of tasks you can follow to make sure your event is GDPR compliant. If you want to read more on each element, we've included a guide on
+Here's a list of tasks you can follow to make sure your event is GDPR compliant. If you want to read more on each element, we've linked out to a guide, and also explained a few of the key concepts below.
 
-A task list:
+## Once you know you're running an event
 
-- [ ] Ask clearly for consent, do not pretick consent boxes, be clear about what somebody's data will be used for
-  - [ ] Do not make it mandatory to sign up to a mailing list in order to attend an event
-- [ ] Have a Privacy Policy detailing what data you ask for, and why
 - [ ] Have a plan set up to erase somebody's personal data if they ask
 - [ ] Have a plan set up to give somebody all the personal data you hold on them if they ask
-- [ ] Make sure to update the data you hold on somebody if they ask
-- [ ] Make sure to be secure with the data you hold
-- [ ] Be very careful about how this information is shared. Sharing includes:
+- [ ] Make sure to keep a record of all the ways you're going to store personal data, and justifications for why you're doing it
+- [ ] If you're sending emails, they should only be to people who have actively consented to you having their email address
+
+## When you set up the website / registration
+
+- [ ] Ask clearly for consent, do not pre-tick consent boxes, be clear about what somebody's data will be used for
+  - [ ] Do not make it mandatory to sign up to a mailing list in order to attend an event
+- [ ] Have a page up with a Privacy Policy detailing what data you ask for, and why
+
+## Once you have gathered personal data through registration etc
+
+- [ ] Be very careful about how this data is shared. Sharing includes:
   - [ ] Printing out an attendee's details without having their prior consent
   - [ ] Sending CV's to sponsors without an attendee's consent
   - [ ] Giving access to the data store to unauthorised users
 - [ ] Make sure you store this data in a machine readable format (XML, JSON, CSV)
 - [ ] Make sure the data is stored securely
-- [ ] If you're sending emails, they should only be to people who have consented
-- [ ] Make sure to keep a record of all the ways you're storing personal data, and justifications for why you're doing it
 - [ ] Make sure you delete all personal data once you no longer have a use for it
+- [ ] Make sure to update the data you hold on somebody if they ask
+- [ ] Make sure to be secure with the data you hold
 
 If you follow these rules, you should be absolutely fine - but if you're interested in reading more, here is some more context, using SharkHacks as an example
 
@@ -135,4 +142,4 @@ Record and justify your signup process and the data it gathers.
 
 ## Other Resources
 
-- https://ti.to/gdpr/ - a handy guide for conference organisers! 
+- https://ti.to/gdpr/ - a handy guide for conference organisers!
