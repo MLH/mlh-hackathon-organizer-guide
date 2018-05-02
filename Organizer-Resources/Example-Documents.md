@@ -17,6 +17,9 @@ We all know that organizing a hackathon can be a tough process. You have to crea
 ## Sponsorship Decks
 - [Collection of Previous Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks)
 
+## Example Privacy Policy
+- [Privacy Policy](https://github.com/MLH/hackathon-organizer-guide/blob/master/Organizer-Resources/Example-Privacy-Policy.md)
+
 ## Guide To Hackathons
 - [College Administrator Guide](https://mlh.io/college-administrator-hackathon-guide)
 - [High School Administrator Guide](https://mlh.io/high-school-administrator-hackathon-guide)

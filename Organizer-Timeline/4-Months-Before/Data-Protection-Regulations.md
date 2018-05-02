@@ -22,7 +22,7 @@ Here's a list of tasks you can follow to make sure your event is GDPR compliant.
 
 - [ ] Ask clearly for consent, do not pre-tick consent boxes, be clear about what somebody's data will be used for
   - [ ] Do not make it mandatory to sign up to a mailing list in order to attend an event
-- [ ] Have a page up with a Privacy Policy detailing what data you ask for, and why
+- [ ] Have a page up with a Privacy Policy (you can find an example [here](https://github.com/MLH/hackathon-organizer-guide/blob/master/Organizer-Resources/Example-Privacy-Policy.md)) detailing what data you ask for, and why
 
 ## Once you have gathered personal data through registration etc
 
