@@ -12,7 +12,7 @@ Take a look and learn some of the practices used by hackathon organizers all aro
 
 Are you ready to host your school’s very own hackathon?
 
-[Each semester, more than 50,000 developers, designers, and makers compete for their school's glory at the 150+ official MLH hackathons around the world.][mlh-about] Whether you’re hosting your first or third MLH hackathon, our organizer guide will give you the tools to blow away your student hacker community.
+[Each semester, more than 65,000 developers, designers, and makers compete for their school's glory at the 150+ official MLH hackathons around the world.][mlh-about] Whether you’re hosting your first or third MLH hackathon, our organizer guide will give you the tools to blow away your student hacker community.
 
 Major League Hacking's [mission is to empower hackers][mlh-about]. This guide helps us support organizers in their pursuit to throw incredible hackathons and empower hackers to build great hacks.
 
