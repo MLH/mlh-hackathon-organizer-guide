@@ -1,27 +1,27 @@
 # Finding Great Workshop Content at O(1) Speed
 
-As a hackathon organizer, you have to worry about getting enough food, figuring out the budget, setting the schedule, contacting sponsors, etc. Then you realize your hackathon doesn't have any workshops on its schedule, Or you don't know what workshops can appeal to your hackers, all with different experience levels. You want your workshop to be fun and educational. But your team is already busy managing everything else, and the last thing you need is to worry about finding time to prepare slides, dig through API documentation, and setup a development environment.
+As a hackathon organizer, you have to worry about getting enough food, figuring out the budget, setting the schedule, contacting sponsors, etc. Then you realize your hackathon doesn't have any workshops on its schedule or you don't know what workshops can appeal to your hackers, each with different experience levels. You want your workshop to be fun and educational. But your team is already busy managing everything else. The last thing you need is to worry about finding time to prepare slides, dig through API documentation, and setup a development environment.
 
-There's no need to fear, [Localhost is here](https://localhost.mlh.io)! Localhost provides workshops that you can use right out of the box. 
+There's no need to fear, MLH [Localhost is here](https://localhost.mlh.io)! Localhost provides workshops that you can use right out of the box. 
 
 ## What MLH Localhost provides
 
-We provide you a slide deck that is easy to follow, all of the documentation, lots of swag, and any hardware that you might need. All given to you for free. You don't need any prior experience with the tech that you are teaching. Localhosts are designed for beginners to teach other beginners. Just practice the slides before the workshop, run the workshop, and give out the swag after the workshop. Profit.  
+We provide you with a step-by-step presentation that is easy for people of all skill levels to follow, all of the documentation, lots of swag, and loan you any hardware that you might need – all for free! Localhost workshops are designed for beginners to teach other beginners. Just practice the slides before the workshop, run the workshop, and give out the swag after the workshop.  
 
 ## Hands-on experience
-Localhost events give your attendees hands-on experience with the tech they're learning. They can immediately apply what they've learned to their projects, like how to use CockroachDB to build a backend for their app, how to build a Slack app for a chatbot, or use Ada to write bug-free code. They can even learn what exactly is a blockchain! 
+Localhost events give your attendees hands-on experience with the tech they're learning. They can immediately apply what they've learned to their projects, like how to build a game for Slack, use Ada to write bug-free code, or how to use CockroachDB to let their popular app scale seamlessly after the hackathon. They can even learn what exactly is a blockchain! 
 
 ## Beginner-friendly, no experience necessary 
 
-All MLH hackathons welcome beginners too. But it can be hard to acclimate a newbie on the day of the hackathon. You can also use Localhosts as a "warmup" for your hackathon. You can run a Localhost 1-2 weeks prior to your hackathon so freshman, people who are complete beginners to programming, or that biology major who's thinking about computer science can come prepared to your event. 
+All MLH hackathons welcome beginners too. But it can be hard to acclimate a newbie on the day of the hackathon. You can also use Localhost workshops as a "warmup" for your hackathon. You can run a workshop 1-2 weeks prior to your hackathon so freshman, people who are complete beginners to programming, or that biology major who's thinking about computer science can come prepared to your event. 
 
-Experienced hackers can also benefit from Localhosts too. If they are struggling to find ideas for a project, want to check out a new API, or have fun at a workshop, Localhost treats them as a first-class citizen as well. 
+Experienced hackers can also benefit from our workshops too. If they are struggling to find ideas for a project, want to check out a new API, or have fun at a workshop, Localhost treats them as a first-class citizen as well. 
 
 ## Run your event today!
 
-Go to https://localhost.mlh.io for our list of activities and to signup to run an event.
+Go to https://localhost.mlh.io for our list of activities and to sign up to run an event.
 
-We suggest that you have a team member that can oversee setting up the Localhost workshop, since you already have a lot to do.
+We recommend having a dedicated volunteer or member of the organizing team in charge of registering for and facilitating the workshop, since you already have a lot to do.
 
 ## Infinite Loop
 
