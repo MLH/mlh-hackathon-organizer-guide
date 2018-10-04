@@ -6,4 +6,4 @@ One thing to keep in mind as you work your way through this process: sponsors ar
 
 When you’re finished reading this section of the guide, we strongly recommend watching our fundraising webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/QI9NVe2wA5w" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QI9NVe2wA5w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

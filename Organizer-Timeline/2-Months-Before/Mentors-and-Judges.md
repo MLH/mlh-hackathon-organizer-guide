@@ -38,7 +38,7 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 
 ### Resources:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Abhe2PavXyA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Abhe2PavXyA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Article: [How to Judge a Hackathon: Finding the Chosen One](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 

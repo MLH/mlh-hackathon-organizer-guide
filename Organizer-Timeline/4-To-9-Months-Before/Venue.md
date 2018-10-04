@@ -12,7 +12,7 @@ Note: Each venue usually has one university bureaucrat in charge of it; try to f
 
 ## Enlist A Campus Advocate To Help You Navigate The Bureaucracy
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/UAka9RZ68kk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UAka9RZ68kk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A university advocate — such as a professor or dean — can make your venue search immeasurably easier by helping you navigate your school’s unique booking process.
 

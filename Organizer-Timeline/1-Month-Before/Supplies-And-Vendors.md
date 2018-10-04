@@ -30,5 +30,5 @@ Ordering supplies and services a month before the event ensures you’ll have wi
 
 ### Resources:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RP6qmeGnyCo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RP6qmeGnyCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

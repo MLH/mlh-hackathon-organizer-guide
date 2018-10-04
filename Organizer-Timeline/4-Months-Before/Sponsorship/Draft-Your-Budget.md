@@ -2,7 +2,7 @@
 
 Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template based on estimated costs and your expected number of attendees](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/-ybgtN2GjTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-ybgtN2GjTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will *always* need this extra money.
 
