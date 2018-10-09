@@ -1,12 +1,12 @@
 # Finding Great Workshop Content at O(1) Speed
 
-As a hackathon organizer, you have to worry about getting enough food, figuring out the budget, setting the schedule, contacting sponsors, etc. Then you realize your hackathon doesn't have any workshops on its schedule or you don't know what workshops can appeal to your hackers, each with different experience levels. You want your workshop to be fun and educational. But your team is already busy managing everything else. The last thing you need is to worry about finding time to prepare slides, dig through API documentation, and setup a development environment.
+As a hackathon organizer, you have to figure out the budget, create the schedule, contact sponsors, and more. While you're creating the schedule, you think that your hackers might benefit from a fun and educational workshop. You also want your workshop to appeal to hackers with different experience levels. But your team is already busy managing everything else. The last thing you need to worry about is finding time to prepare slides, dig through API documentation, and setup a development environment to make a presentation.
 
 There's no need to fear, MLH [Localhost is here](https://localhost.mlh.io)! Localhost provides workshops that you can use right out of the box. 
 
 ## What MLH Localhost provides
 
-We provide you with a step-by-step presentation that is easy for people of all skill levels to follow, all of the documentation, lots of swag, and loan you any hardware that you might need – all for free! Localhost workshops are designed for beginners to teach other beginners. Just practice the slides before the workshop, run the workshop, and give out the swag after the workshop.  
+We provide you with a step-by-step presentation that is easy for people of all skill levels to follow, all of the documentation, lots of swag, and loan you any hardware that you might need – all for free! Localhost workshops are designed for beginners to teach other beginners. Just practice the slides before the workshop, run the workshop, and give out the swag after the workshop. It's amazing! 
 
 ## Hands-on experience
 Localhost events give your attendees hands-on experience with the tech they're learning. They can immediately apply what they've learned to their projects, like how to build a game for Slack, use Ada to write bug-free code, or how to use CockroachDB to let their popular app scale seamlessly after the hackathon. They can even learn what exactly is a blockchain! 
