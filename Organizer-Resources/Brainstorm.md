@@ -40,10 +40,8 @@ and have the matching skill set can offer to join the presenter.
 ## Check-in Meetings
 
 Check-in meetings or standups give teams face-to-face contact with other teams
-and a chance to report their progress and get help from mentors and other teams
-with things they're stuck on. Consider running three to five check-in meetings
-interspersed throughout your hackathon.
-
-At a check-in meeting, teams take turns stating how much progress they've made,
+and a chance to report their progress and get help. At a check-in meeting, teams
+take turns stating what their goals are, how much progress they've made,
 what difficulties are impeding their progress, and what kind of help they need
-from others at the hackathon.
+from mentors and other teams at the hackathon. Consider running three to five
+check-in meetings at regular intervals throughout your hackathon.
