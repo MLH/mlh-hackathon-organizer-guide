@@ -29,7 +29,7 @@ solve problems that users face.
 
 [design thinking]: https://www.designbetter.co/design-thinking
 
-### Pitch Session
+## Pitch Session
 
 A pitch session is a structured event where hackers who have ideas for hacks
 and are looking for teammates present their ideas to an audience. Typically,
