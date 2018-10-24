@@ -36,3 +36,7 @@ and are looking for teammates present their ideas to an audience. Typically,
 presenters describe the problem or technology they want to design their hack
 around and what skill set they're looking for. Hackers who are looking for teams
 and have the matching skill set can offer to join the presenter's team.
+
+## Check-in Meeting
+
+At smaller hackathons, it may be feasible to implement check-in meetings or standups.
