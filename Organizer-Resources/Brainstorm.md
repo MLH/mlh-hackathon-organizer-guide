@@ -6,7 +6,12 @@ be overbearing or dictate what hackers should make, some hackers need more
 support generating ideas and staying on track.
 
 Here are some workshops and activities you can run to support these hackers
-so they'll enjoy your hackathon more.
+so they'll enjoy your hackathon more. The types of activities we'll cover in
+this section are:
+
+- [Brainstorming workshops](#brainstorming-workshop)
+- [Pitch sessions](#pitch-session)
+- [Check-in meetings](#check-in-meetings)
 
 ## Brainstorming Workshop
 
