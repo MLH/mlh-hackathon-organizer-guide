@@ -35,7 +35,7 @@ A pitch session is a structured event where hackers who have ideas for hacks
 and are looking for teammates present their ideas to an audience. Typically,
 presenters describe the problem or technology they want to design their hack
 around and what skill set they're looking for. Hackers who are looking for teams
-and have the matching skill set can offer to join the presenter's team.
+and have the matching skill set can offer to join the presenter.
 
 ## Check-in Meetings
 
