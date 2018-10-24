@@ -8,7 +8,7 @@ support generating ideas and staying on track.
 Here are some workshops and activities you can run to support these hackers
 so they'll enjoy your hackathon more.
 
-## Activities to Help Hackers Brainstorm
+## Brainstorming Workshop
 
 Brainstorming is the most important part of the hacker's experience at a
 hackathon, and for some hackers, it's also the most difficult.
@@ -22,13 +22,10 @@ Usually, hackers take one of two approaches:
   hack around it. Hackers who want to learn about a popular or emerging
   technology might prefer this route.
 
-### Brainstorming Workshop
-
-One way to help hackers generate great ideas is to teach them. Running a hands-on
-workshop covering brainstorming techniques at the start of your hackathon will
-enable them to hit the ground running. [Design thinking] is a widely used,
-user-centered technique for generating and prototyping ideas to solve problems
-that users face.
+Running a hands-on workshop covering brainstorming techniques at the start of
+your hackathon will enable them to hit the ground running. [Design thinking] is
+a widely used, user-centered technique for generating and prototyping ideas to
+solve problems that users face.
 
 [design thinking]: https://www.designbetter.co/design-thinking
 
