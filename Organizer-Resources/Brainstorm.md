@@ -37,6 +37,9 @@ presenters describe the problem or technology they want to design their hack
 around and what skill set they're looking for. Hackers who are looking for teams
 and have the matching skill set can offer to join the presenter's team.
 
-## Check-in Meeting
+## Check-in Meetings
 
-At smaller hackathons, it may be feasible to implement check-in meetings or standups.
+Check-in meetings or standups give teams face-to-face contact with other teams
+and a chance to report their progress and get help from mentors and other teams
+with things they're stuck on. Consider running three to five check-in meetings
+interspersed throughout your hackathon.
