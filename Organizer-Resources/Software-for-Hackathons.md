@@ -23,6 +23,7 @@ Student Hackathon Organizers have been building software to make manging their e
 ## Mentorship
 
 * [HelpQ](https://github.com/ehzhang/HELPq) - An extensible real-time queue application for mentorship at hackathons. Built using **Meteor** by the HackMIT team.
+* [Mentors](https://github.com/hackupc/mentors) - A mentor queue system for mentorship at hackathons. Built in **Elixir** for the backend and **JavaScript** for the frontend by the HackUPC team.
 
 ## Judging
 
