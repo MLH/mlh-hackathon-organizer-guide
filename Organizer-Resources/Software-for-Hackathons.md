@@ -11,6 +11,7 @@ Student Hackathon Organizers have been building software to make manging their e
 ## Admissions 
 
 * [Nucleus](https://github.com/hacktx/nucleus) - An extensible and comprehensive hackathon application system that integrates with MyMLH, Slack and more from HackTX. Built using **PHP**. 
+* [HackathonManager](https://github.com/codeRIT/hackathon-manager) - An all-in-one platform for hackathon registration & logistics with support for MyMLH. Accept applications, facilitate RSVPs, coordinate busses, communicate with hackers, and more from a single tool. Built using **Ruby on Rails**  by the codeRIT team.
 
 ## Registration
 
