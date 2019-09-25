@@ -15,6 +15,9 @@ Over the years the we've found the averages costs for major budget items are as 
 - **T-Shirts**: $5-8 per person (dependent on volume)
 - **Busses**: $3,500 per bus
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RP6qmeGnyCo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
 ### Resources:
 
 * Major League Hacking's [Budget Template with reccomended figures](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit)
