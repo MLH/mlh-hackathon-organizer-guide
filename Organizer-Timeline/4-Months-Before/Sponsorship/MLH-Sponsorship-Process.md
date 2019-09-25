@@ -100,6 +100,8 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 
 * Article: [How Do I Find Sponsors?](http://news.mlh.io/find-sponsors-questions-sponsorship-workshop-12-30-2014)
 
+* Article: [Pipedrive: Sales Pipeline Academy](https://drive.google.com/file/d/1APLRDsePfDq64GQyD_wQg6enCWY4was1/view?usp=sharing)
+
 * Article: [Hackathon Fundraising: Getting Started](http://news.mlh.io/hackathon-fundraising-getting-started-06-16-2014)
 
 * Article: [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c)
