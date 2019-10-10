@@ -5,6 +5,7 @@ The Hackathon Organizer Guide is a collaborative effort between Major League Hac
 A full list of community contributors to the Guide are listed below, in alphabetical order:
 
 - [Aleksandar Todorović](https://github.com/aleksandar-todorovic)
+- [Evelyn Fitzgerald](https://github.com/aidan-fitz)
 - [Grant Timmerman](https://github.com/grant)
 - [Jared Zoneraich](https://github.com/jzone3)
 - [JB Rubinovitz](https://github.com/rubinovitz)
