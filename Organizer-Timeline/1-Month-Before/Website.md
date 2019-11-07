@@ -20,4 +20,4 @@ Ideally, you’ve been updating your site on a rolling basis as more information
 
   * Will they need charter bus or travel reimbursement (does this jibe with transportation timeline?)
 
-  * Liability waiver
+  * Liability waiver information
