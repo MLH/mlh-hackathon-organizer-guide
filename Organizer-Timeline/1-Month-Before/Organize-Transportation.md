@@ -29,7 +29,7 @@ Charter buses are typically the most affordable option for getting hackers to an
 
 * Use [BusRates.com](http://www.busrates.com/) to sort bus companies by number of buses available, number of seats, bus ages, and cost. We recommend only requesting quotes from companies with 4 star ratings or above.
 
-* [Sharethebus](https://www.sharethebus.com) allows you to organize buses to your event in a central dashboard and request quotes directly from bus companies. They also will help you compare and find the cheapest bus company. The companies on Sharethebus are pre-vetted so you don't have to worry about ratings.
+* [Sharethebus](https://www.bus.com/) allows you to organize buses to your event in a central dashboard and request quotes directly from bus companies. They also will help you compare and find the cheapest bus company. The companies on Sharethebus are pre-vetted so you don't have to worry about ratings.
 
 * Questions to ask
 
