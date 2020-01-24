@@ -18,7 +18,7 @@ At MLH, our goal is to give you the tools to throw the best hackathon humanly po
 
 (You can see the full list [here](https://mlh.io/become-an-official-event). )
 
-The sooner your hackathon gets applies for membership, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/forms/event-sanctioning-request), it must be *at least* 30 days before the event and you should have a confirmed time and location.
+The sooner your hackathon gets applies for membership, the more time you’ll have to take advantage of all MLH hookups. To [apply](https://mlh.io/event-membership), it must be *at least* 4 months before the event and you should have a confirmed time and location.
 
 ## Resources
 
