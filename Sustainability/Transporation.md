@@ -1,5 +1,9 @@
 ## Transportation
 
+Having hundreds of hackers all drive individually to your event is taxing
+to the environment, lets try to reduce our carbon footprint as much as possible
+by encouraging hackers to carpool.
+
 **Objective:**
 - Reduce environmental footprint by cutting down carbon emissions.
 

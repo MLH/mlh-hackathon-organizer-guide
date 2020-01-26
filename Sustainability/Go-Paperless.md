@@ -1,5 +1,10 @@
 ## Go paperless!
 
+Utilizing paper for any form of communication is not ideal, as it will
+most likely end up in the trash. We want to completely eradicate the
+usage of paper and stick to digital communication for little to no
+paper wasted.
+
 **Objective:**
 - Only use digital communication.
 
