@@ -1,5 +1,11 @@
 ## Food Waste Reduction
 
+Catering for hundreds of hackers is a difficult task. We can be tempted
+to over-order as we don't want anyone sleeping on an empty stomach, however
+this can sometimes leads to excessive left over food. We want to make sure all the extra food
+gets eaten and not thrown away. Here are some things to consider when trying
+to reduce food related waste.
+
 **Objective #1:**
 - Reduce the amount of food and packages waste.
 
