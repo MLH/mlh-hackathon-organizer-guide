@@ -1,4 +1,7 @@
 ## Supplies Reduction
+As we know, waste is a big problem when it comes to sustainability.
+Being able to use and reuse items to their greatest capacity reduces our ecological footprint adding to the sustainability of our events.
+Here are some ways we can not only reuse items but also how we can prevent over ordering.
 
 **Objective #1:**
 - Purchase reusable and eco-labeled products that can be used for future events.
