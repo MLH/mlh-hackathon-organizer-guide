@@ -1,9 +1,7 @@
 ## Sustainable Swag-Guide
 Swag is a massive part of hackathons. Companies may send in stickers, sunglasses,
-pens, and many other novelty items to be distributed among the hackers.
-However, some of these items may never be used or end in the garbage,
-so we encourage you to request sponsors for more reusable swag in order to ensure that everything we are giving
-out will be used multiple times.
+pens, and many other novelty items to be distributed among the hackers. However, some of these items may never be used or end in the garbage,
+so we encourage you to request sponsors for more reusable swag in order to ensure that everything we are giving out will be used multiple times.
 
 Here is a guide you can send to companies when requesting swag for your event:
 
