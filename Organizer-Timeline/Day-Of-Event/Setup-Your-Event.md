@@ -1,6 +1,6 @@
 # Setup Your Event
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0M37UcnFRL8" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0M37UcnFRL8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Set up tables and chairs
 

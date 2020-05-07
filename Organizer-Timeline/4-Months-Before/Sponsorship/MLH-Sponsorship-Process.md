@@ -2,7 +2,7 @@
 
 Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/QI9NVe2wA5w?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QI9NVe2wA5w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 1. Set Targets And Do Your Research
 

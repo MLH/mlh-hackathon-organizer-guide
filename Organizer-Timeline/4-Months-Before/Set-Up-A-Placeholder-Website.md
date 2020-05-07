@@ -34,4 +34,4 @@ The first iteration of your site should include:
 
 * [MLH-Hackathon-Boilerplate](https://github.com/MLH/mlh-hackathon-boilerplate) - Boilerplate code for any new MLH Member Hackathon looking to build a website integrated with MyMLH. Written entirely in **Jekyll**, which [GitHub pages](https://pages.github.com/) automatically compiles to make hosting seamless. 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ukSrPm1Zews" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ukSrPm1Zews" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

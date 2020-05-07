@@ -1,6 +1,6 @@
 # Kick Off Your Hackathon
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7CwBvQ1wjZU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7CwBvQ1wjZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Checking in guests
 

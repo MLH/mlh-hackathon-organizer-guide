@@ -2,7 +2,7 @@
 
 If your venue is free, transportation and travel reimbursements are often the most expensive part of putting on a hackathon. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX_koCPIk) to ensure your transportation planning runs smoothly. While many hackers have come to expect some sort of funded transportation, it is not required in order to put on a successful hackathon.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wGKX_koCPIk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wGKX_koCPIk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Charter Buses
 
