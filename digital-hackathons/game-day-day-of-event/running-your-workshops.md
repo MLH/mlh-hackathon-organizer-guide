@@ -1,2 +1,2 @@
-# Running Your Workshops
+# Running your Workshops
 

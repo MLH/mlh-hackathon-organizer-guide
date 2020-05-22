@@ -1,2 +1,0 @@
-# Design an Opening Ceremony
-

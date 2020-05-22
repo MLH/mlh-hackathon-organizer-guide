@@ -1,2 +1,2 @@
-# Running Closing ceremony
+# Running Closing Ceremony
 

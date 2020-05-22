@@ -1,2 +1,0 @@
-# Opening ceremony
-

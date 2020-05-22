@@ -1,2 +1,2 @@
-# Communication & Recruiting Judges
+# Communication & Recruiting Judges and Mentors
 
