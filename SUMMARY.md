@@ -20,7 +20,7 @@
   * [Setting Goals](digital-hackathons/getting-sponsorship/setting-goals.md)
   * [Budgeting your hackathon](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Helpful Figures - estimated costs](digital-hackathons/getting-sponsorship/helpful-figures-estimated-costs.md)
-  * [MLH Tips](digital-hackathons/getting-sponsorship/mlh-tips.md)
+  * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
   * [Put Together A Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [Putting together your hackathon website!](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Set Up A Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
