@@ -1,2 +1,6 @@
-# Set-up, clean-up, preparing, serving, crowd control
+# Set-up
+
+clean-up, preparing, serving, crowd control
+
+mock drill for team
 

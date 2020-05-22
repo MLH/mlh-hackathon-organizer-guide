@@ -1,2 +1,2 @@
-# Design an Opening Ceremony
+# Opening & Closing Ceremony
 

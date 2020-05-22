@@ -1,2 +1,2 @@
-# Snacks and drinks
+# Setting up Snacks and Drinks
 

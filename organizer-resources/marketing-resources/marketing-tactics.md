@@ -1,2 +1,4 @@
 # Marketing tactics
 
+Personas
+
