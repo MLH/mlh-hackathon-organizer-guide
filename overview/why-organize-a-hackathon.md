@@ -1,0 +1,2 @@
+# Why organize a hackathon?
+

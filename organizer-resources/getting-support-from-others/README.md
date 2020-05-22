@@ -1,0 +1,2 @@
+# Getting support from others
+
