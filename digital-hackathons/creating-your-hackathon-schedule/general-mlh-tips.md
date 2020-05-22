@@ -1,2 +1,2 @@
-# General MLH Tips
+# MLH Tips & Templates
 
