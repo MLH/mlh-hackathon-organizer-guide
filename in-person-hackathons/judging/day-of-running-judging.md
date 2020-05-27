@@ -1,2 +1,0 @@
-# \(Day-of\) Running Judging
-

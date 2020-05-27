@@ -1,2 +1,4 @@
-# Judging & Mentorship
+# Mentorship
+
+What is mentorship & best practices
 

@@ -1,2 +1,2 @@
-# Judging & Mentorship
+# Mentorship
 
