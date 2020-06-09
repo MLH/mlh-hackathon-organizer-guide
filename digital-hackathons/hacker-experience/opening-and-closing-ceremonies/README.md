@@ -1,6 +1,6 @@
 # Opening & Closing Ceremonies
 
-
+### \*\*\*\*
 
 * * * **Sending Reminders**
     * **Setting up the tools**
