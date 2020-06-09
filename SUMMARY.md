@@ -27,7 +27,7 @@
   * [Set Up A Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
   * [Collecting Registrations](digital-hackathons/putting-together-your-hackathon-website/collecting-registrations.md)
   * [Updating website with day-of Information](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
-  * [MLH Tips](digital-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
+  * [MLH Tips and Resources](digital-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
 * [Marketing your event](digital-hackathons/marketing-your-event/README.md)
   * [Setting marketing goals & timelines](digital-hackathons/marketing-your-event/setting-marketing-goals-and-timelines.md)
   * [How to Promote Your Event](digital-hackathons/marketing-your-event/how-to-promote-your-event.md)
