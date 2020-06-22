@@ -31,14 +31,13 @@
 * [Marketing your event](digital-hackathons/marketing-your-event/README.md)
   * [Setting marketing goals & timelines](digital-hackathons/marketing-your-event/setting-marketing-goals-and-timelines.md)
   * [How to Promote Your Event](digital-hackathons/marketing-your-event/how-to-promote-your-event.md)
-  * [Get The Word Out](digital-hackathons/marketing-your-event/get-the-word-out.md)
 * [Managing Registrations](digital-hackathons/managing-registrations/README.md)
-  * [Registration timelines](digital-hackathons/managing-registrations/registration-timelines.md)
+  * [Registrations](digital-hackathons/managing-registrations/registration-timelines.md)
   * [Sending Reminders](digital-hackathons/managing-registrations/sending-reminders.md)
   * [Check-in process](digital-hackathons/managing-registrations/check-in-process.md)
 * [Event Logistics](digital-hackathons/event-logistics/README.md)
   * [Staying Organized](digital-hackathons/event-logistics/tools-to-stay-organized.md)
-  * [Softwares for digital Hackathons](digital-hackathons/event-logistics/softwares-for-digital-hackathons.md)
+  * [Software for digital Hackathons](digital-hackathons/event-logistics/softwares-for-digital-hackathons.md)
   * [Ordering Swags & Prizes](digital-hackathons/event-logistics/ordering-swags-and-prizes.md)
   * [How to coordinate with vendors](digital-hackathons/event-logistics/how-to-coordinate-with-vendors.md)
   * [Setup Your Event](digital-hackathons/event-logistics/setup-your-event.md)
@@ -47,7 +46,7 @@
 * [Creating your Hackathon Schedule](digital-hackathons/creating-your-hackathon-schedule/README.md)
   * [Creating a Detailed Run of Show](digital-hackathons/creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md)
   * [Do A Run-Through with the team](digital-hackathons/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
-  * [MLH Tips & Templates](digital-hackathons/creating-your-hackathon-schedule/mlh-tips-and-templates.md)
+  * [MLH Templates](digital-hackathons/creating-your-hackathon-schedule/mlh-tips-and-templates.md)
 * [Judging & Submissions](digital-hackathons/judging-and-submissions/README.md)
   * [Best practices for online judging](digital-hackathons/judging-and-submissions/best-practices-for-online-judging.md)
   * [Draft up a judging plan](digital-hackathons/judging-and-submissions/draft-up-a-judging-plan.md)
@@ -183,5 +182,8 @@
     * [Wiki Races](organizer-resources/host-exciting-mini-events/additional-mini-events/wiki-races.md)
 * [Keeping Records](organizer-resources/keeping-records.md)
 * [Software for Hackathons](organizer-resources/software-for-hackathons.md)
+
+---
+
 * [Contributors](contributors.md)
 

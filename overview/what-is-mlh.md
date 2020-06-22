@@ -1,6 +1,8 @@
+---
+description: 'MLH is the global hacker community, and it''s our mission to empower hackers.'
+---
+
 # What is MLH?
-
-
 
 At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events receive the following benefits:
 
@@ -22,4 +24,6 @@ The sooner your hackathon gets applies for membership, the more time you’ll ha
 * MLH: [Community Values](https://mlh.io/community-values)
 * MLH: [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 * MLH: [Hardware list](https://mlh.io/hardware-lab)
+
+
 

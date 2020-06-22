@@ -36,8 +36,6 @@ Now onto the offerings!
 * Want a low lift option as this process is fairly hands off
 * Are looking for our most budget-friendly option
 
-## 
-
 ## Option \#2: Combined Fulfillment using MLH Centers
 
 **Description:** Your team would let us know what materials you intend to send to hackers, which the MLH team will review and give feedback. Once everything is reviewed, you would send your swag to one of our regional fulfillment centers, based on hacker locations. They will then combine MLH materials with yours, and ship it out.
