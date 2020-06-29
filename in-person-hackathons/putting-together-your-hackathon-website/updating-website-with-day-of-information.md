@@ -1,7 +1,5 @@
 # Updating website with day-of Information
 
-
-
 Ideally, you’ve been updating your site on a rolling basis as more information and sponsorships are finalized. About a month before, you want to
 
 * Schedule

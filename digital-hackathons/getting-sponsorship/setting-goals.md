@@ -49,3 +49,5 @@ Keep in mind that even though hackathons are cancelling, hackers still are looki
 * **1:1 Recruiter/Sponsor Chats** – Set up Google Hangouts or Zoom breakout rooms for your hackers to meet companies one on one, similarly to how they would at a sponsor fair. 
 * **Interviews –** If you’re providing resumes in advance, your recruiters may be interested in interviewing your hackers during the event, similarly to how they would at an in-person event. Assist them with setting up technology to facilitate these interviews. 
 
+
+

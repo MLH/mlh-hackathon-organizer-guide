@@ -17,7 +17,5 @@ When planning a digital or in-person hackathon, it's best to start with the fund
 
 
 
-1 page for overall timeline
 
-Diversity and Inclusion
 

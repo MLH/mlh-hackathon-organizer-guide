@@ -12,7 +12,7 @@
 ## Digital Hackathons
 
 * [Planning fundamentals for Digital Hackathons](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
-* [Writing a mission statement/ event purpose](digital-hackathons/writing-a-mission-statement-event-purpose.md)
+* [Writing a mission statement](digital-hackathons/writing-a-mission-statement-event-purpose.md)
 * [Deciding the date](digital-hackathons/deciding-the-date.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
@@ -25,7 +25,6 @@
   * [Put Together A Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [Putting together your hackathon website!](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Set Up A Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
-  * [Collecting Registrations](digital-hackathons/putting-together-your-hackathon-website/collecting-registrations.md)
   * [Updating website with day-of Information](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
   * [MLH Tips and Resources](digital-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
 * [Marketing your event](digital-hackathons/marketing-your-event/README.md)
@@ -39,7 +38,6 @@
   * [Staying Organized](digital-hackathons/event-logistics/tools-to-stay-organized.md)
   * [Software for digital Hackathons](digital-hackathons/event-logistics/softwares-for-digital-hackathons.md)
   * [Ordering Swags & Prizes](digital-hackathons/event-logistics/ordering-swags-and-prizes.md)
-  * [How to coordinate with vendors](digital-hackathons/event-logistics/how-to-coordinate-with-vendors.md)
   * [Setup Your Event](digital-hackathons/event-logistics/setup-your-event.md)
   * [MLH Organizer Event Fulfillment](digital-hackathons/event-logistics/mlhs-organiser-fulfillment-guide.md)
   * [Prepare Your Emergency Plan](digital-hackathons/event-logistics/prepare-your-emergency-plan.md)
@@ -91,7 +89,6 @@
   * [Put Together A Sponsorship Prospectus](in-person-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [Putting together your hackathon website!](in-person-hackathons/putting-together-your-hackathon-website/README.md)
   * [Set Up A Placeholder Website](in-person-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
-  * [Collecting Registrations](in-person-hackathons/putting-together-your-hackathon-website/collecting-registrations.md)
   * [Updating website with day-of Information](in-person-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
   * [MLH Tips](in-person-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
 * [Marketing your event](in-person-hackathons/marketing-your-event/README.md)

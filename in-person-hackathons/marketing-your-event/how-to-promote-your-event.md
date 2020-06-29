@@ -1,11 +1,5 @@
 # How to Promote Your Event
 
-Word of mouth
-
-Social Media
-
-Classroom visit
-
 When promoting your hackathon, it’s useful to keep in mind that most events have a 50 to 30 percent drop-off in attendance. Given these stats, it’s your goal to over-market and overbook!
 
 ## Tell Your Hackathon’s Story

@@ -6,5 +6,5 @@ After you've solidified the purpose of your event, it's time to pick out a date!
 * Major holidays and festivals 
 * University breaks 
 * Dates of other hackathons that serve your community 
-* Dates of major exams at your univeristy 
+* Dates of major exams at your university  
 

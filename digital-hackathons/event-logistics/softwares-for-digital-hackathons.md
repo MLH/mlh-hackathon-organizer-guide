@@ -8,7 +8,12 @@ Before joining and once on the platform, make hackers know that their behavior a
 
 Include the following channels on your platform: 
 
-* 
+* Team-Formation 
+* Ask-Organizers 
+* Introductions
+* Random
+* Ask-Mentors
+
 ## Streaming Platform 
 
 Your team may choose to stream different aspects of the event including opening ceremony, workshops, mini-events, and closing ceremony. 
@@ -21,7 +26,7 @@ You may consider streaming to:
 
 Tools like [Streamyard](www.streamyard.com) make it super simple to stream to multiple places at once. 
 
-##  Video Callo Platform
+##  Video Call Platform
 
 If you are running events that require attendees to join a video call, make sure you choose a platform that will allow for the correct number of attendees. 
 
