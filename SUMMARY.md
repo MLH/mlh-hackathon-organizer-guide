@@ -15,7 +15,6 @@
 * [Deciding the date and Writing a Mission Statement](digital-hackathons/deciding-the-date.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
-  * [Overall sponsorship timeline](digital-hackathons/getting-sponsorship/overall-sponsorship-timeline.md)
   * [Understanding your Sponsors - Setting Goals](digital-hackathons/getting-sponsorship/setting-goals.md)
   * [Budgeting your hackathon](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Helpful Figures - estimated costs](digital-hackathons/getting-sponsorship/helpful-figures-estimated-costs.md)
@@ -60,7 +59,6 @@
     * [Doing Mentorship](digital-hackathons/judging/communication-and-recruiting-judges/doing-mentorship.md)
 * [Hacker Experience](digital-hackathons/hacker-experience/README.md)
   * [Code of Conduct](digital-hackathons/hacker-experience/code-of-conduct.md)
-  * [How to keep hackers motivated](digital-hackathons/hacker-experience/how-to-keep-hackers-motivated.md)
   * [How to Engage your Hackers](digital-hackathons/hacker-experience/how-to-engage-your-hackers.md)
   * [How to Brainstorm events](digital-hackathons/hacker-experience/how-to-brainstorm-events.md)
   * [Plan Engaging Workshops](digital-hackathons/hacker-experience/plan-engaging-workshops.md)
@@ -69,8 +67,6 @@
   * [Opening & Closing Ceremonies](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/README.md)
     * [Running Opening ceremony](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/running-opening-ceremony.md)
     * [Running Closing Ceremony](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/running-closing-ceremony.md)
-* [Initial Preparation \(Getting Ready\)](digital-hackathons/initial-preparation-getting-ready.md)
-* [Game Day! \(Day Of Event\)](digital-hackathons/game-day-day-of-event.md)
 * [After The Event](digital-hackathons/after-the-event.md)
 
 ## In Person Hackathons

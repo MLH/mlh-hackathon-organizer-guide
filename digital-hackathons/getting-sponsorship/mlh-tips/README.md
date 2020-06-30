@@ -27,7 +27,7 @@ description: >-
 * Make sure the sponsor knows what a hackathon is — use analogies like comparing it to a science fair. 
 * Ask about success metrics. What did they get from past sponsorships?
 * Sell your team and your story. What makes you special?
-  * Get the prospect excited about the event.  Be sure to share personal experieces about the impact of hackathons. 
+  * Get the prospect excited about the event.  Be sure to share personal experiences about the impact of hackathons. 
 * Let THEM do all the talking. You’ll figure out what companies most value this way. 
   * Get them talking by asking questions. You want to make the call as conversational as possible so you can figure out their goals, while offering up your own experience and expertise. This helps build credibility and trust.
 * Don’t be afraid to ask their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get?"

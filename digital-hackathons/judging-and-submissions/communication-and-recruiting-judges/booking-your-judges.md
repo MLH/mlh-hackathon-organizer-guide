@@ -1,6 +1,6 @@
 # Booking your Judges
 
-You’ll need to recruit a variety of indivuals to judge your hackathon. Consider targeting:
+You’ll need to recruit a variety of individuals to judge your hackathon. Consider targeting:
 
 * Experts from your school, including professors, deans, and alumni
 * Local community leaders
