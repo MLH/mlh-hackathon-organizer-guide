@@ -12,8 +12,7 @@
 ## Digital Hackathons
 
 * [Planning fundamentals for Digital Hackathons](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
-* [Writing a mission statement](digital-hackathons/writing-a-mission-statement-event-purpose.md)
-* [Deciding the date](digital-hackathons/deciding-the-date.md)
+* [Deciding the date and Writing a Mission Statement](digital-hackathons/deciding-the-date.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
   * [Overall sponsorship timeline](digital-hackathons/getting-sponsorship/overall-sponsorship-timeline.md)

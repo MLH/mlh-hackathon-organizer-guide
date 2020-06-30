@@ -18,7 +18,6 @@ Sponsors support hackathons for three primary reasons:
 
 Sponsors’ top practical concerns:
 
-* Cost per attendee — sponsors want this to be low, while you want this to be as high as possible while keeping their support.
 * Attendee value
   * Are your hackathon’s attendees a good fit for the company in terms of recruiting, marketing, etc.?
   * How hard is it for companies to reach this audience without your help?
@@ -26,7 +25,7 @@ Sponsors’ top practical concerns:
   * Depending on the sponsor, your other backers matter. Some companies prefer to sponsor events their competitors sponsor, whereas others want to ensure they’re the biggest name on your roster.
 * Package Value
   * Are they getting their money’s worth?
-* The Force \(a.k.a.\) their gut
+* The Force \(a.k.a. their gut\)
   * How do the sponsors feel about your competency: is the event well-organized so far? Have you been professional in all communications?
 
 #### **Office Hours**
@@ -39,7 +38,7 @@ If a sponsor was planning on hosting a workshop at your in-person event, encoura
 
 #### **Fun and Games** 
 
-As you’re hosting games and competitions throughout the event, consider mixing it up with sponsor vs hacker vs organizers challenges! If your sponsor isn’t as interested in a technical workshops, see if they’re interested in hosting a mini-event or game. 
+As you’re hosting games and competitions throughout the event, consider mixing it up with sponsor vs hacker vs organizers challenges! If your sponsor isn’t as interested in technical workshops, see if they’re interested in hosting a mini-event or game. 
 
 #### **Recruiting** 
 

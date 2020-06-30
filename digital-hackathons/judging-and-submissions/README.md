@@ -2,7 +2,7 @@
 
 ### **Judging** 
 
-Structurally, we recommend having hackers submit 3 minute videos on your submission platform for the judges to review. Make sure they put a lot of love and care into the video and the rest of their submission, and have them focus on what they learned.
+Structurally, we recommend having hackers submit 2 minute videos on your submission platform for the judges to review. Make sure they put a lot of love and care into their submission. Their video should be a demo of their hack, not a presentation. 
 
 To avoid confusion, the key is to **make sure hackers know exactly where you are in the schedule for judging.** Tell them you’re advancing to the next stage of judging when you do, or if judging is taking longer than expected, tell them how far along you are. Giving quick updates like “Our judges have reviewed about 50% of the projects!” goes a long way in keeping hackers engaged.
 

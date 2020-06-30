@@ -20,16 +20,18 @@ description: >-
   * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](emailing-your-sponsors-cheat-sheet.md). 
 * Reach out to the decision maker at each company. When in doubt, email the CEO.
 * Intros are infinitely better than cold emails.
-* Follow up: don’t worry if you don’t receive a response to your initial email; wait a week and ask again.
+* Follow up: don’t worry if you don’t receive a response to your initial email; wait 3-4 days and ask again. You can ping the contact up to 3 times. 
 
 ## 3. Have An Exploratory Phone Call
 
 * Make sure the sponsor knows what a hackathon is — use analogies like comparing it to a science fair. 
 * Ask about success metrics. What did they get from past sponsorships?
 * Sell your team and your story. What makes you special?
-* Let THEM do all the talking. You’ll figure out what companies most value this way.
+  * Get the prospect excited about the event.  Be sure to share personal experieces about the impact of hackathons. 
+* Let THEM do all the talking. You’ll figure out what companies most value this way. 
+  * Get them talking by asking questions. You want to make the call as conversational as possible so you can figure out their goals, while offering up your own experience and expertise. This helps build credibility and trust.
 * Don’t be afraid to ask their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get?"
-* Before you hang up, schedule a follow up call.
+* Before you hang up, schedule a follow-up call.
 
 ## 4. Make A Proposal
 
