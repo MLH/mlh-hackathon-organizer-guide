@@ -1,8 +1,8 @@
 # Planning fundamentals for Digital Hackathons
 
-When planning a digital or in-person hackathon, it's best to start with the fundamentals. If you're familiar with in-person hackathons and are curious about how the fundamentals translate to the digital space, we've outlined some of the key differences and our recommendations below: 
+When planning a digital or in-person hackathon, it's best to start with the fundamentals. If you're familiar with in-person hackathons and are curious about how the fundamentals translate to the digital space, we've outlined some of the key differences and our recommendations below: Event
 
-| Event | **Digital** | **In-Person** |
+| **Digital** | **In-Person** |  |
 | :--- | :--- | :--- |
 | **Check-in** | Checkin using an online form | In-person check-in process |
 | **Opening Ceremony** | Pre-recorded, watched on a live stream, viewable anytime | Live presentation, seen once |

@@ -1,4 +1,4 @@
-# Using Devpost
+# Running Judging
 
 Content coming soon ✨
 

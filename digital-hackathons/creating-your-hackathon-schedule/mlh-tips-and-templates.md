@@ -1,4 +1,8 @@
+---
+description: Feel free to use our templates as you create your own schedule.
+---
+
 # MLH Templates
 
-Coming soon ✨
+Content coming soon ✨
 

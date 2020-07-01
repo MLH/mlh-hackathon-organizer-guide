@@ -1,6 +1,0 @@
-# Communication & Recruiting Judges
-
-
-
-
-

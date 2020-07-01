@@ -1,7 +1,8 @@
+---
+description: You'll want to write out your plan day-of and assign task out.
+---
+
 # Draft up a judging plan
 
-
-
-* * * * **Defining a Judging criteria**  
-      * **Judging methods \(e.g. stack ranking, point values, etc.\)**
+Content coming soon ✨
 
