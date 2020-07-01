@@ -2,7 +2,7 @@
 
 ## The MLH Hackathon Organizer Guide
 
-Welcome to the MLH Hackathon Organizer Guide! This is a community initiative by [Major League Hacking](https://mlh.io) that contains a lot of the lessons that we and the hackathon community around the world have learnt from organizing hackathons — all in a single student hackathon playbook.
+Welcome to the MLH Hackathon Organizer Guide! This is a community initiative by [Major League Hacking](https://mlh.io) that contains a lot of the lessons that we and the hackathon community around the world have learned from organizing hackathons — all in a single student hackathon playbook.
 
 Take a look and learn some of the practices used by hackathon organizers all around the world. This guide should contain most, if not all, of the practices you need to throw a great hackathon.
 
