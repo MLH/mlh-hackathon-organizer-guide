@@ -19,8 +19,8 @@
   * [Setting Goals - Understanding your Sponsors](digital-hackathons/getting-sponsorship/setting-goals.md)
   * [Hackathon Budgeting](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Helpful Figures - Estimated Costs](digital-hackathons/getting-sponsorship/helpful-figures-estimated-costs.md)
-  * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips/README.md)
-    * [Emailing Your Sponsors Cheat Sheet](digital-hackathons/getting-sponsorship/mlh-tips/emailing-your-sponsors-cheat-sheet.md)
+  * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
+  * [Emailing Your Sponsors Cheat Sheet](digital-hackathons/getting-sponsorship/emailing-your-sponsors-cheat-sheet.md)
   * [Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [Hackathon Website](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
@@ -68,7 +68,6 @@
 
 ## In Person Hackathons
 
-* [Planning Fundamentals](in-person-hackathons/planning-fundamentals-for-digital-hackathons.md)
 * [Finding the Date & Purpose](in-person-hackathons/writing-a-mission-statement-event-purpose.md)
 * [Locking down a Venue](in-person-hackathons/locking-down-a-venue-and-date.md)
 * [Getting Sponsorship](in-person-hackathons/getting-sponsorship/README.md)
