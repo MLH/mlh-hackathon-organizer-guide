@@ -1,6 +1,2 @@
 # Judging & Submissions
 
-### **Judging** 
-
-
-
