@@ -1,13 +1,5 @@
 # After The Event
 
-
-
-* * * **Followup with sponsors**
-    * **announce winners**
-    * **Looking at the future**
-      * **Secure dates for next time!**
-      * **Select your next directors**
-
 Congratulations — you pulled off a successful hackathon! To close out your event, follow this post-event checklist to ensure you finish on a high note:
 
 * Collect evidence of your success — aggregate press mentions, tweets, photos, videos, etc. These will be invaluable for promoting your next hackathon.

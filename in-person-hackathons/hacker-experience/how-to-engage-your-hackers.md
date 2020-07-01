@@ -4,9 +4,9 @@ Participants need to have an idea for a hack and be making steady progress towar
 
 Here are some workshops and activities you can run to support these hackers so they'll enjoy your hackathon more. The types of activities we'll cover in this section are:
 
-* [Brainstorming workshops]()
-* [Pitch sessions]()
-* [Check-in meetings]()
+* Brainstorming workshops
+* Pitch sessions
+* Check-in meetings
 
 ## Brainstorming Workshop
 

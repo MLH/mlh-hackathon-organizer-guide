@@ -1,12 +1,12 @@
+---
+description: >-
+  Day-of, make a list of items that will need to be set up. These will likely
+  include the things below.
+---
+
 # Setup Your Event
 
-How to manage day of setup
 
-Essentials, vs. nices to haves
-
-Setting up spaces
-
-Set-up registrations
 
 * Set up tables and chairs
 * Make sure WiFi is working \(or set it up\)

@@ -1,2 +1,0 @@
-# Drafting a mentorship plan
-
