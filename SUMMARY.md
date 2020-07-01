@@ -122,7 +122,7 @@
     * [Day-of: Doing Mentorship](in-person-hackathons/judging/communication-and-recruiting-mentors/day-of-doing-mentorship.md)
 * [Hacker Experience](in-person-hackathons/hacker-experience/README.md)
   * [Engaging your Hackers](in-person-hackathons/hacker-experience/how-to-engage-your-hackers.md)
-  * [Brainstorming Events](in-person-hackathons/hacker-experience/how-to-brainstorm-events.md)
+  * [Brainstorming Mini Events](in-person-hackathons/hacker-experience/how-to-brainstorm-events.md)
   * [Plan Engaging Workshops](in-person-hackathons/hacker-experience/plan-engaging-workshops.md)
   * [Running Your Workshops](in-person-hackathons/hacker-experience/running-your-workshops.md)
   * [Opening & Closing Ceremonies](in-person-hackathons/hacker-experience/design-an-opening-ceremony.md)
