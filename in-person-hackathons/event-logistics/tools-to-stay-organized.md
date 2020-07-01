@@ -16,6 +16,7 @@ Some tools we've seen work well for organizing teams are:
 
 **Task Management:** 
 
+* Todoist
 * Asana
 * Notion 
 
