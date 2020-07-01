@@ -55,5 +55,5 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 Calculations  
 Attendee Target / 5 per team = \# of expected projects
 
-## of expected projects seen by at least 3 judges for 5 minutes each divided by expo minutes available =                         \# of suggested judges + 2 for buffer room
+
 
