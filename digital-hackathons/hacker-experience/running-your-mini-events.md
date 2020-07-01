@@ -6,5 +6,5 @@ description: >-
 
 # Running your Mini Events
 
-Content oming Soon ✨
+Content coming Soon ✨
 

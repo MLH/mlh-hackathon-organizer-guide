@@ -10,7 +10,7 @@ Just like a play or a wedding, it’s important to rehearse your schedule once w
 ## MLH Tips
 
 * Keep in mind most organizers, especially team leaders, will be responsible for more than one thing
-* Hackathon schedules inevitably change. Ensure that someone is responsible for updating attendeees, sponsors, volunteers, mentors, and any other stakeholders of schedule changes as well as answering attendee questions in real time.
+* Hackathon schedules inevitably change. Ensure that someone is responsible for updating attendees, sponsors, volunteers, mentors, and any other stakeholders of schedule changes as well as answering attendee questions in real time.
 
 
 

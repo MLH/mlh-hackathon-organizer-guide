@@ -8,7 +8,7 @@ Here is a check-list of items to ensure day-of:
 * [ ] Streaming platform is ready to go
 * [ ] Opening ceremony ready to go 
 * [ ] Sponsors are on your chat platform 
-* [ ] The schedule is accurate visible to attendees 
+* [ ] The schedule is accurate and visible to attendees 
 * [ ] Hackers have access to relevant channels on the chat platform 
 * [ ] Mentors and judges are confirmed 
 * [ ] Internal tasks are assigned to individual members of the organizing team 

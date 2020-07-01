@@ -6,7 +6,7 @@ Be sure to include:
 
 * A sleep schedule for your team 
 * Opening Ceremony 
-  * Include details for opening ceremony like the time the host should join the stream and ensure platform is working as expetected as well as order and expected time of speakers/presentations. 
+  * Include details for opening ceremony like the time the host should join the stream and ensure platform is working as expected as well as order and expected time of speakers/presentations. 
 * Schedule of workshops 
 * Schedule of sponsored events
 * Schedule of mini-events
