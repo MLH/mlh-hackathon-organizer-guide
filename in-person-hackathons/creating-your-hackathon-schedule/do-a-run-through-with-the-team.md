@@ -1,7 +1,5 @@
 # Run-Through with the Team
 
-
-
 Just like a play or a wedding, it’s important to rehearse your schedule once with all team members.
 
 * Create and distribute a [run-of-show document](https://docs.google.com/spreadsheets/d/1e2B4-AYUU3Y0xFmiTGLYfRosP2IdXxF1Ud5GvGh-6cE/edit?usp=sharing) with:

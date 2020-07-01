@@ -24,11 +24,5 @@ Go to [https://localhost.mlh.io](https://localhost.mlh.io) for our list of activ
 
 We recommend having a dedicated volunteer or member of the organizing team in charge of registering for and facilitating the workshop, since you already have a lot to do.
 
-## Infinite Loop
 
-You ran a successful workshop at your hackathon. You deserve praise. Allow us to introduce [MLH Localhost Momentum Rewards](https://docs.google.com/document/d/1Oubjsj1O3_HASg-d71pK6swyGpPchyleF8L3zizmG_0/edit?usp=sharing)! It’s an incentive to reward great organizers, like yourself. =\). By running a successful workshop at your hackathon, you gain points towards your Momentum Rewards.
-
-Hosting our featured events successively will earn you points that can be used for prizes, like free pizza or snack reimbursement, custom stickers, MLH t-shirts, or exclusive Localhost stickers.
-
-You can keep the Momentum going by running Localhost workshops outside your hackathon!
 

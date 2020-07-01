@@ -1,10 +1,6 @@
 # Tools Setup
 
-Communication Tool
-
-Finalize your submissions tools
-
-devpost & hackerearth
+Content coming soon ✨
 
 
 
