@@ -6,8 +6,6 @@ description: >-
 
 # Event Setup
 
-
-
 * Set up tables and chairs
 * Make sure WiFi is working \(or set it up\)
 * Check power at every table \(may need to lay cable\)
