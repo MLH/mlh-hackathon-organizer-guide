@@ -4,7 +4,7 @@ description: >-
   skills, build amazing projects, and share ideas.
 ---
 
-# Why organize a hackathon?
+# Why Organize a Hackathon?
 
 
 

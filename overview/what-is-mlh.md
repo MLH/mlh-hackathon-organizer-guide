@@ -1,10 +1,12 @@
 ---
-description: 'MLH is the global hacker community, and it''s our mission to empower hackers.'
+description: >-
+  Major League Hacking (MLH) is the global hacker community, and it's our
+  mission to empower hackers.
 ---
 
 # What is MLH?
 
-At MLH, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events receive the following benefits:
+At Major League Hacking, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events receive the following benefits:
 
 * Mentorship and advice
 * Introductions to potential sponsors
