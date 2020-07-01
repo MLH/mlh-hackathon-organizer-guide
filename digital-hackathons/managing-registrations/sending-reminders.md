@@ -1,3 +1,9 @@
+---
+description: >-
+  After you have captured the interest of everyone, it is important to followup,
+  reminding them about the hackathon!
+---
+
 # Sending Reminders
 
 A week before your hackathon is the perfect time to remind everyone involved about what needs to happen. Be sure to reach out to: 
