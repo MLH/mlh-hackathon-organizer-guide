@@ -11,7 +11,7 @@ description: >-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>What should you include? </b>
+      <th style="text-align:center"><b>What should you include? </b>
       </th>
       <th style="text-align:left"><b>Why? </b>
       </th>
@@ -21,7 +21,7 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Details about the event: size, location, dates<br /></b>
+      <td style="text-align:center"><b>Details about the event: size, location, dates<br /></b>
       </td>
       <td style="text-align:left">These essential details will be some of the first things a potential sponsor
         is looking for</td>
@@ -29,7 +29,7 @@ description: >-
         We expect over 500 hackers this year!</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Overview of what a hackathon is </b>
+      <td style="text-align:center"><b>Overview of what a hackathon is </b>
       </td>
       <td style="text-align:left">Remember that your audience might not be familiar with what a hackathon
         is! It&#x2019;s important to give some context in case they&#x2019;re not
@@ -39,7 +39,7 @@ description: >-
         awesome projects</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Something Personal </b>
+      <td style="text-align:center"><b>Something Personal </b>
       </td>
       <td style="text-align:left">Remember that your audience might not be familiar with what a hackathon
         is! It&#x2019;s important to give some context in case they&#x2019;re not
@@ -49,7 +49,7 @@ description: >-
         into our hackathon!</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>What makes your event unique</b>
+      <td style="text-align:center"><b>What makes your event unique</b>
       </td>
       <td style="text-align:left">Some sponsors will be receiving a ton of requests to sponsor hackathons.
         Briefly tell them why your event is special!</td>
@@ -58,7 +58,7 @@ description: >-
         the tech community.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Request to chat </b>
+      <td style="text-align:center"><b>Request to chat </b>
       </td>
       <td style="text-align:left">Being able to hop on a phone call to pitch your event will help your potential
         sponsor get a better idea of how they can work with your event.</td>
@@ -67,7 +67,7 @@ description: >-
         Do you have any availability next week? How is Tuesday @ 3 pm.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>An eye-catching subject line</b>
+      <td style="text-align:center"><b>An eye-catching subject line</b>
       </td>
       <td style="text-align:left">People get a ton of emails.</td>
       <td style="text-align:left">
