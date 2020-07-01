@@ -6,8 +6,6 @@ description: >-
 
 # Emailing Your Sponsors Cheat Sheet
 
-
-
 <table>
   <thead>
     <tr>
