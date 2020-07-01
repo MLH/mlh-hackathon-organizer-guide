@@ -1,6 +1,6 @@
 # Prepare Your Emergency Plan
 
-You should be hoping for the best but planning for the worst. Spend some time coming up with emergency/nightmare scenarios and build up a document with [contingency plans](http://en.wikipedia.org/wiki/Contingency_plan). This document should also include emergency contact numbers and other vital information. Some examples of these scenarios include:
+You should be hoping for the best but planning for the worst. Spend some time coming up with emergency/nightmare scenarios and build up a document with contingency plans. This document should also include emergency contact numbers and other vital information. Some examples of these scenarios include:
 
 * A fire starts in your venue.
 * Too much power gets used and a fuse in the building gets tripped.
