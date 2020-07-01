@@ -1,4 +1,4 @@
-# Do A Run-Through with the team
+# Run-Through with the Team
 
 
 

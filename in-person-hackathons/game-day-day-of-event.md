@@ -1,4 +1,4 @@
-# Game Day! \(Day Of Event\)
+# Day of Event: Game Day!
 
 
 

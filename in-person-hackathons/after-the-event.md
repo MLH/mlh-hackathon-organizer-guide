@@ -1,4 +1,4 @@
-# After The Event
+# After the Event
 
 Congratulations — you pulled off a successful hackathon! To close out your event, follow this post-event checklist to ensure you finish on a high note:
 

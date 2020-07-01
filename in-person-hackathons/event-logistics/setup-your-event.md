@@ -4,7 +4,7 @@ description: >-
   include the things below.
 ---
 
-# Setup Your Event
+# Event Setup
 
 
 

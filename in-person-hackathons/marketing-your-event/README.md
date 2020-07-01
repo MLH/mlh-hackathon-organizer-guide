@@ -1,2 +1,2 @@
-# Marketing your event
+# Marketing your Event
 

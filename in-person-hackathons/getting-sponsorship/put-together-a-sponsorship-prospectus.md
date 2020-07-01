@@ -1,6 +1,4 @@
-# Put Together A Sponsorship Prospectus
-
-
+# Sponsorship Prospectus
 
 Before approaching sponsors, create a short info packet with three tiers of sponsorship. [This doesn’t need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 

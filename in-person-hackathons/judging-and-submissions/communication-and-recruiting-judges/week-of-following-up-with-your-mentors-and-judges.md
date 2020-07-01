@@ -1,2 +1,2 @@
-# \(Week-of\)Following up with your Judges
+# Week-of: Judges follow up
 

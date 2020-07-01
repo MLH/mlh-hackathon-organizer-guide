@@ -1,4 +1,4 @@
-# Overall sponsorship timeline
+# Sponsorship Timeline
 
 Content coming soon ✨
 

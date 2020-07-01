@@ -1,4 +1,4 @@
-# Communication & Recruiting Judges
+# Judges - Communication & Recruitment
 
 ## Book Mentors And Judges
 

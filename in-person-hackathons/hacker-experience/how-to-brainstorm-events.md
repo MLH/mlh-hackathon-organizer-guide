@@ -4,11 +4,13 @@ description: >-
   excitement, and have some fun!
 ---
 
-# How to Brainstorm events
+# Brainstorming Events
 
 Cup stacking is one of our most popular mini events. 
 
 ## What is Cup Stacking?
+
+
 
 Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity with their friends and fellow hackers. In teams of two, the participants attempt to create the tallest tower of cups stacked on top of each other.
 

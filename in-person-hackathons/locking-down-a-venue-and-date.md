@@ -1,4 +1,4 @@
-# Locking down a Venue & Date
+# Locking down a Venue
 
 Few of your planning decisions will truly make or break your hackathon, but your choice of venue is one of them. It often takes more time than expected to secure the right location, so the earlier you begin scouting, the better! Having a confirmed venue will also prove to potential sponsors and attendees that you’re serious about hosting a great event.
 

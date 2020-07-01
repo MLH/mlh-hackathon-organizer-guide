@@ -1,4 +1,6 @@
-# Hackathon Budgeting
+# Helpful Figures - Estimated Costs
+
+
 
 Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template based on estimated costs and your expected number of attendees](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit).
 

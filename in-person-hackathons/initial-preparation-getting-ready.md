@@ -1,4 +1,4 @@
-# Initial Preparation \(Getting Ready\)
+# Initial Preparation: Getting Ready
 
 Content coming soon ✨
 

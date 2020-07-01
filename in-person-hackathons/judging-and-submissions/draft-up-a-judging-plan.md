@@ -1,4 +1,4 @@
-# Draft up a judging plan
+# Judging Plan
 
 Content coming soon ✨
 

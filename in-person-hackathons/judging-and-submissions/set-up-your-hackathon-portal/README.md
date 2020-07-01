@@ -1,4 +1,4 @@
-# Set up your Hackathon Portal
+# Hackathon Portal
 
 Content coming soon ✨
 

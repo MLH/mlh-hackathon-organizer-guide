@@ -1,4 +1,4 @@
-# Creating a Detailed Run of Show
+# Detailed Run of Show
 
 Schedules can definitely change, but it’s good for participants \(and organizers\) to know what to expect. Please, send us your schedule and we can help ensure it’s realistic.
 

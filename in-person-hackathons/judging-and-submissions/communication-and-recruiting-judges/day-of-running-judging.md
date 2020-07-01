@@ -1,2 +1,2 @@
-# \(Day-of\) Running Judging
+# Day-of: Running Judging
 

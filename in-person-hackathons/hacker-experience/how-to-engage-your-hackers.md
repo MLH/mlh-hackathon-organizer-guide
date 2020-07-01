@@ -1,4 +1,4 @@
-# How to Engage your Hackers
+# Engaging your Hackers
 
 Participants need to have an idea for a hack and be making steady progress toward their goals to stay motivated at your hackathon. While you don't want to be overbearing or dictate what hackers should make, some hackers need more support generating ideas and staying on track.
 

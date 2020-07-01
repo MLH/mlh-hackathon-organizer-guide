@@ -1,2 +1,2 @@
-# Creating your Hackathon Schedule
+# Hackathon Scheduling
 
