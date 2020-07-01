@@ -4,9 +4,6 @@
 
 * Example: past schedules of successful events
   * [Major League Hacking Sample Run of Show](https://docs.google.com/spreadsheets/d/1e2B4-AYUU3Y0xFmiTGLYfRosP2IdXxF1Ud5GvGh-6cE/edit?usp=sharing)
-  * [24 hours — MongoDB](http://www.mongodb.com/events/NYC-MongoDB-Hackathon) \(Friday and Saturday\)
-  * [24 hours — SendGrid Internal](https://www.hackerleague.org/hackathons/sendgrid-internal-hackathon/wikipages/53a877ee9cbedf8d02000002) \(Saturday and Sunday\)
-  * [36 hours: Hackcon IV](http://hackcon.io/na/)
 * [Picking the Chosen One Article](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
 * [Workshop Materials](https://localhost.mlh.io)
 
