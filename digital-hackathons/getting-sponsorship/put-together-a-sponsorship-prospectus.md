@@ -1,6 +1,12 @@
+---
+description: >-
+  Before approaching sponsors, create a short info packet with three tiers of
+  sponsorship.
+---
+
 # Sponsorship Prospectus
 
-Before approaching sponsors, create a short info packet with three tiers of sponsorship. This doesn’t need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.
+Sponsorship packets don't need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.
 
 Your prospectus should include:
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  We know that emailing sponsors can be difficult. Below is a guide to help
+  craft your initial email.
+---
+
 # Emailing Your Sponsors Cheat Sheet
 
 
