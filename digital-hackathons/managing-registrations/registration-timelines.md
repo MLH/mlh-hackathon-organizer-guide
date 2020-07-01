@@ -7,7 +7,7 @@ description: >-
 
 # Registrations
 
-As you gather registrations, some of the information you should collect is: 
+### As you gather registrations, some of the information you should collect is: 
 
 * Name
 * Phone number
@@ -16,7 +16,7 @@ As you gather registrations, some of the information you should collect is:
 * T-Shirt size \(If shipping t-shirts\) 
 * Shipping address \(If shipping prizes or swag\)
 
-Option fields and suggest drop-down fields to choose from are: 
+### Option fields and suggest drop-down fields to choose from are: 
 
 * Age
 * Gender 
