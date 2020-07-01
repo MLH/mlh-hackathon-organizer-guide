@@ -58,7 +58,7 @@
         sponsor get a better idea of how they can work with your event.</td>
       <td
       style="text-align:left">I&#x2019;d love to chat about how LoonHacks and CompanyName can work together!
-        Do you have any availability next week? How is Tuesday @ 3pm.</td>
+        Do you have any availability next week? How is Tuesday @ 3 pm.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>An eye-catching subject line</b>

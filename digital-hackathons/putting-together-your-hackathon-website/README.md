@@ -1,2 +1,2 @@
-# Putting together your hackathon website!
+# Hackathon Website
 

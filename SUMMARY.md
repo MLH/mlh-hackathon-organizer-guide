@@ -11,8 +11,8 @@
 
 ## Digital Hackathons
 
-* [Planning fundamentals for Digital Hackathons](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
-* [Deciding the date and Writing a Mission Statement](digital-hackathons/deciding-the-date.md)
+* [Planning Fundamentals](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
+* [Finding the Date & Purpose](digital-hackathons/deciding-the-date.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
   * [Understanding your Sponsors - Setting Goals](digital-hackathons/getting-sponsorship/setting-goals.md)
@@ -21,11 +21,11 @@
   * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips/README.md)
     * [Emailing Your Sponsors Cheat Sheet](digital-hackathons/getting-sponsorship/mlh-tips/emailing-your-sponsors-cheat-sheet.md)
   * [Put Together A Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
-* [Putting together your hackathon website!](digital-hackathons/putting-together-your-hackathon-website/README.md)
+* [Hackathon Website](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Set Up A Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
   * [Updating website with day-of Information](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
   * [MLH Tips and Resources](digital-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
-* [Marketing your event](digital-hackathons/marketing-your-event/README.md)
+* [Marketing your Event](digital-hackathons/marketing-your-event/README.md)
   * [Setting marketing goals & timelines](digital-hackathons/marketing-your-event/setting-marketing-goals-and-timelines.md)
   * [How to Promote Your Event](digital-hackathons/marketing-your-event/how-to-promote-your-event.md)
 * [Managing Registrations](digital-hackathons/managing-registrations/README.md)
