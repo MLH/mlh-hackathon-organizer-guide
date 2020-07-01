@@ -9,7 +9,6 @@ Prizes are a great way to reward hackers for their hard work. When selecting the
 * [Oculus Rift](https://www.oculusvr.com/order/)
 * [Arduino kit](https://www.sparkfun.com/products/12001)
 * [Sphero](http://www.gosphero.com/)
-* [Google Glass](http://www.google.com/glass)
 * Unreleased hardware
 * Rechargeable battery packs
 * Laptop, tablet, etc.
