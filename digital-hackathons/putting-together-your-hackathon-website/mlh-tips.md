@@ -1,4 +1,4 @@
-# MLH Tips and Resources
+# MLH Tips
 
 ## **MLH Tips:** 
 

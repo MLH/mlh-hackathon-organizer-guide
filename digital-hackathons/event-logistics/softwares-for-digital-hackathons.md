@@ -1,4 +1,4 @@
-# Software for digital Hackathons
+# Digital Hackathon Software
 
 ## **Communication Platform**
 

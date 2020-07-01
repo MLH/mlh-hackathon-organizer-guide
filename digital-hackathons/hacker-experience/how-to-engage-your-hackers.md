@@ -1,4 +1,4 @@
-# How to Engage your Hackers
+# Engaging your Hackers
 
 At an in-person event, you can quickly communicate with people in the same room as you. At a digital event, you’ll need to set up an environment so people feel comfortable starting conversations like they would in-person.
 

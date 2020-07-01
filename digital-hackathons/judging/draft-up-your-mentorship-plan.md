@@ -1,4 +1,4 @@
-# Draft up your Mentorship Plan
+# Mentorship Plan
 
 As often as possible, encourage mentors to hop on voice and/or video chats with the hackers seeking help. 
 

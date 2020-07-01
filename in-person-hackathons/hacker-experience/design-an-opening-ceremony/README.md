@@ -1,2 +1,2 @@
-# Opening & Closing Ceremony
+# Opening & Closing Ceremonies
 

@@ -1,4 +1,4 @@
-# Budgeting your hackathon
+# Hackathon Budgeting
 
 Digital events have significantly lower costs compared to in-person events.  Some of the main costs to consider are: 
 

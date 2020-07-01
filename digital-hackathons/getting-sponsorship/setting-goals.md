@@ -1,4 +1,4 @@
-# Understanding your Sponsors - Setting Goals
+# Setting Goals - Understanding your Sponsors
 
 
 

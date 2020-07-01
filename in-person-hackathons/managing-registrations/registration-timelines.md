@@ -1,4 +1,4 @@
-# Registration Timelines
+# Registration Timeline
 
 Content coming soon ✨
 

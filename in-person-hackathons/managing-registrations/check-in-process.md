@@ -1,4 +1,4 @@
-# Check-in process
+# Check-in Process
 
 Content coming soon ✨
 

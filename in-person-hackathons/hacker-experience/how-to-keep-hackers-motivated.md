@@ -1,6 +1,0 @@
-# Keeping Hackers Motivated
-
-
-
-
-

@@ -1,4 +1,4 @@
-# Creating a Detailed Run of Show
+# Detailed Run of Show
 
 A detailed run of show is essential to running a smooth hackathon whether digital or in-person. This is a timeline including the official hackathon schedule and a secondary staff schedule denoting what needs to happen behind the scenes — and when. 
 

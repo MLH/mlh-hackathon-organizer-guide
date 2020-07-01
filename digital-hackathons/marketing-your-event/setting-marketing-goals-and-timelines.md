@@ -1,4 +1,4 @@
-# Setting marketing goals & timelines
+# Marketing Goals & Timelines
 
 Because hackers do not need to make travel arrangements to attend a digital hackathon, you will likely see sign-ups rising closer to the event start that you may see at in-person events. The exciting part of this is you now have the ability to promote your event to hackers anywhere in the world! 
 

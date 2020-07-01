@@ -1,4 +1,4 @@
-# Set Up A Placeholder Website
+# Placeholder Website
 
 Until an event has a website, it doesn’t exist to most people. Publishing a basic website the second you’ve committed to hosting a hackathon will help you drive interest to it, capture potential attendee email addresses, and answer questions from interested students:
 

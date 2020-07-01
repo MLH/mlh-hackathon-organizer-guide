@@ -4,7 +4,7 @@ description: >-
   hackers informed.
 ---
 
-# Updating website with day-of Information
+# Adding the Day-of Information
 
 Content coming soon ✨
 

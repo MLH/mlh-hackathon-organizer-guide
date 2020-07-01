@@ -1,4 +1,4 @@
-# Do A Run-Through with the team
+# Run-Through with the Team
 
 Just like a play or a wedding, it’s important to rehearse your schedule once with all team members.
 

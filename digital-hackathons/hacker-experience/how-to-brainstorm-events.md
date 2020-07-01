@@ -5,7 +5,7 @@ description: >-
   We’ve brainstormed some fun activities you can do.
 ---
 
-# How to Brainstorm events
+# Brainstorming events
 
 ## **Activities via Slack/Discord** 
 

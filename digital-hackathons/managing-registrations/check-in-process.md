@@ -1,4 +1,4 @@
-# Check-in process
+# Check-in Process
 
 Even though your event is digital, it's important to have a clear check-in process day-of so you know who is attending. This data is valuable for your team and stakeholders in your event. 
 
