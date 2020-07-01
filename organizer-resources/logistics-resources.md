@@ -1,4 +1,6 @@
-# GDPR in Europe
+# Logistics Resources
 
 Content coming soon ✨
+
+
 

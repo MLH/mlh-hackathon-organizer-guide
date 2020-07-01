@@ -13,6 +13,7 @@
 
 * [Planning Fundamentals](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
 * [Finding the Date & Purpose](digital-hackathons/deciding-the-date.md)
+* [Build Your Leadership Team](digital-hackathons/build-your-leadership-team.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
   * [Sponsorship Timeline](digital-hackathons/getting-sponsorship/sponsorship-timeline.md)
@@ -69,6 +70,7 @@
 ## In Person Hackathons
 
 * [Finding the Date & Purpose](in-person-hackathons/writing-a-mission-statement-event-purpose.md)
+* [Build Your Leadership Team](in-person-hackathons/build-your-leadership-team.md)
 * [Locking down a Venue](in-person-hackathons/locking-down-a-venue-and-date.md)
 * [Getting Sponsorship](in-person-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](in-person-hackathons/getting-sponsorship/introduction-to-fundraising.md)
@@ -130,24 +132,17 @@
 
 ## Organizer Resources
 
-* [Getting support from others](organizer-resources/getting-support-from-others/README.md)
-  * [Working with organisations & school administration](organizer-resources/getting-support-from-others/working-with-organisations-and-school-administration.md)
-* [Leadership Resources](organizer-resources/leadership-resources/README.md)
-  * [Build Your Leadership Team](organizer-resources/leadership-resources/build-your-leadership-team.md)
-  * [Management Tools](organizer-resources/leadership-resources/management-tools.md)
-  * [MLH Tips](organizer-resources/leadership-resources/mlh-tips.md)
-  * [Resources](organizer-resources/leadership-resources/resources.md)
+* [Getting support from others](organizer-resources/getting-support-from-others.md)
+* [Leadership Resources](organizer-resources/leadership-resources.md)
 * [Sponsorship Resources](organizer-resources/sponsorship-resources/README.md)
-  * [Understanding your sponsors](organizer-resources/sponsorship-resources/understanding-your-sponsors.md)
-  * [Marketing/messaging to sponsors](organizer-resources/sponsorship-resources/marketing-messaging-to-sponsors.md)
-  * [Shaping the Sponsor Experience](organizer-resources/sponsorship-resources/shaping-the-sponsor-experience.md)
+  * [Messaging to sponsors](organizer-resources/sponsorship-resources/marketing-messaging-to-sponsors.md)
+  * [Sponsor Experience](organizer-resources/sponsorship-resources/sponsor-experience.md)
 * [Hackathon Website Resources](organizer-resources/resources.md)
 * [Marketing Resources](organizer-resources/marketing-resources/README.md)
   * [Marketing tactics](organizer-resources/marketing-resources/marketing-tactics.md)
 * [Registrations Resources](organizer-resources/registrations-resources/README.md)
   * [GDPR in Europe](organizer-resources/registrations-resources/gdpr-in-europe.md)
-* [Logistics Resources](organizer-resources/logistics-resources/README.md)
-  * [Example Documents](organizer-resources/logistics-resources/example-documents.md)
+* [Logistics Resources](organizer-resources/logistics-resources.md)
 * [Workshop Resources](organizer-resources/workshop-resources/README.md)
   * [MLH Localhost](organizer-resources/workshop-resources/mlh-localhost-getting-hackers-comfortable.md)
 * [Host Exciting Mini-Events](organizer-resources/host-exciting-mini-events/README.md)

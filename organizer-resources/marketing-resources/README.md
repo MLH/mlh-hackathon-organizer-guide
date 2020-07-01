@@ -1,9 +1,5 @@
 # Marketing Resources
 
-Knowing your audience
-
-Tell Your Hackathon’s Story
-
 ## Resources to get potential pre-event coverage in local and tech media
 
 * Reach out to parent groups \(more useful for high school hackathons\)

@@ -4,15 +4,20 @@ There are tons of ways to keep your team hackathon planning team organized and o
 
 Some tools we've seen work well for organizing teams are: 
 
-* Chat: 
-  * Slack 
-  * Discord
-* Documents: 
-  * Google Drive
-  * Notion 
-* Task Management: 
-  * Asana
-  * Notion 
+**Chat:** 
+
+* Slack 
+* Discord
+
+**Documents:** 
+
+* Google Drive
+* Notion 
+
+**Task Management:** 
+
+* Asana
+* Notion 
 
 
 
