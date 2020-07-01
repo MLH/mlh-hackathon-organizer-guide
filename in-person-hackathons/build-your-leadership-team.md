@@ -1,9 +1,5 @@
 # Build Your Leadership Team
 
-
-
-
-
 Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, think like a startup CEO: choose enthusiastic and smart people with complementary skills. Here’s what a hackathon leadership team looks like:
 
 * Head of logistics — books venue, develops and runs schedule, orders services and supplies
