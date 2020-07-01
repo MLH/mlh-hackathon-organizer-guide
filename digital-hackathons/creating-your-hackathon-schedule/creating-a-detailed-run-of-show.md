@@ -2,7 +2,7 @@
 
 A detailed run of show is essential to running a smooth hackathon whether digital or in-person. This is a timeline including the official hackathon schedule and a secondary staff schedule denoting what needs to happen behind the scenes — and when. 
 
-Be sure to include:
+#### Be sure to include:
 
 * A sleep schedule for your team 
 * Opening Ceremony 
