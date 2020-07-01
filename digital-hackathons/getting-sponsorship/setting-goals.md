@@ -1,12 +1,9 @@
 # Setting Goals - Understanding your Sponsors
 
-
-
 You’ll be targeting five types of sponsors:
 
 * Financial — Cash for services. Most sponsors fall into this category.
 * Presenting — Sponsors that co-host or co-brand your event. \(Be careful not to give up too much control here.\)
-* Anchor brands — These companies make you legit in the eye of other sponsors.
 * Strategic partners — Sponsors that help with marketing and promotion; often publications.
 * In-kind — Donor companies. They can contribute hardware, t-shirts, etc.
 
@@ -42,7 +39,7 @@ As you’re hosting games and competitions throughout the event, consider mixing
 
 #### **Recruiting** 
 
-Keep in mind that even though hackathons are cancelling, hackers still are looking for jobs. If a sponsor is primarily interested in recruiting, there are still ways to engage them. Some ideas include:
+ If a sponsor is primarily interested in recruiting, there are several ways to engage them. Some ideas include:
 
 * **Resume critiques** – Office hours where recruiters help hackers edit and perfect their resumes. 
 * **1:1 Recruiter/Sponsor Chats** – Set up Google Hangouts or Zoom breakout rooms for your hackers to meet companies one on one, similarly to how they would at a sponsor fair. 
