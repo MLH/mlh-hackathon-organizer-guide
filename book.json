@@ -1,7 +1,7 @@
 {
   "plugins": ["ga"],
   "pluginsConfig": {
-    "ga": { "token": "UA-43729070-9" }
+    "ga": { "token": "UA-43729070-1" }
   },
   "styles": { "website": "assets/stylesheets/custom.css" },
   "layout": { "footerPath" : "layouts/footer.html" },
