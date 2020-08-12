@@ -7,9 +7,9 @@ description: >-
 
 # Brainstorming events
 
-## **Activities via Slack/Discord** 
+## **Activities via Slack/Discord**
 
-Keeping your hackers engaged on Slack/Discord is essential to keeping folks around for the duration of the event. Some ideas are: 
+Keeping your hackers engaged on Slack/Discord is essential to keeping folks around for the duration of the event. Some ideas are:
 
 * Start discussions in threads on your \#random, or create specific channels for chatting. See below for some potential questions you can use as conversation starters. 
 * Two Truths and a Lie
@@ -27,25 +27,22 @@ Keeping your hackers engaged on Slack/Discord is essential to keeping folks arou
 * Trivia tournament
   * Host a trivia tournament and let hackers know it’s honors system to not google answers. You could do this via stream where the first hackers to chime in for the correct answer win, or you could do a multi-choice quiz that you distribute via Slack/Discord. 
 
-
-
 ### **Gaming**
 
-Online game tournaments are one of the most common ways to engage folks online. You can get creative with the games you’re hosting.  Due to the processing power needed to stream, keep in mind the capabilities of your computer. We recommend streaming in no higher quality than 720p @ 30fps and hard-wiring your computer to the network via an ethernet cable when possible. Also, try not to do processing-heavy work on the computer that’s streaming. 
+Online game tournaments are one of the most common ways to engage folks online. You can get creative with the games you’re hosting. Due to the processing power needed to stream, keep in mind the capabilities of your computer. We recommend streaming in no higher quality than 720p @ 30fps and hard-wiring your computer to the network via an ethernet cable when possible. Also, try not to do processing-heavy work on the computer that’s streaming.
 
-There are ****numerous online gaming tournaments, and here are a few ideas: 
+There are _\*\*_numerous online gaming tournaments, and here are a few ideas:
 
-*  ****[**Jackbox games**](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE) – We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _\(run it in family mode to avoid inappropriate prompts!\)_
+* **\*\*\[**Jackbox games\*\*\]\([https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD\_BwE](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE)\) – We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _\(run it in family mode to avoid inappropriate prompts!\)_
 * **Stream multiplayer games –** League of Legends, Dota, Rocket League, and Smash can all be fun games to play over the web. Just be mindful that bad internet connection can make any of these games a bad time.
 * Online Chess tournament 
 * Create a Minecraft server for hackers to build in
 
 ### **Other Activities**
 
-Keep in mind that not all your hackers will be video game players. Host some non-gaming activities as well. Some of our ideas are:   
+Keep in mind that not all your hackers will be video game players. Host some non-gaming activities as well. Some of our ideas are:
 
-
-* [**!Light**](https://localhost.mlh.io/activities/no-light/) ****– Code-in-the-dark activity where participants have 5 minutes to recreate a website without previewing the code they’re writing. Stream the host’s screen so that hackers can see what everyone else built and vote on their favorite. 
+* [**!Light**](https://localhost.mlh.io/activities/no-light/) _\*\*_– Code-in-the-dark activity where participants have 5 minutes to recreate a website without previewing the code they’re writing. Stream the host’s screen so that hackers can see what everyone else built and vote on their favorite. 
 * [**Slideshow Karaoke**](https://localhost.mlh.io/activities/slideshow-karaoke/) – Presenter picks a random slidedeck based on suggestions from the audience. Have a volunteer present it \(via voice stream\) without knowing what it is while the presenter controls the slides. 
 * **Typing contest –** Host an online typing contest to see who can type the most words per minute using websites [like 10 Fast Fingers.](https://10fastfingers.com/competitions)
 * **Music** – If hackers have Spotify Premium, you can stream background music on Discord. Think about hosting an organizer DJ of the hour and have hackers vote on their favorite playlists. 
@@ -53,6 +50,4 @@ Keep in mind that not all your hackers will be video game players. Host some non
 * **User Experience Design Competition –** Give hackers a limited amount of time to create a design based on a theme you announce. Have them post it in a thread on slack/discord and participants can vote on their favorite. 
 * **Bob Ross painting competition using MS Paint** – Hackers can watch Bob Ross painting tutorials for free on YouTube. Have a competition to see who can recreate a Bob Ross landscape using MS Paint or other online drawing tool. 
 * [**Skribbl.io**](https://skribbl.io/) – Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
-
-
 

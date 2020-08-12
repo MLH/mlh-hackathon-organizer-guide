@@ -1,6 +1,6 @@
 # How to Promote Your Event
 
-Below are some strategies to promote your event. 
+Below are some strategies to promote your event.
 
 * Invite students from other schools to attend
   * Look at schools that have previously hosted MLH hackathons

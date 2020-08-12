@@ -1,19 +1,19 @@
 # Setting Goals - Understanding your Sponsors
 
-### You’ll be targeting five types of sponsors:
+## You’ll be targeting five types of sponsors:
 
 * Financial — Cash for services. Most sponsors fall into this category.
 * Presenting — Sponsors that co-host or co-brand your event. \(Be careful not to give up too much control here.\)
 * Strategic partners — Sponsors that help with marketing and promotion; often publications.
 * In-kind — Donor companies. They can contribute hardware, t-shirts, etc.
 
-### Sponsors support hackathons for three primary reasons:
+## Sponsors support hackathons for three primary reasons:
 
 * To get real time feedback on their development products, especially APIs
 * To raise awareness \(or change the perception\) of their brand
 * To recruit interns and full-time employees, especially during the fall
 
-### Sponsors’ top practical concerns:
+## Sponsors’ top practical concerns:
 
 * Attendee value
   * Are your hackathon’s attendees a good fit for the company in terms of recruiting, marketing, etc.?

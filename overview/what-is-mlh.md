@@ -25,5 +25,3 @@ The sooner your hackathon gets applies for membership, the more time you’ll ha
 * MLH: [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf)
 * MLH: [Hardware list](https://mlh.io/hardware-lab)
 
-
-

@@ -2,7 +2,7 @@
 
 Streamyard is the service MLH uses to stream to Twitch, Facebook, and Youtube simultaneously. You can control graphics, layouts, and invite hackers to stream with you. All from the browser.
 
-### **Creating A Broadcast**
+## **Creating A Broadcast**
 
 * Hit the Create a Broadcast button
 * Select which platforms you’d like to stream to \(typically all of them\)
@@ -12,7 +12,7 @@ Streamyard is the service MLH uses to stream to Twitch, Facebook, and Youtube si
 * Include a few sentences of description and whatever logistical information you need to in the description
 * Only use schedule for later if you want hackers to see that we’ll be live at a specific time
 
-### **Pro Tips**
+## **Pro Tips**
 
 * Use a wired internet connection when possible
 * Make sure you’re in a quiet environment

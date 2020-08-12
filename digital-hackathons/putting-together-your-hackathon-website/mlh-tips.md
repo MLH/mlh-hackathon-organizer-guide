@@ -1,6 +1,6 @@
 # MLH Tips
 
-## **MLH Tips:** 
+## **MLH Tips:**
 
 * You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
 * As early as possible, celebrate what differentiates your event.

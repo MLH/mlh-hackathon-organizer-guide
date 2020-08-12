@@ -6,7 +6,7 @@ description: >-
 
 # Planning Fundamentals
 
-If you're familiar with in-person hackathons and are curious about how the fundamentals translate to the digital space, we've outlined some of the key differences and our recommendations below:  
+If you're familiar with in-person hackathons and are curious about how the fundamentals translate to the digital space, we've outlined some of the key differences and our recommendations below:
 
 | Event | Digital | In-Person |
 | :--- | :--- | :--- |
@@ -20,8 +20,4 @@ If you're familiar with in-person hackathons and are curious about how the funda
 | **Sponsor interactions** | Hackers join office hours dedicated for the sponsor | Hackers approach sponsors at their tables |
 | **Judging** | Pre-recorded demos submitted on Devpost, available to view after submissions | Live demos |
 | **Closing Ceremony** | Streamed pre-recorded videos by organizers, viewable during and after the event | Presented live by organizers, with sponsors on stage |
-
-
-
-
 

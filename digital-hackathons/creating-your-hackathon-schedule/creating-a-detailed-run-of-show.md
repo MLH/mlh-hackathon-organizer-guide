@@ -1,8 +1,8 @@
 # Detailed Run of Show
 
-A detailed run of show is essential to running a smooth hackathon whether digital or in-person. This is a timeline including the official hackathon schedule and a secondary staff schedule denoting what needs to happen behind the scenes — and when. 
+A detailed run of show is essential to running a smooth hackathon whether digital or in-person. This is a timeline including the official hackathon schedule and a secondary staff schedule denoting what needs to happen behind the scenes — and when.
 
-#### Be sure to include:
+## Be sure to include:
 
 * A sleep schedule for your team 
 * Opening Ceremony 
@@ -21,6 +21,4 @@ A detailed run of show is essential to running a smooth hackathon whether digita
 * Deadline to finalize winners
 * Closing ceremony
   * Similarly to the opening ceremony, include extra details here for the order of speakers, and time to test the stream. 
-
-
 

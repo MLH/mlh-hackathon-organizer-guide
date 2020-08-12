@@ -18,7 +18,3 @@ The first iteration of your site should include:
   * An email address for sponsorship inquiries
   * Some information about your event and your team
 
-
-
-### 
-

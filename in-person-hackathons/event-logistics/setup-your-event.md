@@ -21,7 +21,7 @@ These will likely include the things below.
 * [ ] Help desk/info center
 * [ ] "Meditation room"
 
-### Have organizers handle the following tasks during the corresponding times:
+## Have organizers handle the following tasks during the corresponding times:
 
 * Serve breakfast
 * Welcome and brief sponsors
@@ -30,11 +30,11 @@ These will likely include the things below.
 * GIve out promotional materials
 * Give attendees wrist bands or name tags
 
-### Brief Volunteers
+## Brief Volunteers
 
 Make your volunteers responsible for specific tasks. They should be working on something relevant at any given time during their shifts.
 
-### **Opening ceremony**
+## **Opening ceremony**
 
 * Round up people to attend presentation
 * Welcome address
@@ -46,19 +46,19 @@ Make your volunteers responsible for specific tasks. They should be working on s
 >   
 > Invite-only API demos \(developer evangelists\) are another good option.
 
-### Simultaneously \(meals every six hours including snacks\)
+## Simultaneously \(meals every six hours including snacks\)
 
 * Set up first meal
 * Find your team/workshop mixer
 
-### During Hacking
+## During Hacking
 
 * Collect garbage
 * Tech talk facilitator: rounding people up to listen and handling speakers \(tech talks usually sponsors\)
 * One volunteer should be in charge of each special area or activity at the hackathon: for example, the hardware room, photo booth, etc.
 * Checking in on hackers: feeding them snacks, making sure their power and WIFI are working, etc.
 
-### Hacking Deadline
+## Hacking Deadline
 
 * Get teams to submit what they’ve been working on to either HackerLeague or Challenge Post. It’s important that every team member is registered on the platform and added to the hackathon project.
 * MLH Tip: Announce a deadline that is an hour before your real deadline

@@ -4,11 +4,11 @@ description: Presented to you by Chris from MLH
 
 # Pokemon Showdown
 
-### **You will need:**
+## **You will need:**
 
 * A [Challonge](http://challonge.com) account
 
-### **What is this?**
+## **What is this?**
 
 Pokemon Showdown is a way to play pokemon with others for free. We’re playing a format called Gen 8 Random Battles, which is where you’re given a random team of pokemon to fight with. It makes it much more random and silly, so this way almost everyone has a relatively fair shot at winning.
 
@@ -16,8 +16,6 @@ Pokemon Showdown is a way to play pokemon with others for free. We’re playing 
 * Create a google form for your event that asks hackers to write down their discord name and their Pokemon Showdown name. Make sure to link it up to a spreadsheet so you have easy access to the list of members.
 
 ![](https://lh5.googleusercontent.com/UxwroPMACzmCyxmJiNGUrTBYc_lLVIsP3wS3M-GF2aKLoho7wZNJITiHuoFpOtP4_25IzA2MOUW99CdLN3dYSVhIPfLzuPoXgKZ7ks823YZVlU2F4l9Jzwt7Yst3krXjo3WlO5ux)
-
-
 
 * Make an account over at [challonge.com](https://challonge.com/) and make a tournament bracket for your event. It should be single elimination -- other than that all the other default settings are fine. You can see a sample bracket [here](https://challonge.com/hacklariousPS).
 * Once you have the bracket setup, begin collecting signups from your hackers. Cut it off 5 minutes before the tournament start time.
@@ -36,8 +34,6 @@ From there, you can start your bracket. You’ll be given a live link to your br
 ![](https://lh6.googleusercontent.com/HnnghOngq-Drv591S1vhuH1zsIT4XugYhylxFH0rzziPvVFX-OidFwM70j1iDoQdDRy8rSEPK980ON_4KXZc3_Y4_YqzhkNUwHHgIKEWaSQ4ha4d4X9_IFZ2O1OjYxULFvTwUV1S)
 
 ![](https://lh4.googleusercontent.com/39ytfSSEh-r7hHAaHZ6f40IfMuOz2M0SGDJpXqm-5uhYRx7Zrt7HtWAesl88U0RPZIsfiQMxKawr1S98gjap0aJ1tJMx4ReBTwYSE3zjeIjxzgDLyeFqLZ97WY4rw8g1x4PFmr55)
-
-
 
 * Give your hackers 15 minutes to begin their round 1 match. Non responders get Disqualified. Ask participants to report the results of their matches.
 * Proceed down the bracket. Round 1 will have the most troubleshooting -- after that, it’s usually much calmer.

@@ -1,8 +1,8 @@
 # Running Opening ceremony
 
-### **Opening**
+## **Opening**
 
-We strongly recommend pre-recording your opening ceremony rather than doing it live. It lets you be in full control of the ceremony, removes a lot of hardware/bandwidth problems, and, in general, is significantly more consistent. 
+We strongly recommend pre-recording your opening ceremony rather than doing it live. It lets you be in full control of the ceremony, removes a lot of hardware/bandwidth problems, and, in general, is significantly more consistent.
 
 Make sure you cover:
 

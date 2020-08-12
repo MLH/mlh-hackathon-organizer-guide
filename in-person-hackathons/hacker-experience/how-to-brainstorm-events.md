@@ -10,5 +10,3 @@ description: >-
 
 {% page-ref page="../../organizer-resources/host-exciting-mini-events/additional-mini-events/" %}
 
-
-

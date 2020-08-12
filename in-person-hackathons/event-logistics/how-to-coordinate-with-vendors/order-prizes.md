@@ -1,6 +1,6 @@
 # Order Prizes
 
-Prizes are a great way to reward hackers for their hard work. When selecting them, it’s important to consider why you are giving a prize, what sort of behaviors that prize rewards, and how you can go about motivating those behaviors. No one wants to be seen as stingy, but prizes say a lot about who you are as a community, why you are there in the first place, and they influence the vibe of your event — big time. Check out [this article](https://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014) for a larger discussion on hackathon prizes. 
+Prizes are a great way to reward hackers for their hard work. When selecting them, it’s important to consider why you are giving a prize, what sort of behaviors that prize rewards, and how you can go about motivating those behaviors. No one wants to be seen as stingy, but prizes say a lot about who you are as a community, why you are there in the first place, and they influence the vibe of your event — big time. Check out [this article](https://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014) for a larger discussion on hackathon prizes.
 
 ## Prize Ideas
 

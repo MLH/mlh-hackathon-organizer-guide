@@ -14,7 +14,7 @@ It would be great to include a short case study or example "about us" page from 
 
 ## Getting the Word Out
 
-We've outlined below strategies you can use as you're spreading the word about your event. 
+We've outlined below strategies you can use as you're spreading the word about your event.
 
 * Invite students from other schools to attend
   * Select at least three schools within six hours of your campus
@@ -32,6 +32,4 @@ We've outlined below strategies you can use as you're spreading the word about y
   * Consider Facebook or instagram ads.
 * Get pre-event press coverage
   * Tell your school’s paper and ask for a press release 
-
-## 
 

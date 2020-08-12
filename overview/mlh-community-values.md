@@ -11,7 +11,7 @@ Through supporting 100’s of hackathons around the world and working closely wi
 
 MLH Member Events serve as examples of excellence to other hackathons and communities around the world. By following these Core Values, they set an example of excellence and help create the highest quality experience possible for hackers, organizers, and sponsors alike.
 
-### MLH Member Events set a standard of excellence for attendees.
+## MLH Member Events set a standard of excellence for attendees.
 
 * Have a confirmed date and location that attendees can depend on.
 * Events must be at least 24 hours and the venue must be available for attendees overnight.
@@ -22,7 +22,7 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * Check in all attendees as they arrive at the event and make sure they have up-to-date name, email, mobile phone number, and school for each of them.
 * Have at least one lead organizer who has full ability to make decisions on site at any time during the event.
 
-### MLH Member Events are open and accessible to all students.
+## MLH Member Events are open and accessible to all students.
 
 * Do not have entry fees.
 * Advertise well enough in advance for hackers in the area to learn about the event.
@@ -33,12 +33,12 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * Publish the criteria for admission to their event.
 * Publish the rules and regulations for competing in their event.
 
-### MLH Member Events are fair.
+## MLH Member Events are fair.
 
 * Organizers don’t compete in any event they are organizing. They extend the same rule to judges, sponsors, and other staff.
 * Are open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months. Students can include high school students, university undergraduate, postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
 
-### MLH Member Events are safe and welcoming spaces.
+## MLH Member Events are safe and welcoming spaces.
 
 * Adopt, make available, and enforce the MLH Code of Conduct.
 * Organizers all sign and agree to the MLH Code of Conduct.

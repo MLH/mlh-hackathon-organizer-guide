@@ -4,5 +4,3 @@ As a hackathon organizer, you have to figure out the budget, create the schedule
 
 There's no need to fear, MLH [Localhost is here](https://localhost.mlh.io)! Localhost provides workshops that you can use right out of the box.
 
-
-

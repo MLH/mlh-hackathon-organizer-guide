@@ -1,20 +1,18 @@
 # Messaging to sponsors
 
-### **Practice / Mock calls**
+## **Practice / Mock calls**
 
 Content coming soon ✨
 
-### **How to write emails to sponsors**
+## **How to write emails to sponsors**
 
 Content coming soon ✨
 
-### **Find leads** 
+## **Find leads**
 
 Content coming soon ✨
 
-### **Using Linkedin**
+## **Using Linkedin**
 
 Content coming soon ✨
-
-
 

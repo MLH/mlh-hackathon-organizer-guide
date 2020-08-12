@@ -1,7 +1,6 @@
 # !Light
 
-This is a frontend coding competition we borrowed without asking and renamed it '!Light', exactly the same as Code in the Dark.   
-
+This is a frontend coding competition we borrowed without asking and renamed it '!Light', exactly the same as Code in the Dark.
 
 * Each round lasts 10 minutes, and is between 5 to 10 participants
 * All participants in each round are given the same screenshot of a website \(e.g: Pinterest.com\) and must recreate it to the best of their ability in HTML & CSS

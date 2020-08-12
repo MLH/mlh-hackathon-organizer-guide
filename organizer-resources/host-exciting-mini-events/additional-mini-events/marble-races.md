@@ -4,13 +4,13 @@ description: Presented to you by Chris from MLH
 
 # Marble Races
 
-### You will need:
+## You will need:
 
 * A Windows machine \(Check the store page for marbles for minimum specs\)
 * Streamyard
 * A microphone and commanding voice
 
-### What is this?
+## What is this?
 
 Marbles on Steam is a free game where viewers of a twitch stream can hop in and put their name on a marble. The marbles race through a track with no input from the players. It’s very silly and not skill-based at all.
 
@@ -28,6 +28,4 @@ Marbles on Steam is a free game where viewers of a twitch stream can hop in and 
 * Important: Stream delay is pretty large. Expect at worst 100 seconds between what you say and it appearing on stream.
 * Begin the race once a significant portion of your viewers have joined. Control the camera using the WASD keys, and use Left Alt to display all the names of your marbles. Follow them around the track and provide fun commentary!
 * Run the game 3 or so times, and whenever you decide to wrap up, hype up your final race by saying it’s the grand finals for marbles at your hackathon. If you can, award them a fun title for their victory in the Discord Channel!
-
-
 

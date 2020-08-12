@@ -6,7 +6,7 @@ description: Brought to you by Kevin from MLH
 
 Hacker Hangouts are a great way to meet other people and mingle. It’s hard to bump into someone and spark a conversation digitally, so we created this event to foster those moments of social interaction!
 
-### **You will need:**
+## **You will need:**
 
 * Access to Zoom and breakout rooms
 * Appointed captains for the breakouts
@@ -16,21 +16,21 @@ You will break hackers up into groups of three. As soon as you get three hackers
 
 Three is the sweet spot because it’s small enough to make sure everyone participates, but not as intimidating as one on one. Also, your questions will say five or ten minutes, but those are mostly suggestions.
 
-### **Share these rules with hackers:**
+## **Share these rules with hackers:**
 
 1. Avoid talking about Coronavirus or related topics. Not only is much of our day to day involving it, it’s important to have a space that doesn’t include it in any way, shape, or form. 
 2. Each group will be assigned a captain. The leader’s main responsibility is to make sure everybody in the group participates.
 3. Once the new topic is given, you must move on. If you find yourself not wanting to move on, that’s great but you still gotta go to the next talking point. Talk to them about it afterwards!
 4. Be respectful of others. Give them time to talk and share their opinions, thoughts, etc. It’s essential to give everyone a safe space so that everyone feels encouraged to participate. 
 
-### **Pro tips for making questions if you need to:**
+## **Pro tips for making questions if you need to:**
 
 * Start off light, and end on a positive note. The middle question can be deeper and more introspective, but we want open participation**,** so avoid sensitive topics.
 * Also, avoid questions with discrete answers. Instead of asking, “what’s your favorite movie,” try to ask people to tell you stories about times they went to a movie theatre
   * You can always do an, “and why?” if you want to run a “favorite” question.
 * Try to be on brand with the event you’re at! For example, Hack Girl Summer’s questions should have a different overall theme than Hack the Chain’s
 
-### Some questions to get you headstarted:
+## Some questions to get you headstarted:
 
 * What are the books/movies/games/videos that never get old and always make your day a little brighter?
 * What platitude do you think is bullshit? What platitude do you think holds truth? \(Think, "love conquers all," or "when life gives you lemons..."\)

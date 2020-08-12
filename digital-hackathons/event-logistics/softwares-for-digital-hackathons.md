@@ -6,7 +6,7 @@
 
 Before joining and once on the platform, make hackers know that their behavior and actions are still subject to MLH Code of Conduct, and to be respectful. _Digital spaces can increase harassment as people are hidden behind a computer, so it is key to make sure your attendees know you still take this seriously._
 
-Include the following channels on your platform: 
+Include the following channels on your platform:
 
 * Team-Formation 
   * Channel for hackers to form teams
@@ -23,28 +23,26 @@ Include the following channels on your platform:
 * Admin
   * Channel for your organizing team. We recommend creating an admin voice channel as well! 
 
-## Streaming Platform 
+## Streaming Platform
 
-Your team may choose to stream different aspects of the event including opening ceremony, workshops, mini-events, and closing ceremony. 
+Your team may choose to stream different aspects of the event including opening ceremony, workshops, mini-events, and closing ceremony.
 
-You may consider streaming to: 
+You may consider streaming to:
 
 * Twitch
 * Youtube
 * Facebook 
 
-Tools like [Streamyard](www.streamyard.com) make it super simple to stream to multiple places at once. 
+Tools like [Streamyard](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/3f837278b17a23628d067848f874f3b914ac170c/digital-hackathons/event-logistics/www.streamyard.com) make it super simple to stream to multiple places at once.
 
-##  Video Call Platform
+## Video Call Platform
 
-If you are running events that require attendees to join a video call, make sure you choose a platform that will allow for the correct number of attendees. 
+If you are running events that require attendees to join a video call, make sure you choose a platform that will allow for the correct number of attendees.
 
-Some popular options are: 
+Some popular options are:
 
 * [Zoom](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-video-tutorials) 
 * [Google Meets](https://apps.google.com/meet/how-it-works/) \(allows for up to 100 participants\) 
 * [Google Hangouts ](https://support.google.com/hangouts/answer/2944865?co=GENIE.Platform%3DAndroid&hl=en)\(allows for up to 25 participants using video\)
 * [Discord Video Calls ](https://support.discord.com/hc/en-us/articles/115000982752-Screen-sharing-Video-Calls)
-
-
 

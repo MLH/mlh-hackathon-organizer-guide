@@ -55,5 +55,3 @@ We recommend selecting judges that have a strong technical aptitude. If you’re
 Calculations  
 Attendee Target / 5 per team = \# of expected projects
 
-
-
