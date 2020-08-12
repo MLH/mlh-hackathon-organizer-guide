@@ -10,7 +10,7 @@ In-Kind sponsors are those who provide goods or services instead of money as a s
 
 Oftentimes, in-kind sponsors will be offering to provide something that is essential to your event. This could include catering for an in-person event, or perhaps production of event swag, or even credits to host your event website or servers. These types of in-kind sponsorships can help to lower your overall event budget. While they may not provide money directly, they are eliminating costs.
 
-It is up to you to evaluate whether or not this is worth it. We recommend looking at it in terms of cost-benefit for you as organizers and for your hackers.
+It is up to you to evaluate whether or not this is worth it. We recommend looking at it in terms of cost-benefit for you as organizers and for your hackers. You can also feel empowered to go back to potential in-kind sponsors with counter offers that your team might be more comfortable with.
 
 _As a thought experiment, ask yourself if you would be willing to trade the flagship sponsorship of your event to a catering company in exchange for a free meal that would have otherwise cost you $5000. What about five free meals? What if they only want a logo on the back of your t-shirt, and not the flagship-level branding? Each event is different, and you will have to ask this question about any in-kind sponsor who comes your way._
 
