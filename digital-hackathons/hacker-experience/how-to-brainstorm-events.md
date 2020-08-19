@@ -31,7 +31,7 @@ Keeping your hackers engaged on Slack/Discord is essential to keeping folks arou
 
 Online game tournaments are one of the most common ways to engage folks online. You can get creative with the games you’re hosting. Due to the processing power needed to stream, keep in mind the capabilities of your computer. We recommend streaming in no higher quality than 720p @ 30fps and hard-wiring your computer to the network via an ethernet cable when possible. Also, try not to do processing-heavy work on the computer that’s streaming.
 
-There are _\*\*_numerous online gaming tournaments, and here are a few ideas:
+There are \_\*\*\_numerous online gaming tournaments, and here are a few ideas:
 
 * **\*\*\[**Jackbox games\*\*\]\([https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD\_BwE](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE)\) – We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _\(run it in family mode to avoid inappropriate prompts!\)_
 * **Stream multiplayer games –** League of Legends, Dota, Rocket League, and Smash can all be fun games to play over the web. Just be mindful that bad internet connection can make any of these games a bad time.
