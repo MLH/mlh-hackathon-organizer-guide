@@ -47,9 +47,9 @@
       <td style="text-align:left">3 months before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href="marketing-your-event/">Start your Hackathon Outreach</a>
+          <li><a href="marketing-your-event/">Start your Hackathon Marketing &amp; Outreach</a>
           </li>
-          <li><a href="putting-together-your-hackathon-website/updating-website-with-day-of-information.md">Make your main website live!</a>
+          <li><a href="putting-together-your-hackathon-website/updating-website-with-day-of-information.md">Make your Main Website live!</a>
           </li>
           <li><a href="managing-registrations/">Collecting Registrations for the Hackathon</a>
           </li>

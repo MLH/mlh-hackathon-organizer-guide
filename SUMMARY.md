@@ -7,7 +7,7 @@
 * [What is a Hackathon?](overview/why-organize-a-hackathon.md)
 * [What is MLH?](overview/what-is-mlh.md)
 * [MLH Community Values](overview/mlh-community-values.md)
-* [How to Use this Guide](overview/how-to-use-this-guide.md)
+* [How to use this Guide?](overview/how-to-use-this-guide.md)
 
 ## Digital Hackathons
 
