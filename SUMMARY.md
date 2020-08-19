@@ -11,6 +11,7 @@
 
 ## Digital Hackathons
 
+* [Digital Hackathon Timeline](digital-hackathons/digital-hackathon-timeline.md)
 * [Planning Fundamentals](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
 * [Finding the Date & Purpose](digital-hackathons/deciding-the-date.md)
 * [Build Your Leadership Team](digital-hackathons/build-your-leadership-team.md)
@@ -70,6 +71,7 @@
 
 ## In Person Hackathons
 
+* [In Person Hackathon Timeline](in-person-hackathons/in-person-hackathon-timeline.md)
 * [Finding the Date & Purpose](in-person-hackathons/writing-a-mission-statement-event-purpose.md)
 * [Build Your Leadership Team](in-person-hackathons/build-your-leadership-team.md)
 * [Locking down a Venue](in-person-hackathons/locking-down-a-venue-and-date.md)
