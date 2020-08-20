@@ -1,3 +1,7 @@
+---
+description: A traditional MLH Mini Event
+---
+
 # WereWolf
 
 A group of wagons crawl along a path on a dark, starless night. Your caravan master’s constantly scanning the skies for proof he runs the correct course. A single lantern his only protection facing the black of night.
