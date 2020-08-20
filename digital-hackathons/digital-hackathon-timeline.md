@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="https://mlh.io/event-membership">Becoming an MLH Member Event!</a>
+      <td style="text-align:left"><a href="https://mlh.io/event-membership">Apply to become an MLH Member Event!</a>
       </td>
     </tr>
     <tr>

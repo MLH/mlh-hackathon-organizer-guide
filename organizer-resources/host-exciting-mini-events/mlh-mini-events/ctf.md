@@ -1,6 +1,10 @@
-# The U.S. Airforce Cybersecurity Challenge
+---
+description: >-
+  Here’s everything you need to know to run The U.S. Airforce Cybersecurity
+  Challenge!
+---
 
-Here’s everything you need to know to run The U.S. Airforce Cybersecurity Challenge!
+# The U.S. Airforce Cybersecurity Challenge
 
 ## Important Info:
 
@@ -30,7 +34,7 @@ For framing the event, read this \(or put it in your own words\):
 
 ## **Giving out prizes:**
 
-Recommended way to give out the prizes is a raffle for everyone who participated. You’ll have 3 prizes for your event -- so do 3 drawings, with the 1st person getting first picks at a prize.
+The recommended way to give out the prizes is a raffle for everyone who participated. You’ll have 3 prizes for your event -- so do 3 drawings, with the 1st person getting first picks at a prize.
 
 To set up the raffle, you can usually pretty easily just take everyone’s names down and then use random.org to get your random drawings. Don’t let one person win multiple prizes.
 
