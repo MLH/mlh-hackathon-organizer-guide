@@ -12,9 +12,9 @@
       <td style="text-align:left">4 to 9 Months Before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href="planning-fundamentals-for-digital-hackathons.md">Planning Fundamentals</a>
-          </li>
           <li><a href="deciding-the-date.md">Finding the Date &amp; Purpose</a>
+          </li>
+          <li><a href="build-your-leadership-team.md">Building Your Leadership Team</a>
           </li>
         </ul>
       </td>
@@ -23,8 +23,6 @@
       <td style="text-align:left">4 months before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href="build-your-leadership-team.md">Building Your Leadership Team</a>
-          </li>
           <li><a href="putting-together-your-hackathon-website/set-up-a-placeholder-website.md">Setup a Placeholder Website</a>
           </li>
           <li><a href="getting-sponsorship/introduction-to-fundraising.md">Understanding Sponsorship</a>

@@ -7,7 +7,7 @@ description: >-
 
 # Introduction to Fundraising
 
-Getting Sponsorships for Digital Hackathons can much difficult as compared to an in-person one. This is because of sponsors generally think of in-person hackathon of much more value and impact for their product. On the bright side, **a digital hackathon can be organised for a fraction of the cost of an in-person one**. 
+Getting sponsorships for Digital Hackathons is much different from an In Person one. This is because sponsors have different goals from different kind of events. Also, **a digital hackathon can be organised for a fraction of the cost** of an In Person hackathon. 
 
 With the **right communication and target**, you can expect a lot of positive response from the sponsors' side even for a digital hackathon. However, be diligent to communicate with your sponsors at every step of the process. Explain to them the **reasons** for making your event digital, outline how you will **support them** throughout the event, and let them **know about the success** at other digital events.
 

@@ -4,7 +4,7 @@ description: >-
   might be providing to your sponsors in the hackathon.
 ---
 
-# Potential Offerings in Digital Hackathons
+# Potential Sponsor Perks
 
 You can offer a ton of different things to your sponsors while organising a digital hackathon. The goal is to offer something that might help the sponsors find the same value they have while sponsoring in-person hackathon. If executed right, sponsors might be able to find much more value in a digital hackathon for fraction of their cost making it an awesome experience for everyone involved! 
 

@@ -16,10 +16,10 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * Have a **confirmed date and location** that attendees can depend on.
 * Events must be **at least 24 hours** and the **venue must be available for attendees overnight**.
 * Have **enough food on-site** to reasonably feed attendees during the event.
-* Events should **provide healthy food options** and have options available for hackers with **dietary restrictions**.
-* Ensure that **participants own any intellectual property they produce** at the event.
+* Events should **provide healthy food options** and have options available for hackers with dietary restrictions.
+* Ensure that **participants own any intellectual property** they produce at the event.
 * Clearly **communicate** any major changes to the event \(Ex. venue, location, schedule, theme, etc.\) as soon as they occur.
-* **Check in all attendees as they arrive** at the event and make sure they have up-to-date name, email, mobile phone number, and school for each of them.
+* **Check in all attendees** as they arrive at the event and make sure they have an up-to-date name, email, mobile phone number, and school for each of them.
 * Have **at least one lead organizer** who has full ability to make decisions on-site at any time during the event.
 
 ## MLH Member Events are open and accessible to all students.
@@ -28,26 +28,26 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * **Advertise well** enough in advance for hackers in the area to learn about the event.
 * **Do not discriminate** on the basis of race, religion, national origin, color, sex, gender identity, sexual orientation, social class, economic status, veteran status, disability, or age.
 * Make a good-will effort to advertise and make the **application for admission publicly available**.
-* **Aren’t secret or invite-only events.**
+* **Aren’t secret** or invite-only events**.**
 * Have a straightforward and publicly known **general application process**.
 * Publish the **criteria for admission** to their event.
 * Publish the **rules and regulations** for competing in their event.
 
 ## MLH Member Events are fair.
 
-* **Organizers don’t compete in any event they are organizing.** They extend the same rule to judges, sponsors, and other staff.
-* Are **open to hackers who are students at the time of the hackathon or who have graduated within the last 12 months.** Students can include high school students, university undergraduate, postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
+* **Organizers don’t compete** in any event they are organizing**.** They extend the same rule to judges, sponsors, and other staff.
+* Are **open to hackers who are students** at the time of the hackathon or who have graduated within the last 12 months**.** Students can include high school students, university undergraduate, postgraduate students, and people who are in vocational training such as apprenticeships. They welcome non-students as volunteers, mentors, sponsors, and judges.
 
 ## MLH Member Events are safe and welcoming spaces.
 
-* **Adopt, make available, and enforce the MLH Code of Conduct**.
-* All organizers **sign and agree to the MLH Code of Conduct**.
-* Have a **clear and widely known reporting system for incidents**.
-* Have a link to the Code of Conduct on their website and **ask all registrant to agree to the Code of Conduct** during registration \(e.g. a compulsory checkbox\).
-* Make it clear that the **Code of Conduct extends to all attendees, including hackers, volunteers, organizers, sponsors, judges, mentors, and MLH staff.**
-* Make sure that bad actors and attendees **who violate the Code of Conduct or rules will not attend the event**.
-* **Respect and enforce the drug and alcohol laws and customs of the local country** and only allow moderate alcohol consumption in locales where drinking is allowed.
-* **Have a first aid kit on-site** during the event.
+* Adopt, make available, and enforce the **MLH Code of Conduct**.
+* All **organizers sign and agree** to the MLH Code of Conduct.
+* Have a clear and widely known **reporting system for incidents**.
+* Have a link to the Code of Conduct on their website and ask **all registrant to agree** to the Code of Conduct during registration \(e.g. a compulsory checkbox\).
+* Make it clear that the **Code of Conduct extends to all attendees**, including hackers, volunteers, organizers, sponsors, judges, mentors, and MLH staff.
+* Make sure that bad actors and attendees who violate the Code of Conduct or rules will not attend the event.
+* **Respect and enforce the drug and alcohol laws** and customs of the local country ****and only allow moderate alcohol consumption in locales where drinking is allowed.
+* Have a **first aid kit** on-site during the event.
 * If minors are attending, the **child safeguarding** requirements for the region/state have been met.
 * Whenever possible, events **provide sleeping spaces for attendees** and encourage attendees to take advantage of them.
 

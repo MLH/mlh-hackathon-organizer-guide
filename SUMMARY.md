@@ -12,14 +12,13 @@
 ## Digital Hackathons
 
 * [Digital Hackathon Timeline](digital-hackathons/digital-hackathon-timeline.md)
-* [Planning Fundamentals](digital-hackathons/planning-fundamentals-for-digital-hackathons.md)
 * [Finding the Date & Purpose](digital-hackathons/deciding-the-date.md)
 * [Build Your Leadership Team](digital-hackathons/build-your-leadership-team.md)
 * [Getting Sponsorship](digital-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
   * [Understanding your Sponsors](digital-hackathons/getting-sponsorship/setting-goals/README.md)
     * [Evaluating in-kind Sponsorship](digital-hackathons/getting-sponsorship/setting-goals/evaluating-in-kind-sponsorship-digital.md)
-  * [Potential Offerings in Digital Hackathons](digital-hackathons/getting-sponsorship/setting-goals-1.md)
+  * [Potential Sponsor Perks](digital-hackathons/getting-sponsorship/setting-goals-1.md)
   * [Hackathon Budgeting](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
   * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
