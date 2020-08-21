@@ -35,7 +35,7 @@
 * [Event Logistics](digital-hackathons/event-logistics/README.md)
   * [Digital Hackathon Software](digital-hackathons/event-logistics/softwares-for-digital-hackathons.md)
   * [Ordering Swags & Prizes](digital-hackathons/event-logistics/ordering-swags-and-prizes.md)
-  * [Setup Your Event](digital-hackathons/event-logistics/setup-your-event.md)
+  * [Setup your Event](digital-hackathons/event-logistics/setup-your-event.md)
 * [Hackathon Scheduling](digital-hackathons/creating-your-hackathon-schedule/README.md)
   * [Detailed Run of Show](digital-hackathons/creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md)
   * [Run-Through with the Team](digital-hackathons/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
