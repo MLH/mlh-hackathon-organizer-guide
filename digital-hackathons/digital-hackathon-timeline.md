@@ -81,7 +81,7 @@
       <td style="text-align:left">1 month before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href="creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md">Create a detailed Run of Show</a>
+          <li><a href>Create a detailed Run of Show</a>
           </li>
           <li><a href="judging-and-submissions/booking-your-judges.md">Start booking your Judges</a>
           </li>
@@ -100,7 +100,7 @@
           </li>
           <li><a href="event-logistics/setup-your-event.md">Set up your event</a>
           </li>
-          <li><a href="creating-your-hackathon-schedule/do-a-run-through-with-the-team.md">Do a schedule run-through with the team</a>
+          <li><a href>Do a schedule run-through with the team</a>
           </li>
           <li>Judges Followup</li>
           <li>Mentor Followup</li>
