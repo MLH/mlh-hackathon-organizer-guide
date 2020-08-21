@@ -33,3 +33,5 @@ About a month before, you want to have the following sections in place for a gre
 * As early as possible, celebrate what differentiates your event.
 * It's never too early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple!
 
+{% page-ref page="../../organizer-resources/resources.md" %}
+

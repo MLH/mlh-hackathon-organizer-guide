@@ -20,3 +20,5 @@ _Think about your hackathon as a movie. You first release a teaser, then a trail
   * An email address for sponsorship inquiries
   * Some information about your event and your team
 
+{% page-ref page="../../organizer-resources/resources.md" %}
+
