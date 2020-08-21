@@ -22,5 +22,12 @@ It’s vital to get your team onto the same page for your hackathon so you’re 
   * To avoid confusion and increase efficiency, make **one person responsible** for each team, managing the different day to day task within it. 
   * Assign each team to lead different tasks on your **project management tool** \(Trello, Notion, Asana etc.\) with deadlines. 
   * Afterwards, follow up with each of the individual heads to **get status updates** on their tasks to keep them accountable.  
-* **Team management**: As you all integrate new team members, there’s a bunch for them to learn about from team dynamics to how to do their role. To start off, continue doing [team building activities](../organizer-resources/host-exciting-mini-events/) while relaying the importance of them to your team. In addition, reach out to everyone individually to join the team building activities to create a sense of accountability as well.
+* **Team management**: As you all integrate new team members, there’s a bunch for them to learn about from team dynamics to how to do their role. To start off, continue doing [team building activities](../organizer-resources/host-exciting-mini-events/) while relaying the importance of them to your team. In addition, reach out to everyone individually to join the team building activities to create a sense of accountability as well. 
+* **Staying Organized:** Working towards organising any event becomes difficult if there's any communication gap in your team. There are tons of ways to keep your team hackathon planning team organized and on track. If your team is working remotely, it's even more important to have a system in place. The actual tools you use don't matter as much as picking them and sticking to it. As hackathon organizers, it can be easy to over-engineer your planning process. Keep in mind that sometimes the simplest solutions are the easiest for the whole team to adopt and use.
+
+  Some tools we've seen work well for organizing teams are:
+
+  * **Chat:** Slack, Discord
+  * **Documents:** Google Drive \(G-Suite, if possible\), Notion, Airtable 
+  * **Task Management:** Asana, Notion, Trello
 

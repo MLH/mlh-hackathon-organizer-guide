@@ -33,7 +33,6 @@
   * [Sending Reminders](digital-hackathons/managing-registrations/sending-reminders.md)
   * [Check-in Process](digital-hackathons/managing-registrations/check-in-process.md)
 * [Event Logistics](digital-hackathons/event-logistics/README.md)
-  * [Staying Organized](digital-hackathons/event-logistics/tools-to-stay-organized.md)
   * [Digital Hackathon Software](digital-hackathons/event-logistics/softwares-for-digital-hackathons.md)
   * [Ordering Swags & Prizes](digital-hackathons/event-logistics/ordering-swags-and-prizes.md)
   * [Setup Your Event](digital-hackathons/event-logistics/setup-your-event.md)
