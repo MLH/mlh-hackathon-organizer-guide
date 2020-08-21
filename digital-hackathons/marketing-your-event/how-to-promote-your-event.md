@@ -18,10 +18,13 @@ Marketing your hackathon is another one of the major areas of focus one has whil
     * Professors and Resource Hubs on campus may be willing to share things out to their students. Some may even offer extra credit to their students for attending your event!
   * Think of other clubs or departments that may hold students interested in the other side of hacking \(i.e. project management, design, UX, etc\) such as entrepreneurship, communication, graphic design, and many more!
 * **Launch a Social Media campaign**
-  * Make a Facebook Page, Twitter, Instagram account. Invite and connect to all your friends and members of on and off-campus hacker groups. Check out the Florida Hackers Community for some examples.
+  * Make a Facebook Page, Twitter, Instagram & LinkedIn account.
+    * Consider having targetted Facebook or Instagram Ads. These are cheap and effective!
+  * Invite and connect to all your friends and members of on and off-campus hacker groups. Check out the [Florida Hackers](https://www.facebook.com/floridahackers), [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers) for some examples.
   * Ask other hackathons to tweet or post about you. 
-  * Consider Facebook or Instagram ads. These are cheap and effective
-* Get pre-event press coverage
+  * Reach out different community members to partner with your hackathon! The goto examples for these can be your local [GitHub Campus Experts](https://githubcampus.expert/), [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/), [Google Developer Groups](https://developers.google.com/community/gdg), [Facebook Developer Circles](https://developers.facebook.com/developercircles/), etc.
+* **Get some pre-event press coverage**
   * Tell your school’s paper
-  * Tell your local media outlets 
+  * Reach out to your local media outlets
+  * Try reaching out to different startup/ media agencies for potential partnership.
 
