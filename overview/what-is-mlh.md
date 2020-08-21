@@ -8,7 +8,7 @@ description: >-
 
 Major League Hacking \(MLH\) is the official student hackathon league. Each year, we power over [200 weekend-long hackathons](http://mlh.io/events) that inspire innovation, cultivate communities and teach computer science skills to more than **65,000 students** around the world. MLH is an engaged and passionate maker community, consisting of the next generation of technology leaders and entrepreneurs.
 
-At Major League Hacking, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events various benefits like:
+At Major League Hacking, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events get various benefits like:
 
 * Mentorship and advice
 * Onsite hackathon support
