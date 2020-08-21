@@ -27,3 +27,9 @@ About a month before, you want to have the following sections in place for a gre
 * **Tracks:** Let hackers know about the different themes they can work upon during the hackathon.
 * **Speakers, Judges & Mentors:** It's best to include information about the different people attending your hackathon with different roles, to thank them as well as to let hackers know of their presence. This will also help on the day of to manage hacker interaction.
 
+## **MLH Tips:**
+
+* You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
+* As early as possible, celebrate what differentiates your event.
+* It's never too early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple!
+
