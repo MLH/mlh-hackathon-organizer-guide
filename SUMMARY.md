@@ -25,7 +25,7 @@
   * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
 * [Hackathon Website](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
-  * [Adding the Day-of Information](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
+  * [Main Website](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
   * [MLH Tips](digital-hackathons/putting-together-your-hackathon-website/mlh-tips.md)
 * [Marketing your Event](digital-hackathons/marketing-your-event/README.md)
   * [Marketing Goals & Timelines](digital-hackathons/marketing-your-event/setting-marketing-goals-and-timelines.md)
