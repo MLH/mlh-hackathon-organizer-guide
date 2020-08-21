@@ -19,7 +19,7 @@
   * [Introduction to Fundraising](digital-hackathons/getting-sponsorship/introduction-to-fundraising.md)
   * [Understanding your Sponsors](digital-hackathons/getting-sponsorship/setting-goals/README.md)
     * [Evaluating in-kind Sponsorship](digital-hackathons/getting-sponsorship/setting-goals/evaluating-in-kind-sponsorship-digital.md)
-  * [Setting Goals](digital-hackathons/getting-sponsorship/setting-goals-1.md)
+  * [Potential Offerings in Digital Hackathons](digital-hackathons/getting-sponsorship/setting-goals-1.md)
   * [Hackathon Budgeting](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Helpful Figures - Estimated Costs](digital-hackathons/getting-sponsorship/helpful-figures-estimated-costs.md)
   * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
