@@ -15,6 +15,10 @@ Networking tips for recruiting speakers and judges:
 * Consider who you know and who your school knows
 * Have department heads reach out for you when helpful
 
+Week-of: Judges follow up
+
+Day-of: Running Judging
+
 ### A Note About Judges
 
 We recommend selecting judges that have a strong technical aptitude. If you’re planning to do Science Fair Judging and Presentations, your judges for each should be separate. For expo judging, ensure you have a minimum of one judge per thirty participants.

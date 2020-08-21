@@ -70,7 +70,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="judging/drafting-a-mentorship-plan.md">Draft up your Mentorship Plans</a>
           </li>
-          <li><a href="judging-and-submissions/communication-and-recruiting-judges/">Start booking your judges</a>
+          <li><a href="judging-and-submissions/communication-and-recruiting-judges.md">Start booking your judges</a>
           </li>
           <li><a href="judging/communication-and-recruiting-mentors/">Start booking your mentors</a>
           </li>
@@ -112,7 +112,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="creating-your-hackathon-schedule/do-a-run-through-with-the-team.md">Do a schedule run-through with the team</a>
           </li>
-          <li><a href="judging-and-submissions/communication-and-recruiting-judges/week-of-following-up-with-your-mentors-and-judges.md">Judges Followup</a>
+          <li><a href>Judges Followup</a>
           </li>
           <li><a href="judging/communication-and-recruiting-mentors/week-of-following-up-with-your-mentors.md">Mentor Followup</a>
           </li>
@@ -129,7 +129,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="event-logistics/distributing-meals.md">Distributing Meals</a>
           </li>
-          <li><a href="judging-and-submissions/communication-and-recruiting-judges/day-of-running-judging.md">Running Judging</a>
+          <li><a href>Running Judging</a>
           </li>
           <li><a href="judging/communication-and-recruiting-mentors/day-of-doing-mentorship.md">Doing Mentorship</a>
           </li>
