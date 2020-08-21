@@ -13,7 +13,7 @@ Digital events have significantly lower costs compared to in-person events. This
 ### Major Costs to Consider
 
 * **Tooling:** The platforms you'll be using during the course of your hackathon. This include the event platforms like the 
-  * **Chat Platform** for building up conversations within the hackathon.  _Recommended Platform: Discord_
+  * **Communication Platform** for building up conversations within the hackathon.  _Recommended Platform: Discord_
   * **Streaming Platform** for Opening & Closing Ceremonies _Recommended Platform:_ [_Streamyard_](../../organizer-resources/logistics-resources/streamyard.md)\_\_
   * **Video Conferencing Platform** for hosting your workshops, mini-events, live demo judging, webinars etc. _Recommended Platform: Zoom_
 * **Swag \(Schwag\):** Hackathons and swags are like synonymous to each other. Distributing swag is a digital world might look a bit difficult as the costs of shipping are associated with them. We would recommend you to look at the different options available which can be easily fulfilled from your side within a budget. 

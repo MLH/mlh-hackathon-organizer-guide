@@ -30,7 +30,7 @@ You may consider streaming to:
 
 Tools like [Streamyard](https://github.com/MLH/mlh-hackathon-organizer-guide/tree/3f837278b17a23628d067848f874f3b914ac170c/digital-hackathons/event-logistics/www.streamyard.com) make it super simple to stream to multiple places at once.
 
-### Video Call Platform
+### Video Conferencing Platform
 
 If you are running events that require attendees to join a video call, make sure you choose a platform that will allow for the correct number of attendees.
 
