@@ -37,8 +37,6 @@ Other than the three primary reasons, sponsors might have their region targeted 
 
 For partners generally, the reason for support can be related to alignment with community values, increasing engagement or general awareness as well.
 
- 
-
 Since you have understood the way to target your sponsors and their reasons to support your hackathon, you should now be aware of the different concerns they might have. 
 
 ### Sponsors’ top practical concerns:
