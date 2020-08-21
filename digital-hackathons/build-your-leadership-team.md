@@ -14,8 +14,13 @@ Every first-rate hackathon has an exceptional leadership team behind it. When se
 * **Marketing Team:** This team is in charge of promoting the event, deciding the marketing strategy, developing the website, handling social media etc.
 * **Operations Team:** This team is responsible for the hacker experience at the hackathon. Every aspect of what the hackathon looks and feels like, this team is entirely responsible for that. Keep in mind, hacker experience is usually the thing that can make or break your hackathon. We might like to call this the think tank of your hackathon team.
 
-## MLH Tips
+### Leading your team
 
-* To avoid confusion and increase efficiency, make _one person_ responsible for each team, managing the different day to day task within it. 
-* To accurately track progress, encourage transparency among team leaders. Consider creating a status spreadsheet that each person can update on a daily or weekly basis. Using project management tools like Notion, Trello, Basecamp etc. can also be greatly useful here.
+It’s vital to get your team onto the same page for your hackathon so you’re all working as a collective team rather than individual teams with different goals. To get there focusing on these specific areas would be highly beneficial:
+
+* **Project management:** Ensure that all tasks are tracked for the entire team to see, I’d encourage you to 
+  * To avoid confusion and increase efficiency, make **one person responsible** for each team, managing the different day to day task within it. 
+  * Assign each team to lead different tasks on your **project management tool** \(Trello, Notion, Asana etc.\) with deadlines. 
+  * Afterwards, follow up with each of the individual heads to **get status updates** on their tasks to keep them accountable.  
+* **Team management**: As you all integrate new team members, there’s a bunch for them to learn about from team dynamics to how to do their role. To start off, continue doing [team building activities](../organizer-resources/host-exciting-mini-events/) while relaying the importance of them to your team. In addition, reach out to everyone individually to join the team building activities to create a sense of accountability as well.
 
