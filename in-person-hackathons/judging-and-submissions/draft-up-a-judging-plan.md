@@ -1,4 +1,4 @@
-# Judging PlanDay-of: Running Judging
+# Judging Plan
 
 Judging has always been the biggest pain point for every hackathon organizer. This is due to the fact that while planning out the event, other than recruiting and finalising the judges, assign a certain time for judging, organising do not plan anything further, assuming everything can be managed on the day-of. But, in reality, if planned right, judging can be one of the easiest and the most smooth aspect of any hackathon.
 
@@ -16,7 +16,7 @@ Towards the end of the hackathon, take out some buffer time for the judging. Thi
 
 A typical calculation for the number of judges looks like follows:  
   
- $$J = ⌈P * n * t / T⌉$$   
+ $$J = ⌈(P * n * t )/ T⌉$$   
   
 Where,  
  $$J = $$ Number of Judges  
@@ -31,21 +31,38 @@ For eg.: Consider you have **150 projects submitted** at your hackathon and you 
   
 Now the calculation looks like:  
   
- $$J = ⌈150 * 3 * 5 / 120⌉ = ⌈18.75⌉ = 19$$   
+ $$J = ⌈(150 * 3 * 5) / 120⌉ = ⌈18.75⌉ = 19$$   
   
 Hence the number of **judges required is 19**.
 
 ### Allocating Projects
 
-Allocating projects is more logistically heavy in a science fair style of judging because each judge cannot see every project \(compared to what happened in the past\). 
+Allocating projects is more logistically heavy in a science fair style of judging because each judge cannot see every project. 
 
-To most efficiently allocate projects, I’d recommend manually dividing the total number of projects by the number of judges. Then the result is how many projects each judge will see during the judging period. 
+To most efficiently allocate projects, I’d recommend manually dividing the total number of projects by the number of judges and multiplying the result by the rounds of judging per project. Then taking the upper limit of the result is how many projects each judge will see during the judging period. 
+
+Calculating this based on our last example:
+
+$$N = ⌈(P * n )/ J⌉ = ⌈(150 * 3) / 19⌉ = ⌈23.68⌉=  24$$ 
+
+Now using an Excel Sheet, assign all the projects a table number and accordingly assign each of your judges 24 table numbers such that each project is seen by 3 judges.
+
+Now every judge will be having an allocated project they'll be looking at during the course of the whole judging process!
 
 ### Choosing Winners: 
 
 There're plenty of options with finalizing winners, but at MLH, we love to use Stack Ranking because it reduces a judges’ previous biases. 
 
-To do stack ranking, you’ll ask each judge to see their subset of projects, then give the organizers their Top 3 projects, in order. As organizers, you’ll assign 3 points to First Place, 2 to Second Place, and 1 to Third Place. 
+**Stack Ranking:** To run stacking ranking, you'll be needing to the following steps:
+
+* Allocate projects to every judging according to what we discussed above.
+* Ask each judge to view their projects and report back their top 3 best/favorite projects.
+* Assign the top three following points:
+  * 3 points \(First Place\) 
+  * 2 points \(Second Place\)
+  * 1 point \(Third Place\)
+
+Now, you'll have a list of the project that appeared across multiple judges' top three favourites!
 
 After all of the scores have come in, you’ll sort all of the scores in descending order. Then, the projects at the top will be your winning projects!
 

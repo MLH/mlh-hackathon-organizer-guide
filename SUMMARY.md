@@ -106,7 +106,7 @@
   * [Run-Through with the Team](in-person-hackathons/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
   * [MLH Tips & Templates](in-person-hackathons/creating-your-hackathon-schedule/general-mlh-tips.md)
 * [Judging & Submissions](in-person-hackathons/judging-and-submissions/README.md)
-  * [Judging PlanDay-of: Running Judging](in-person-hackathons/judging-and-submissions/draft-up-a-judging-plan.md)
+  * [Judging Plan](in-person-hackathons/judging-and-submissions/draft-up-a-judging-plan.md)
   * [Judges - Communication & Recruitment](in-person-hackathons/judging-and-submissions/communication-and-recruiting-judges.md)
   * [Hackathon Portal](in-person-hackathons/judging-and-submissions/set-up-your-hackathon-portal/README.md)
     * [Using Devpost](in-person-hackathons/judging-and-submissions/set-up-your-hackathon-portal/using-devpost/README.md)
