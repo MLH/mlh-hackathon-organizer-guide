@@ -19,3 +19,5 @@ Here is a check-list of items to ensure day-of:
 * [ ] Mentors and judges are confirmed 
 * [ ] Internal tasks are assigned to individual members of the organizing team 
 
+{% page-ref page="../../organizer-resources/logistics-resources/" %}
+
