@@ -13,7 +13,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 ### 2. Get In Touch
 
 * Send a well-crafted, thoughtful email.
-  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](emailing-your-sponsors-cheat-sheet.md). 
+  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](../../organizer-resources/sponsorship-resources/emailing-your-sponsors-cheat-sheet.md). 
 * Reach out to the decision maker at each company. When in doubt, email the CEO.
 * Intros are infinitely better than cold emails.
 * Follow up: don’t worry if you don’t receive a response to your initial email; wait 3-4 days and ask again. You can ping the contact up to 3 times. 

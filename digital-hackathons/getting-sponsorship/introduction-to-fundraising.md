@@ -24,5 +24,5 @@ One thing to keep in mind as you work your way through this process: **sponsors 
 
 #### When you’re finished reading this section of the guide, we strongly recommend watching our fundraising webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w) and [Creating Compelling Sponsorships. ](https://www.youtube.com/watch?v=W9miqQzxT-0)
 
-{% page-ref page="../../organizer-resources/sponsorship-resources.md" %}
+{% page-ref page="../../organizer-resources/sponsorship-resources/" %}
 

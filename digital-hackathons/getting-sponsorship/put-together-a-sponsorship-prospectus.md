@@ -22,5 +22,5 @@ Sponsorship packets don't need to be fancy — just explain what a hackathon is 
   * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. \(Anyone tier should not comprise more than 25 per cent of your budget.\)
   * Let companies know custom packages are available.
 
-{% page-ref page="../../organizer-resources/sponsorship-resources.md" %}
+{% page-ref page="../../organizer-resources/sponsorship-resources/" %}
 

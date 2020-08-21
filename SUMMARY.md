@@ -23,7 +23,6 @@
   * [Hackathon Budgeting](digital-hackathons/getting-sponsorship/budgeting-your-hackathon.md)
   * [Sponsorship Prospectus](digital-hackathons/getting-sponsorship/put-together-a-sponsorship-prospectus.md)
   * [The 5-step MLH Sponsorship Process](digital-hackathons/getting-sponsorship/mlh-tips.md)
-  * [Emailing Your Sponsors Cheat Sheet](digital-hackathons/getting-sponsorship/emailing-your-sponsors-cheat-sheet.md)
 * [Hackathon Website](digital-hackathons/putting-together-your-hackathon-website/README.md)
   * [Placeholder Website](digital-hackathons/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
   * [Adding the Day-of Information](digital-hackathons/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
@@ -141,7 +140,8 @@
 
 * [Getting support from others](organizer-resources/getting-support-from-others.md)
 * [Leadership Resources](organizer-resources/leadership-resources.md)
-* [Sponsorship Resources](organizer-resources/sponsorship-resources.md)
+* [Sponsorship Resources](organizer-resources/sponsorship-resources/README.md)
+  * [Emailing Your Sponsors Cheat Sheet](organizer-resources/sponsorship-resources/emailing-your-sponsors-cheat-sheet.md)
 * [Hackathon Website Resources](organizer-resources/resources.md)
 * [Marketing Resources](organizer-resources/marketing-resources.md)
 * [Registrations Resources](organizer-resources/registrations-resources/README.md)
