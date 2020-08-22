@@ -64,7 +64,7 @@
         <ul>
           <li><a href="judging-and-submissions/draft-up-a-judging-plan.md">Draft up your Judging Plans</a>
           </li>
-          <li><a href="judging/draft-up-your-mentorship-plan.md">Draft up your Mentorship Plans</a>
+          <li><a href="draft-up-your-mentorship-plan.md">Draft up your Mentorship Plans</a>
           </li>
           <li><a href="event-logistics/softwares-for-digital-hackathons.md">Set up your Digital Hackathon Software</a>
           </li>
@@ -85,7 +85,7 @@
           </li>
           <li><a href="judging-and-submissions/booking-your-judges.md">Start booking your Judges</a>
           </li>
-          <li><a href="judging/week-of-booking-your-mentors-and-judges.md">Start booking your Mentors</a>
+          <li><a href>Start booking your Mentors</a>
           </li>
           <li><a href="hacker-experience/opening-and-closing-ceremonies/">Plan your Opening &amp; Closing Ceremonies</a>
           </li>
@@ -115,7 +115,7 @@
           </li>
           <li><a href>Running Judging</a>
           </li>
-          <li><a href="judging/doing-mentorship.md">Doing Mentorship</a>
+          <li><a href>Doing Mentorship</a>
           </li>
           <li><a href="hacker-experience/running-your-mini-events.md">Running Mini Events</a>
           </li>
