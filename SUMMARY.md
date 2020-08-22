@@ -48,10 +48,8 @@
   * [Engaging your Hackers](digital-hackathons/hacker-experience/how-to-engage-your-hackers.md)
   * [Brainstorming Mini Events](digital-hackathons/hacker-experience/how-to-brainstorm-events.md)
   * [Plan Engaging Workshops](digital-hackathons/hacker-experience/plan-engaging-workshops.md)
-  * [Running your Workshops](digital-hackathons/hacker-experience/running-your-workshops.md)
-  * [Opening & Closing Ceremonies](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/README.md)
-    * [Running Opening ceremony](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/running-opening-ceremony.md)
-    * [Running Closing Ceremony](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/running-closing-ceremony.md)
+  * [Running Opening ceremony](digital-hackathons/hacker-experience/running-opening-ceremony.md)
+  * [Running Closing Ceremony](digital-hackathons/hacker-experience/running-closing-ceremony.md)
 * [After The Event](digital-hackathons/after-the-event.md)
 
 ## In Person Hackathons

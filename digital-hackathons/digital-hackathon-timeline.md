@@ -87,7 +87,7 @@
           </li>
           <li><a href>Start booking your Mentors</a>
           </li>
-          <li><a href="hacker-experience/opening-and-closing-ceremonies/">Plan your Opening &amp; Closing Ceremonies</a>
+          <li><a href>Plan your Opening &amp; Closing Ceremonies</a>
           </li>
         </ul>
       </td>
@@ -119,11 +119,11 @@
           </li>
           <li><a href>Running Mini Events</a>
           </li>
-          <li><a href="hacker-experience/running-your-workshops.md">Running Workshops</a>
+          <li><a href>Running Workshops</a>
           </li>
-          <li><a href="hacker-experience/opening-and-closing-ceremonies/running-opening-ceremony.md">Running the Opening Ceremony</a>
+          <li><a href="hacker-experience/running-opening-ceremony.md">Running the Opening Ceremony</a>
           </li>
-          <li><a href="hacker-experience/opening-and-closing-ceremonies/running-closing-ceremony.md">Running the Closing Ceremony</a>
+          <li><a href="hacker-experience/running-closing-ceremony.md">Running the Closing Ceremony</a>
           </li>
         </ul>
       </td>
