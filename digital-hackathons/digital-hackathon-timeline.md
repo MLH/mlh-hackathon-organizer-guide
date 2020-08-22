@@ -113,7 +113,7 @@
         <ul>
           <li><a href="managing-registrations/check-in-process.md">Check in Process</a>
           </li>
-          <li><a href="judging-and-submissions/day-of-running-judging.md">Running Judging</a>
+          <li><a href>Running Judging</a>
           </li>
           <li><a href="judging/doing-mentorship.md">Doing Mentorship</a>
           </li>
