@@ -81,13 +81,11 @@
       <td style="text-align:left">1 month before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href>Create a detailed Run of Show</a>
+          <li><a href="creating-your-hackathon-schedule.md">Create a detailed Run of Show</a>
           </li>
           <li><a href="judging-and-submissions/booking-your-judges.md">Start booking your Judges</a>
           </li>
-          <li><a href>Start booking your Mentors</a>
-          </li>
-          <li><a href>Plan your Opening &amp; Closing Ceremonies</a>
+          <li><a href="draft-up-your-mentorship-plan.md#mentor-recruitment">Start booking your Mentors</a>
           </li>
         </ul>
       </td>
@@ -100,10 +98,12 @@
           </li>
           <li><a href="event-logistics/setup-your-event.md">Set up your event</a>
           </li>
-          <li><a href>Do a schedule run-through with the team</a>
+          <li><a href="creating-your-hackathon-schedule.md#run-through-with-the-team">Do a schedule run-through with the team</a>
           </li>
-          <li>Judges Followup</li>
-          <li>Mentor Followup</li>
+          <li><a href="judging-and-submissions/booking-your-judges.md#week-of-judges-follow-up">Judges Followup</a>
+          </li>
+          <li><a href="draft-up-your-mentorship-plan.md#mentor-recruitment">Mentor Followup</a>
+          </li>
         </ul>
       </td>
     </tr>
@@ -113,13 +113,13 @@
         <ul>
           <li><a href="managing-registrations/check-in-process.md">Check in Process</a>
           </li>
-          <li><a href>Running Judging</a>
+          <li><a href="judging-and-submissions/draft-up-a-judging-plan.md">Running Judging</a>
           </li>
-          <li><a href>Doing Mentorship</a>
+          <li><a href="draft-up-your-mentorship-plan.md#day-of-management">Doing Mentorship</a>
           </li>
-          <li><a href>Running Mini Events</a>
+          <li><a href="hacker-experience/how-to-brainstorm-events.md">Running Mini Events</a>
           </li>
-          <li><a href>Running Workshops</a>
+          <li><a href="hacker-experience/plan-engaging-workshops.md">Running Workshops</a>
           </li>
           <li><a href="hacker-experience/running-opening-ceremony.md">Running the Opening Ceremony</a>
           </li>
