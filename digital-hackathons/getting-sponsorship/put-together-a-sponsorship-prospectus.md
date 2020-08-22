@@ -6,25 +6,21 @@ description: >-
 
 # Sponsorship Prospectus
 
-Sponsorship packets don't need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. You should make it clear what you are providing, and mention a few things sponsors have done at other hackathons that you thought were awesome.
+Sponsorship packets don't need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. The prospectus should clearly inform about the value they'll be getting by investing in your hackathon, mention a few things sponsors have done at other hackathons that you thought were awesome as well. If you're organising a returning event, adding in metrics from the last years can be great way to attract new sponsors.
 
-Your prospectus should include:
+### Your prospectus should be:
 
-* The basics: date, number of expected attendees, etc.
-* The story behind your event, an introduction to your team, and a note about what you’re trying to accomplish, as well as what makes your event special. What are its differentiating factors?
-* An overview of available sponsorships — what companies get and how much it will cost them.
+* **2-3 pages long:** Sponsors generally don't have time to read through a big sponsorship deck.
+* **Highlighting the Basics**: Be sure to include the following info on _all_ materials — we can’t tell you how many times this gets overlooked!
+  * Event name
+  * Date
+  * Projected attendance
+  * Website URL
+  * Contact email
+* **Cover the story behind your event:** An introduction to your team, a note about what you’re trying to accomplish, as well as what makes your event special - what are its differentiating factors?
+* **Include an overview of available sponsorships:** What companies get and how much it will cost them.
   * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. \(Anyone tier should not comprise more than 25 per cent of your budget.\)
   * Let companies know custom packages are available.
 
-Be sure to include the following info on _all_ materials — we can’t tell you how many times this gets overlooked!
-
-* Event name
-* Date
-* Projected attendance
-* Website URL
-* Contact email
-
-## Resources:
-
-* [Past Sponsorship Decks](https://github.com/MLH/hackathon-organizer-guide/tree/master/Organizer-Resources/Previous-Sponsorship-Decks)
+{% page-ref page="../../organizer-resources/sponsorship-resources/" %}
 

@@ -1,3 +1,7 @@
+---
+description: A traditional MLH Mini Event
+---
+
 # Cup Stacking
 
 ## What is Cup Stacking?

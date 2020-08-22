@@ -1,8 +1,4 @@
----
-description: You’ll need to recruit a variety of individuals to judge your hackathon.
----
-
-# Judges Communication and Recruiting
+# Judges - Communication & Recruitment
 
 Typically during the last 2 months of the hackathon approaching, one should start looking out for judges for the hackathon. After making the judging plan, it becomes very clear on how many judges one should consider recruiting at the hackathon. While reaching out the judges, aim for getting 2-3 extra judges in a buffer list since any non-availability might affect your whole judging plan.  
 

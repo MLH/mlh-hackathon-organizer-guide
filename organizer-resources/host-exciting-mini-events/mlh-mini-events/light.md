@@ -1,3 +1,7 @@
+---
+description: A traditional MLH Mini Event
+---
+
 # !Light
 
 This is a frontend coding competition we borrowed without asking and renamed it '!Light', exactly the same as Code in the Dark.
