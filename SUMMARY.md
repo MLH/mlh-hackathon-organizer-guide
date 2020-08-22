@@ -40,7 +40,7 @@
 * [Judging & Submissions](digital-hackathons/judging-and-submissions/README.md)
   * [Judging Plan](digital-hackathons/judging-and-submissions/draft-up-a-judging-plan.md)
   * [Judges Communication and Recruiting](digital-hackathons/judging-and-submissions/booking-your-judges.md)
-  * [Hackathon Portal](digital-hackathons/judging-and-submissions/set-up-your-hackathon-portal/README.md)
+  * [Hackathon Submission Portal](digital-hackathons/judging-and-submissions/set-up-your-hackathon-portal/README.md)
     * [Using Devpost](digital-hackathons/judging-and-submissions/set-up-your-hackathon-portal/using-devpost.md)
     * [Using HackerEarth](digital-hackathons/judging-and-submissions/set-up-your-hackathon-portal/using-hackerearth.md)
 * [Mentorship](digital-hackathons/draft-up-your-mentorship-plan.md)

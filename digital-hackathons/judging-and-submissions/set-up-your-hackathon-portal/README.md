@@ -1,4 +1,4 @@
-# Hackathon Portal
+# Hackathon Submission Portal
 
 Hackathon portals are one of the most import need for any hackathon to get the projects submitted in the right way. Though one might think that these portals are just working as a form collecting data from the attendees to showcase the project, using a simple form can be a big problem in terms of Judging a hackathon!
 
