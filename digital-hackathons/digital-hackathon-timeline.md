@@ -117,7 +117,7 @@
           </li>
           <li><a href>Doing Mentorship</a>
           </li>
-          <li><a href="hacker-experience/running-your-mini-events.md">Running Mini Events</a>
+          <li><a href>Running Mini Events</a>
           </li>
           <li><a href="hacker-experience/running-your-workshops.md">Running Workshops</a>
           </li>
