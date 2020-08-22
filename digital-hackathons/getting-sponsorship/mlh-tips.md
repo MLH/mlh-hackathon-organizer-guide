@@ -1,6 +1,10 @@
-# The 5-step MLH Sponsorship Process
+---
+description: >-
+  Once you’ve ascertained how much money your hackathon needs and created your
+  sponsorship materials, you’re ready to embark on the fundraising process.
+---
 
-Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
+# The 5-step MLH Sponsorship Process
 
 ### 1. Set Targets And Do Your Research
 

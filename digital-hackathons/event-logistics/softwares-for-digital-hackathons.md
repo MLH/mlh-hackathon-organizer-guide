@@ -1,3 +1,7 @@
+---
+description: The tooling and software needed to run a Digital Hackathon
+---
+
 # Digital Hackathon Software
 
 Digital hackathons depend entirely on the different you wish to choose to host them over. Making or breaking your hackathon will highly depend on the flexibility and the experience of using the platforms and how well your team is able to manage it. We highly recommend organizers to be aware of the different platforms they might be using so as to avoid any difficulties or edge cases on the day of.
