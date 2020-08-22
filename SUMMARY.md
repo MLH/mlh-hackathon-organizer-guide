@@ -46,7 +46,7 @@
 * [Mentorship](digital-hackathons/draft-up-your-mentorship-plan.md)
 * [Hacker Experience](digital-hackathons/hacker-experience/README.md)
   * [Engaging your Hackers](digital-hackathons/hacker-experience/how-to-engage-your-hackers.md)
-  * [Brainstorming events](digital-hackathons/hacker-experience/how-to-brainstorm-events.md)
+  * [Brainstorming Mini Events](digital-hackathons/hacker-experience/how-to-brainstorm-events.md)
   * [Plan Engaging Workshops](digital-hackathons/hacker-experience/plan-engaging-workshops.md)
   * [Running your Workshops](digital-hackathons/hacker-experience/running-your-workshops.md)
   * [Opening & Closing Ceremonies](digital-hackathons/hacker-experience/opening-and-closing-ceremonies/README.md)

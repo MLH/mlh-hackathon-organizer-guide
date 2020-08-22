@@ -5,16 +5,21 @@ description: >-
   We’ve brainstormed some fun activities you can do.
 ---
 
-# Brainstorming events
+# Brainstorming Mini Events
 
-## **Activities via Slack/Discord**
+After you’ve planned the logistics and set up your chat platform, start planning how you’re going to make your digital experience fun for hackers. Activities can range from simple chat activities for a better introduction to facilitate a conversation around to using voice channel as a medium of chatting to having dedicated games on live stream or a conference call where people can join in, have fun and enjoy in the process!
 
-Keeping your hackers engaged on Slack/Discord is essential to keeping folks around for the duration of the event. Some ideas are:
+You can make the brainstorming events a fun activity by involving your organising team have different gaming round for each and selecting the best of them to be hosted at your event. This can be a great team-building activity as well!
 
-* Start discussions in threads on your \#random, or create specific channels for chatting. See below for some potential questions you can use as conversation starters. 
-* Two Truths and a Lie
+To support you better, we’ve brainstormed some fun activities you can do. Have a look!
+
+### **Activities via Slack/Discord**
+
+Start discussions in threads on your **\#random**, or create specific channels for chatting. See below for some potential questions you can use as conversation starters. 
+
+* **Two Truths and a Lie**
   * Hackers post two truths and a lie about themselves. Folks vote via emoji and react if they think 1, 2, or 3 is the lie. After a bit, they reveal what the lie was.
-* Question of the Hour 
+* **Question of the Hour** 
   * Stimulate the conversation by asking a “question of the hour” on Discord/Slack. Potential Ice breaker questions include: 
     * What’s your coffee/tea order? 
     * What’s your \#1 Bucket List item? 
@@ -24,19 +29,19 @@ Keeping your hackers engaged on Slack/Discord is essential to keeping folks arou
     * What is your favorite book? 
     * What’s your school mascot? 
     * What’s your go-to karaoke song? 
-* Trivia tournament
+* **Trivia Tournament**
   * Host a trivia tournament and let hackers know it’s honors system to not google answers. You could do this via stream where the first hackers to chime in for the correct answer win, or you could do a multi-choice quiz that you distribute via Slack/Discord. 
 
-### **Gaming**
+### **Online Gaming**
 
 Online game tournaments are one of the most common ways to engage folks online. You can get creative with the games you’re hosting. Due to the processing power needed to stream, keep in mind the capabilities of your computer. We recommend streaming in no higher quality than 720p @ 30fps and hard-wiring your computer to the network via an ethernet cable when possible. Also, try not to do processing-heavy work on the computer that’s streaming.
 
-There are \_\*\*\_numerous online gaming tournaments, and here are a few ideas:
+There are numerous online gaming tournaments, and here are a few ideas:
 
-* **\*\*\[**Jackbox games\*\*\]\([https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD\_BwE](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE)\) – We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _\(run it in family mode to avoid inappropriate prompts!\)_
+* \*\*\*\*[**Jackbox games**](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE)**:** We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _\(Run it in family mode to avoid inappropriate prompts!\)_
 * **Stream multiplayer games –** League of Legends, Dota, Rocket League, and Smash can all be fun games to play over the web. Just be mindful that bad internet connection can make any of these games a bad time.
-* Online Chess tournament 
-* Create a Minecraft server for hackers to build in
+* Online **Chess** tournament 
+* Create a **Minecraft** server for hackers to build in
 
 ### **Other Activities**
 
@@ -50,4 +55,8 @@ Keep in mind that not all your hackers will be video game players. Host some non
 * **User Experience Design Competition –** Give hackers a limited amount of time to create a design based on a theme you announce. Have them post it in a thread on slack/discord and participants can vote on their favorite. 
 * **Bob Ross painting competition using MS Paint** – Hackers can watch Bob Ross painting tutorials for free on YouTube. Have a competition to see who can recreate a Bob Ross landscape using MS Paint or other online drawing tool. 
 * [**Skribbl.io**](https://skribbl.io/) – Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
+
+{% page-ref page="../../organizer-resources/host-exciting-mini-events/" %}
+
+
 
