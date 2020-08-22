@@ -66,9 +66,7 @@ Now, you'll have a list of the project that appeared across multiple judges' top
 
 After all of the scores have come in, you’ll sort all of the scores in descending order. Then, the projects at the top will be your winning projects!
 
-Any questions? Feel free to shoot an email to _league@mlh.io_  to discuss your Judging Plans!
-
-### A goto table to estimate your calculations:
+### A goto table to estimate the number of judges required:
 
 |  | **Number of attendees** |  |  |  |  |  |  |
 | :--- | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
@@ -85,4 +83,6 @@ Any questions? Feel free to shoot an email to _league@mlh.io_  to discuss your J
 |  | **1000** | 69 | 52 | 35 | 27 | 22 | 19 |
 |  | **1100** | 75 | 57 | 39 | 30 | 24 | 20 |
 |  | **1200** | 82 | 62 | 42 | 32 | 26 | 22 |
+
+Any questions? Feel free to shoot an email to _league@mlh.io_  to discuss your Judging Plans!
 
