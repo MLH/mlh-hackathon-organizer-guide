@@ -2,7 +2,7 @@
 
 Once you’ve ascertained how much money your hackathon needs and created your sponsorship materials, you’re ready to embark on the fundraising process.
 
-## 1. Set Targets And Do Your Research
+### 1. Set Targets And Do Your Research
 
 * Compile a list of potential sponsors:
   * Check out sponsors of previous MLH events
@@ -10,7 +10,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
   * Check in with career services — which companies sponsor tech job fairs on your campus?
   * Fundraising announcements
 
-## 2. Get In Touch
+### 2. Get In Touch
 
 * Send a well-crafted, thoughtful email.
   * Keep it clear and concise. Shorter is better.
@@ -21,7 +21,7 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 * Intros are infinitely better than cold emails.
 * Follow up: don’t worry if you don’t receive a response to your initial email; wait a week and ask again.
 
-## 3. Have An Exploratory Phone Call
+### 3. Have An Exploratory Phone Call
 
 * Make sure the sponsor knows what a hackathon is — use analogies like comparing it to a science fair
 * Ask about success metrics. What did they get from past sponsorships?
@@ -30,14 +30,14 @@ Once you’ve ascertained how much money your hackathon needs and created your s
 * Don’t be afraid to ask their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get?"
 * Before you hang up, schedule a follow up call.
 
-## 4. Make A Proposal
+### 4. Make A Proposal
 
 * Do this right away. Sometimes it’s as easy as sending over a prospectus with the packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
 * Make sure to explain why your offerings are a good fit.
 * Give your sponsorship deadline.
 * Less is more! Choose a uniform color scheme and keep text to a minimum on each slide.
 
-## 5. Follow Up And Track Your Progress
+### 5. Follow Up And Track Your Progress
 
 * Email a week or two later offering to answer questions.
 * Track your emails with a CRM, an email service like Boomerang, or plain old Excel.
