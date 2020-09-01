@@ -4,13 +4,13 @@ Few of your planning decisions will truly make or break your hackathon, but your
 
 Keep in mind your venue should be **free**! Most of the time, you _will_ be able to find a university or company sponsored space.
 
-## Research Venues On Your Campus
+### Research Venues On Your Campus
 
 On-campus venues are best because they’re usually free. Research past events at your school to get a sense of each available space’s capabilities. Do they meet your hackathon’s requirements? Make a list of your favorites.
 
 Note: Each venue usually has one university bureaucrat in charge of it; try to find out who that is. One shortcut is to contact students who previously held events at that space and ask them how they recommend you proceed.
 
-## Enlist A Campus Advocate To Help You Navigate The Bureaucracy
+### Enlist A Campus Advocate To Help You Navigate The Bureaucracy
 
 A university advocate — such as a professor or dean — can make your venue search immeasurably easier by helping you navigate your school’s unique booking process.
 
@@ -41,7 +41,7 @@ Big Fat Warning: Whenever possible, don’t fall into the trap of paying to rent
 
 If you really can’t find a free venue, look into renting a coworking space with most of this infrastructure in place.
 
-## Make Sure Your Venue Has Everything You Need
+### Make Sure Your Venue Has Everything You Need
 
 Before you book an event space, make sure it has everything you need help you host a successful hackathon.
 
@@ -61,7 +61,7 @@ If your venue does not have some of these things, but you're on-campus, you may 
 * If you don't have access to the venue's fuse box, talk to the school's electricians to see if you can get special access or have one of them on site/on call.
 * If you don't have enough extension cords or power strips, other organizations on campus may have them and be willing to lend them out. e.g. the organization that runs your school's career fair.
 
-## Ask About Venue Requirements And Restrictions
+### Ask About Venue Requirements And Restrictions
 
 Most venues come with their own specific list of rules and required fees. A few questions to ask:
 
