@@ -2,7 +2,7 @@
 description: The MLH Hackathon Organizer Guide
 ---
 
-# Introduction
+### Introduction
 
 #### Welcome to the MLH Hackathon Organizer Guide! This is a community initiative by [Major League Hacking](https://mlh.io) that contains a lot of the lessons that we and the hackathon community around the world have learned from organizing hackathons — all in a single student hackathon playbook.
 
@@ -14,7 +14,7 @@ Take a look and learn some of the practices used by hackathon organizers all aro
 
 > "I learned more in one weekend than I did in the last month of lectures!"
 
-Are you ready to host your school’s very own hackathon?
+**Are you ready to host your school’s very own hackathon?**
 
 [Each semester, more than 65,000 developers, designers, and makers compete for their school's glory at the 150+ official MLH hackathons around the world.](https://mlh.io/about) Whether you’re hosting your first or third MLH hackathon, our organizer guide will give you the tools to blow away your student hacker community.
 
