@@ -8,19 +8,19 @@ As we discussed in the [Digital Hackathons Software](../event-logistics/software
 
 Don’t forget to set up Discord roles to show if someone is an organizer, hacker, sponsor, or mentor. If you're using Slack, you can utilize statuses for this information.
 
-### **Organizer on Call**
+## **Organizer on Call**
 
-Have an organizer in a voice chat at all times. Tell hackers and sponsors they can hop on the chat to ask questions or just hang out. This can be a great way to have some kind of a hangout session in the hackathon where people can talk random stuff, related/ not related to the hackathon and have a great time together! 
+Have an organizer in a voice chat at all times. Tell hackers and sponsors they can hop on the chat to ask questions or just hang out. This can be a great way to have some kind of a hangout session in the hackathon where people can talk random stuff, related/ not related to the hackathon and have a great time together!
 
-### Organizing Mini Events & Games
+## Organizing Mini Events & Games
 
 Organizing small breakout sessions of mini-event or games in a digital world becomes more crucial than ever. These can be great ways to help your hackers have some fun, meet people around and find something useful from the whole experience!
 
-### Organizing Workshops
+## Organizing Workshops
 
-Workshops are a great way to get your hackers in the mood of working on something new, something they have not experienced or tried before and help your sponsors as well by increasing their product awareness. Having workshops, webinars etc. work extremely when it comes to facilitating a conversation within the hackathon! 
+Workshops are a great way to get your hackers in the mood of working on something new, something they have not experienced or tried before and help your sponsors as well by increasing their product awareness. Having workshops, webinars etc. work extremely when it comes to facilitating a conversation within the hackathon!
 
-### **Announcing Updates**
+## **Announcing Updates**
 
 Send updates into your chat channel throughout the event. Remind people when activities are happening and share highlights from your activities! Expect questions to pop us as soon as you announce an event, so give some buffer time for questions and folks to join events late.
 

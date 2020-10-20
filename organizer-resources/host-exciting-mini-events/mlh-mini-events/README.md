@@ -4,7 +4,7 @@ description: Standard Mini Events MLH Representatives conduct at different Membe
 
 # MLH Mini Events
 
-### Digital Hackathon Mini Events
+## Digital Hackathon Mini Events
 
 {% page-ref page="werewolf.md" %}
 
@@ -14,7 +14,7 @@ description: Standard Mini Events MLH Representatives conduct at different Membe
 
 {% page-ref page="bob-ross.md" %}
 
-### In Person Hackathon Mini Events
+## In Person Hackathon Mini Events
 
 {% page-ref page="werewolf.md" %}
 
@@ -24,7 +24,7 @@ description: Standard Mini Events MLH Representatives conduct at different Membe
 
 {% page-ref page="cup-stacking.md" %}
 
-### The U.S. Airforce Cybersecurity Challenge
+## The U.S. Airforce Cybersecurity Challenge
 
 {% page-ref page="ctf.md" %}
 

@@ -1,7 +1,6 @@
 # Main Website
 
-After you have set up your placeholder website, your team should immediately start to work on the main hackathon website. This website should be carefully designed, keeping in mind that it will reflect your hackathon's goals and is the face of your hackathon to the whole community. Not just that, great design language helps set up a brand that will severely affect the perceived worth of your hackathon in front of the attendees.  
-
+After you have set up your placeholder website, your team should immediately start to work on the main hackathon website. This website should be carefully designed, keeping in mind that it will reflect your hackathon's goals and is the face of your hackathon to the whole community. Not just that, great design language helps set up a brand that will severely affect the perceived worth of your hackathon in front of the attendees.
 
 ### A typical hackathon website contains the following sections:
 
@@ -13,7 +12,7 @@ After you have set up your placeholder website, your team should immediately sta
 
 ### Adding the Day-of Information
 
-Ideally, you’ve been updating your site on a rolling basis as more information and sponsorships are finalized. Adding in new sections about different improvements and updates is a great way to keep your hackers engaged and a motivation for them to check out the different offerings at your hackathon. 
+Ideally, you’ve been updating your site on a rolling basis as more information and sponsorships are finalized. Adding in new sections about different improvements and updates is a great way to keep your hackers engaged and a motivation for them to check out the different offerings at your hackathon.
 
 About a month before, you want to have the following sections in place for a great experience for your hackers
 

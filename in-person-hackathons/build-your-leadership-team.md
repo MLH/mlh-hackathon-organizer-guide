@@ -8,7 +8,7 @@ Every first-rate hackathon has an exceptional leadership team behind it. When se
 * **Marketing Team:** This team is in charge of promoting the event, deciding the marketing strategy, developing the website, handling social media etc.
 * **Operations Team:** This team is responsible for the hacker experience at the hackathon. Every aspect of what the hackathon looks and feels like, this team is entirely responsible for that. Keep in mind, hacker experience is usually the thing that can make or break your hackathon. We might like to call this the think tank of your hackathon team.
 
-### Leading your team
+## Leading your team
 
 It’s vital to get your team onto the same page for your hackathon so you’re all working as a collective team rather than individual teams with different goals. To get there focusing on these specific areas would be highly beneficial:
 

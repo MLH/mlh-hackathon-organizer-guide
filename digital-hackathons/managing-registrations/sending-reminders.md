@@ -6,7 +6,7 @@ description: >-
 
 # Sending Reminders
 
-Followups and reminders can be different kinds for your hackathon. These all depend on the registration, pre registration and other significant events within your hackathon. Please keep in mind not to spam your attendees because that affects your hackathons' experience significantly. 
+Followups and reminders can be different kinds for your hackathon. These all depend on the registration, pre registration and other significant events within your hackathon. Please keep in mind not to spam your attendees because that affects your hackathons' experience significantly.
 
 The first followup we recommend is for the hackers who have done the pre registration for your hackathon, informing them to register for the hackathon after the main registrations are up. We recommend sending out just 1 or a maximum of 2 followups, which should be also cross referenced from your current registered hackers' list and sent to those who have not registered.
 

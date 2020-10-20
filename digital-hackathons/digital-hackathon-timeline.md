@@ -14,7 +14,7 @@
         <ul>
           <li><a href="deciding-the-date.md">Finding the Date &amp; Purpose</a>
           </li>
-          <li><a href="build-your-leadership-team.md">Building Your Leadership Team</a>
+          <li><a href="https://github.com/MLH/mlh-hackathon-organizer-guide/tree/df3a6a072fb6c316e1a5fc23cb0e495de7ba5043/digital-hackathons/build-your-leadership-team.md">Building Your Leadership Team</a>
           </li>
         </ul>
       </td>
@@ -81,7 +81,7 @@
       <td style="text-align:left">1 month before</td>
       <td style="text-align:left">
         <ul>
-          <li><a href="creating-your-hackathon-schedule.md">Create a detailed Run of Show</a>
+          <li><a href="https://github.com/MLH/mlh-hackathon-organizer-guide/tree/df3a6a072fb6c316e1a5fc23cb0e495de7ba5043/digital-hackathons/creating-your-hackathon-schedule.md">Create a detailed Run of Show</a>
           </li>
           <li><a href="judging-and-submissions/booking-your-judges.md">Start booking your Judges</a>
           </li>
@@ -98,7 +98,7 @@
           </li>
           <li><a href="event-logistics/setup-your-event.md">Set up your event</a>
           </li>
-          <li><a href="creating-your-hackathon-schedule.md#run-through-with-the-team">Do a schedule run-through with the team</a>
+          <li><a href="https://github.com/MLH/mlh-hackathon-organizer-guide/tree/df3a6a072fb6c316e1a5fc23cb0e495de7ba5043/digital-hackathons/creating-your-hackathon-schedule.md#run-through-with-the-team">Do a schedule run-through with the team</a>
           </li>
           <li><a href="judging-and-submissions/booking-your-judges.md#week-of-judges-follow-up">Judges Followup</a>
           </li>

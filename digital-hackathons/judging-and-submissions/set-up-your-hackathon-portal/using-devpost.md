@@ -1,6 +1,6 @@
 # Using Devpost
 
-Setting up your Devpost digital hackathon page is much similar to how you will be setting up in-person hackathon and manage submissions, judging, and assigning winners. Since hosting Digital Hackathons is a paid service on Devpost, you need to contact their support for conversion of your in person hackathon into a digital one from their side. Devpost people are kind enough to provide their platform for free for any community/ student hackathons that might be happening around! 
+Setting up your Devpost digital hackathon page is much similar to how you will be setting up in-person hackathon and manage submissions, judging, and assigning winners. Since hosting Digital Hackathons is a paid service on Devpost, you need to contact their support for conversion of your in person hackathon into a digital one from their side. Devpost people are kind enough to provide their platform for free for any community/ student hackathons that might be happening around!
 
 To create your hackathon page:
 

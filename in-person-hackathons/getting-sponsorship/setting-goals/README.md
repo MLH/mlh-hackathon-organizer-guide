@@ -1,8 +1,8 @@
 # Understanding your Sponsors
 
-Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's extremely necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon  To understand it further, let's first understand the different types of sponsor hackathons generally target to. 
+Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's extremely necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon To understand it further, let's first understand the different types of sponsor hackathons generally target to.
 
-### Hackathons target five categories of sponsors:
+## Hackathons target five categories of sponsors:
 
 * **Financial/ Monetary Sponsors** — Cash for services \(most sponsors fall into this category\)
 * **Presenting Sponsors** — Sponsors that co-host or co-brand your event \(be careful not to give up too much control here\)
@@ -18,7 +18,7 @@ Further, we would recommend you to check this article about evaluating your in-k
 
 Now when we have enough information about what category a sponsor might lie in, we should try to understand what their goal or primary reason might be to support your hackathon.
 
-### Sponsors support hackathons for three primary reasons:
+## Sponsors support hackathons for three primary reasons:
 
 * To get realtime feedback on their products, especially APIs and development tools.
 * To raise awareness \(or change the perception\) of their brand/ product or service.
@@ -28,9 +28,9 @@ Other than the three primary reasons, sponsors might have their region targeted 
 
 For partners generally, the reason for support can be related to alignment with community values, increasing engagement or general awareness as well.
 
-Since you have understood the way to target your sponsors and their reasons to support your hackathon, you should now be aware of the different concerns they might have. 
+Since you have understood the way to target your sponsors and their reasons to support your hackathon, you should now be aware of the different concerns they might have.
 
-### Sponsors’ top practical concerns:
+## Sponsors’ top practical concerns:
 
 1. **Attendee Value**
    * Are your hackathon’s attendees a good fit for the company in terms of recruiting, marketing, etc.?

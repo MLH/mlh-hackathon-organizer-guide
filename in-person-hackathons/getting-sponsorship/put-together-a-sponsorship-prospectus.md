@@ -2,7 +2,7 @@
 
 Sponsorship packets don't need to be fancy — just explain what a hackathon is and how they can prepare to get the most out of it. The prospectus should clearly inform about the value they'll be getting by investing in your hackathon, mention a few things sponsors have done at other hackathons that you thought were awesome as well. If you're organising a returning event, adding in metrics from the last years can be a great way to attract new sponsors.
 
-### Your prospectus should be:
+## Your prospectus should be:
 
 * **2-3 pages long:** Sponsors generally don't have time to read through a big sponsorship deck.
 * **Highlighting the Basics**: Be sure to include the following info on _all_ materials — we can’t tell you how many times this gets overlooked!

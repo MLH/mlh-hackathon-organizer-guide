@@ -8,5 +8,3 @@ While there are a ton of different platforms to use for judging, Devpost and Hac
 
 {% page-ref page="using-devpost.md" %}
 
-{% page-ref page="using-hackerearth.md" %}
-

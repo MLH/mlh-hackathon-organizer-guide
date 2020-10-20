@@ -8,11 +8,11 @@ Getting in registrations does not only make sure you have a participation pool t
 
 We recommend organiser to start some **pre-registration process** before they launch the main hackathon website. This helps capture the emails of interested hackers much before the main registrations start. Getting in just name and emails should be good enough for this particular process.
 
-As the main registration process starts, it is vital to get in some demographic details of the attendees of your hackathon. Collecting data is useful for your team's ability to understand the demographics of your event. This can be typically beneficial while projecting your sponsors with your demographic charts and letting them know the impact your hackathon has had on the different sectors of the society. It is also extremely useful while going for targetted marketing for your event as you know the interested audience and their involvement with your hackathon. 
+As the main registration process starts, it is vital to get in some demographic details of the attendees of your hackathon. Collecting data is useful for your team's ability to understand the demographics of your event. This can be typically beneficial while projecting your sponsors with your demographic charts and letting them know the impact your hackathon has had on the different sectors of the society. It is also extremely useful while going for targetted marketing for your event as you know the interested audience and their involvement with your hackathon.
 
 **Please note:** As with all personal data, use the utmost care to keep participant data safe. We recommend hackathons to use the personal data just for the day of communication and not share it with anyone until you get specific permission from your hackers to do so.
 
-### Some Important Registration Fields 
+## Some Important Registration Fields
 
 * **Name**
 * **Phone number**
@@ -35,7 +35,7 @@ As the main registration process starts, it is vital to get in some demographic 
   * Country
   * Pincode
 
-### Option Demographic Fields
+## Option Demographic Fields
 
 * **Age**
 * **Gender** 

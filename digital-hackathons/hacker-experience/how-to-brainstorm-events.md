@@ -13,9 +13,9 @@ You can make the brainstorming events a fun activity by involving your organisin
 
 To support you better, we’ve brainstormed some fun activities you can do. Have a look!
 
-### **Activities via Slack/Discord**
+## **Activities via Slack/Discord**
 
-Start discussions in threads on your **\#random**, or create specific channels for chatting. See below for some potential questions you can use as conversation starters. 
+Start discussions in threads on your **\#random**, or create specific channels for chatting. See below for some potential questions you can use as conversation starters.
 
 * **Two Truths and a Lie**
   * Hackers post two truths and a lie about themselves. Folks vote via emoji and react if they think 1, 2, or 3 is the lie. After a bit, they reveal what the lie was.
@@ -32,7 +32,7 @@ Start discussions in threads on your **\#random**, or create specific channels f
 * **Trivia Tournament**
   * Host a trivia tournament and let hackers know it’s honors system to not google answers. You could do this via stream where the first hackers to chime in for the correct answer win, or you could do a multi-choice quiz that you distribute via Slack/Discord. 
 
-### **Online Gaming**
+## **Online Gaming**
 
 Online game tournaments are one of the most common ways to engage folks online. You can get creative with the games you’re hosting. Due to the processing power needed to stream, keep in mind the capabilities of your computer. We recommend streaming in no higher quality than 720p @ 30fps and hard-wiring your computer to the network via an ethernet cable when possible. Also, try not to do processing-heavy work on the computer that’s streaming.
 
@@ -43,7 +43,7 @@ There are numerous online gaming tournaments, and here are a few ideas:
 * Online **Chess** tournament 
 * Create a **Minecraft** server for hackers to build in
 
-### **Other Activities**
+## **Other Activities**
 
 Keep in mind that not all your hackers will be video game players. Host some non-gaming activities as well. Some of our ideas are:
 
@@ -57,6 +57,4 @@ Keep in mind that not all your hackers will be video game players. Host some non
 * [**Skribbl.io**](https://skribbl.io/) – Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
 
 {% page-ref page="../../organizer-resources/host-exciting-mini-events/" %}
-
-
 

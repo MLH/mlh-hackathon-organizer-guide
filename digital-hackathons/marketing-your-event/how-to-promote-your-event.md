@@ -6,7 +6,7 @@ description: Learn about marketing in a Digital World!
 
 Marketing your hackathon is another one of the major areas of focus one has while planning it out. The aim here is to reach as many people as possible with the focus on the right audience meant for the event. But before that, it is necessary to evaluate your target community and region as the focus of marketing. You can have a hackathon in your local community, city and extend it to your state, country and even abroad. With digital events specifically, there are no boundaries, and the best part, people don't need to spend anything on travelling! Written below are certain strategies that might help you promote your event.
 
-### Hackathon Marketing Strategies
+## Hackathon Marketing Strategies
 
 * **Invite students from other schools to attend**
   * Look at schools that have previously hosted MLH hackathons

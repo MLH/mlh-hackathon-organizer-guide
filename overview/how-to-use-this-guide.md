@@ -14,5 +14,5 @@ For Hybrid \(Physical + Digital Hackathons\), we believe you should be striving 
 
 Going deeper into each of the sections, we have **divided the guide into different subsections**, targeting a different aspect of the hackathon. This is done to make sure hackathon teams consisting of different departments know their exact role and purpose alongside the best practices they need to follow while organizing their flagship hackathon event! If you're heading a specific department of your hackathon, feel free to check out the different subsections inside each of the guides
 
-#### If you're just starting off with the Guide, we would recommend you to check out the Timeline Pages \([Digital Hackathon Timeline](../digital-hackathons/digital-hackathon-timeline.md), [In Person Hackathon Timeline](../in-person-hackathons/in-person-hackathon-timeline.md)\), to determine the next best steps you might have to take from the day of your event. 
+### If you're just starting off with the Guide, we would recommend you to check out the Timeline Pages \([Digital Hackathon Timeline](../digital-hackathons/digital-hackathon-timeline.md), [In Person Hackathon Timeline](../in-person-hackathons/in-person-hackathon-timeline.md)\), to determine the next best steps you might have to take from the day of your event.
 

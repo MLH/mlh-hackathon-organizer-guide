@@ -57,7 +57,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="hacker-experience/">Start thinking about the experience of your hackathon</a>
           </li>
-          <li><a href="event-logistics/">Start planning our your hackathon logistics</a>
+          <li><a href>Start planning our your hackathon logistics</a>
           </li>
         </ul>
       </td>
@@ -112,7 +112,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="creating-your-hackathon-schedule/do-a-run-through-with-the-team.md">Do a schedule run-through with the team</a>
           </li>
-          <li><a href>Judges Followup</a>
+          <li><a href="in-person-hackathon-timeline.md">Judges Followup</a>
           </li>
           <li><a href="judging/communication-and-recruiting-mentors/week-of-following-up-with-your-mentors.md">Mentor Followup</a>
           </li>
@@ -129,7 +129,7 @@ A typical timeline while planning a hackathon is listed below. Different article
           </li>
           <li><a href="event-logistics/distributing-meals.md">Distributing Meals</a>
           </li>
-          <li><a href>Running Judging</a>
+          <li><a href="in-person-hackathon-timeline.md">Running Judging</a>
           </li>
           <li><a href="judging/communication-and-recruiting-mentors/day-of-doing-mentorship.md">Doing Mentorship</a>
           </li>

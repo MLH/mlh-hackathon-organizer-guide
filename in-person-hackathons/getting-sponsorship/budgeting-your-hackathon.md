@@ -2,7 +2,7 @@
 
 Budgets are the main starting point in determining how much your sponsorship requirements for the hackathon will be. It also helps determine the logistical load your organising team is looking to take on and which tools and services can help you do your best and most productive work in an economical way.
 
-The best starting point of making a budget is always using an excel sheet writing down the main tools/ services you're taking into account and the different other things that will make up the best experience for your hackers. 
+The best starting point of making a budget is always using an excel sheet writing down the main tools/ services you're taking into account and the different other things that will make up the best experience for your hackers.
 
 Digital events have significantly lower costs compared to in-person events. This is because the costs of food, lodging & venue which take up a significant chunk are removed. Though the addition of shipping might add to the costs, this too can be greatly reduced with judiciously planning the distribution.
 
@@ -16,9 +16,9 @@ Digital events have significantly lower costs compared to in-person events. This
 
 Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template based on estimated costs and your expected number of attendees](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit).
 
-Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will **always** need this extra money. 
+Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will **always** need this extra money.
 
-### Helpful Figures 
+### Helpful Figures
 
 Over the years we've found the averages costs for major budget items are as follows \(US Hackathons\):
 
