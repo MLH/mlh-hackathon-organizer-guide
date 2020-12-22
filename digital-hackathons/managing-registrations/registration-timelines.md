@@ -41,8 +41,9 @@ As the main registration process starts, it is vital to get in some demographic 
 * **Gender** 
   * Male
   * Female
-  * Other
-  * Don’t wish to disclose
+  * Non-binary
+  * Other \(Please Specify\)
+  * Prefer not to answer
 * **Race/ Ethnicity** 
   * Asian or Asian Indian
   * Pacific Islander
