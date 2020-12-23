@@ -6,9 +6,9 @@ MLH's Hackathon Organizer Guide is designed to make sure that the first time hac
 
 The MLH's Hackathon Organizer Guide is divided into 3 major sections
 
-* \*\*\*\*[**Digital Hackathons**](../digital-hackathons/digital-hackathon-timeline.md)**:** To be referenced if someone is organising an Online/ Digital Hackathon. 
-* \*\*\*\*[**In Person Hackathons**](../in-person-hackathons/in-person-hackathon-timeline.md)**:** To be referenced if someone is organising a Physical/ In Person Hackathon.
-* \*\*\*\*[**Organizer Resources**](../organizer-resources/getting-support-from-others.md)**:** Resources that can be utilised for any planning out any hackathon.
+* [**Digital Hackathons**](../digital-hackathons/digital-hackathon-timeline.md)**:** To be referenced if someone is organising an Online/ Digital Hackathon. 
+* [**In Person Hackathons**](../in-person-hackathons/in-person-hackathon-timeline.md)**:** To be referenced if someone is organising a Physical/ In Person Hackathon.
+* [**Organizer Resources**](../organizer-resources/getting-support-from-others.md)**:** Resources that can be utilised for any planning out any hackathon.
 
 For Hybrid \(Physical + Digital Hackathons\), we believe you should be striving to make the experience uniform with the best practices listed on both the sections, Digital Hackathon & In Person Hackathons.
 
