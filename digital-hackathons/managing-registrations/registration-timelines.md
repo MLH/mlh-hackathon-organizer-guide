@@ -25,15 +25,7 @@ As the main registration process starts, it is vital to get in some demographic 
   * Graduation / Masters
   * PhD / Doctorate
   * Post Doctorate
-* **T-shirt Size** \(If shipping t-shirts\) 
-  * Specify the US/ UK sizes here
-* **Shipping Address** \(If shipping prizes or swag\)
-  * Address Line 1
-  * Address Line 2
-  * City
-  * State
-  * Country
-  * Pincode
+* **Country of residence**
 
 ## Option Demographic Fields
 
@@ -52,6 +44,15 @@ As the main registration process starts, it is vital to get in some demographic 
   * White or Caucasian
   * Other
   * Don’t wish to disclose\)
+* **T-shirt Size** \(If shipping t-shirts\) 
+  * Specify the US/ UK sizes here
+* **Shipping Address** \(If shipping prizes or swag\)
+  * Address Line 1
+  * Address Line 2
+  * City
+  * State
+  * Country
+  * Pincode
 * **Major/Field of Study** 
   * Computer Science
   * Computer Engineering
