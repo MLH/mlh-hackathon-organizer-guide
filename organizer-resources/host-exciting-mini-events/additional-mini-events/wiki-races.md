@@ -28,6 +28,20 @@ And after many control f’s and several clicks, we got to the endpoint!
 
 Feel free to repeat the races as many times as time permits, as long as hackers are engaged and having fun.
 
+
+
+## **Setup**
+
+* Access to the MLH Zoom \(see Coach cheat sheet\)
+* Access any web browser
+* Code of Conduct appropriate articles to search for and SFW adjacent articles
+
+## **Running the mini event**
+
+* Choose a starting and ending article on Wikipedia
+* Let attendees try to navigate their way from the start page to the end page in ~5 minutes. 
+* Once a path has been found, ask them to go back into their search history and share with others how they got there.
+
 ## **Pro tips:**
 
 * Countries are a very easy first race
