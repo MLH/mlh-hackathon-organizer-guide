@@ -45,7 +45,7 @@ If you don’t have the budget to ship everyone something, you can send a packag
 
 Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype"
 
-{% page-ref page="../../organizer-resources/logistics-resources/mlhs-organiser-fulfillment-guide.md" %}
+{% page-ref page="fulfillment-guide.md" %}
 
 _Contact your Hackathon Community Manager \(league@mlh.io\) for help on shipping, as we can ship for you. MLH has tons of experience with getting swag packed and sent._
 
