@@ -1,6 +1,12 @@
----
-description: The MLH Hackathon Organizer Guide
----
+<table align="center
+">
+  <tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>The MLH Hackathon Organizer Guide</td>
+  </tr>
+</table>
 
 # Introduction
 
