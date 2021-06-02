@@ -19,7 +19,7 @@ One thing to keep in mind as you work your way through this process: **sponsors 
 
 * As we have noticed with time, **sponsors can get much of the same value** from a Digital Event as they can an In Person one. 
 * **Prize categories** and **Workshops** can both be run much the same, though sponsors should practice running their workshop through streaming or pre-recorded video. 
-* Give sponsors them their **own channel on the chat platform \(Slack/Discord\)** to talk to hackers, and have them introduce themselves so everyone knows who they are how they can be helpful for them. As long as they’re online answering questions from hackers about their company/prize category/workshop/anything else they’re doing that weekend, they’ll have a lot of great interactions with hackers. 
+* Give sponsors their **own channel on the chat platform \(Slack/Discord\)** to talk to hackers, and have them introduce themselves so everyone knows who they are how they can be helpful for them. As long as they’re online answering questions from hackers about their company/prize category/workshop/anything else they’re doing that weekend, they’ll have a lot of great interactions with hackers. 
 * We also strongly recommend doing **Office Hours** with sponsors.
 
 ### When you’re finished reading this section of the guide, we strongly recommend watching our fundraising webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w) and [Creating Compelling Sponsorships. ](https://www.youtube.com/watch?v=W9miqQzxT-0)
