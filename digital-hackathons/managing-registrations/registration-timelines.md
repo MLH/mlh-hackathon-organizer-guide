@@ -15,7 +15,7 @@ As the main registration process starts, it is vital to get in some demographic 
 ## Some Important Registration Fields
 
 * **Name**
-* **Date of Birth \(MM/DD/YYYY\)**
+* **Age**
 * **Phone Number**
 * **Email**
 * **School** \(checkout [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv)\)
@@ -28,9 +28,8 @@ As the main registration process starts, it is vital to get in some demographic 
   * Post Doctorate
 * **Country of Residence**
 
-## Option Demographic Fields
+## Optional Demographic Fields
 
-* **Age**
 * **Gender** 
   * Male
   * Female
