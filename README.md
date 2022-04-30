@@ -1,6 +1,6 @@
----
-description: The MLH Hackathon Organizer Guide
----
+--------
+Description : The MLH Hackathon Organizer Guide
+--------
 
 # Introduction
 
