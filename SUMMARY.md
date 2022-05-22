@@ -60,7 +60,6 @@
 
 * [In Person Hackathon Timeline](in-person-hackathons/in-person-hackathon-timeline.md)
 * [Finding the Date & Purpose](in-person-hackathons/writing-a-mission-statement-event-purpose.md)
-* [Build Your Leadership Team](in-person-hackathons/build-your-leadership-team.md)
 * [Locking down a Venue](in-person-hackathons/locking-down-a-venue-and-date.md)
 * [Getting Sponsorship](in-person-hackathons/getting-sponsorship/README.md)
   * [Introduction to Fundraising](in-person-hackathons/getting-sponsorship/introduction-to-fundraising.md)
@@ -93,10 +92,6 @@
   * [Distributing Meals](in-person-hackathons/event-logistics/distributing-meals.md)
   * [Tools Setup](in-person-hackathons/event-logistics/choose-a-day-of-communication-tool.md)
   * [Prepare Your Emergency Plan](in-person-hackathons/event-logistics/prepare-your-emergency-plan.md)
-* [Hackathon Scheduling](in-person-hackathons/creating-your-hackathon-schedule/README.md)
-  * [Detailed Run of Show](in-person-hackathons/creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md)
-  * [Run-Through with the Team](in-person-hackathons/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
-  * [MLH Tips & Templates](in-person-hackathons/creating-your-hackathon-schedule/general-mlh-tips.md)
 * [Judging & Submissions](in-person-hackathons/judging-and-submissions/README.md)
   * [Judging Plan](in-person-hackathons/judging-and-submissions/draft-up-a-judging-plan.md)
   * [Judges - Communication & Recruitment](in-person-hackathons/judging-and-submissions/communication-and-recruiting-judges.md)
@@ -148,7 +143,6 @@
 * [Keeping Records](organizer-resources/keeping-records.md)
 * [Software for Hackathons](organizer-resources/software-for-hackathons.md)
 
----
+***
 
 * [Contributors](contributors.md)
-
