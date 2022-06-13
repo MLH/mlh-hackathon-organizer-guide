@@ -1,6 +1,6 @@
 # Judging Plan
 
-Judging has always been the biggest pain point for every hackathon organizer. This is due to the fact that while planning out the event, other than recruiting and finalising the judges, assign a certain time for judging, organising do not plan anything further, assuming everything can be managed on the day-of. But, in reality, if planned right, judging can be one of the easiest and the most smooth aspect of any hackathon.
+Judging has always been the biggest pain point for every hackathon organizer. This is due to the fact that while planning out the event, other than recruiting and finalizing the judges, and assigning a certain time for judging, organizing teams do not plan anything further, assuming everything can be managed on the day-of. But, in reality, if planned right, judging can be one of the easiest and the most smooth aspect of any hackathon.
 
 At digital events, we've seen hackers working on smaller teams, resulting in a larger number of projects overall. As for any hackathon, our recommendation is always towards implementing a science-fair type of judging plan. This helps in saving time but is a little bit heavier on the logistics side.
 
@@ -24,13 +24,13 @@ A typical calculation for the number of judges looks like follows:
 
 $$J = ⌈(P * n * t )/ T⌉$$
 
-Where,  
-$$J =$$ Number of Judges  
-$$P =$$ Number of Submitted Projects  
-$$n =$$ Number of Judges for each project \(or number of rounds of judging per project\)  
-\(MLH recommendation: 3 rounds per project\)  
-$$t =$$ Time taken by a Judge per project \(MLH recommendation: 5 mins per project\)  
-$$T =$$ Total time allocated for Judging \(in minutes\)
+Where,\
+$$J =$$ Number of Judges\
+$$P =$$ Number of Submitted Projects\
+$$n =$$ Number of Judges for each project (or number of rounds of judging per project)\
+(MLH recommendation: 3 rounds per project)\
+$$t =$$ Time taken by a Judge per project (MLH recommendation: 5 mins per project)\
+$$T =$$ Total time allocated for Judging (in minutes)
 
 For eg.: Consider you have **150 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **5 minutes are allocated per project** for a judge to take their decision.
 
@@ -44,7 +44,7 @@ Hence the number of **judges required is 19**.
 
 Allocating projects is more logistically heavy in a science fair style of judging because each judge cannot see every project.
 
-To most efficiently allocate projects, I’d recommend manually dividing the total number of projects by the number of judges and multiplying the result by the rounds of judging per project. Then taking the upper limit of the result is how many projects each judge will see during the judging period.
+To most efficiently allocate projects, we recommend manually dividing the total number of projects by the number of judges and multiplying the result by the rounds of judging per project. Then taking the upper limit of the result is how many projects each judge will see during the judging period.
 
 Calculating this based on our last example:
 
@@ -63,31 +63,30 @@ There're plenty of options with finalizing winners, but at MLH, we love to use S
 * Allocate projects to every judging according to what we discussed above.
 * Ask each judge to view their projects and report back their top 3 best/favorite projects.
 * Assign the top three following points:
-  * 3 points \(First Place\) 
-  * 2 points \(Second Place\)
-  * 1 point \(Third Place\)
+  * 3 points (First Place)&#x20;
+  * 2 points (Second Place)
+  * 1 point (Third Place)
 
-Now, you'll have a list of the project that appeared across multiple judges' top three favourites!
+Now, you'll have a list of the project that appeared across multiple judges' top three favorites!
 
 After all of the scores have come in, you’ll sort all of the scores in descending order. Then, the projects at the top will be your winning projects!
 
-### A goto table to estimate the number of judges required:
+### A go to table to estimate the number of judges required:
 
-|  | **Number of attendees** |  |  |  |  |  |  |
-| :--- | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Time Allocated for Judging \(mins\)** |  | **45** | **60** | **90** | **120** | **150** | **180** |
-|  | **100** | 9 | 7 | 5 | 5 | 4 | 4 |
-|  | **200** | 15 | 12 | 9 | 7 | 6 | 5 |
-|  | **300** | 22 | 17 | 12 | 10 | 8 | 7 |
-|  | **400** | 29 | 22 | 15 | 12 | 10 | 9 |
-|  | **500** | 35 | 27 | 19 | 15 | 12 | 10 |
-|  | **600** | 42 | 32 | 22 | 17 | 14 | 12 |
-|  | **700** | 49 | 37 | 25 | 20 | 16 | 14 |
-|  | **800** | 55 | 42 | 29 | 22 | 18 | 15 |
-|  | **900** | 62 | 47 | 32 | 25 | 20 | 17 |
-|  | **1000** | 69 | 52 | 35 | 27 | 22 | 19 |
-|  | **1100** | 75 | 57 | 39 | 30 | 24 | 20 |
-|  | **1200** | 82 | 62 | 42 | 32 | 26 | 22 |
+|                                       | **Number of attendees** |        |        |        |         |         |         |
+| ------------------------------------- | ----------------------- | :----: | ------ | ------ | ------- | ------- | ------- |
+| **Time Allocated for Judging (mins)** |                         | **45** | **60** | **90** | **120** | **150** | **180** |
+|                                       | **100**                 |    9   | 7      | 5      | 5       | 4       | 4       |
+|                                       | **200**                 |   15   | 12     | 9      | 7       | 6       | 5       |
+|                                       | **300**                 |   22   | 17     | 12     | 10      | 8       | 7       |
+|                                       | **400**                 |   29   | 22     | 15     | 12      | 10      | 9       |
+|                                       | **500**                 |   35   | 27     | 19     | 15      | 12      | 10      |
+|                                       | **600**                 |   42   | 32     | 22     | 17      | 14      | 12      |
+|                                       | **700**                 |   49   | 37     | 25     | 20      | 16      | 14      |
+|                                       | **800**                 |   55   | 42     | 29     | 22      | 18      | 15      |
+|                                       | **900**                 |   62   | 47     | 32     | 25      | 20      | 17      |
+|                                       | **1000**                |   69   | 52     | 35     | 27      | 22      | 19      |
+|                                       | **1100**                |   75   | 57     | 39     | 30      | 24      | 20      |
+|                                       | **1200**                |   82   | 62     | 42     | 32      | 26      | 22      |
 
 Any questions? Feel free to shoot an email to _league@mlh.io_ to discuss your Judging Plans!
-

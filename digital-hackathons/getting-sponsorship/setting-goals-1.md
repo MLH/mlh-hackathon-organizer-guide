@@ -10,7 +10,7 @@ You can offer a ton of different things to your sponsors while organising a digi
 
 ## Running a Sponsored Prize
 
-A sponsored prize track or category can significantly boost your hackathon value for the sponsors as well as for the participants. For the sponsors, this might result in new people contributing in unique ways towards their product and for hackers, this might be an additional prize for them to grab upon during the hackathon!
+A sponsored prize track or category can significantly boost your hackathon value for the sponsors as well as for the participants. For the sponsors, this might result in new people contributing in unique ways towards their product and for hackers, this might be an additional prize for them to grab during the hackathon!
 
 The only thing to keep in mind here will be to ask your sponsors to match the value of other prizes you have for the hackathon so that the other prizes do not get undermined due to the extra offerings in one specific category.
 
@@ -20,7 +20,7 @@ If your sponsors are running a prize track, ask them to host office hours where 
 
 ## **Workshops**
 
-Hosting workshops in a digital hackathon has a much more value attached to it than in a physical hackathon. This is a great way of keeping your hackers engaged and increasing the presence of your sponsors as well. See [our MLH Localhost recommendations](https://news.mlh.io/bringing-your-mlh-localhost-workshop-online-03-16-2020%28opens%20in%20a%20new%20tab%29) for help on hosting remote workshops.
+Hosting workshops in a digital hackathon has a much more value attached to it than in a physical hackathon. This is a great way of keeping your hackers engaged and increasing the presence of your sponsors as well. See [our MLH Localhost recommendations](https://news.mlh.io/bringing-your-mlh-localhost-workshop-online-03-16-2020\(opens%20in%20a%20new%20tab\)) for help on hosting remote workshops.
 
 ## **Fun and Games**
 
@@ -30,7 +30,6 @@ As you’re hosting games and competitions throughout the event, consider mixing
 
 If a sponsor is primarily interested in recruiting, there are several ways to engage them. Some ideas include:
 
-* **Resume critiques** – Office hours where recruiters help hackers edit and perfect their resumes. 
-* **1:1 Recruiter/Sponsor Chats** – Set up Google Hangouts or Zoom breakout rooms for your hackers to meet companies one on one, similarly to how they would at a sponsor fair. 
-* **Interviews –** If you’re providing resumes in advance, your recruiters may be interested in interviewing your hackers during the event, similarly to how they would at an in-person event. Assist them with setting up technology to facilitate these interviews. 
-
+* **Resume critiques** – Office hours where recruiters help hackers edit and perfect their resumes.&#x20;
+* **1:1 Recruiter/Sponsor Chats** – Set up Google Hangouts or Zoom breakout rooms for your hackers to meet companies one on one, similarly to how they would at a sponsor fair.&#x20;
+* **Interviews –** If you’re providing resumes in advance, your recruiters may be interested in interviewing your hackers during the event, similarly to how they would at an in-person event. Assist them with setting up technology to facilitate these interviews.&#x20;

@@ -33,7 +33,7 @@ Consider waiting until _after_ your event to order prizes so that you can ship t
 * [Custom Trophies](https://assets.pando.com/uploads/2012/10/imag1058.jpeg)
 * Limited Edition Swag
 * Polaroid Camera
-* Audible Subscription 
+* Audible Subscription&#x20;
 
 ## Swag
 
@@ -41,11 +41,12 @@ If you have a significant budget surplus, consider sending swag bags to everyone
 
 If you plan to do this, remember to collect t-shirt sizes and shipping addresses.
 
-If you don’t have the budget to ship everyone something, you can send a package to each university club that participated and have them handle the distribution when it is once again safe to gather. That should keep shipping \(and labor\) low, while letting you allocate your budget toward something high-impact.
+If you don’t have the budget to ship everyone something, you can send a package to each university club that participated and have them handle the distribution when it is once again safe to gather. That should keep shipping (and labor) low, while letting you allocate your budget toward something high-impact.
 
-Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype"
+Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype
 
-{% page-ref page="fulfillment-guide.md" %}
+{% content-ref url="fulfillment-guide.md" %}
+[fulfillment-guide.md](fulfillment-guide.md)
+{% endcontent-ref %}
 
-_Contact your Hackathon Community Manager \(league@mlh.io\) for help on shipping, as we can ship for you. MLH has tons of experience with getting swag packed and sent._
-
+_Contact your Hackathon Community Manager (league@mlh.io) for help on shipping, as we can ship for you. MLH has tons of experience with getting swag packed and sent._

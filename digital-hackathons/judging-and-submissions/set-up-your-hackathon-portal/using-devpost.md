@@ -31,5 +31,4 @@ Devpost has two different judging options:
 
 ![](../../../.gitbook/assets/screen-shot-2020-07-16-at-11.57.29-am.png)
 
-To learn more about judging on Devpost you can visit their Judging [documentation](https://help.devpost.com/hc/en-us/sections/360003401091-Judging).Content coming soon ✨
-
+To learn more about judging on Devpost you can visit their Judging [documentation](https://help.devpost.com/hc/en-us/sections/360003401091-Judging). Content coming soon ✨

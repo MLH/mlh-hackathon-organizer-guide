@@ -19,8 +19,9 @@ Sponsorship packets don't need to be fancy — just explain what a hackathon is 
   * Contact email
 * **Cover the story behind your event:** An introduction to your team, a note about what you’re trying to accomplish, as well as what makes your event special - what are its differentiating factors?
 * **Include an overview of available sponsorships:** What companies get and how much it will cost them.
-  * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. \(Anyone tier should not comprise more than 25 per cent of your budget.\)
+  * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. (Any one tier should not comprise more than 25% of your budget.)
   * Let companies know custom packages are available.
 
-{% page-ref page="../../organizer-resources/sponsorship-resources/" %}
-
+{% content-ref url="../../organizer-resources/sponsorship-resources/" %}
+[sponsorship-resources](../../organizer-resources/sponsorship-resources/)
+{% endcontent-ref %}
