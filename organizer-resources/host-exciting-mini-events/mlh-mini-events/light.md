@@ -7,11 +7,11 @@ description: A traditional MLH Mini Event
 This is a frontend coding competition we borrowed without asking and renamed it '!Light', exactly the same as Code in the Dark.
 
 * Each round lasts 10 minutes, and is between 5 to 10 participants
-* All participants in each round are given the same screenshot of a website \(e.g: Pinterest.com\) and must recreate it to the best of their ability in HTML & CSS
+* All participants in each round are given the same screenshot of a website (e.g: Pinterest.com) and must recreate it to the best of their ability in HTML & CSS
 * No code completion tools, no syntax highlighting, no compiling your code before 10 minutes
 * Direct participants go to [http://no-light.mlh.io/YOUREVENT](http://no-light.mlh.io/YOUREVENT)
 * All screens are mirrored so that the audience can watch and alert any rule-breaking
-* The winner will be chosen by audience applause \(so bring your friends!\)
+* The winner will be chosen by audience applause (so bring your friends!)
 * Add .zip to the link above to review submissions
 
 ### **How do you Run !Light?**
@@ -27,6 +27,4 @@ This is a frontend coding competition we borrowed without asking and renamed it 
 6. **Download and display submissions.** You can now download the submissions by navigating to [http://no-light.mlh.io/YOUREVENTNAME.zip](http://no-light.mlh.io/YOUREVENTNAME.zip). Unzip and open the folder on your machine. One-by-one, open the submissions.
 7. **Vote.** Have attendees vote on their favorite submission- this is usually best achieved through voting by applause. You should break any ties.
 
-You’re welcome to re-run the game with different websites as many times as your attendees want.   
-
-
+You’re welcome to re-run the game with different websites as many times as your attendees want. \

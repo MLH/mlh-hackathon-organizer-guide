@@ -133,7 +133,6 @@
     * [Slideshow Karaoke](organizer-resources/host-exciting-mini-events/mlh-mini-events/slideshow-karaoke.md)
     * [!Light](organizer-resources/host-exciting-mini-events/mlh-mini-events/light.md)
     * [Cup Stacking](organizer-resources/host-exciting-mini-events/mlh-mini-events/cup-stacking.md)
-    * [The U.S. Airforce Cybersecurity Challenge](organizer-resources/host-exciting-mini-events/mlh-mini-events/ctf.md)
     * [MS Paint Bob Ross](organizer-resources/host-exciting-mini-events/mlh-mini-events/bob-ross.md)
   * [Additional Mini Events](organizer-resources/host-exciting-mini-events/additional-mini-events/README.md)
     * [Marble Races](organizer-resources/host-exciting-mini-events/additional-mini-events/marble-races.md)

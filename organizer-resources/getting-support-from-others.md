@@ -1,6 +1,6 @@
 # Getting support from others
 
-## Working with Organisations
+## Working with Organizations
 
 Content coming soon ✨
 
@@ -13,4 +13,3 @@ Content coming soon ✨
 ## Event Proposals
 
 * [Hack Western Event Proposal](https://github.com/MLH/hackathon-organizer-guide/blob/master/Organizer-Resources/Event%20Proposal%20Deck%20for%20Western%20University.pdf)
-

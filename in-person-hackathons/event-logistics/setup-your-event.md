@@ -1,5 +1,5 @@
 ---
-description: 'Day-of, make a list of items that will need to be set up.'
+description: Day-of, make a list of items that will need to be set up.
 ---
 
 # Event Setup
@@ -7,17 +7,17 @@ description: 'Day-of, make a list of items that will need to be set up.'
 These will likely include the things below.
 
 * [ ] Set up tables and chairs
-* [ ] Make sure WiFi is working \(or set it up\)
-* [ ] Check power at every table \(may need to lay cable\)
+* [ ] Make sure WiFi is working (or set it up)
+* [ ] Check power at every table (may need to lay cable)
 * [ ] Check-in station
 * [ ] Sponsor and swag area
 * [ ] Hackathon space
 * [ ] Speaking area
 * [ ] Judging space
-* [ ] Hardware room or table \(MLH\)
+* [ ] Hardware room or table (MLH)
 * [ ] Food area
 * [ ] AV and tech
-* [ ] Relaxation area \(if providing\)
+* [ ] Relaxation area (if providing)
 * [ ] Help desk/info center
 * [ ] "Meditation room"
 
@@ -42,11 +42,11 @@ Make your volunteers responsible for specific tasks. They should be working on s
   * Keynote speaker
   * MLH talks
 
-> Note about speakers: Your attendee’s time is valuable. Many sponsors are going to ask for speaking spots… optimize for interesting speakers rather than lucrative speakers.  
->   
-> Invite-only API demos \(developer evangelists\) are another good option.
+> Note about speakers: Your attendee’s time is valuable. Many sponsors are going to ask for speaking spots… optimize for interesting speakers rather than lucrative speakers.\
+> \
+> Invite-only API demos (developer evangelists) are another good option.
 
-## Simultaneously \(meals every six hours including snacks\)
+## Simultaneously (meals every six hours including snacks)
 
 * Set up first meal
 * Find your team/workshop mixer
@@ -54,7 +54,7 @@ Make your volunteers responsible for specific tasks. They should be working on s
 ## During Hacking
 
 * Collect garbage
-* Tech talk facilitator: rounding people up to listen and handling speakers \(tech talks usually sponsors\)
+* Tech talk facilitator: rounding people up to listen and handling speakers (tech talks usually sponsors)
 * One volunteer should be in charge of each special area or activity at the hackathon: for example, the hardware room, photo booth, etc.
 * Checking in on hackers: feeding them snacks, making sure their power and WIFI are working, etc.
 
@@ -64,4 +64,3 @@ Make your volunteers responsible for specific tasks. They should be working on s
 * MLH Tip: Announce a deadline that is an hour before your real deadline
 * Have an organizer ask each team if they submitted their idea.
 * If you have science-fair style judging, have hackers go eat lunch in a separate room while you reconfigure the hacking area for demos
-

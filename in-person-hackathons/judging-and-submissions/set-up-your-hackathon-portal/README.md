@@ -6,5 +6,10 @@ Hackathon portal provide separate pages for judges to look over the different de
 
 While there are a ton of different platforms to use for judging, Devpost and HackerEarth are the two most common at MLH Hackathons
 
-{% page-ref page="using-devpost.md" %}
+{% content-ref url="using-devpost.md" %}
+[using-devpost.md](using-devpost.md)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
