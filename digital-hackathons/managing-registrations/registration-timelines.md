@@ -12,9 +12,12 @@ As the main registration process starts, it is vital to get in some demographic 
 
 **Please note:** As with all personal data, use the utmost care to keep participant data safe. We recommend hackathons to use the personal data just for the day of communication and not share it with anyone until you get specific permission from your hackers to do so.
 
+You can see our example Registration form [here](https://majorleaguehacking.typeform.com/example-mlh-reg)
+
 ## Some Important Registration Fields
 
-* **Name**
+* **First Name**
+* **Last Name**
 * **Age**
   * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). We do not collect dates of birth as part of event registration to reduce data risk.
 * **Phone Number**
@@ -38,12 +41,16 @@ As the main registration process starts, it is vital to get in some demographic 
 
 ## Optional Demographic Fields
 
+* **Do you identify as part of an underrepresented group in the technology industry?**&#x20;
+  * Yes&#x20;
+  * No&#x20;
+  * Unsure
 * **Gender**&#x20;
-  * Male
-  * Female
-  * Non-binary
-  * Other (Please Specify)
-  * Prefer not to answer
+  * Man&#x20;
+  * Woman&#x20;
+  * Non-Binary&#x20;
+  * Prefer to self-describe
+  * Prefer Not to Answer
 * **Race/ Ethnicity**&#x20;
   * Asian Indian&#x20;
   * Black or African&#x20;
@@ -63,6 +70,23 @@ As the main registration process starts, it is vital to get in some demographic 
   * Other Pacific Islander&#x20;
   * Other (Please Specify)
   * Prefer Not to Answer
+* **Do you consider yourself to be any of the following?**&#x20;
+  * Heterosexual or straight&#x20;
+  * Gay or lesbian&#x20;
+  * Bisexual&#x20;
+  * Different identity \_\_\_\_\_\_\_\_
+  * Prefer Not to Answer
+* **What is the highest level of formal education that you have completed?**&#x20;
+  * Less than Secondary / High School&#x20;
+  * Secondary / High School&#x20;
+  * Undergraduate University (2 year - community college or similar)&#x20;
+  * Undergraduate University (3+ year)&#x20;
+  * Graduate University (Masters, Professional, Doctoral, etc)&#x20;
+  * Code School / Bootcamp&#x20;
+  * Other Vocational / Trade Program or Apprenticeship&#x20;
+  * Other (please specify)&#x20;
+  * I’m not currently a student&#x20;
+  * Prefer not to answer
 * **T-shirt Size** (If shipping t-shirts)&#x20;
   * Specify the US/ UK sizes here
 * **Shipping Address** (If shipping prizes or swag)
@@ -73,14 +97,18 @@ As the main registration process starts, it is vital to get in some demographic 
   * Country
   * Pincode
 * **Major/Field of Study**&#x20;
-  * Computer Science
-  * Computer Engineering
-  * Electrical Engineering
-  * Electronics & Communications Engineering
-  * Information Technology
-  * Mechanical Engineering
-  * Mathematics
-  * Physics
-  * Graphic Design
-  * Business Studies
-  * Other
+  * Computer science, computer engineering, or software engineering&#x20;
+  * Another engineering discipline (such as civil, electrical, mechanical, etc.)&#x20;
+  * Information systems, information technology, or system administration&#x20;
+  * A natural science (such as biology, chemistry, physics, etc.)&#x20;
+  * Mathematics or statistics&#x20;
+  * Web development or web design&#x20;
+  * Business discipline (such as accounting, finance, marketing, etc.)&#x20;
+  * Humanities discipline (such as literature, history, philosophy, etc.)&#x20;
+  * Social science (such as anthropology, psychology, political science, etc.)&#x20;
+  * Fine arts or performing arts (such as graphic design, music, studio art, etc.)&#x20;
+  * Health science (such as nursing, pharmacy, radiology, etc.)&#x20;
+  * Other (please specify)&#x20;
+  * Undecided / No Declared Major&#x20;
+  * My school does not offer majors / primary areas of study&#x20;
+  * Prefer not to answer
