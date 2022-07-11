@@ -50,9 +50,9 @@ To most efficiently allocate projects, we recommend manually dividing the total 
 
 Calculating this based on our last example:
 
-$$N = ⌈(P * n )/ J⌉ = ⌈(150 * 3) / 19⌉ = ⌈23.68⌉= 24$$
+N = (P\*n)/J = (150\*3)/12 = 37.5 = 38
 
-Now using an Excel Sheet, assign all the projects a table number and accordingly assign each of your judges 24 table numbers such that each project is seen by 3 judges.
+Now using an Excel Sheet, assign all the projects a table number and accordingly assign each of your judges 38 table numbers such that each project is seen by 3 judges.
 
 Now every judge will be having an allocated project they'll be looking at during the course of the whole judging process!
 
