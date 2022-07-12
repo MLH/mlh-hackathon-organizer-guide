@@ -16,4 +16,4 @@ Some examples that make hackers feel left out with Hybrid events:
 
 These do not encompass all of the issues we have seen, but are just a few of the more common items that make a hybrid event less impactful.&#x20;
 
-We want your event to focus on having the best event possible for your attendees. This might mean having a smaller in person event you can fully support, but you can use that to grow each year to a larger event size. There are alternative events available for those who can only participate virtually, we encourage you to focus on making the biggest impact you can for the hackers you have at your event.&#x20;
+We want your event to focus on being the best event possible for your attendees. This might mean having a smaller in person event you can fully support, but you can use that to grow each year to a larger event size. There are alternative events available for those who can only participate virtually, we encourage you to focus on making the biggest impact you can for the hackers you have at your event.&#x20;
