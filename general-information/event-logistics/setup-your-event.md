@@ -6,6 +6,26 @@ description: >-
 
 # Setup your Event
 
+#### Before the Event
+
+Here are common supplies you should have for your hackathon
+
+* First Aid Kit&#x20;
+* Permanent Markers&#x20;
+* Paper&#x20;
+  * Last minute signage&#x20;
+  * Give out wifi&#x20;
+  * Parking passes&#x20;
+  * Link to Discord&#x20;
+* Box Cutters / Scissors&#x20;
+  * To open all your/your sponsors swag&#x20;
+* Painters Tape&#x20;
+  * Do not use Scotch tape on paint. It will rip away the paint and make your venue mad. It also is not likely to last the full event&#x20;
+* Gaffer's Tape&#x20;
+  * Secure electrical cords if they absolutely have to be across walkways&#x20;
+* Duct Tape&#x20;
+  * Jack of all trades tape. DO NOT USE ON PAINT
+
 It's important to check that the various tools you're using for your event are ready to go day-of. A dry run of the whole event largely can also help your team be prepared to handle everything and let you know about any bottleneck that might create problems later on.
 
 #### In-Person Day-Of
