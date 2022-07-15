@@ -28,6 +28,3 @@ We enforce a Code of Conduct for all maintainers and contributors of this Guide.
 
 The Hackathon Organizer Guide is open sourced under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. [Read more here](https://github.com/yashovardhan/mlh-hackathon-organizer-guide/tree/e1f777578c8c5c905dcebc5b506c1f93f4c613b4/LICENSE.md).
 
-### Resources
-
-* Article: [How to Throw an Epic Hackathon](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
