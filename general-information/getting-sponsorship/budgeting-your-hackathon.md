@@ -18,7 +18,7 @@ _Digital events have significantly lower costs compared to in-person events. Thi
   * **Streaming Platform\[Digital Only]** for Opening & Closing Ceremonies. _Recommended Platform:_ [_Streamyard_](../../organizer-resources/logistics-resources/streamyard.md)
   * **Video Calling Platform\[Digital Only]** for hosting your workshops, mini-events, live demo judging, webinars etc. _Recommended Platform: Zoom_
   * **Virtual Conference Platform\[Digital Only]** can be used for running the whole event in a consolidated space. These platforms are a bit costly but the hacker experience they provide is much better than using different streaming and calling platforms. _Recommended Platforms: Hopin, Gather.Town_
-* **Swag (Schwag):** Hackathons and swags are like synonymous to each other.&#x20;
+* **Swag (Schwag):** "Stuff We All Get" T-shirts, stickers, water bottles, lanyards, etc. &#x20;
   * _Distributing swag is a digital world might look a bit difficult as the costs of shipping are associated with them. We would recommend you to look at the different options available which can be easily fulfilled from your side within a budget._&#x20;
 * **Prizes:** Prizes are the driving factor in most of the hackathons these days. Though giving out prize money might seem like an easier option, we recommend giving out something that can help hackers learn, grow and utilize for their personal development.&#x20;
   * _For Digital Events we recommend checking for prizes that can be easily fulfilled with free delivery through Amazon or any other online service._&#x20;
