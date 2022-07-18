@@ -4,12 +4,8 @@ Hackathon portals are one of the most import need for any hackathon to get the p
 
 Hackathon portal provide separate pages for judges to look over the different details of the project, providing hackers with a page where they can fill in details and publish their projects in front of the world! Other than that, various tools and services these portals provide are a great way to enhance the overall hacking and organizing experience for everyone involved!
 
-While there are a ton of different platforms to use for judging, Devpost and HackerEarth are the two most common at MLH Hackathons.
+While there are a ton of different platforms to use for judging, Devpost is the most common at MLH Hackathons.
 
 {% content-ref url="using-devpost.md" %}
 [using-devpost.md](using-devpost.md)
-{% endcontent-ref %}
-
-{% content-ref url="using-hackerearth.md" %}
-[using-hackerearth.md](using-hackerearth.md)
 {% endcontent-ref %}
