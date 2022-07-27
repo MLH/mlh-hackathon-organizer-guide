@@ -56,7 +56,7 @@ Before you book an event space, make sure it has everything you need help you ho
 * **AV equipment and staff**— What AV equipment is available? Does the space offer staff to help you set it up?
 * **Tables and chairs** — How many seats and tables do you need? Does the venue provide them, or do you need to rent from an outside vendor?
 * **Food**— Does the venue offer catering? If it does, are you required to use it? How much will this cost?
-* **Accessibility** — Can hackers in need of physical accommodation conveniently access the building? Can hackers who need to sleep during the hackathon find a safe place to do so? (If there is a fire code regulation you should allocate resources to set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight.)
+* **Accessibility** — Can hackers in need of physical accommodation conveniently access the building? Can hackers who need to sleep during the hackathon find a safe place to do so?&#x20;
 * **Security** — Will there be a secure space where sponsors, organizers, and attendees can keep their expensive equipment?
 
 If your venue does not have some of these things, but you're on-campus, you may be able to work with other parts of your administration to get them. For example:
@@ -73,7 +73,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 * Does the building require you to pay for catering, security, a fire marshal, janitors, etc.?
 * Does the venue have a loading dock for deliveries?
 * Are there specific security regulations you must abide by?
-* Are you permitted to host an overnight event? It’s important to let the potential venue know that people will be working in the space overnight. The key word here is "working" -- in many instances, it is against fire code to allow attendees to sleep. (You can always set up a “relaxation” or “meditation” room for small numbers of hackers to rest overnight.)
+* Are you permitted to host an overnight event? It’s important to let the potential venue know that people will be working in the space overnight. The key word here is "working" -- in many instances, it is against fire code to allow attendees to sleep.&#x20;
 
 ## MLH Tips
 

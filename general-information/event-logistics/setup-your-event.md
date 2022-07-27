@@ -38,12 +38,12 @@ It's important to check that the various tools you're using for your event are r
 * [ ] Hackathon space
 * [ ] Speaking area
 * [ ] Judging space
-* [ ] Hardware room or table (MLH)
+* [ ] Hardware room or table&#x20;
 * [ ] Food area
 * [ ] AV and tech
 * [ ] Relaxation area (if providing)
 * [ ] Help desk/info center
-* [ ] "Meditation room"
+* [ ] Meditation room
 
 #### Digital Day-Of
 
