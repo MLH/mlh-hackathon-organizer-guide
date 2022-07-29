@@ -10,10 +10,15 @@ Major League Hacking (MLH) is the official student hackathon league. Each year, 
 
 At Major League Hacking, our goal is to give you the tools to throw the best hackathon humanly possible, which is why MLH Member events get various benefits like:
 
-* Mentorship and advice
-* Onsite hackathon support
-* Hardware&#x20;
-* Swag fulfilment and shipping&#x20;
+* Mentorship and Support
+* Templates and Tutorials
+* Preferred Vendors and Discounts
+* Onsite Hackathon Support
+* Mini-Events
+* Judging Support
+* Prizes
+* Software Lab
+* Swag Fulfilment/Shipping&#x20;
 
 (You can see the full list [here](https://mlh.io/event-membership). )
 

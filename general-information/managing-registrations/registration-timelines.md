@@ -43,6 +43,13 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## Optional Demographic Fields
 
+* **Dietary Restrictions (For in-Person events - see more about planning for dietary restrictions in our Event Logistics section!)**
+  * Vegetarian
+  * Vegan
+  * Celiac Disease
+  * Allergies
+  * Kosher
+  * Halal
 * **Do you identify as part of an underrepresented group in the technology industry?**&#x20;
   * Yes&#x20;
   * No&#x20;

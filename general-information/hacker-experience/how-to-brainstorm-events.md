@@ -1,8 +1,8 @@
 ---
 description: >-
   After you’ve planned the logistics and set up your chat platform, start
-  planning how you’re going to make your digital experience fun for hackers.
-  We’ve brainstormed some fun activities you can do.
+  planning how you’re going to make your event fun for hackers. We’ve
+  brainstormed some fun activities you can do.
 ---
 
 # Brainstorming Mini Events
