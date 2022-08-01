@@ -91,4 +91,8 @@ After all of the scores have come in, you’ll sort all of the scores in descend
 |                                       | **1100**                |   75   | 57     | 39     | 30      | 24      | 20      |
 |                                       | **1200**                |   82   | 62     | 42     | 32      | 26      | 22      |
 
+### Resources:
+
+* Template: [Judging Expo Process ](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG\_89l6n6zpHj\_o5V2xwS-gyndmTl5Z24/edit?usp=sharing)
+
 Any questions? Feel free to shoot an email to _league@mlh.io_ to discuss your Judging Plans!
