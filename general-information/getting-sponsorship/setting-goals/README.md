@@ -7,19 +7,19 @@ description: >-
 
 # Understanding your Sponsors
 
-Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's extremely necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon. To understand it further, let's first understand the different types of sponsor hackathons generally target to.
+Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon. To understand it further, let's first understand the different types of sponsor hackathons generally target to.
 
 ## Hackathons target five categories of sponsors:
 
-* **Financial/ Monetary Sponsors** — Cash for services (most sponsors fall into this category)
-* **Presenting Sponsors** — Sponsors that co-host or co-brand your event (be careful not to give up too much control here)
-* **In-kind Sponsors** — Donor companies. They can provide hardware, t-shirts, platform credits etc. within the hackathon.
-* **Strategic/ Media Partners** — Sponsors that help with marketing and promotion; often publications.
-* **Community Partners** — Communities that can contribute to the culture of the hackathon providing you with mentors, judges, support staff etc. to make your hackathon run smoother.
+* **Financial/ Monetary Sponsors** — Companies that pay for services like having their logo on your website (most sponsors fall into this category).
+* **Presenting Sponsors** — Companies that co-host or co-brand your event (be careful not to give up too much control here).
+* **In-kind Sponsors** — Companies that donate services or goods for free like hardware or platform credits.
+* **Strategic/ Media Partners** — Companies that help with marketing and promotion; often publications.
+* **Community Partners** — Companies that can help you recruit hackers, mentors, judges, or volunteers from their community for free.&#x20;
 
 **Please note that these are all broad categories and there will be sponsors that can fit into multiple categories at once as well.**
 
-Further, we would recommend you to check this article about evaluating your in-kind sponsorship to know what might be the best suitable support you might need for your hackathon. This article specifically focuses on how much control you should be having while choosing different platform/ services people might be offering you as a part of their sponsorship package.
+We often see companies attempting to give away free credits or swag to avoid paying a sponsorship fee. We recommend steering clear of these engagements or evaluating these opportunities on a case-by-case basis using the guide we wrote for you below.&#x20;
 
 {% content-ref url="evaluating-in-kind-sponsorship-digital.md" %}
 [evaluating-in-kind-sponsorship-digital.md](evaluating-in-kind-sponsorship-digital.md)
