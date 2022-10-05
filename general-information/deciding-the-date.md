@@ -12,7 +12,9 @@ As you begin to plan your hackathon, it's important to think about the purpose o
 
 Finding a purpose is usually very personal to the people who are looking to organize a hackathon. It can be to empower your local community, targeting a specific section of the community, empowering a certain social group, making people aware about a different technology or the computer science in general or even just building out the culture of hackathons in your school or organization. When you have the clarity behind what you actually need to do, you will be easily making decisions on how you need to implement it.
 
-Let us know at [league@mlh.io](mailto:league@mlh.io) if you're planning something interesting, we would be happy to discuss it further with you!
+You also need to determine the length of your event. Will people need time to travel to the event? Does your school have classes on Friday? We recommend events start on Friday evening, or Saturday morning, and that the events end on Sunday afternoon. Ending the event on Sunday and announcing winners gives a sense of closure for attendees, and recognizes the work they did over the weekend.&#x20;
+
+To be a MLH Member Event, your event must be on a weekend (Earliest start Friday, latest end Sunday)
 
 ## Finding the Date
 
