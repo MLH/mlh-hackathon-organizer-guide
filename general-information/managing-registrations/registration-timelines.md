@@ -19,13 +19,22 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 ## Some Important Registration Fields
 
 * **First Name**
+  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**&#x20;
 * **Last Name**
 * **Age**
-  * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). We do not collect dates of birth as part of event registration to reduce data risk.
+  * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). **We do not collect dates of birth as part of event registration to reduce data risk**.
 * **Phone Number**
+  * In case you need to call someone during the event. This may also be needed if you have to send a message to all participants for some reason (for example weather related emergency notification).
 * **Email**
-* **School** (checkout [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv))
-* **Level of Study**
+  * So you can communicate before and after the event. Location, schedule, feedback, etc.&#x20;
+* **School** (use [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv))
+  * Use a set list instead of having students type out their school. This will result in uniform results
+    * For example some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.&#x20;
+      * **The** University of Texas at Dallas
+      * University of Texas at Dallas
+      * UTD
+      * UTDallas
+* **Level of Study -** instead of or in addition to Graduation Year
   * Less than Secondary / High School
   * Secondary / High School
   * Undergraduate University (2 year - community college or similar)
@@ -39,7 +48,12 @@ You can see our example Registration form [here](https://majorleaguehacking.type
   * Prefer not to answer
 * **Country of Residence**
   * [**We heavily recommend using the ISO 3166 Standard for Country names.**](https://www.iso.org/iso-3166-country-codes.html)
-  * We recommend this as a dropdown. It’s okay to put your hackathon’s country at the top for ease of use.
+  * **We recommend this as a dropdown.** It’s okay to put your hackathon’s country at the top for ease of use.
+  * Again be careful not to have users type input, or you will get a million answers for the same countries.&#x20;
+    * US
+    * USA
+    * United States
+    * Unites States of America
 
 ## Optional Demographic Fields
 
