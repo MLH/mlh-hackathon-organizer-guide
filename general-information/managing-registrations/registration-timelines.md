@@ -18,6 +18,8 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## Some Important Registration Fields
 
+**These are required to be in the format detailed below for MLH Member Events**
+
 * **First Name**
   * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**&#x20;
 * **Last Name**
