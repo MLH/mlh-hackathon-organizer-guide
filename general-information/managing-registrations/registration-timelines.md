@@ -76,6 +76,14 @@ You can see our example Registration form [here](https://majorleaguehacking.type
   * Non-Binary&#x20;
   * Prefer to self-describe
   * Prefer Not to Answer
+* **Pronouns -** Adding pronouns should always be optional
+  * She/Her
+  * He/Him
+  * They/Them
+  * She/They
+  * He/They
+  * Prefer Not to Answer
+  * Other (let them fill in themselves)
 * **Race/ Ethnicity**&#x20;
   * Asian Indian&#x20;
   * Black or African&#x20;
