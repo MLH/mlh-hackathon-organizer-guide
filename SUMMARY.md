@@ -36,7 +36,6 @@
 * [Event Logistics](general-information/event-logistics/README.md)
   * [Hackathon Software](general-information/event-logistics/softwares-for-digital-hackathons.md)
   * [Ordering Swags & Prizes](general-information/event-logistics/ordering-swags-and-prizes.md)
-  * [MLH Organizer Event Fulfillment](general-information/event-logistics/fulfillment-guide.md)
   * [Setup your Event](general-information/event-logistics/setup-your-event.md)
   * [Hosting Hackers with Dietary Restrictions](general-information/event-logistics/hosting-hackers-with-dietary-restrictions.md)
   * [Organize Transportation](general-information/event-logistics/organize-transportation.md)
