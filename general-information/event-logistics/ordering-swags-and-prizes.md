@@ -65,12 +65,6 @@ If you plan to do this, remember to collect t-shirt sizes and, if digital, shipp
 
 _If you don’t have the budget to ship everyone something for a digital event, you can send a package to each university club that participated and have them handle the distribution. That should keep shipping (and labor) low, while letting you allocate your budget toward something high-impact._
 
-_Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype_
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-_For Digital Events contact your Hackathon Community Manager (league@mlh.io) for help on shipping, as we can ship for you. MLH has tons of experience with getting swag packed and sent._
+_Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype._&#x20;
 
 Article: [Are Hackathon Prizes the Worst Thing Since Moldy Sliced Bread?](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
