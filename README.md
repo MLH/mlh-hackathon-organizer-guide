@@ -1,6 +1,4 @@
----
-description: The MLH Hackathon Organizer Guide
----
+![Logo_for_MLH_organizer_guide](https://user-images.githubusercontent.com/103309340/210573132-d48badd2-164c-4eb8-8d36-46989f125034.jpg)
 
 # Introduction
 
