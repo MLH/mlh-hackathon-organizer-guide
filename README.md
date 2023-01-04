@@ -1,4 +1,4 @@
-![Logo_for_MLH_organizer_guide](https://user-images.githubusercontent.com/103309340/210573132-d48badd2-164c-4eb8-8d36-46989f125034.jpg)
+![MLH-OrganizerGuide-Logo](https://user-images.githubusercontent.com/103309340/210574336-ae054af9-4725-4975-83d0-bffdd2051baa.jpg)
 
 # Introduction
 
