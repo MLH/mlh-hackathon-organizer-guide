@@ -31,7 +31,7 @@ $$J =$$ Number of Judges\
 $$P =$$ Number of Submitted Projects\
 $$n =$$ Number of Judges for each project (or number of rounds of judging per project)\
 (MLH recommendation: 3 rounds per project)\
-$$t =$$ Time taken by a Judge per project (MLH recommendation: 5 mins per project)\
+$$t =$$ Time taken by a Judge per project (MLH recommendation: 3 mins per project)\
 $$T =$$ Total time allocated for Judging (in minutes)
 
 For eg.: Consider you have **150 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **3 minutes are allocated per project** for a judge to take their decision.

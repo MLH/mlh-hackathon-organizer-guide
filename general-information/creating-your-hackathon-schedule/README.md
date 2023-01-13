@@ -10,12 +10,12 @@ Make your volunteers responsible for specific tasks. They should be working on s
 
 ## Event Start:
 
-* \[Physical]Serve breakfast
+* \[Physical] Serve breakfast
 * Welcome and brief sponsors
 * Welcome and check-in attendees
-* \[Physical]Check ID, collect liability waivers and minor forms
+* \[Physical] Check ID, collect liability waivers and minor forms
 * Give out promotional materials (swag or credits)
-* \[Physical]Give attendees wrist bands or name tags
+* \[Physical] Give attendees wrist bands or name tags
 
 ## **Opening ceremony**
 
@@ -23,7 +23,7 @@ Make your volunteers responsible for specific tasks. They should be working on s
 > \
 > Invite-only API demos (developer evangelists) are another good option.
 
-* \[Physical]Round up people to attend presentation
+* \[Physical] Round up people to attend presentation
 * Welcome address
   * Announcements
   * Keynote speaker
@@ -31,10 +31,10 @@ Make your volunteers responsible for specific tasks. They should be working on s
 
 ## During Hacking
 
-* \[Physical]Collect garbage
+* \[Physical] Collect garbage
 * Tech talk facilitator: rounding people up to listen and handling speakers (tech talks usually sponsors).&#x20;
-* \[Physical]One volunteer should be in charge of each special area or activity at the hackathon: for example, the hardware room, photo booth, etc.
-* \[Physical]Checking in on hackers: feeding them snacks, making sure their power and WIFI are working, etc.
+* \[Physical] One volunteer should be in charge of each special area or activity at the hackathon: for example, the hardware room, photo booth, etc.
+* \[Physical] Checking in on hackers: feeding them snacks, making sure their power and WIFI are working, etc.
 
 ## Hacking Deadline
 

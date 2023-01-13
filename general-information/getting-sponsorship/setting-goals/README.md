@@ -7,7 +7,7 @@ description: >-
 
 # Understanding your Sponsors
 
-Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon. To understand it further, let's first understand the different types of sponsor hackathons generally target to.
+Sponsorship is one of the most crucial parts of every hackathon. When you're reaching out to sponsors, it's necessary to understand their perspective of supporting your hackathon and the outcome they're expecting out of it. You should consider this as a sales pitch for your hackathon. To understand it further, let's first understand the different types of sponsors hackathons generally target to.
 
 ## Hackathons target five categories of sponsors:
 

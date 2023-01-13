@@ -14,13 +14,13 @@ Delivery If your vendor is delivering the food to your venue, make sure you are 
 
 When you put in your food order, you should be specific about where the food should be delivered and who they should contact upon arrival. Give them a backup phone number in case the first organizer doesn’t pick up.
 
-If your food vendor is providing a family-style meal (on large platters meant for sharing, rather than as individual plates) they will need more time to set up. We recommend scheduling the drop-off for 60-90 minutes prior to the meal start time. In this case, we don’t have to worry about food getting cold because it’s likely they will be using chaffing dishes to warm up the food.
+If your food vendor is providing a family-style meal (on large platters meant for sharing, rather than as individual plates) they will need more time to set up. We recommend scheduling the drop-off for 60-90 minutes prior to the meal start time. In this case, we don’t have to worry about food getting cold because it’s likely they will be using chafing dishes to warm up the food. However, some venues have restrictions on the use of chafing dishes due to them involving flammable material, so check the rules before you plan on using them.&#x20;
 
 ### Distributing Meals
 
 If your food vendor is providing a family-style meal make sure you coordinate with them on who will be serving the food. Some vendors like university catering services have special requirements that require you to utilize their staff for food distribution and preparation.
 
-When putting in the initial order, make sure to ask how the food vendor how they would like you to return the chaffing dishes, table cloths, and other reusable goods. If they plan on picking up the goods after the meal and helping you clean up, make sure you coordinate a time in advance. You don’t want to be left with tables full of leftover food, and dishes after a meal with no plan.
+When putting in the initial order, make sure to ask how the food vendor how they would like you to return the chafing dishes, table cloths, and other reusable goods. If they plan on picking up the goods after the meal and helping you clean up, make sure you coordinate a time in advance. You don’t want to be left with tables full of leftover food, and dishes after a meal with no plan.
 
 ### Negotiating&#x20;
 

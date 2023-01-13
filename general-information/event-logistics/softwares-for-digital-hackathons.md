@@ -20,9 +20,9 @@ Before joining and once on the platform, make hackers know that their behavior a
 * **Mentors-Internal:** Channel for mentors to talk with each other and with organizers.&#x20;
 * **Admin:** Channel for your organizing team. We recommend creating an admin voice channel as well!&#x20;
 
-## Streaming/Video Conferencing Platform\[Digital Events]
+## Streaming/Video Conferencing Platform \[Digital Events]
 
-Digital hackathons depend entirely on the different you wish to choose to host them over. Making or breaking your hackathon will highly depend on the flexibility and the experience of using the platforms and how well your team is able to manage it. We highly recommend organizers to be aware of the different platforms they might be using so as to avoid any difficulties or edge cases on the day of.
+Digital hackathons depend entirely on the different platform you wish to choose to host them over. Making or breaking your hackathon will highly depend on the flexibility and the experience of using the platforms and how well your team is able to manage it. We highly recommend organizers to be aware of the different platforms they might be using so as to avoid any difficulties or edge cases on the day of.
 
 Your team may choose to stream different aspects of the event including the opening ceremony, workshops, mini-events, and closing ceremony.
 

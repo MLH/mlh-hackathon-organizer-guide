@@ -22,7 +22,7 @@ At Major League Hacking, our goal is to give you the tools to throw the best hac
 
 (You can see the full list [here](https://mlh.io/event-membership). )
 
-The sooner your hackathon gets applies for membership, the more time you’ll have to take advantage of all MLH benefits. To [apply](https://mlh.io/event-membership), it must be _at least_ 4 months before physical events or 3 months before digital events, and you should have a confirmed location and time.
+The sooner your hackathon applies for membership, the more time you’ll have to take advantage of all MLH benefits. To [apply](https://mlh.io/event-membership), it must be _at least_ 3-4 months before your event, and you should have a confirmed location and time.
 
 ## Resources
 
