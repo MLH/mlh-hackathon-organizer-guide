@@ -4,9 +4,9 @@ People are interested in spending time learning about new projects and meeting n
 
 ## Mentor Recruitment
 
-To encourage mentors to help out at the event, spend some time thinking about ways to bring value to the mentors, such as providing certificates or giving them more tutoring/teaching opportunities. Additionally, we recommend reaching out to existing tutors or teaching assistants to mentor because they already find the value out of mentoring and teaching others. Invite alumni from your school, industry professionals, and your professors to join during shifts throughout the event.
+To encourage mentors to help out at the event, spend some time thinking about ways to bring value to the mentors. We recommend reaching out to existing tutors or teaching assistants to mentor because they already find the value out of mentoring and teaching others. Invite alumni from your school, industry professionals, and your professors to join during shifts throughout the event.
 
-To facilitate the process, set up a webpage mentioning a mentor's responsibilities and the perks they might be getting by getting enrolled as a mentor for your hackathon. Set up a form to get the interested people to register, asking them to pick a timeslot to help facilitate mentorship.
+To facilitate the process, set up a webpage mentioning a mentor's responsibilities as a mentor for your hackathon. Set up a form to get the interested people to register, asking them to pick a timeslot to help facilitate mentorship.
 
 ### **Quality of mentorship**
 
