@@ -7,7 +7,7 @@
 * [What is a Hackathon?](overview/why-organize-a-hackathon.md)
 * [What is MLH?](overview/what-is-mlh.md)
 * [MLH Community Values](overview/mlh-community-values.md)
-* [Event Types](overview/how-to-use-this-guide.md)
+* [Event Types](overview/event-types.md)
 
 ## General Information
 
