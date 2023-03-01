@@ -12,13 +12,15 @@ As the main registration process starts, it is vital to get in some demographic 
 
 **Statistically about 50% of hackers that register for events show up.** They may make plans, decide not to attend last minute, or feel like there is no loss not coming to a free event they previously signed up for. Take this into account and aim for double the amount of registrations. Also make a plan for what to do if you have more sign ups than your event is being planned for. Do not go over double of your aimed attendance. If you exceed your initial goals you might need to make a waitlist. Try to give priority to hackers who are closer to your event since they are more likely to actually show up.
 
+<figure><img src="../../.gitbook/assets/Registrations vs Check-Ins over 323 Events.png" alt=""><figcaption><p>Stats from 323 events we have worked with to show the 50% trendline.</p></figcaption></figure>
+
 **Please note:** As with all personal data, use the utmost care to keep participant data safe. We recommend hackathons to use the personal data just for the day of communication and not share it with anyone until you get specific permission from your hackers to do so.
 
 You can see our example Registration form [here](https://majorleaguehacking.typeform.com/example-mlh-reg)
 
-## Some Important Registration Fields
+## Important Registration Fields
 
-**These are required to be in the format detailed below for MLH Member Events**
+**These are required to be **_**in the format detailed below**_** for MLH Member Events**
 
 * **First Name**
   * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**&#x20;
@@ -56,6 +58,21 @@ You can see our example Registration form [here](https://majorleaguehacking.type
     * USA
     * United States
     * Unites States of America
+
+## MLH Checkboxes
+
+MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), but we require it to be in your registration form.&#x20;
+
+Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
+
+"We are currently in the process of partnering with MLH. The following 3 checkboxes are for this partnership. If we do not end up partnering with MLH, your information will not be shared"
+
+"I have read and agree to the MLH Code of Conduct."([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
+
+“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)and](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md\)and) the MLH Privacy Policy ([https://mlh.io/privacy).”](https://mlh.io/privacy\).%E2%80%9D)
+
+“I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH."\
+
 
 ## Optional Demographic Fields
 
