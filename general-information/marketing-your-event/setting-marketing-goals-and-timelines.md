@@ -20,4 +20,4 @@ For example, if you're aiming to have 500 attendees, a good timeline may be:
 | **2 weeks before**  | 600 Signups          |
 | **1 week before**   | 1000 Signups         |
 
-_Since hackers do not need to make travel arrangements to attend a digital hackathon, you will likely see **sign-ups rising closer to the event** start that you may see at in-person events. The exciting part of this is you now have the ability to promote your event to hackers anywhere in the world!_
+_Keep in mind that MLH requires registration 1 week before the event for events we partner with so we can prep the pre-event email and complete a check for bad actors. Ask your HCM if you have any questions!_

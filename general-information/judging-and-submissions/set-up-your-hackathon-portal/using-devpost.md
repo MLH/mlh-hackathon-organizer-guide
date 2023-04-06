@@ -2,8 +2,6 @@
 
 Setting up your Devpost hackathon page will help you manage submissions, judging, and assigning winners.&#x20;
 
-_Since hosting Digital Hackathons is a paid service on Devpost, you need to contact their support for conversion of your in person hackathon into a digital one from their side. Devpost people are kind enough to provide their platform for free for any community/ student hackathons that might be happening around!_
-
 To create your hackathon page:
 
 1. Sign into your Devpost account and hover over your profile image in the top right corner. Select "**Manage hackathons**".

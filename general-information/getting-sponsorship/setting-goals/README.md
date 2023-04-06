@@ -12,7 +12,7 @@ Sponsorship is one of the most crucial parts of every hackathon. When you're rea
 ## Hackathons target five categories of sponsors:
 
 * **Financial/ Monetary Sponsors** — Companies that pay for services like having their logo on your website (most sponsors fall into this category).
-* **Presenting Sponsors** — Companies that co-host or co-brand your event (be careful not to give up too much control here).
+  * **Presenting Sponsors** — Companies that co-host or co-brand your event (be careful not to give up too much control here). These are a kind of Fiscal Sponsors+
 * **In-kind Sponsors** — Companies that donate services or goods for free like hardware or platform credits.
 * **Strategic/ Media Partners** — Companies that help with marketing and promotion; often publications.
 * **Community Partners** — Companies that can help you recruit hackers, mentors, judges, or volunteers from their community for free.&#x20;

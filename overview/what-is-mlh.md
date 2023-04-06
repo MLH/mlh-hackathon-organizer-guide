@@ -18,7 +18,6 @@ At Major League Hacking, our goal is to give you the tools to throw the best hac
 * Judging Support
 * Prizes
 * Software Lab
-* Swag Fulfilment/Shipping&#x20;
 
 (You can see the full list [here](https://mlh.io/event-membership). )
 

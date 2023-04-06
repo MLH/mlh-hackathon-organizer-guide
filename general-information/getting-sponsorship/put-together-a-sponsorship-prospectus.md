@@ -22,6 +22,4 @@ Sponsorship packets don't need to be fancy — just explain what a hackathon is 
   * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. (Any one tier should not comprise more than 25% of your budget.)
   * Let companies know custom packages are available.
 
-{% content-ref url="../../organizer-resources/sponsorship-resources/" %}
-[sponsorship-resources](../../organizer-resources/sponsorship-resources/)
-{% endcontent-ref %}
+See examples of [previous sponsor decks](https://github.com/MLH/hackathon-organizer-guide/blob/master/Organizer-Resources/Previous-Sponsorship-Decks) that organizers gave us permission to share.&#x20;

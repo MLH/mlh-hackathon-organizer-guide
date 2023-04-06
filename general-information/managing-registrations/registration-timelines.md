@@ -32,7 +32,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 * **Email**
   * So you can communicate before and after the event. Location, schedule, feedback, etc.&#x20;
 * **School** (use [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv))
-  * Use a set list instead of having students type out their school. This will result in uniform results
+  * Use a set list instead of having students type out their school. This will result in uniform results. If you see a school missing add a pull request!
     * For example some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.&#x20;
       * **The** University of Texas at Dallas
       * University of Texas at Dallas

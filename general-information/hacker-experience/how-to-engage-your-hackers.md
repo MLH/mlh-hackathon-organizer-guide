@@ -8,14 +8,8 @@ Brainstorming is the most important part of the hacker's experience at a hackath
 
 Usually, hackers take one of two approaches:
 
-*   **Start with a problem they want to solve** and then develop an idea to solve it.
-
-    Hackers who want to focus on improving an aspect of their lives or hacking for
-
-    social impact might prefer this route.
-*   **Start with a technology they want to use** in their hack and then develop a
-
-    hack around it. Hackers who want to learn about a popular or emerging
+* **Start with a problem they want to solve** and then develop an idea to solve it. Hackers who want to focus on improving an aspect of their lives or hacking for social impact might prefer this route.
+*   **Start with a technology they want to use** in their hack and then develop a hack around it. Hackers who want to learn about a popular or emerging
 
     technology might prefer this route.
 
@@ -40,12 +34,6 @@ Workshops are a great way to get your hackers in the mood of working on somethin
 ## **Announcing Updates**
 
 Send updates into your chat channel throughout the event. Remind people when activities are happening and share highlights from your activities! Expect questions to pop us as soon as you announce an event, so give some buffer time for questions and folks to join events late.&#x20;
-
-## Digital Engagement
-
-In a physical event, you can quickly communicate with people in the same room as you. However, at a digital event, you’ll need to set up an environment so that people feel comfortable starting conversations as they would in-person.
-
-As we discussed in the [Digital Hackathons Software](../event-logistics/softwares-for-digital-hackathons.md) section, having a chat channel like Slack/Discord is essential. Creating separate channels for groups, teams, and interests would be the first step. We also suggest your organizing team to be active on these platforms to help facilitate conversations, moderate threads and get people chatting. This also makes your hackathon more accessible for people who have a hard time in large groups.
 
 Don’t forget to set up Discord roles to show if someone is an organizer, hacker, sponsor, or mentor. If you're using Slack, you can utilize statuses for this information.
 

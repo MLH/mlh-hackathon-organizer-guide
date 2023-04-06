@@ -10,13 +10,13 @@ description: >-
 
 * ​[Finding the Date & Purpose​](deciding-the-date.md)
 * [Building your Leadership Team](build-your-leadership-team.md)
-* [Locking Down a Venue \[In-Person Only\]​](locking-down-a-venue-and-date.md)
+* [Locking Down a Venue ](locking-down-a-venue-and-date.md)
 
 ### 4 months before
 
 * ​[Setup a Placeholder Website](putting-together-your-hackathon-website/set-up-a-placeholder-website.md)​
 * [​Understanding Sponsorship​](getting-sponsorship/setting-goals/)
-* [​Make your Hackathon Budget](getting-sponsorship/budgeting-your-hackathon.md)​
+* [​Make your Hackathon Budget](budgeting-your-hackathon.md)​
 * [​Putting Together a Sponsorship Prospectus​](getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [​Start Sponsor Outreach​](getting-sponsorship/mlh-tips.md)
 
@@ -44,21 +44,21 @@ description: >-
 
 * ​[Create a detailed Run of Show​](creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md)
 * ​Get the Final Headcount​
-* ​[Finalize your Food Requirements \[In-Person Only\]​](event-logistics/hosting-hackers-with-dietary-restrictions.md)
-* ​[Organize Transportation \[In-Person Only\]​](event-logistics/organize-transportation.md)
+* ​[Finalize your Food Requirements ](event-logistics/hosting-hackers-with-dietary-restrictions.md)
+* ​[Organize Transportation ](event-logistics/organize-transportation.md)
 
 ### 1 week before
 
 * ​[Sending Reminders to the Participants](managing-registrations/sending-reminders.md)​
 * [​Set up your Event​](event-logistics/setup-your-event.md)
-* [​Prepare your Emergency Plan \[In-Person Only\]​](event-logistics/prepare-your-emergency-plan.md)
+* [​Prepare your Emergency Plan](event-logistics/prepare-your-emergency-plan.md)
 * ​[Do a schedule run-through with the team​](creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
 * ​[Judges & Mentor Followup​](judging-and-submissions/booking-your-judges.md)
 
 ### Game Day!
 
 * ​[Check in Process​](managing-registrations/check-in-process.md)
-* ​[Distributing Meals \[In-Person Only\]​](event-logistics/distributing-meals.md)
+* ​[Distributing Meals](event-logistics/distributing-meals.md)
 * ​[Running Judging​](judging-and-submissions/)
 * [​Doing Mentorship​](draft-up-your-mentorship-plan.md)
 * [​Running Workshops](hacker-experience/plan-engaging-workshops.md)​

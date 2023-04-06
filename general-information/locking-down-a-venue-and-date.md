@@ -1,7 +1,3 @@
----
-description: For In-Person Events
----
-
 # Locking down a Venue
 
 Few of your planning decisions will truly make or break your hackathon, but your choice of venue is one of them. It often takes more time than expected to secure the right location, so the earlier you begin scouting, the better! Having a confirmed venue will also prove to potential sponsors and attendees that you’re serious about hosting a great event.
@@ -27,7 +23,7 @@ In a short email to potential advocates, you can include:
 * A brief definition of a hackathon. (We like to explain it as weekend long invention competition)
 * [The guide](http://news.mlh.io/hackathon-guides-for-parents-and-administrators-09-10-2015)
 * Video and/or photos of past events
-* 3 or more reasons students will _directly benefit_ from an on-campus hackathon
+* 3 or more reasons students will _directly benefit_ from an on-campus hackathon.
 
 [Position your hackathon as a recruiting event with a twist. Odds are, your school already has a career fair and you can position your event on those terms. This immediately aligns your event with your school’s goals.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
 
@@ -38,8 +34,9 @@ On rare occasions, students aren’t able to find a free on-campus venue. If tha
 * Research venues in your city or town that have held events of similar size: other hackathons, meetups, etc. If you know someone who put on one of the events, ask for an introduction to the decision maker.
 * Approach multiple companies at once that stand to gain something by sharing their space with you, such as a tech company that recruits programmers and designers. Your short email should include the same information you sent to potential on-campus advocates:
 * A brief definition of a hackathon. (Unless it’s a tech company, of course.)
-* Video and/or photos of past events
-* 3 or more reasons students will _directly benefit_ from an on-campus hackathon
+  * Libraries are expanding to more than just physical books. Find one with a Makerspace who might be interested in getting more people to try it out! These are a great fit for any Hardware focused hackathons.&#x20;
+* Video and/or photos of past events.
+* 3 or more reasons students will _directly benefit_ from using this location.&#x20;
 
 **🚨🚨🚨**Warning**🚨🚨🚨**: Whenever possible, don’t fall into the trap of paying to rent a venue. It could easily double the cost of your hackathon. In addition to the rental fee, you will be responsible for providing all of the infrastructure required to run a large event, including Internet wiring, table and chair rental, and possibly your own security team.
 
@@ -49,7 +46,7 @@ If you really can’t find a free venue, look into renting a coworking space wit
 
 Before you book an event space, make sure it has everything you need help you host a successful hackathon.
 
-* **Enough capacity** — The average first MLH hackathon is around 300 student hackers. Can the venue accommodate the number of attendees you plan to host?
+* **Enough capacity** — The average MLH hackathon is around 300 student hackers. Can the venue accommodate the number of attendees you plan to host?
 * **The right physical space** — Your venue must have space for attendees to hack and listen to speakers, as well as designated areas for hardware, food, sponsors, and MLH.
 * **WiFi** — Can the WiFi support a large number of people in a condensed space? It should be able to handle 4 devices per attendee. See more info [here](https://docs.google.com/document/d/1NRs6pM0mEetgIFJVvPr5pN5O3diOuTKuhbGZkWMb87c/edit).
 * **Power** — Is there enough amperage for hundreds of computers, phones, and hardware devices? (Assume at least 2.5 devices per participants.)
@@ -71,6 +68,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 
 * Will any prices you are being quoted for be guaranteed not to exceed a certain maximum estimate?
 * Does the building require you to pay for catering, security, a fire marshal, janitors, etc.?
+  * Is food required to be from their caterer or can you bring in outside food?
 * Does the venue have a loading dock for deliveries?
 * Are there specific security regulations you must abide by?
 * Are you permitted to host an overnight event? It’s important to let the potential venue know that people will be working in the space overnight. The key word here is "working" -- in many instances, it is against fire code to allow attendees to sleep.&#x20;
@@ -81,7 +79,7 @@ Most venues come with their own specific list of rules and required fees. A few 
 * Watch out for hidden fees and venue restrictions and requirements.
 * Your venue should be free! Do everything in your power to ensure you don’t have to deal with the cost and logistical headache of paying for a space and everything that comes with it.
 * Negotiate to reserve your venue for the day before so you have plenty of time to set up.
-* Make sure your space is aware your will be hosting an overnight event.
+* **Make sure your space is aware your will be hosting an overnight event.**
 
 ## Resources
 

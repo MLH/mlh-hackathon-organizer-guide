@@ -1,10 +1,10 @@
 # Organize Transportation
 
-If your venue is free, transportation and travel reimbursements are often the most expensive part of putting on a hackathon. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX_koCPIk) to ensure your transportation planning runs smoothly. While many hackers have come to expect some sort of funded transportation, it is not required in order to put on a successful hackathon.
+If your venue is free, transportation and travel reimbursements are often the most expensive part of putting on a hackathon. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX\_koCPIk) to ensure your transportation planning runs smoothly. While many hackers have come to expect some sort of funded transportation, **it is not required** in order to put on a successful hackathon.
 
 ## Charter Buses
 
-Charter buses are typically the most affordable option for getting hackers to and from your event. Keep in mind as you plan that most buses fit 56 attendees, and the average cost per weekend is $3,300 \(based on 31 hackathons in Spring 2014\). Your hackathon date matters as well: for example, bus prices are often higher in April because so many schools charter them during that month for class trips.
+Charter buses are typically the most affordable option for getting hackers to and from your event. Keep in mind as you plan that most buses fit 56 attendees, and the average cost per weekend is $3,300 (based on 31 hackathons in Spring 2014). Your hackathon date matters as well: for example, bus prices are often higher in April because so many schools charter them during that month for class trips.
 
 1. **Determine how many seats you’ll need**
 2. Reach out to student leadership at participating schools to find out how much interest there is in a bus. Have your contact create a Facebook event with the bus boarding time and ask them to invite as many people from the school that they want to.
@@ -31,13 +31,13 @@ Charter buses are typically the most affordable option for getting hackers to an
 Occasionally, you will need to issue travel reimbursements for some or all of your attendees. A few tips:
 
 * Email attendees via a service like SendGrid or MailChimp with instructions about how to claim their reimbursements. Include a clear timeline with receipt due dates.
-* Upload receipts \(Wufoo is a good resource\). All should clearly show price and date of purchase to qualify.
-* Send reimbursements \(Venmo is 25 cents per transaction\)
+* Upload receipts (Wufoo is a good resource). All should clearly show price and date of purchase to qualify.
+* Send reimbursements (Venmo is 25 cents per transaction)
 * Keep all receipts for tax purposes
 
 ## MLH Tips
 
-* Local bus companies are usually much cheaper than national ones because national companies typically sublease from local companies. \(So there’s a markup\)
+* Local bus companies are usually much cheaper than national ones because national companies typically sublease from local companies. (So there’s a markup)
 * Adding stops to a route doesn’t cost more money
 * Plan for buses to arrive 30 min before pick-up time and stay 15 mins after drop-off
 * Bus companies like to send email spam. When soliciting quotes, use a bus-only email address to keep your inbox clean.
@@ -45,5 +45,4 @@ Occasionally, you will need to issue travel reimbursements for some or all of yo
 
 ## Resources
 
-* Webinar: [**Hackathon Transportation 101**](https://www.youtube.com/watch?v=wGKX_koCPIk)
-
+* Webinar: [**Hackathon Transportation 101**](https://www.youtube.com/watch?v=wGKX\_koCPIk)

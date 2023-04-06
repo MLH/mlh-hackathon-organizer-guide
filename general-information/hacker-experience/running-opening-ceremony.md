@@ -12,7 +12,3 @@ In the Opening Ceremony, make sure you cover:
 * How to reach out to the organizers in case of questions
 * Any sponsored content, obligations you need to follow
 * Your MLH Coach’s 5 minutes presentation!
-
-_At a Digital MLH Member Event, your designated MLH Coach will send you a pre-recorded video making sure to explain the Code of Conduct, our prize categories, and what mini-events we will be running digitally._
-
-_You can edit videos together on YouTube or iMovie (Mac) or just play them sequentially on the stream. If you pre-record your video, we’ve found music and video can make it much more engaging. Make sure to use royalty-free music!_

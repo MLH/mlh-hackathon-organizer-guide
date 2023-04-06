@@ -21,7 +21,7 @@ Ideally, you’ve been updating your site on a rolling basis as more information
 About a month before, you want to have the following sections in place for a great experience for your hackers
 
 * **Schedule:** This is a great way to increase visibility and to keep hackers informed what to expect at different times during your hackathon.
-* **Venue\[In-Person Only]:** An address can help hackers from other universities find your building.&#x20;
+* **Venue:** An address can help hackers from other universities find your building.&#x20;
 * **Link to your Hackathon Chat Channel:** Set up a single channel of communication for day-of updates
 * **Prizes:** Get your hackers excited by revealing the prizes from time to time as they get finalized!
 * **Tracks:** Let hackers know about the different themes they can work upon during the hackathon.
@@ -29,10 +29,7 @@ About a month before, you want to have the following sections in place for a gre
 
 ## **MLH Tips:**
 
-* You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings for In-Person events, etc.
+* You should update this site on a rolling basis as you land speakers and sponsors, create your schedule, confirm transportation offerings, etc.
 * As early as possible, celebrate what differentiates your event.
 * It's never too early to open registration. Check out [MyMLH](http://my.mlh.io) for an awesome single sign on solution to make signing up for your hackathon really simple!
-
-{% content-ref url="../../organizer-resources/resources.md" %}
-[resources.md](../../organizer-resources/resources.md)
-{% endcontent-ref %}
+* [MLH-Hackathon-Boilerplate](https://github.com/MLH/mlh-hackathon-boilerplate) - Boilerplate code for any new MLH Member Hackathon looking to build a website integrated with MyMLH. Written entirely in **Jekyll**, which [GitHub pages](https://pages.github.com/) automatically compiles to make hosting seamless.

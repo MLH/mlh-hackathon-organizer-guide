@@ -27,3 +27,16 @@ When putting in the initial order, make sure to ask how the food vendor how they
 If you’re running a large-scale event, often times food vendors will put together a price quote and meal plan for you to review. Especially if the price quote was higher than you expected there is no problem in asking the food vendor to see where you can reduce costs as long as you do it politely. Below is an example of an appropriate question to ask to see if there is room for negotiation.&#x20;
 
 > Say you’re getting charged $20 per person for dinner and that puts you over your budget. Ask the food vendor, “Is there another meal we could provide that would bring down the cost to $15? Are there changes we can make to other meals to save us money?”
+
+### Meal Ideas
+
+Some random meal ideas. Make sure you have dietary restriction alternatives available! Especially Gluten-Free
+
+* Thai&#x20;
+* Pasta
+* Tacos/burritos
+* Boxed Lunch/Sandwiches
+* Nice pizza - not the cheap stuff
+* Halal/Gyros/Falafel
+* Mediterranean/Grain Bowls
+* Breakfast Tacos

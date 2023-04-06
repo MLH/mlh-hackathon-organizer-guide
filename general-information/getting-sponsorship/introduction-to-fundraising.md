@@ -11,19 +11,24 @@ Landing quality sponsorship is manageable if you **break the process into small 
 
 One thing to keep in mind as you work your way through this process: **sponsors are like investors — they want to see you’re serious before they give you capital**. In the same way, you wouldn’t approach for venture capital without a product prototype, don’t reach out to sponsors until you’ve got evidence that your hackathon is well on its way to happening: a confirmed date and time, pre-registrations from students, etc.
 
-### **Digital** Sponsorship
+With the **right communication and target**, you can expect a lot of positive response from the sponsors' side. However, be diligent to communicate with your sponsors at every step of the process. Explain to them the **reasons** for hosting your event, outline how you will **support them** throughout the event, and let them **know about the success** of other hackathons.
 
-Getting sponsorships for Digital Hackathons is much different from an In Person one. This is because sponsors have different goals from different kind of events. Also, **a digital hackathon can be organized for a fraction of the cost** of an In Person hackathon.
-
-With the **right communication and target**, you can expect a lot of positive response from the sponsors' side even for a digital hackathon. However, be diligent to communicate with your sponsors at every step of the process. Explain to them the **reasons** for making your event digital, outline how you will **support them** throughout the event, and let them **know about the success** at other digital events.
-
-* As we have noticed with time, **sponsors can get much of the same value** from a Digital Event as they can an In Person one.&#x20;
-* **Prize categories** and **Workshops** can both be run much the same, though sponsors should practice running their workshop through streaming or pre-recorded video.&#x20;
-* Give sponsors their **own channel on the chat platform (Slack/Discord)** to talk to hackers, and have them introduce themselves so everyone knows who they are how they can be a resource for them. As long as they’re online answering questions from hackers about their company/prize category/workshop/anything else they’re doing that weekend, they’ll have a lot of great interactions with hackers.&#x20;
-* We also strongly recommend doing **Office Hours** with sponsors.
+* **Prize categories** and **Workshops** are both major perks sponsors like to get involved in the hackathons they are supporting. &#x20;
+  * Example challenges/workshops can help them pick a topic that will have a greater impact on hackers. While they can offer a different one, a list of examples can help them if they do not know where to start.&#x20;
+  * Challenge Examples:
+    * Best Use of X &#x20;
+      * X being their general API. Try not to have it be too specific as this will decrease the creativity of hackers.&#x20;
+    * Best Sustainability/Social Good/Educational/etc Hack
+      * This can allow for a general topic the company wants to encourage hackers to incorporate into their hack.
+  * Workshop Examples:
+    * Resume Building/Cracking the Technical Interview
+    * Day in the life of a software dev
+    * Intro to Python/GitHub/C#/AI/ML/Insert tech topic
+    * Intro to _\*their API\*_
+* You can also give sponsors their **own channel on the chat platform (Slack/Discord)** to talk to hackers, and have them introduce themselves so everyone knows who they are how they can be a resource for them throughout the event. They can get great interactions with hackers across the venue, answer questions specific to their challenge, apis, or workshop content, and share information specific to their role at the event.&#x20;
 
 ### When you’re finished reading this section of the guide, we strongly recommend watching our fundraising webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w) and [Creating Compelling Sponsorships. ](https://www.youtube.com/watch?v=W9miqQzxT-0)
 
-{% content-ref url="../../organizer-resources/sponsorship-resources/" %}
-[sponsorship-resources](../../organizer-resources/sponsorship-resources/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

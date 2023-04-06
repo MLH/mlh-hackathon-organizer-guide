@@ -23,7 +23,7 @@ Managing mentors during the day-of means can be enhanced by taking advantage of 
 * Create an @mentor role and add all mentors to there so hackers can easily differentiate mentors
 * Have a set of guidelines for mentors on what to do during mentorship, giving them a process
 * Encourage volunteers to stay alert on Discord to look for hackers who need help and push them to the above-mentioned mentorship channel.
-* \[Physical] Have a dedicated mentor area that hackers can walk up to with questions
+* Have a dedicated mentor area that hackers can walk up to with questions
 
 ## Connecting Mentors to Hackers
 

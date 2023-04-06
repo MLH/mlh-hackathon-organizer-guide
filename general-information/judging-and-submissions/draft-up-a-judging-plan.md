@@ -8,13 +8,9 @@ Structurally, we recommend having hackers submit 2 minute videos on your submiss
 
 To avoid confusion, the key is to **make sure hackers know exactly where you are in the schedule for judging.** Tell them you’re advancing to the next stage of judging when you do, or if judging is taking longer than expected, tell them how far along you are. Giving quick updates like “Our judges have reviewed about 50% of the projects!” goes a long way in keeping hackers engaged.
 
-
-
 ## Science Fair Style Judging
 
 In this particular judging style, assume your hackathon to be a science fair and every hacker team setting up their stall at assigned table numbers. Hackers present their hackathon project in front of the judges one by one as they arrive at their stalls, and judges score them accordingly. This way every hackathon attendee is getting a chance to demo in front of the judges and have the experience of presenting at the hackathon.&#x20;
-
-_If you are doing a digital event, we recommend making a discord voice channel for each team (Team 1, Team 2...., Team 50). Hackers can wait in the call then screenshare/join video as judges join the channel._
 
 ### Time Requirement
 
@@ -46,15 +42,7 @@ Hence the number of **judges required is 12**.
 
 Allocating projects is more logistically heavy in a science fair style of judging because each judge cannot see every project.
 
-To most efficiently allocate projects, we recommend manually dividing the total number of projects by the number of judges and multiplying the result by the rounds of judging per project. Then taking the upper limit of the result is how many projects each judge will see during the judging period.
-
-Calculating this based on our last example:
-
-N = (P\*n)/J = (150\*3)/12 = 37.5 = 38
-
-Now using an Excel Sheet, assign all the projects a table number and accordingly assign each of your judges 38 table numbers such that each project is seen by 3 judges.
-
-Now every judge will be having an allocated project they'll be looking at during the course of the whole judging process!
+Check out the Readme on our [Judging Example Sheet](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG\_89l6n6zpHj\_o5V2xwS-gyndmTl5Z24/edit#gid=1202683513) for allocating judges to projects! This example process makes sure each team is seen by at least 3 different judges.&#x20;
 
 ### Choosing Winners:
 
