@@ -71,7 +71,7 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
 
 “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)and](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md\)and) the MLH Privacy Policy ([https://mlh.io/privacy).”](https://mlh.io/privacy\).%E2%80%9D)
 
-“I authorize MLH to send me an email where I can further opt into the MLH Hacker, Events, or Organizer Newsletters and other communications from MLH."\
+“I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."\
 
 
 ## Optional Demographic Fields
