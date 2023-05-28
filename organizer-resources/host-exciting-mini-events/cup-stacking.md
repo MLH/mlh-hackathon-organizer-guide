@@ -8,11 +8,11 @@ description: A traditional MLH Mini Event
 
 Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity with their friends and fellow hackers. In teams of two, the participants attempt to create the tallest tower of cups stacked on top of each other.
 
-![](../../../.gitbook/assets/20191026\_211858.jpg)
+![](../../.gitbook/assets/20191026\_211858.jpg)
 
 ## Preparations
 
-MLH currently does not provide cups for cup stacking. If your event wishes for the MLH coach to run this you will need to provide the cups. You will need 200-400 (100 per team, you can run 2-4 teams at once depending on your event space)
+MLH currently does not run this mini-event because we cannot ship the cups. You will need 200-400 (100 per team, you can run 2-4 teams at once depending on your event space)
 
 1. Tell hackers to bring their laptops/phones to use for registration.
 2. Be ready to tweet about cup stacking! Make sure you tag @mlhacks and use the event hashtag.&#x20;
