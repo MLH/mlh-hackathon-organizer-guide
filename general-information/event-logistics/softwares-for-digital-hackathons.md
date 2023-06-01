@@ -10,7 +10,7 @@ description: Software needed to keep an hackathon connected
 
 Before joining and once on the platform, make hackers know that their behavior and actions are still subject to MLH Code of Conduct, and to be respectful. _**Digital spaces can increase harassment as people are hidden behind a computer, so it is key to make sure your attendees know you still take this seriously.**_
 
-### **Include the following channels on your platform:**
+### **At a minimum include the following channels on your platform:**
 
 * **Team-Formation:** Channel for hackers to form teams
 * **Ask-Organizers:** Channel for hackers to ask organizers any questions that come up throughout the event.&#x20;
@@ -19,3 +19,9 @@ Before joining and once on the platform, make hackers know that their behavior a
 * **Ask-Mentors:** Channel for hackers to connect with mentors when they need help on their projects.&#x20;
 * **Mentors-Internal:** Channel for mentors to talk with each other and with organizers.&#x20;
 * **Admin:** Channel for your organizing team. We recommend creating an admin voice channel as well!&#x20;
+
+Here is an example from an event Discord!
+
+*   Note that there are 2 "sponsor" channels here so that sponsors have a dedicated space to talk about their api's or workshops.&#x20;
+
+    <figure><img src="../../.gitbook/assets/discord template.png" alt=""><figcaption></figcaption></figure>

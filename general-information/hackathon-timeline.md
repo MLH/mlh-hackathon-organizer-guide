@@ -24,7 +24,7 @@ description: >-
 
 ### 3 months before
 
-* ​[Start your Hackathon Outreach](marketing-your-event/how-to-promote-your-event.md)
+* ​[Start your Hackathon Outreach](marketing-your-event/how-to-promote-your-event/)
 * ​[Make your main website live!​](putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
 * ​[Collecting Registrations for the Hackathon​](managing-registrations/registration-timelines.md)
 * ​[Start thinking about the experience of your hackathon​](hacker-experience/)
@@ -49,7 +49,7 @@ description: >-
 
 ### 1 week before
 
-* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders.md)​
+* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders/)​
 * [​Set up your Event​](event-logistics/setup-your-event.md)
 * [​Prepare your Emergency Plan](event-logistics/prepare-your-emergency-plan.md)
 * ​[Do a schedule run-through with the team​](creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)

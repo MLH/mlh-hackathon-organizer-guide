@@ -35,11 +35,13 @@
   * [Placeholder Website](general-information/putting-together-your-hackathon-website/set-up-a-placeholder-website.md)
   * [Main Website](general-information/putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
 * [Marketing your Event](general-information/marketing-your-event/README.md)
-  * [Promoting your Event](general-information/marketing-your-event/how-to-promote-your-event.md)
+  * [Promoting your Event](general-information/marketing-your-event/how-to-promote-your-event/README.md)
+    * [Marketing Email Template](general-information/marketing-your-event/how-to-promote-your-event/marketing-email-template.md)
   * [Marketing Goals & Timelines](general-information/marketing-your-event/setting-marketing-goals-and-timelines.md)
 * [Managing Registrations](general-information/managing-registrations/README.md)
   * [Registrations](general-information/managing-registrations/registration-timelines.md)
-  * [Sending Reminders](general-information/managing-registrations/sending-reminders.md)
+  * [Sending Reminders](general-information/managing-registrations/sending-reminders/README.md)
+    * [Email Templates](general-information/managing-registrations/sending-reminders/email-templates.md)
   * [Check-in Process](general-information/managing-registrations/check-in-process.md)
 * [Event Logistics](general-information/event-logistics/README.md)
   * [Hackathon Communication Platform](general-information/event-logistics/softwares-for-digital-hackathons.md)
@@ -70,6 +72,7 @@
 
 ## Organizer Resources
 
+* [Template Links](organizer-resources/template-links.md)
 * [Getting support from others](organizer-resources/getting-support-from-others.md)
 * [Leadership Resources](organizer-resources/leadership-resources.md)
 * [Marketing Resources](organizer-resources/marketing-resources.md)
