@@ -57,6 +57,19 @@ If you have a significant budget surplus, consider making swag bags for everyone
 
 If you have multiple types of swag, consider distributing the swag throughout the event at different workshops/mini-events to keep hackers engaged.&#x20;
 
-If you plan to get t-shirts, remember to collect t-shirt sizes so you know the approximate % distribution you want of each size.&#x20;
+If you plan to get t-shirts, remember to collect t-shirt sizes so you know the approximate % distribution you want of each size. You can also use the % below that we use here at MLH.&#x20;
+
+| Type       | Percent |
+| ---------- | ------- |
+| Women's XS | 1.48%   |
+| Women's S  | 6.84%   |
+| Women's M  | 5.39%   |
+| Women's L  | 1.54%   |
+| Women's XL | 0.27%   |
+| Unisex XS  | 0.72%   |
+| Unisex S   | 13.60%  |
+| Unisex M   | 42.94%  |
+| Unisex L   | 21.02%  |
+| Unisex XL  | 6.19%   |
 
 Article: [Are Hackathon Prizes the Worst Thing Since Moldy Sliced Bread?](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014)
