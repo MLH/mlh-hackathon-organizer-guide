@@ -6,6 +6,29 @@ description: >-
 
 # Setup your Event
 
+#### Things to Print Before
+
+* Signage -some pointing left, right, or blank so you can fill in the arrow as you place them
+  * Checkin (include some pointing up to put on glass doors or in an elevator)
+  * Bathrooms
+  * Hacker Space
+  * Food/Snacks
+  * Mentors
+  * Organizers Only
+  * Do Not Enter
+  * Workshops
+* Lanyards- having different colors or designs helps differentiate hackers from staff
+  * Organizers
+  * Volunteers
+  * Mentors
+  * Judges
+  * Sponsors
+  * Hackers
+  * Blank(if the above run out for some reason have 10-15 blank)
+* Parking Passes(if needed)
+* Minor Forms(if needed)
+* Table Numbers (for Judging) - better to over than under print these
+
 #### Before the Event
 
 Here are common supplies you should have for your hackathon
@@ -46,9 +69,5 @@ It's important to check that the various tools you're using for your event are r
 * [ ] Meditation room
 
 #### &#x20;
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 ##
