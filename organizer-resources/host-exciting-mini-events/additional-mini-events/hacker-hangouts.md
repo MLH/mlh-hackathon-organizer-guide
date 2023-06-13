@@ -18,10 +18,10 @@ Three is the sweet spot because it’s small enough to make sure everyone partic
 
 ## **Share these rules with hackers:**
 
-1. Avoid talking about Coronavirus or related topics. Not only is much of our day to day involving it, it’s important to have a space that doesn’t include it in any way, shape, or form. 
+1. Avoid talking about Coronavirus or related topics. Not only is much of our day to day involving it, it’s important to have a space that doesn’t include it in any way, shape, or form.&#x20;
 2. Each group will be assigned a captain. The leader’s main responsibility is to make sure everybody in the group participates.
 3. Once the new topic is given, you must move on. If you find yourself not wanting to move on, that’s great but you still gotta go to the next talking point. Talk to them about it afterwards!
-4. Be respectful of others. Give them time to talk and share their opinions, thoughts, etc. It’s essential to give everyone a safe space so that everyone feels encouraged to participate. 
+4. Be respectful of others. Give them time to talk and share their opinions, thoughts, etc. It’s essential to give everyone a safe space so that everyone feels encouraged to participate.&#x20;
 
 ## **Pro tips for making questions if you need to:**
 
@@ -33,15 +33,14 @@ Three is the sweet spot because it’s small enough to make sure everyone partic
 ## Some questions to get you headstarted:
 
 * What are the books/movies/games/videos that never get old and always make your day a little brighter?
-* What platitude do you think is bullshit? What platitude do you think holds truth? \(Think, "love conquers all," or "when life gives you lemons..."\)
+* What platitude do you think is bullshit? What platitude do you think holds truth? (Think, "love conquers all," or "when life gives you lemons...")
 * Assume you have a lot of musical talent. If you started a band, how many people would be in it and which position would you be? What would you name it? What genre would you play?
 * If there was a biopic about you, who would star in the movie of your life?
 * What’s one common misconception about you? What’s one assumption about you that’s typically right?
 * What was the best year of your life?
 * What was your favourite thing or memory about the place you grew up?
-* What have you been meaning to do but haven't yet done? Why haven't you done it? 
+* What have you been meaning to do but haven't yet done? Why haven't you done it?&#x20;
 * What is something you’ve done/felt/seen/experienced that you wish you could do again for the first time?
 * What is a perfect day for you?
 * Tell us about a good friend, and either a memory you have with that person or something you admire about them.
 * In the movie \*Inside Out\*, each person has a set of "core memories" that define who they are and how they behave. What's one of yours?
-

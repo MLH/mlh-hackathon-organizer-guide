@@ -16,7 +16,7 @@ description: >-
 
 * ​[Setup a Placeholder Website](putting-together-your-hackathon-website/set-up-a-placeholder-website.md)​
 * [​Understanding Sponsorship​](getting-sponsorship/setting-goals/)
-* [​Make your Hackathon Budget](budgeting-your-hackathon.md)​
+* [​Make your Hackathon Budget](getting-sponsorship/budgeting-your-hackathon.md)​
 * [​Putting Together a Sponsorship Prospectus​](getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [​Start Sponsor Outreach​](getting-sponsorship/mlh-tips.md)
 
@@ -49,7 +49,7 @@ description: >-
 
 ### 1 week before
 
-* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders/)​
+* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders.md)​
 * [​Set up your Event​](event-logistics/setup-your-event.md)
 * [​Prepare your Emergency Plan](event-logistics/prepare-your-emergency-plan.md)
 * ​[Do a schedule run-through with the team​](creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
