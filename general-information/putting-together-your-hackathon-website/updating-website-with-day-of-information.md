@@ -12,6 +12,12 @@ After you have set up your placeholder website, your team should immediately sta
 * **About the Hackathon:** This section generally contains all the major information you want your attendees to know like the goals of the event, your motivation, a short reference of your team, etc.
 * **Sponsors:** This section is very crucial in terms of increase the brand presence of your hackathon as well as for the companies investing in it. Including the name, tiers and links to the sponsor website can be a great way to thank them for their support.
 * **FAQ:** An essential section for any newbie attending your hackathon. This will also help you to significantly reduce the load off your support emails.
+  * We recommend a Health and Covid Policy section of your FAQ. Check out this example at [https://2022.allthingsopen.org/health-and-covid-19-policy/](https://2022.allthingsopen.org/health-and-covid-19-policy/)&#x20;
+    * At the minimum, you should state what you are doing with hand sanitizer, masking rules, etc.&#x20;
+    * You should also state the requirements for entry if applicable
+      * Do you require proof of vaccination to be shown?
+      * Do you require a recent negative test result?
+    * We recommend NOT collecting vaccination records before the event as storing health information is a data risk you should avoid where possible.&#x20;
 * **Footnotes:** This section generally contains all the important documentation of your hackathon including the rules, code of conduct, support emails and/ or any contact form.&#x20;
 
 ### Adding the Day-of Information

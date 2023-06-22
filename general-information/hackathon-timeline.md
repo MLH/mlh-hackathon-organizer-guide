@@ -16,7 +16,7 @@ description: >-
 
 * ​[Setup a Placeholder Website](putting-together-your-hackathon-website/set-up-a-placeholder-website.md)​
 * [​Understanding Sponsorship​](getting-sponsorship/setting-goals/)
-* [​Make your Hackathon Budget](budgeting-your-hackathon/)​
+* [​Make your Hackathon Budget](getting-sponsorship/budgeting-your-hackathon.md)​
 * [​Putting Together a Sponsorship Prospectus​](getting-sponsorship/put-together-a-sponsorship-prospectus.md)
 * [​Start Sponsor Outreach​](getting-sponsorship/mlh-tips.md)
 

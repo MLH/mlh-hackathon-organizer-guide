@@ -22,7 +22,7 @@
 * [Finding the Date & Purpose](general-information/deciding-the-date.md)
 * [Build Your Leadership Team](general-information/build-your-leadership-team.md)
 * [Locking down a Venue](general-information/locking-down-a-venue-and-date.md)
-* [Hackathon Budgeting](general-information/budgeting-your-hackathon/README.md)
+* [Hackathon Budgeting](general-information/getting-sponsorship/budgeting-your-hackathon.md)
   * [Legal Considerations](general-information/budgeting-your-hackathon/legal-considerations.md)
 * [Getting Sponsorship](general-information/getting-sponsorship/README.md)
   * [Introduction to Fundraising](general-information/getting-sponsorship/introduction-to-fundraising.md)
