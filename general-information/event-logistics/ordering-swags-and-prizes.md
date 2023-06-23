@@ -51,6 +51,24 @@ _Many cool items will be backordered. Order prizes early to have them in time._&
 * Conference tickets
 * Company trip – visit and hang out with your favorite companies for a day
 
+### Budget Conscious Prizes
+
+Numbers may vary, but when collected these options were approximately these ranges.&#x20;
+
+| $25+                                | $50+                             | $75+                       |
+| ----------------------------------- | -------------------------------- | -------------------------- |
+| Wireless Earbuds                    | Yubikey Security Key             | Drawing tablet             |
+| 128 GB USB Drive                    | Anker PowerBank                  | Hardware / Development Kit |
+| USB Converter                       | Echo Show 5                      | Bluetooth Speaker          |
+| 128GB SD Card                       | TB External                      | Fire 8 Tablet              |
+| Anker Wireless Charger Bundle       | Gaming Mouse                     | Blue Yeti Nano USB mic     |
+| Anker USB-C Hub                     | Anker Wireless Power Bank        | Mini Projector             |
+| Soldering kit                       | LG XBoom Speaker                 |                            |
+| LED Desklamp with Wireless Charging | Belkin Face Tracking Phone Mount |                            |
+| Reusable Notepad by Rocketbook      | Blue Snowball Mic                |                            |
+| Anker Wireless Charger Bundle       |                                  |                            |
+| Apple AirTag                        |                                  |                            |
+
 ## Swag
 
 If you have a significant budget surplus, consider making swag bags for everyone, this can be as low cost as $5 per participant.&#x20;
