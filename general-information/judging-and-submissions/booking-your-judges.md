@@ -44,8 +44,3 @@ On the day of the hackathon, go through your judging plan and accordingly make a
 
 * Start close to home. Often your best chances at hosting strong speakers will come from personal and school connections.
 * Consider recruiting a high-energy MC. [This person will be the face of the event to hackers and sponsors, so having someone who is excited about hacking with some public speaking experience helps hold the entire event together.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
-
-### Resources:
-
-* Article: [How to Judge a Hackathon: Finding the Chosen One](http://news.mlh.io/how-to-judge-a-hackathon-finding-the-chosen-one-05-15-2014)
-* Hackcon IV: [How to Setup your Devpost](https://www.youtube.com/watch?v=E5EJb3l-pBQ\&index=17\&list=PLPDgudJ\_VDUcS5ELB-\_OZ3Zy5nn5iqvSi)

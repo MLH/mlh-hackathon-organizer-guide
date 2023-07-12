@@ -32,3 +32,5 @@ Devpost has two different judging options:
 ![](../../../.gitbook/assets/screen-shot-2020-07-16-at-11.57.29-am.png)
 
 To learn more about judging on Devpost you can visit their Judging [documentation](https://help.devpost.com/hc/en-us/sections/360003401091-Judging).&#x20;
+
+You can also check out this video from Hackcon IV: [How to Setup your Devpost](https://www.youtube.com/watch?v=E5EJb3l-pBQ\&index=17\&list=PLPDgudJ\_VDUcS5ELB-\_OZ3Zy5nn5iqvSi)
