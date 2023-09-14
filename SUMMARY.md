@@ -54,6 +54,7 @@
   * [Organize Transportation](general-information/event-logistics/organize-transportation.md)
   * [Prepare Your Emergency Plan](general-information/event-logistics/prepare-your-emergency-plan.md)
 * [Judging & Submissions](general-information/judging-and-submissions/README.md)
+  * [Rules for Your Hackathon](general-information/judging-and-submissions/rules-for-your-hackathon.md)
   * [Judging Plan](general-information/judging-and-submissions/draft-up-a-judging-plan.md)
   * [Judges Communication and Recruiting](general-information/judging-and-submissions/booking-your-judges.md)
   * [Hackathon Submission Portal](general-information/judging-and-submissions/set-up-your-hackathon-portal/README.md)
