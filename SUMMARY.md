@@ -46,6 +46,7 @@
   * [Check-in Process](general-information/managing-registrations/check-in-process.md)
 * [Event Logistics](general-information/event-logistics/README.md)
   * [Hackathon Communication Platform](general-information/event-logistics/softwares-for-digital-hackathons.md)
+  * [Project Challenges](general-information/event-logistics/project-challenges.md)
   * [Ordering Swags & Prizes](general-information/event-logistics/ordering-swags-and-prizes.md)
   * [Setup your Event](general-information/event-logistics/setup-your-event.md)
   * [Working with Food Vendors](general-information/event-logistics/working-with-food-vendors.md)
