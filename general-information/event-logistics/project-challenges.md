@@ -31,3 +31,6 @@ Let's review some example challenges and descriptions
 
       The purpose of this challenge is to show our hackers that you don't need to build a project at a hackathon to participate and have fun.
   * This does require extra work by your team throughout the event so you can track engagement. QR codes at each activity, a secret code they enter in a form, or another way to track attendance is needed for this challenge.&#x20;
+* Jankiest Quick Fix
+  * For the thrown together "If it isn't broke don't touch it" projects
+  * Have a screwdriver for the prize as a fun themed tie in.&#x20;
