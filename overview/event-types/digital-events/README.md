@@ -37,7 +37,7 @@ With the **right communication and target**, you can expect a lot of positive re
 
 ## Communicating with Hackers
 
-* **Streaming Platform-** for Opening & Closing Ceremonies. _Recommended Platform:_ [_Streamyard_](../../../organizer-resources/logistics-resources/streamyard.md) _- Streamyard can be used to simultaneously stream to YouTube, Twitch, and Facebook._&#x20;
+* **Streaming Platform-** for Opening & Closing Ceremonies. _Recommended Platform:_ [_Streamyard_](streamyard.md) _- Streamyard can be used to simultaneously stream to YouTube, Twitch, and Facebook._&#x20;
   * You can edit videos together on YouTube or iMovie (Mac) or just play them sequentially on the stream. If you pre-record your video, we’ve found music and video can make it much more engaging. Make sure to use royalty-free music!
 * **Video Calling Platform-** for hosting your workshops, mini-events, live demo judging, webinars etc. _Recommended Platform: Zoom_
   * If possible, encourage folks to turn on their webcams so that everyone can see each other. There may be some attendees who don’t have the bandwidth to connect with video. That’s okay! You may even have some attendees who join without access to a computer. If so, consider asking someone to cast their desktop so folks can follow along or cast your own.

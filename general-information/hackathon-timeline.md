@@ -49,7 +49,7 @@ description: >-
 
 ### 1 week before
 
-* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders.md)​
+* ​[Sending Reminders to the Participants](managing-registrations/sending-reminders/)​
 * [​Set up your Event​](event-logistics/setup-your-event.md)
 * [​Prepare your Emergency Plan](event-logistics/prepare-your-emergency-plan.md)
 * ​[Do a schedule run-through with the team​](creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)

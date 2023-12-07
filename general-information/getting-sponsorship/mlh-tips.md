@@ -17,7 +17,7 @@ description: >-
 ## 2. Get In Touch
 
 * Send a well-crafted, thoughtful email.
-  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](../../organizer-resources/sponsorship-resources/emailing-your-sponsors-cheat-sheet.md).&#x20;
+  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](emailing-your-sponsors-cheat-sheet.md).&#x20;
 * Reach out to the decision maker at each company. When in doubt, email the CEO.&#x20;
   * Other useful job titles:
     * Developer Relations - aka Dev Rel
