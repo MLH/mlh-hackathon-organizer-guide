@@ -53,7 +53,7 @@ With the **right communication and target**, you can expect a lot of positive re
 
 ## Budgeting for Digital Events
 
-* Distributing swag is a digital world might look a bit difficult as the costs of shipping are associated with them. We would recommend you to look at the different options available which can be easily fulfilled from your side within a budget. We recommend using the local postal services (like USPS or Indian Post) as they often are the most reliable & economical shipping providers.&#x20;
+* Distributing swag in a digital world might look a bit difficult as the costs of shipping are associated with them. We would recommend you to look at the different options available which can be easily fulfilled from your side within a budget. We recommend using the local postal services (like USPS or Indian Post) as they often are the most reliable & economical shipping providers.&#x20;
   * Utilizing too much money into the shipping and fulfilment of swag and prizes in a digital event is not valuable as it might be for an in-person event. Use your best judgement when it comes to how much to spend on swag for a digital event
   * If you don’t have the budget to ship everyone something for a digital event, you can send a package to each university club that participated and have them handle the distribution. That should keep shipping (and labor) low, while letting you allocate your budget toward something high-impact.
   * Keep in mind however you’re shipping, this doesn’t need to happen directly after your online event. We encourage you to take a few days off to rest and recover before you start the shipping process. Alternatively, you can send out swag to arrive before the event starts so hackers can post on social media and generate hype.&#x20;
