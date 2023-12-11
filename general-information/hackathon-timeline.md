@@ -38,7 +38,7 @@ description: >-
 * ​[Start working with your vendors​](event-logistics/working-with-food-vendors.md)
 * ​[Start Brainstorming Mini Event​](hacker-experience/how-to-brainstorm-events.md)
 * [​Plan Engaging Workshops](hacker-experience/plan-engaging-workshops.md)
-* [Hackathon Software](event-logistics/softwares-for-digital-hackathons.md)
+* [Hackathon Software](event-logistics/hackathon-communication-platform.md)
 
 ### 1 month before
 
