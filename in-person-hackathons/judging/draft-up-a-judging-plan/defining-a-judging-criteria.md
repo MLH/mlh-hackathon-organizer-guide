@@ -1,2 +1,0 @@
-# Defining a Judging criteria
-

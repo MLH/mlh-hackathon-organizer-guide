@@ -1,2 +1,0 @@
-# Sample run of show
-

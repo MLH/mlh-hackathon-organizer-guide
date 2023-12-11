@@ -1,2 +1,0 @@
-# Initial Preparation \(Getting Ready\)
-

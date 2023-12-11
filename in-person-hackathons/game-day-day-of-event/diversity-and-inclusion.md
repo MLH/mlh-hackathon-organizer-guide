@@ -1,2 +1,0 @@
-# Diversity and Inclusion
-
