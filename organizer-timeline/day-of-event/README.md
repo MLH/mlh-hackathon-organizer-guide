@@ -1,2 +1,0 @@
-# Day Of Event
-
