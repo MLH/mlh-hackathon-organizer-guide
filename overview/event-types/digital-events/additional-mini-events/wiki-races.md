@@ -17,13 +17,7 @@ The objective of this game is to try to get to a target Wikipedia article as qui
 
 For example, let’s say Kevin announces the target article is “Texas Hold ‘Em.” After that, all participants will go to their Wikipedia homepage, and click on the “Random article” link on the left hand side, or, start from a pre-decided wikipedia page and the races will begin!
 
-![](https://lh3.googleusercontent.com/4rDBkTwe\_s8VmrNeTUAy44kZiiSaFzHhOxIKBII0\_nBV2sNXUK0dfjVNi36beevkguISz-43FdFpn7tzx3xYWx-WkYaow-qfR495iHBVPS6s3kYA-AkrBevQObqhYHlqAkHxSlVc)
-
-![](https://lh6.googleusercontent.com/MR4G2ZQegF2MUKzo7GEr\_PH6GH6xFyD5TwksebCmQEYbAbdFKrYBv0iP0jVBKi6R0npi26FS2aoMNHiexSM2uQqCxwmUrNFjkizJUlWPzS9R8L0Xfr0CfeS0Nh5pl-qHY4fjI1jd)
-
 And after many control f’s and several clicks, we got to the endpoint!
-
-![](https://lh3.googleusercontent.com/8CwnLhQyKENbDDYY4wdAjMZgGB7F7N7NnuOr-r-soMnvB2TQgLOFKsFi6k\_tySiWqJytWq4mvefus5QUzgCno\_fmR6UteY51OZ-WD6xhukx3eOSV8yg3gRo6FPEaDTX0Y\_7OZlH4)
 
 Feel free to repeat the races as many times as time permits, as long as hackers are engaged and having fun.
 
