@@ -28,7 +28,3 @@ With the **right communication and target**, you can expect a lot of positive re
 * You can also give sponsors their **own channel on the chat platform (Slack/Discord)** to talk to hackers, and have them introduce themselves so everyone knows who they are how they can be a resource for them throughout the event. They can get great interactions with hackers across the venue, answer questions specific to their challenge, apis, or workshop content, and share information specific to their role at the event.&#x20;
 
 ### When you’re finished reading this section of the guide, we strongly recommend watching our fundraising webinar: [Raising Sponsorship - A Workshop by MLH](https://www.youtube.com/watch?v=QI9NVe2wA5w) and [Creating Compelling Sponsorships. ](https://www.youtube.com/watch?v=W9miqQzxT-0)
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

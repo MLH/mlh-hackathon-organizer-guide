@@ -18,9 +18,9 @@ Project Management tools can help you manage your team and their progress on tas
 
 * [Example Run of Show](https://docs.google.com/spreadsheets/d/1e2B4-AYUU3Y0xFmiTGLYfRosP2IdXxF1Ud5GvGh-6cE/edit?usp=sharing)
 
-## Volunteer Guide
+<!-- ## Volunteer Guide
 
-* [Student Hack volunteer guide](../Organizer-Resources/StudentHack%20Volunteer%20Guide.docx)
+* [Student Hack volunteer guide](../Organizer-Resources/StudentHack%20Volunteer%20Guide.docx) -->
 
 ## Resources
 
