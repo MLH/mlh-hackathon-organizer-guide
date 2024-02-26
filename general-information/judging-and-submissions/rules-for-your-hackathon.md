@@ -37,3 +37,6 @@ We know that some hackathons vary though, so are including some specific rules y
   * Students only?&#x20;
   * Age Range?
   * No mentors/volunteers/organizers
+* Are there any categories that require hackers to be a specific demographic?
+  * Example: Beginners track where at least half the team must have this be their first hackathon.&#x20;
+  * Make sure to state how many of the team members must fit the category in your rules before the event.&#x20;

@@ -61,7 +61,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## MLH Checkboxes
 
-MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), but we require it to be in your registration form.&#x20;
+MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), **but we require it to be in your registration form**.&#x20;
 
 Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
 
