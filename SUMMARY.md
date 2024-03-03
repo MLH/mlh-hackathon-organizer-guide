@@ -81,7 +81,7 @@
 * [Leadership Resources](organizer-resources/leadership-resources.md)
 * [Marketing Resources](organizer-resources/marketing-resources.md)
 * [Registrations Resources](organizer-resources/registrations-resources/README.md)
-  * [GDPR in Europe](organizer-resources/registrations-resources/gdpr-in-europe.md)
+  <!-- * [GDPR in Europe](organizer-resources/registrations-resources/gdpr-in-europe.md) -->
 * [Host Exciting Mini-Events](organizer-resources/host-exciting-mini-events/README.md)
   * [Cup Stacking](organizer-resources/host-exciting-mini-events/cup-stacking.md)
   * [MLH Mini Events](organizer-resources/host-exciting-mini-events/mlh-mini-events/README.md)
