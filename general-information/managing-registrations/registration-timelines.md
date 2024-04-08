@@ -20,20 +20,20 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## Important Registration Fields
 
-**These are required to be **_**in the format detailed below**_** for MLH Member Events**
+**These are required to be _**in the format detailed below**_ for MLH Member Events**
 
 * **First Name**
-  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**&#x20;
+  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**
 * **Last Name**
 * **Age**
   * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). **We do not collect dates of birth as part of event registration to reduce data risk**.
 * **Phone Number**
   * In case you need to call someone during the event. This may also be needed if you have to send a message to all participants for some reason (for example weather related emergency notification).
 * **Email**
-  * So you can communicate before and after the event. Location, schedule, feedback, etc.&#x20;
+  * So you can communicate before and after the event. Location, schedule, feedback, etc.
 * **School** (use [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv))
   * Use a set list instead of having students type out their school. This will result in uniform results. If you see a school missing add a pull request!
-    * For example some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.&#x20;
+    * For example some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.
       * **The** University of Texas at Dallas
       * University of Texas at Dallas
       * UTD
@@ -47,13 +47,13 @@ You can see our example Registration form [here](https://majorleaguehacking.type
   * Code School / Bootcamp
   * Other Vocational / Trade Program or Apprenticeship
   * Post Doctorate
-  * Other&#x20;
-  * I’m not currently a student&#x20;
+  * Other
+  * I’m not currently a student
   * Prefer not to answer
 * **Country of Residence**
   * [**We heavily recommend using the ISO 3166 Standard for Country names.**](https://www.iso.org/iso-3166-country-codes.html)
   * **We recommend this as a dropdown.** It’s okay to put your hackathon’s country at the top for ease of use.
-  * Again be careful not to have users type input, or you will get a million answers for the same countries.&#x20;
+  * Again be careful not to have users type input, or you will get a million answers for the same countries.
     * US
     * USA
     * United States
@@ -61,17 +61,17 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## MLH Checkboxes
 
-MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), **but we require it to be in your registration form**.&#x20;
+MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), **but we require it to be in your registration form**.
 
-Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
+Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).
 
 "We are currently in the process of partnering with MLH. The following 3 checkboxes are for this partnership. If we do not end up partnering with MLH, your information will not be shared"
 
-"I have read and agree to the MLH Code of Conduct."([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
+"I have read and agree to the MLH Code of Conduct." ([https://static.mlh.io/docs/mlh-code-of-conduct.pdf](https://static.mlh.io/docs/mlh-code-of-conduct.pdf))
 
-“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)and](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md\)and) the MLH Privacy Policy ([https://mlh.io/privacy).”](https://mlh.io/privacy\).%E2%80%9D)
+“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://mlh.io/privacy](https://mlh.io/privacy)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) the MLH Privacy Policy ([https://mlh.io/privacy](https://mlh.io/privacy)).”
 
-“I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."\
+“I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."
 
 
 ## Optional Demographic Fields
@@ -83,14 +83,14 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
   * Allergies
   * Kosher
   * Halal
-* **Do you identify as part of an underrepresented group in the technology industry?**&#x20;
-  * Yes&#x20;
-  * No&#x20;
+* **Do you identify as part of an underrepresented group in the technology industry?**
+  * Yes
+  * No
   * Unsure
-* **Gender**&#x20;
-  * Man&#x20;
-  * Woman&#x20;
-  * Non-Binary&#x20;
+* **Gender**
+  * Man
+  * Woman
+  * Non-Binary
   * Prefer to self-describe
   * Prefer Not to Answer
 * **Pronouns -** Adding pronouns should always be optional
@@ -101,44 +101,44 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
   * He/They
   * Prefer Not to Answer
   * Other (let them fill in themselves)
-* **Race/ Ethnicity**&#x20;
-  * Asian Indian&#x20;
-  * Black or African&#x20;
-  * Chinese&#x20;
-  * Filipino&#x20;
-  * Guamanian or Chamorro&#x20;
-  * Hispanic / Latino / Spanish Origin&#x20;
-  * Japanese&#x20;
-  * Korean&#x20;
-  * Middle Eastern&#x20;
-  * Native American or Alaskan Native&#x20;
-  * Native Hawaiian&#x20;
-  * Samoan&#x20;
-  * Vietnamese&#x20;
-  * White&#x20;
-  * Other Asian (Thai, Cambodian, etc)&#x20;
-  * Other Pacific Islander&#x20;
+* **Race / Ethnicity**
+  * Asian Indian
+  * Black or African
+  * Chinese
+  * Filipino
+  * Guamanian or Chamorro
+  * Hispanic / Latino / Spanish Origin
+  * Japanese
+  * Korean
+  * Middle Eastern
+  * Native American or Alaskan Native
+  * Native Hawaiian
+  * Samoan
+  * Vietnamese
+  * White
+  * Other Asian (Thai, Cambodian, etc)
+  * Other Pacific Islander
   * Other (Please Specify)
   * Prefer Not to Answer
-* **Do you consider yourself to be any of the following?**&#x20;
-  * Heterosexual or straight&#x20;
-  * Gay or lesbian&#x20;
-  * Bisexual&#x20;
+* **Do you consider yourself to be any of the following?**
+  * Heterosexual or straight
+  * Gay or lesbian
+  * Bisexual
   * Different identity \_\_\_\_\_\_\_\_
   * Prefer Not to Answer
-* **What is the highest level of formal education that you have completed?**&#x20;
-  * Less than Secondary / High School&#x20;
-  * Secondary / High School&#x20;
-  * Undergraduate University (2 year - community college or similar)&#x20;
-  * Undergraduate University (3+ year)&#x20;
-  * Graduate University (Masters, Professional, Doctoral, etc)&#x20;
-  * Code School / Bootcamp&#x20;
-  * Other Vocational / Trade Program or Apprenticeship&#x20;
-  * Other (please specify)&#x20;
-  * I’m not currently a student&#x20;
+* **What is the highest level of formal education that you have completed?**
+  * Less than Secondary / High School
+  * Secondary / High School
+  * Undergraduate University (2 year - community college or similar)
+  * Undergraduate University (3+ year)
+  * Graduate University (Masters, Professional, Doctoral, etc)
+  * Code School / Bootcamp
+  * Other Vocational / Trade Program or Apprenticeship
+  * Other (please specify)
+  * I’m not currently a student
   * Prefer not to answer
-* **T-shirt Size** (If shipping t-shirts)&#x20;
-  * Specify the US/ UK sizes here
+* **T-shirt Size** (If shipping t-shirts)
+  * Specify the US / UK sizes here
 * **Shipping Address** (If shipping prizes or swag)
   * Address Line 1
   * Address Line 2
@@ -146,19 +146,19 @@ Please add the following disclaimer and 3 checkboxes if you plan to work with us
   * State
   * Country
   * Pincode
-* **Major/Field of Study**&#x20;
-  * Computer science, computer engineering, or software engineering&#x20;
-  * Another engineering discipline (such as civil, electrical, mechanical, etc.)&#x20;
-  * Information systems, information technology, or system administration&#x20;
-  * A natural science (such as biology, chemistry, physics, etc.)&#x20;
-  * Mathematics or statistics&#x20;
-  * Web development or web design&#x20;
-  * Business discipline (such as accounting, finance, marketing, etc.)&#x20;
-  * Humanities discipline (such as literature, history, philosophy, etc.)&#x20;
-  * Social science (such as anthropology, psychology, political science, etc.)&#x20;
-  * Fine arts or performing arts (such as graphic design, music, studio art, etc.)&#x20;
-  * Health science (such as nursing, pharmacy, radiology, etc.)&#x20;
-  * Other (please specify)&#x20;
-  * Undecided / No Declared Major&#x20;
-  * My school does not offer majors / primary areas of study&#x20;
+* **Major / Field of Study**
+  * Computer science, computer engineering, or software engineering
+  * Another engineering discipline (such as civil, electrical, mechanical, etc.)
+  * Information systems, information technology, or system administration
+  * A natural science (such as biology, chemistry, physics, etc.)
+  * Mathematics or statistics
+  * Web development or web design
+  * Business discipline (such as accounting, finance, marketing, etc.)
+  * Humanities discipline (such as literature, history, philosophy, etc.)
+  * Social science (such as anthropology, psychology, political science, etc.)
+  * Fine arts or performing arts (such as graphic design, music, studio art, etc.)
+  * Health science (such as nursing, pharmacy, radiology, etc.)
+  * Other (please specify)
+  * Undecided / No Declared Major
+  * My school does not offer majors / primary areas of study
   * Prefer not to answer
