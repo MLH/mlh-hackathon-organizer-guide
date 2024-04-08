@@ -42,6 +42,7 @@
   * [Marketing Goals & Timelines](general-information/marketing-your-event/setting-marketing-goals-and-timelines.md)
 * [Managing Registrations](general-information/managing-registrations/README.md)
   * [Registrations](general-information/managing-registrations/registration-timelines.md)
+  * [Free Registration Tool - OrganizerHQ (OHQ)](general-information/managing-registrations/free-registration-tool-organizerhq-ohq.md)
   * [Sending Reminders](general-information/managing-registrations/sending-reminders/README.md)
     * [Email Templates](general-information/managing-registrations/sending-reminders/email-templates.md)
   * [Check-in Process](general-information/managing-registrations/check-in-process.md)
