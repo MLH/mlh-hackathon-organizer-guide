@@ -13,6 +13,7 @@ Before joining and once on the platform, make hackers know that their behavior a
 ### **At a minimum include the following channels on your platform:**
 
 * **Team-Formation:** Channel for hackers to form teams
+* **Carpool-Search:** Channel for hackers to find a ride from other hackers
 * **Ask-Organizers:** Channel for hackers to ask organizers any questions that come up throughout the event.&#x20;
 * **Introductions:** Channel for hackers to introduce themselves. Have your team set the norm for this by introducing yourselves.&#x20;
 * **Random:** Channel for anything that isn't hackathon related.&#x20;

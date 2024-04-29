@@ -12,3 +12,5 @@ In the Opening Ceremony, make sure you cover:
 * How to reach out to the organizers in case of questions
 * Any sponsored content, obligations you need to follow
 * Your MLH Coach’s 5 minutes presentation!
+
+Check out an example slide deck [here](https://hackp.ac/openingceremonyexample)

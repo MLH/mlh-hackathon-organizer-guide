@@ -16,25 +16,26 @@ What’s your hackathon’s "brand?" How is it unique? Why would _you_ want to a
 * Use the same messaging to stay consistent and build momentum
 * Highlight hackathon benefits perks and the ease of attending: it’s free of cost, transportation will be provided, etc.
 
-It would be great to include a short case study or example "about us" page from a successful hackathon here to show, rather than just tell, organizers how effective branding works.
+In summary: include date, location, website URL, and key points like workshops, prizes, food, and swag!
 
 ## Hackathon Marketing Strategies
 
 * **Post Flyers!**
-  * Follow your schools rules but post them everywhere you can. People underestimate how much flyers can help advertise their event.&#x20;
-* **Invite students from other schools to attend**
-  * Look at schools that have previously hosted MLH hackathons
-  * Look at other schools in your area/region. We suggest at least 3 schools within 6 hours of your campus
-  * Don’t overlook community colleges — they’re often full of eager and  promising participants
+  * Follow your schools rules but post them everywhere you can. People underestimate how much flyers can help advertise their event. Flyers are usually ignored the first few times people see them, so more flyers means you are more likely to get people to actually read it.
 * **Speak in-person during the first 5 minutes of relevant classes and student group meetings on your campus.**
   * Explain what it is, why they should care, when and where it’s being held, and how they can get more info.
-* **Set up a table in the main area of your building for a few hours(with school permission)**
-  * Show sneak peeks of swag, explain what a hackathon is to those who are not familiar, hand out the website url or a QR code to those who stop by on quarter page flyers or business cards.&#x20;
 * **Reach out to student groups and departments on all campuses**
   * Groups: ACM & IEEE, SWE, SHPE, etc.
   * Departments: Computer Science, Design, Engineering, Applied Mathematics, Physics, Business Studies&#x20;
     * Professors and Resource Hubs on campus may be willing to share things out to their students. Some may even offer extra credit to their students for attending your event!
   * Think of other clubs or departments that may hold students interested in the other side of hacking (i.e. project management, design, UX, etc) such as entrepreneurship, communication, graphic design, and many more!
+  * You can also get more from these groups to attend if you invite the clubs to run a workshop or volunteer. You can get subject matter experts hosting the workshops so you can focus on the logistics of running your event day of! As a bonus, they will market their workshop as part of your event!
+* **Invite students from other schools to attend**
+  * Look at schools that have previously hosted MLH hackathons
+  * Look at other schools in your area/region. We suggest at least 3 schools within 6 hours of your campus
+  * Don’t overlook community colleges — they’re often full of eager and  promising participants
+* **Set up a table in the main area of your building for a few hours(with school permission)**
+  * Show sneak peeks of swag, explain what a hackathon is to those who are not familiar, hand out the website url or a QR code to those who stop by on quarter page flyers or business cards.&#x20;
 * **Launch a Social Media campaign**
   * Make a TikTok, Facebook Page, Twitter, Instagram, Reddit & LinkedIn account.
     * Consider having targeted Facebook or Instagram Ads. These are cheap and effective!

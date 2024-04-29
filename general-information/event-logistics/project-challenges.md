@@ -34,3 +34,10 @@ Let's review some example challenges and descriptions
 * Jankiest Quick Fix
   * For the thrown together "If it isn't broke don't touch it" projects
   * Have a screwdriver for the prize as a fun themed tie in.&#x20;
+* Best Transportation/Urban Life Hack
+  * This challenge invites you to develop a hack with innovative way to impact transportation or urban life. For example, a new way to connect with your neighbors, a new way to incentivize or improve public transportation, etc.&#x20;
+* Best Food Hack
+  * This challenge invites you to develop an innovative hack related to food. For example, a way to reduce food waste, a way to find new places to eat, etc.&#x20;
+* Best Art Hack
+  * This challenge invites you to develop a hack related to art. For example, a new way to find pop up art exhibits, a place to learn more about historical pieces, etc.&#x20;
+

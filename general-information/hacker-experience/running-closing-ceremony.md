@@ -8,3 +8,5 @@ Once you’ve selected your winners for the event, it's time to announce them in
 * This is a big moment for your event, and ending strong is super important — people tend to remember the beginning and the end of an event afterwards for years to come.&#x20;
 * Make sure you celebrate all the hackers' achievements, what they were able to build and what that means!
 * Having a playback of their submission video can be a great way to showcase projects as well. Keep in mind that if you have any live demos that setup time and running over take more time than you think. Plan for 10 minutes for each team that live demos(with 3 for actual demo time and 1-2 for the crowd to ask questions, and the rest for setup/swapping to the next group). We recommend instead encouraging hackers to see each others projects while final deliberations for judging is going on instead of live demos at closing ceremony.&#x20;
+
+Check out an example closing ceremony deck after the opening ceremony slide example [here](https://hackp.ac/openingceremonyexample)

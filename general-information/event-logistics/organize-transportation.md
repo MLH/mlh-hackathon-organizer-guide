@@ -1,6 +1,18 @@
-# Organize Transportation
+# Transportation/Travel Plans
 
-If your venue is free, transportation and travel reimbursements are often the most expensive part of putting on a hackathon. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX\_koCPIk) to ensure your transportation planning runs smoothly. While many hackers have come to expect some sort of funded transportation, **it is not required** in order to put on a successful hackathon.
+## Organizing Transportation
+
+Travel Reimbursement can help you encourage hackers from further away to attend your event. After reviewing the information below, watch our short [transportation webinar](https://www.youtube.com/watch?v=wGKX\_koCPIk) to ensure your transportation planning runs smoothly. **It is not required** for you to provide travel reimbursement in order to put on a successful hackathon.&#x20;
+
+Regardless of the transportation you are able to help with, we recommend adding a carpool channel to your event communication platform (Discord/Slack are common). This allows hackers to connect with others who might be coming from the same area.&#x20;
+
+## Travel Information Pack
+
+We also recommend providing a plan for the best way to get to your university from common places nearby (airport/s, Greyhound/Amtrack stations, etc). HackUTD has a "[Travel Hackerpack](https://hackutd.notion.site/Travel-Hackerpack-e4dd9f55947b46a89bd95fd6dd4e08a7)" to help students find a way to the event. Here are some key highlights.&#x20;
+
+* Include who they should contact for help/if they are running late
+* Include different options to reach your venue. Hackers may have different budgets, and having an idea what the approximate cost/time for options will help them decide the best way to get there. Hackers from out of town will not be familiar with your local transportation, so if there is a school bus route include that information!
+* Make sure to include your venue address and a parking map for any attendees who are driving. Also include if they need to print or collect a parking pass to put in their vehicle at checkin.&#x20;
 
 ## Charter Buses
 

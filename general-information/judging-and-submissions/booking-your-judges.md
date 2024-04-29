@@ -38,7 +38,7 @@ Also, having some kind of a slot booking system can help you determine that they
 
 ## Day-of: Running Judging
 
-On the day of the hackathon, go through your judging plan and accordingly make a sheet allocating projects to your judges. Some occasional follow-ups with them about the judging process is also a great way to keep a track of time. Finally when you have their top 3, using stack ranking, accordingly score the projects and determine the winners!
+Check out [Judging Plan](draft-up-a-judging-plan.md) for the process for day of judging.  Some occasional follow-ups with them about the judging process is also a great way to keep a track of time as you follow the steps listed there.&#x20;
 
 ## MLH Tips
 
