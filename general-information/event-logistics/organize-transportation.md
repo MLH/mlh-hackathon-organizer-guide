@@ -14,6 +14,19 @@ We also recommend providing a plan for the best way to get to your university fr
 * Include different options to reach your venue. Hackers may have different budgets, and having an idea what the approximate cost/time for options will help them decide the best way to get there. Hackers from out of town will not be familiar with your local transportation, so if there is a school bus route include that information!
 * Make sure to include your venue address and a parking map for any attendees who are driving. Also include if they need to print or collect a parking pass to put in their vehicle at checkin.&#x20;
 
+## Travel Reimbursements
+
+You may want to issue travel reimbursements for some or all of your attendees. A few tips:
+
+* Email attendees via a service like SendGrid or MailChimp with instructions about how to claim their reimbursements. Include a clear timeline with receipt due dates.&#x20;
+* Include information in the FAQ on your website on amount and and eligibility criteria
+  * Some events have different caps based on difference or carpooling.&#x20;
+  * For example, an event may do up to $25 of gas reimbursement if over X miles away but under X miles, but you may be eligible for up to $50 if you bring another hacker with you.
+  * A hacker flying in might have a larger eligible amount, but might be limited to first X hackers who request it and they must get an approval email before the event.&#x20;
+* Have hackers upload receipts. All should clearly show price and date of purchase to qualify.
+* Send reimbursements
+* Keep all receipts for tax purposes
+
 ## Charter Buses
 
 Charter buses are typically the most affordable option for getting hackers to and from your event. Keep in mind as you plan that most buses fit 56 attendees, and the average cost per weekend is $3,300 (based on 31 hackathons in Spring 2014). Your hackathon date matters as well: for example, bus prices are often higher in April because so many schools charter them during that month for class trips.
@@ -37,15 +50,6 @@ Charter buses are typically the most affordable option for getting hackers to an
   * How much will tip, tolls, hotels, fuel, and taxes cost?
   * Can the company provide proof of insurance and US D.O.T numbers?
 * Create a quote spreadsheet for each route and every company you requested info from. Include company name, price, contact info, number of buses available, etc.
-
-## Travel Reimbursements
-
-Occasionally, you will need to issue travel reimbursements for some or all of your attendees. A few tips:
-
-* Email attendees via a service like SendGrid or MailChimp with instructions about how to claim their reimbursements. Include a clear timeline with receipt due dates.
-* Upload receipts (Wufoo is a good resource). All should clearly show price and date of purchase to qualify.
-* Send reimbursements (Venmo is 25 cents per transaction)
-* Keep all receipts for tax purposes
 
 ## MLH Tips
 
