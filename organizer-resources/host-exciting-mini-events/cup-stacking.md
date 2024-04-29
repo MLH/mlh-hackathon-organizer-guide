@@ -1,35 +1,50 @@
 ---
-description: A traditional MLH Mini Event
+description: The rules are exceedingly simple.
 ---
 
 # Cup Stacking
 
 ## What is Cup Stacking?
 
-Cup Stacking is a hackathon pastime that lets hackers engage in a fun activity with their friends and fellow hackers. In teams of two, the participants attempt to create the tallest tower of cups stacked on top of each other.
+Cup Stacking is a historic hackathon mini-event that lets hackers take a break from coding and screen time to engage in a silly activity with their friends and fellow hackers. In teams of up to four, participants attempt to create the tallest tower of cups stacked on each other.
 
-![](../../.gitbook/assets/20191026\_211858.jpg)
+Cup Stacking is typically run as a tournament bracket, with winning teams from each round moving on to the next. However, Cup Stacking is flexible. Hackers can spend hours figuring out the optimal method as a group rather than competing. Feel free to tweak the guidelines below to fit your venue and needs.
 
-## Preparations
+## Materials
 
-MLH currently does not run this mini-event because we cannot ship the cups. You will need 200-400 (100 per team, you can run 2-4 teams at once depending on your event space)
+* You will need 100 cups per team to run this game. We recommend having 400 cups on hand.
+* You'll need a watch or phone to set a timer to keep each round the same length.&#x20;
+* Make sure your venue has space for this. Teams need about five square feet of space to stack, and you'll likely have a crowd watching, too. Make sure your ceilings won't restrict the total height either!
+* Optionally, a megaphone or microphone can help call teams when it is their turn.&#x20;
 
-1. Tell hackers to bring their laptops/phones to use for registration.
-2. Be ready to tweet about cup stacking! Make sure you tag @mlhacks and use the event hashtag.&#x20;
-3. Make sure the space where you’re running the event is large enough to accommodate the cup stacking towers and attendees.
-4. Have a device that can be used as a timer (a smartphone works great). You'll also need a way to record team names and the height of their towers. We recommend a simple spreadsheet!
-5. (Optional) A megaphone or microphone is very useful for calling teams when it’s their turn if you have a large number of attendees.
+## Procedures
 
-## Cup Stacking Procedures
+1. Open up a spreadsheet, doc, or note. You'll be recording team names.&#x20;
+2.  As hackers come to the event, encourage them to find a team of 4 hackers and then come to you with a team name.
 
-1. Have everyone sign up.
-2. All participants should compete in pairs. If that results in too many teams for your time frame, have participants compete in groups of 4, then break them back into pairs for the final round.
-3. Cup stacking is run in rounds. Grab 3–4 teams for each round, giving each team 100 cups. Each round lasts for 3 minutes as pairs attempt to stack the cups as high as possible, using whichever method they wish. Make sure each team has enough space that they won’t interfere with other cup towers.
-4. Some general rules:
-   * No chairs/tables/other furniture to stand on. You can use your partner’s back for more height if they let you!
-   * Once time is called, participants need to put their hands straight up in the air! No cheating!
-   * Cup tower must stand during the whole counting period!
-5. Run each round, counting the height of each standing tower at the end. It should simply be a round number — for example, “Team Hackerzz: 19 Cups”. Continue running rounds until all of the teams have had a chance to stack.
-6. Remember to tweet about the event as it goes on! Tag **@MLHacks** and use the event’s hashtag
-7. Optional: You can do a final round with the top 4 teams from previous rounds, or run the event bracket-style.
-8. After everyone’s had a chance to stack, check who had the highest cup tower among all the teams, and announce the winner! Give honorable mentions to the runner-up teams.
+    _Protip: If folks are struggling to form teams of 4. Have them hold up their hands with the number of hackers they currently have. They should look for another group with a corresponding number of hackers._&#x20;
+3. While hackers make teams, set out four stacks of 100 cups each where teams will play.
+4. Once you have a suitable number of teams or are ready to start, explain the rules. See the [#rules-checklist](cup-stacking.md#rules-checklist "mention") below for a great spiel to give to your hackers.&#x20;
+5. We recommend running cup stacking in short rounds. Call out your first four team names from your list and assign them to one of the stacks of cups.
+6. Once hackers are in position, please give them a countdown and start the clock!&#x20;
+7. We recommend moving around through the space during the stacking and chatting with groups. Work the crowd and get folks excited and engaged.&#x20;
+8. As the round nears its end, start a countdown from ten.&#x20;
+9. Count each stack and announce the winning team. Remember to record them in your doc, sheet, or note.&#x20;
+10. It helps the event run more smoothly if the teams restack their cups into two neat piles after competing.&#x20;
+11. Repeat as needed until you have an overall winner!
+
+## Rules Checklist
+
+The rules of cup stacking are exceedingly simple. It's your hackers and the cups. Chances are, if folks ask a question, they're trying to cheat! /s&#x20;
+
+* No chairs/tables/other furniture to stand on. You can use your partners' backs for more height if they let you!
+* Once time is called, participants must put their hands straight up in the air! No cheating!
+* The cup tower must stand during the whole counting period.
+
+## Tie Break Rules
+
+While ties don't happen that often, they do occur. We recommend one of two silly solutions;
+
+* Jenga rules. Teams must remove one cup at a time each from somewhere on their tower without reducing the overall height.&#x20;
+* Add a cup. Teams must add a cup (making their total height one taller, no side towers!) without their tower crumbling down.&#x20;
+
