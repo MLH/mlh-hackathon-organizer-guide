@@ -10,6 +10,8 @@ Cup Stacking is a historic hackathon mini-event that lets hackers take a break f
 
 Cup Stacking is typically run as a tournament bracket, with winning teams from each round moving on to the next. However, Cup Stacking is flexible. Hackers can spend hours figuring out the optimal method as a group rather than competing. Feel free to tweak the guidelines below to fit your venue and needs.
 
+<figure><img src="../../.gitbook/assets/cupstacking.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Materials
 
 * You will need 100 cups per team to run this game. We recommend having 400 cups on hand.
