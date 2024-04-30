@@ -50,7 +50,7 @@
 * [Event Logistics](general-information/event-logistics/README.md)
   * [Hackathon Communication Platform](general-information/event-logistics/hackathon-communication-platform.md)
   * [Project Challenges](general-information/event-logistics/project-challenges.md)
-  * [Ordering Swags & Prizes](general-information/event-logistics/ordering-swags-and-prizes.md)
+  * [Ordering Swag & Prizes](general-information/event-logistics/ordering-swags-and-prizes.md)
   * [Setup your Event](general-information/event-logistics/setup-your-event.md)
   * [Working with Food Vendors](general-information/event-logistics/working-with-food-vendors.md)
   * [Hosting Hackers with Dietary Restrictions](general-information/event-logistics/hosting-hackers-with-dietary-restrictions.md)
