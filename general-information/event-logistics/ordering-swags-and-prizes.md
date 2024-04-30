@@ -78,6 +78,9 @@ Lanyards/Wristbands are an easy piece of swag to help make it easier to identify
 * Role (hacker, sponsor, mentor, organizer) - Potentially get different color versions so even easier to identify
 * Make sure double sided so if flips around still has name visible.&#x20;
 * Also include your event Discord/Slack and who to contact in case of emergency.&#x20;
+* A fun alternative for pronouns is to have a sponsor print pins to add to the lanyards that hackers can pick up at check-in. Check out an example from WEHack, where they had a sponsor co-design with their event theme as a special branding perk.&#x20;
+
+<figure><img src="../../.gitbook/assets/1000001888.jpg" alt="" width="375"><figcaption><p>Pins to add to Lanyards for Pronouns</p></figcaption></figure>
 
 If you have a significant budget surplus, consider making swag bags for everyone, this can be as low cost as $5 per participant.&#x20;
 
