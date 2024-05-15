@@ -48,5 +48,5 @@ description: >-
 
 * Email a week or two later offering to answer questions.
 * Track your emails with a CRM (Customer Relationship Management) tool, an email service like Boomerang, or plain old Excel.
-* When a sponsor says yes, invoice them immediately.
+* When a sponsor says yes, invoice them immediately. Create a contract for them to detail the amount and method of payment (make sure they are paying in a currency you accept).
 
