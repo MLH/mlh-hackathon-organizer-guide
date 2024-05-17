@@ -15,7 +15,7 @@ _Think about your hackathon as a movie. You first release a teaser, then a trail
 * **A Support Email:** You should be ready to answer potential attendees’ questions. This will have a great impact on the word of mouth marketing.
 * **Social Handling:** Links to your event’s Facebook, Instagram, and Twitter account
 * **Release Date:** A date when visitors should check back for more info
-* **Frequently Asked Questions:** A basic FAQ about your event to explain things to someone who has never seen or been to a hackathon before.&#x20;
+* **Frequently Asked Questions:** A basic FAQ about your event to explain things to someone who has never seen or been to a hackathon before. See the [main website page](updating-website-with-day-of-information.md) for some easy copy-paste questions!
 * **Sponsor Interest Page:** A page just for sponsors, including:
   * An email address for sponsorship inquiries
   * Some information about your event and your team
