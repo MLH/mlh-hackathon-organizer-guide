@@ -9,9 +9,7 @@ Brainstorming is the most important part of the hacker's experience at a hackath
 Usually, hackers take one of two approaches:
 
 * **Start with a problem they want to solve** and then develop an idea to solve it. Hackers who want to focus on improving an aspect of their lives or hacking for social impact might prefer this route.
-*   **Start with a technology they want to use** in their hack and then develop a hack around it. Hackers who want to learn about a popular or emerging
-
-    technology might prefer this route.
+* **Start with a technology they want to use** in their hack and then develop a hack around it. Hackers who want to learn about a popular or emerging technology might prefer this route.
 
 Running a hands-on workshop covering brainstorming techniques at the start of your hackathon will enable them to hit the ground running. [Design thinking](https://www.designbetter.co/design-thinking) is a widely used, user-centered technique for generating and prototyping ideas to solve problems that users face.
 
