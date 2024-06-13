@@ -43,6 +43,10 @@ The rules of cup stacking are exceedingly simple. It's your hackers and the cups
 * Once time is called, participants must put their hands straight up in the air! No cheating!
 * The cup tower must stand during the whole counting period.
 
+Want to up the difficulty? Put 4 strings on a rubber band. The only way they can add cups to the tower is to use that rubber band (see pic).&#x20;
+
+<figure><img src="../../.gitbook/assets/7C0A8019 (1).jpg" alt=""><figcaption><p>Raise the difficulty by using a rubber band and 4 strings as the only way to add to the tower. </p></figcaption></figure>
+
 ## Tie Break Rules
 
 While ties don't happen that often, they do occur. We recommend one of two silly solutions;
