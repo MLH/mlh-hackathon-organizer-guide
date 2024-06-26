@@ -65,6 +65,7 @@
   * [Judges Communication and Recruiting](general-information/judging-and-submissions/booking-your-judges.md)
   * [Hackathon Submission Portal](general-information/judging-and-submissions/set-up-your-hackathon-portal/README.md)
     * [Using Devpost](general-information/judging-and-submissions/set-up-your-hackathon-portal/using-devpost.md)
+    * [Using Devfolio](general-information/judging-and-submissions/set-up-your-hackathon-portal/using-devfolio.md)
 * [Hackathon Scheduling](general-information/creating-your-hackathon-schedule/README.md)
   * [Detailed Run of Show](general-information/creating-your-hackathon-schedule/creating-a-detailed-run-of-show.md)
   * [Run-Through with the Team](general-information/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
