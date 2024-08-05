@@ -65,13 +65,13 @@ MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST
 
 Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
 
+
+
 "We are currently in the process of partnering with MLH. The following 3 checkboxes are for this partnership. If we do not end up partnering with MLH, your information will not be shared"
 
-"I have read and agree to the MLH Code of Conduct."([https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md))
-
-“I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) and the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)).”
-
-“I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."\
+* "I have read and agree to the MLH Code of Conduct."([https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md))
+* “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) and the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)).”
+* “I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."\
 
 
 ## Optional Demographic Fields
