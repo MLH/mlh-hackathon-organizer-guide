@@ -33,7 +33,7 @@ After you have set up your placeholder website, your team should immediately sta
   * Do I have to stay overnight?
     * No, you can leave and come back if you would prefer to go to bed.&#x20;
   * What kind of activities will there be?
-    * We will post teh schedule closer to the event. There will be workshops and activities to take a break and meet other hackers and our wonderful sponsors.&#x20;
+    * We will post the schedule closer to the event. There will be workshops and activities to take a break and meet other hackers and our wonderful sponsors.&#x20;
   * What is a hackathon? Will there be actual hacking?
     * A hackathon is an event where students "hack" together and create an app, website, game, etc. in 24-48 hours. There will be no malicious "hacking".&#x20;
   * Will hardware be available?
