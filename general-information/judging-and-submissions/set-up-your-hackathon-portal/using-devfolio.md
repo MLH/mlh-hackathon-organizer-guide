@@ -8,7 +8,7 @@ If you ever have questions, you can reach out to the Devfolio team at [community
 
 If you decide to use Devfolio and are applying to be an MLH member event, please ensure the following:
 
-1. Unlike Devpost and other platforms, Devfolio has an approval process that your event needs to go through before you can start using their platform. Make sure to work ahead of time to be able to stick to your registration timeline.
+1. Unlike Devpost, Devfolio has an approval process that your event needs to go through before you can start using their platform. Make sure to work ahead of time to be able to stick to your registration timeline.
 2. Please confirm that submission requirements & [rules](https://guide.mlh.io/general-information/judging-and-submissions/rules-for-your-hackathon) for your event have been added correctly.&#x20;
 3. Make sure you understand what [tracks and prizes](https://guide.devfolio.co/organizers/setup/prizes) mean on Devfolio. Once you become a Member Event, we’ll send you more information on the MLH partners that are active at your event.&#x20;
    * Add Major League Hacking as a track. You can find our logo [here](https://mlh.io/brand-guidelines).
