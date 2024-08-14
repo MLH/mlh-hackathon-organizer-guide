@@ -1,5 +1,9 @@
 # Using DoraHacks
 
+{% hint style="info" %}
+This platform does not currently meet [MLH export requirements](https://guide.mlh.io/general-information/judging-and-submissions/set-up-your-hackathon-portal), so you will have to manually add the missing fields or do a secondary form as a workaround.&#x20;
+{% endhint %}
+
 Setting up your DoraHacks hackathon page will help you manage your project submissions, judging, and assigning winners. Please follow this guide on [DoraHacks](https://dorahacks.io/blog/guides/diy-your-hackathon/) for step by step instructions.
 
 {% hint style="info" %}
@@ -28,4 +32,4 @@ If you decide to use DoraHacks and are applying to be an MLH member event, pleas
    3.  Schools of all the team members (used in our Season competition).&#x20;
 
        <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcub53mRx2i6bPybVcQgh73KcWjEwcXxN69tJ-eBZgyFhJfds8gkEXOr6bhF-NkeBseY0U-eSgxnVDIEu9q2ujOGbjEG6X_DVZCP3aVCVRq-qlEkgVHgasSGuO5UBqcDtSAv48NALp53pD0l12wrbh3Fn3F?key=T0dCqbkVDvurNl2YVwRSQA" alt=""><figcaption></figcaption></figure>
-7. DoraHacks project exports currently don’t include information such as project demo links and details of team members so make sure to practice exporting data from DoraHacks for judging as needed.&#x20;
+7. DoraHacks project exports currently don’t include information such as project demo links and details of team members so make sure to practice exporting data from DoraHacks for judging. The platform does not currently meet [MLH export requirements](https://guide.mlh.io/general-information/judging-and-submissions/set-up-your-hackathon-portal), so you will have to manually add the missing fields or do a secondary form as a workaround.&#x20;
