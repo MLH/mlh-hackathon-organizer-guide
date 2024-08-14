@@ -6,15 +6,12 @@ This platform does not currently meet [MLH export requirements](https://guide.ml
 
 Setting up your DoraHacks hackathon page will help you manage your project submissions, judging, and assigning winners. Please follow this guide on [DoraHacks](https://dorahacks.io/blog/guides/diy-your-hackathon/) for step by step instructions.
 
-{% hint style="info" %}
-If you ever have questions, you can reach out to the DoraHacks team through Telegram (@dorahacksofficial) or Discord ([https://discord.gg/gKT5DsWwQ5](https://discord.gg/gKT5DsWwQ5)).
-{% endhint %}
-
 If you decide to use DoraHacks and are applying to be an MLH member event, please ensure the following:
 
-1. Similar to Devfolio, DoraHacks has an approval process that your event needs to go through before you can publish it live. Make sure to work ahead of time to be approved so you can customize as needed.
-2. You need to create the hackathon as an organization. If you don’t have an organization yet, create one first.
-3. As the platform doesn’t support questions other than text type, we require you to use a platform, such as [OrganizerHQ](https://guide.mlh.io/general-information/managing-registrations/free-registration-tool-organizerhq-ohq) or others, that allow you to add [MLH mandated registration fields and checkboxes](https://guide.mlh.io/general-information/managing-registrations/registration-timelines#important-registration-fields) for registrations. DoraHacks has a field where you can enter this registration link, and disable registration on their platform.&#x20;
+1. Reach out to your Hackathon Community Manager at MLH for help getting DoraHacks set up within the MLH requirements.
+2. Similar to Devfolio, DoraHacks has an approval process that your event needs to go through before you can publish it live. Make sure to work ahead of time to be approved so you can customize as needed.
+3. You need to create the hackathon as an organization. If you don’t have an organization yet, create one first.
+4. As the platform doesn’t support questions other than text type, we require you to use a platform, such as [OrganizerHQ](https://guide.mlh.io/general-information/managing-registrations/free-registration-tool-organizerhq-ohq) or others, that allow you to add [MLH mandated registration fields and checkboxes](https://guide.mlh.io/general-information/managing-registrations/registration-timelines#important-registration-fields) for registrations. DoraHacks has a field where you can enter this registration link, and disable registration on their platform.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
