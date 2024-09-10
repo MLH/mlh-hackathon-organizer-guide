@@ -6,6 +6,10 @@ description: >-
 
 # Emailing Your Sponsors Cheat Sheet
 
+{% hint style="info" %}
+Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc in your first email. Instead put them in a follow-up email 1-2 weeks after the first email!
+{% endhint %}
+
 | **What should you include?**                                               | **Why?**                                                                                                                                       | **Example**                                                                                                                                                          |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Details about the event: size, location, dates</strong><br></p> | These essential details will be some of the first things a potential sponsor is looking for                                                    | LoonHacks will be taking place on April 8-10th at Example University. We expect over 500 hackers this year!                                                          |

@@ -18,13 +18,14 @@ description: >-
 
 * Send a well-crafted, thoughtful email.
   * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](emailing-your-sponsors-cheat-sheet.md).&#x20;
+  * Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc in your first email. Instead put them in a follow-up email 1-2 weeks after the initial!
 * Reach out to the decision maker at each company. When in doubt, email the CEO.&#x20;
   * Other useful job titles:
     * Developer Relations - aka Dev Rel
     * Marketing/Recruiting/HR
   * These are the people who would have the budget or know who to get in contact with if the CEO does not respond.&#x20;
 * Intros are infinitely better than cold emails.
-* Follow up: don’t worry if you don’t receive a response to your initial email; wait 3-4 days and ask again. You can ping the contact up to 3 times.&#x20;
+* Follow up: don’t worry if you don’t receive a response to your initial email; wait 1-2 weeks (3-4 days if closer to your event date) and ask again. You can ping the contact up to 3 times.&#x20;
 
 ## 3. Have An Exploratory Phone Call
 
