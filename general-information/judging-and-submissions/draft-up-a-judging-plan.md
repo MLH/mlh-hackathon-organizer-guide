@@ -26,7 +26,7 @@ For this method you need to assign table numbers. Before the event, make a map o
 
 ### Why not Judging Rooms?
 
-MLH does not recommend having teams come to judges in a room. Those format types frequently have a hard time being fair because teams are only judged against the projects that happened to have the same room. It is also hard to followup with team who may need to be asked questions - like asking them to share their code that they forgot to add to Devpost or to ask followup questions based on what your team finds during a cheating check.&#x20;
+MLH does not recommend having teams come to judges in a room. Those format types frequently have a hard time being fair because teams are only judged against the projects that happened to have the same room. Even if you have a final deliberation discussion to compare rooms, since only 1 room saw a team, ever single finalist project has to be re-pitched which relies on judge memory and notes. It is also hard to followup with team who may need to be asked questions - like asking them to share their code that they forgot to add to Devpost or to ask followup questions based on what your team finds during a cheating check.&#x20;
 
 ### What about Gavel/Gavel 2.0/Jury/Building your own system?
 
