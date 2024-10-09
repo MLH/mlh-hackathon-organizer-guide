@@ -106,11 +106,11 @@ There're plenty of options with finalizing winners, but at MLH, we love to use S
 * Allocate projects to every judging according to what we discussed above.
 * Ask each judge to view their projects and report back their top 3 best/favorite projects.
 * Assign the top three following points:
-  * 3 points (First Place)&#x20;
-  * 2 points (Second Place)
-  * 1 point (Third Place)
+  * 15 points (First Place)
+  * 10 points (Second Place)
+  * 5 point (Third Place)
 
-Now, you'll have a list of the project that appeared across multiple judges' top three favorites! After you've bubbled up your top projects, you should validate the results. Go check out the top 3-5 projects and make a final decision about winners. This is your hackathon. Make sure you're proud of the final results! Do a cheating check on all winners before you announce.&#x20;
+Now, you'll have a list of the project that appeared across multiple judges' top three favorites! After you've bubbled up your top projects, you should validate the results. Go check out the top 3-5 projects and make a final decision about winners. This is your hackathon. Make sure you're proud of the final results! Do a cheating check on all winners before you announce.
 
 ### Resources:
 
