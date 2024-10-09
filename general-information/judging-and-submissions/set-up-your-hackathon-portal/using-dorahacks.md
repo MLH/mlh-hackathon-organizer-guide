@@ -16,13 +16,14 @@ If you decide to use DoraHacks and are applying to be an MLH member event, pleas
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Please confirm that the submission requirements and rules for your event have been added correctly. [https://guide.mlh.io/general-information/judging-and-submissions/rules-for-your-hackathon](https://guide.mlh.io/general-information/judging-and-submissions/rules-for-your-hackathon)&#x20;
-6. Make sure you understand what the difference between tracks and bounties are on DoraHacks. Once you become a Member Event, we’ll send you more information on the MLH partners that are active at your event.&#x20;
-   1. **Tracks: A submitted project can belong to only one of the tracks**, e.g software or hardware. Every hackathon initially has a default track, “All BUIDLs”. You can rename it, and you can also add more custom tracks. If Hackers can participate in multiple tracks, you need to make 1 General Track and instead have your tracks listed as bounties.&#x20;
-   2. **Bounties**: Bounties are the opt-in prize categories.&#x20;
-      1. ‘Necessity of bounty applications’ is for you to choose whether it’s mandatory for teams to select a category prize to make a successful submission.
-      2. ‘Maximum number of bounties each BUIDL can apply for’ is the maximum prize categories that a team can opt-in to. You should ideally leave this field empty to let teams opt-in to as many categories as they wish to.
-      3. Your organization is a default sponsor and is considered to have a prize category. If you don’t have one, you should list your overall prizes.
-      4. Add each MLH partner category prize as a new bounty.
+6. As of our last check on 10/9, you can now select multiple tracks. We are leaving this documentation here but with a strikethrough for anyone we previously shared this page with. \
+   ~~Make sure you understand what the difference between tracks and bounties are on DoraHacks. Once you become a Member Event, we’ll send you more information on the MLH partners that are active at your event.~~&#x20;
+   1. ~~**Tracks: A submitted project can belong to only one of the tracks**, e.g software or hardware. Every hackathon initially has a default track, “All BUIDLs”. You can rename it, and you can also add more custom tracks. If Hackers can participate in multiple tracks, you need to make 1 General Track and instead have your tracks listed as bounties.~~&#x20;
+   2. ~~**Bounties**: Bounties are the opt-in prize categories.~~&#x20;
+      1. ~~‘Necessity of bounty applications’ is for you to choose whether it’s mandatory for teams to select a category prize to make a successful submission.~~
+      2. ~~‘Maximum number of bounties each BUIDL can apply for’ is the maximum prize categories that a team can opt-in to. You should ideally leave this field empty to let teams opt-in to as many categories as they wish to.~~
+      3. ~~Your organization is a default sponsor and is considered to have a prize category. If you don’t have one, you should list your overall prizes.~~
+      4. ~~Add each MLH partner category prize as a new bounty.~~
 7. Add custom submission questions from Overview -> BUIDL submission tab.
    1. Links or other information relevant to MLH category prizes they opt-in to. Example - domain name that the team redeemed if a domain partner was active at your event.&#x20;
    2. Share feedback about any technology you interacted with at this hackathon. Remember to mention what tech you're reviewing (e.g. MongoDB, GitHub, Auth0, etc.).&#x20;
