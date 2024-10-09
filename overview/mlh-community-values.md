@@ -51,3 +51,5 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * Whenever possible, events **provide sleeping spaces for attendees** and encourage attendees to take advantage of them.
 
 Creating an empowering environment where hackers of all skill levels can create amazing things is MLH’s main priority. The MLH Community Values codify this belief in a way that describes not only the MLH Member Events but also the types of events that MLH wants to work with because of their positive contributions to the student hacker movement.
+
+More detailed MLH Policies can be found at [https://github.com/MLH/mlh-policies](https://github.com/MLH/mlh-policies)&#x20;

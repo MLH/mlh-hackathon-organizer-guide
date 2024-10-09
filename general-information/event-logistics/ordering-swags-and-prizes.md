@@ -2,7 +2,7 @@
 description: Adding a physical touch to your events!
 ---
 
-# Ordering Swags & Prizes
+# Ordering Swag & Prizes
 
 When it comes to prizes and swag, you should do what your budget allows. While swag is great for marketing/branding, you do not want to sacrifice quality of the other aspects of your event.&#x20;
 
@@ -70,6 +70,17 @@ Numbers may vary, but when collected these options were approximately these rang
 | Apple AirTag                        |                                  |                            |
 
 ## Swag
+
+Lanyards/Wristbands are an easy piece of swag to help make it easier to identify who has checked in and is supposed to be in your venue space. We recommend doing lanyards or wristbands at the very least. If you are making lanyards, include a space for
+
+* Name
+* Pronouns
+* Role (hacker, sponsor, mentor, organizer) - Potentially get different color versions so even easier to identify
+* Make sure double sided so if flips around still has name visible.&#x20;
+* Also include your event Discord/Slack and who to contact in case of emergency.&#x20;
+* A fun alternative for pronouns is to have a sponsor print pins to add to the lanyards that hackers can pick up at check-in. Check out an example from WEHack, where they had a sponsor co-design with their event theme as a special branding perk.&#x20;
+
+<figure><img src="../../.gitbook/assets/1000001888.jpg" alt="" width="375"><figcaption><p>Pins to add to Lanyards for Pronouns</p></figcaption></figure>
 
 If you have a significant budget surplus, consider making swag bags for everyone, this can be as low cost as $5 per participant.&#x20;
 

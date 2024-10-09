@@ -21,7 +21,11 @@ At Major League Hacking, our goal is to give you the tools to throw the best hac
 
 (You can see the full list [here](https://mlh.io/event-membership). )
 
-The sooner your hackathon applies for membership, the more time you’ll have to take advantage of all MLH benefits. To [apply](https://mlh.io/event-membership), it must be _at least_ 3-4 months before your event, and you should have a confirmed location and time.
+The sooner your hackathon applies for membership, the more time you’ll have to take advantage of all MLH benefits. To [apply](https://mlh.io/event-membership), it must be _at least_ 3-4 months before your event.
+
+Throughout your planning process, you will be supported by a Hackathon Community Manager (HCM) from MLH to help answer any questions, talk through challenges, and brainstorm new ideas.
+
+During your event, an MLHer (called a Coach) will be on-site to help you and your team with whatever you need. MLHers are event organizers themselves and receive extensive training to become an asset to your team.
 
 ## Resources
 

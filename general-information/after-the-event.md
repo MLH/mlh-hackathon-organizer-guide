@@ -13,4 +13,3 @@ Congratulations — you pulled off a successful hackathon! To close out your eve
 ## Resources
 
 * [Standardized Demographic Questions for Surveys](https://docs.google.com/document/d/12h1yAa7D7EQEBvZOjbhN6e1OYBGjIbCRiyoMWXYMwOA/edit)
-* Coming soon: Updated Post-Event Survey Template

@@ -22,6 +22,8 @@ We know that some hackathons vary though, so are including some specific rules y
     * GitHub link, repl.it, Google drive link, etc?
 * Can they use publicly available frameworks?
   * Do they need to list said frameworks in a readme?
+  * What about LLM/ChatGPT/AI usage?
+    * We generally recommend having a rule to credit any tools used/be clear on what they made vs what they are using by having a detailed readme. Clarify it should not be a reskin of an existing AI tool. While LLMs can be great tools, focusing on what was created/changed/built on during the weekend vs what was just used is how we recommend framing it. If they do not credit it, disqualify/report to [cheating@mlh.io](mailto:cheating@mlh.io)
 * Can they make multiple projects?
   * Recommend No
 * Can they submit to multiple challenges?

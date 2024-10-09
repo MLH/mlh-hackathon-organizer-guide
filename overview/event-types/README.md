@@ -6,7 +6,7 @@ An **In-Person event** requires everyone be at the location of the event for jud
 
 A **Digital event** can be global. While it may be marketed towards certain schools near the host, anyone with an internet connection can participate within the timeframe of the event. These often have videos used for judging, or have a room setup for each team in Discord for live judging, but there is no in-person aspect for food/judging. If shipping/prizes are limited to a certain country the FAQ on the hackathon website and rules on Devpost should clearly state limitations.&#x20;
 
-We will prioritizing partnering with In-Person Events this season to make sure we have the greatest impact possible with the resources we have available. Digital events are still a great resource, and we have included information in this guide to help you as you plan, but we will not be able to partner with you for the 2024 Hackathon Season.&#x20;
+We will be prioritizing partnering with In-Person Events this season to make sure we have the greatest impact possible with the resources we have available. Digital events are still a great resource, and we have included information in this guide to help you as you plan, but we will not be able to partner with you for the 2024 Hackathon Season.&#x20;
 
 We will not be working with hybrid events, and want to warn that we have seen historically that hybrid events are worse for both organizers and hackers. Organizers struggle to coordinate two events simultaneously _(a well run digital hackathon is more than just a Discord!)_. Running an in person event while juggling a Discord can stretch your team very thin. Digital hackers end up feeling left out at hybrid events, and have a less impactful experience.&#x20;
 

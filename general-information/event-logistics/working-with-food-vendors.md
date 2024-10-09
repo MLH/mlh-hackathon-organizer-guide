@@ -22,6 +22,10 @@ If your food vendor is providing a family-style meal make sure you coordinate wi
 
 When putting in the initial order, make sure to ask how the food vendor how they would like you to return the chafing dishes, table cloths, and other reusable goods. If they plan on picking up the goods after the meal and helping you clean up, make sure you coordinate a time in advance. You don’t want to be left with tables full of leftover food, and dishes after a meal with no plan.
 
+We recommend also getting allergen details and posting a "Menu" at checkin so hackers can see what the options are for meals ahead of time. Here is an example from an event.
+
+<figure><img src="../../.gitbook/assets/Menu-1.png" alt="" width="375"><figcaption><p>An example Menu courtesy of HackUTD</p></figcaption></figure>
+
 ### Negotiating&#x20;
 
 If you’re running a large-scale event, often times food vendors will put together a price quote and meal plan for you to review. Especially if the price quote was higher than you expected there is no problem in asking the food vendor to see where you can reduce costs as long as you do it politely. Below is an example of an appropriate question to ask to see if there is room for negotiation.&#x20;
