@@ -28,7 +28,7 @@ description: >-
 * ​[Make your main website live!​](putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
 * ​[Collecting Registrations for the Hackathon​](managing-registrations/registration-timelines.md)
 * ​[Start thinking about the experience of your hackathon​](hacker-experience/)
-* ​[Start planning our your hackathon logistics​](event-logistics/)
+* ​[Start planning out your hackathon logistics​](event-logistics/)
 
 ### 2 months before
 
