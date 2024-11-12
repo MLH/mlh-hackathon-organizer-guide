@@ -31,3 +31,13 @@ If you decide to use DoraHacks and are applying to be an MLH member event, pleas
 
        <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcub53mRx2i6bPybVcQgh73KcWjEwcXxN69tJ-eBZgyFhJfds8gkEXOr6bhF-NkeBseY0U-eSgxnVDIEu9q2ujOGbjEG6X_DVZCP3aVCVRq-qlEkgVHgasSGuO5UBqcDtSAv48NALp53pD0l12wrbh3Fn3F?key=T0dCqbkVDvurNl2YVwRSQA" alt=""><figcaption></figcaption></figure>
 8. DoraHacks project exports currently don’t include information such as project demo links and details of team members so make sure to practice exporting data from DoraHacks for judging. The platform does not currently meet [MLH export requirements](https://guide.mlh.io/general-information/judging-and-submissions/set-up-your-hackathon-portal), so you will have to manually add the missing fields or do a secondary form as a workaround.&#x20;
+
+### Updates as of 11/11
+
+Here are some things our team noticed recently at an event using DoraHacks that your organizing team would probably benefit from knowing. Please keep in mind we also are forwarding this to the DoraHacks team, so some of this may change in the future.&#x20;
+
+* Hackers cannot edit required questions after an initial submission is made. This is very different from Devpost, which more of your hackers are likely to be familiar with. We recommend adding a first question to state that they understand the following set of questions cannot be edited after initial submission.&#x20;
+  * This includes the fields for each hacker's contact information that you need to have to meet MLH requirements, as if this is a required question, then hackers cannot edit it after their initial submission.
+* If you add a new question after a project is submitted, the new question will only appear on the new projects (not on any who try to edit their application)
+* You cannot sort by the opt-in prize with the current export settings. Schedule extra time to notify any sponsors or side challenges which teams they need to go judge.&#x20;
+* Only 10 users can be admin on a team account at once.&#x20;
