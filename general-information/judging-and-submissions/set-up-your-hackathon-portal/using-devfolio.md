@@ -14,7 +14,7 @@ If you decide to use Devfolio and are applying to be an MLH member event, please
    * Add Major League Hacking as a track. You can find our logo [here](https://mlh.io/brand-guidelines).
    * Add the category prize, by MLH partners, as a new prize under the MLH track.
    * Leave the ‘Amount in USD’ blank unless one of our partners is giving out crypto as a prize.&#x20;
-4. Add [league+devfolio@majorleaguehacking.com](mailto:league+devfolio@majorleaguehacking.com) as a manager/admin to your event’s Devfolio page. This allows us to ask Devfolio for help for step 6.&#x20;
+4. Add [league+devfolio@majorleaguehacking.com](mailto:league+devfolio@majorleaguehacking.com) (@MLHacks) as a manager/admin to your event’s Devfolio page. This allows us to ask Devfolio for help for step 6.&#x20;
 5. As Devfolio doesn’t allow for custom submission questions, please make sure to ask hackers to add answers to these questions as part of their submissions -
    * Links or other information relevant to MLH category prizes they opt-in to. Example: domain name that the team redeemed if a domain partner was active at your event.
    * Share feedback about any technology you interacted with at this hackathon. Remember to mention what tech you're reviewing (e.g. MongoDB, GitHub, Auth0, etc.).&#x20;
