@@ -20,10 +20,10 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 ## Important Registration Fields
 
-**These are required to be **_**in the format detailed below**_** for MLH Member Events**
+**These are required to be&#x20;**_**in the format detailed below**_**&#x20;for MLH Member Events**
 
 * **First Name**
-  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the field**.**&#x20;
+  * It is important to have these fields split. Some people go by multiple first names/last names. For example Maria Anne De La Cruz. If this was 1 line we would have to manually split the fiel&#x64;**.**&#x20;
 * **Last Name**
 * **Age**
   * We recommend this as a dropdown with specific ages instead of date of births. MLH needs this data for eligibility purposes (some codes are only available to hackers 18+). **We do not collect dates of birth as part of event registration to reduce data risk**.
@@ -63,7 +63,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
 
 MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST agree to. The 3rd is optional (they can agree or disagree), **but we require it to be in your registration form**.&#x20;
 
-Please add the following disclaimer and 3 checkboxes if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
+**Please add the following disclaimer and 3 checkboxes** if you plan to work with us. You can remove the disclaimer once you have moved into our official Membership Stage(Talk with your HCM if you have questions).&#x20;
 
 
 
