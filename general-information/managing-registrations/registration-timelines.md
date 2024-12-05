@@ -58,6 +58,8 @@ You can see our example Registration form [here](https://majorleaguehacking.type
     * USA
     * United States
     * Unites States of America
+* **LinkedIn URLs**
+  * Ask hackers to provide their LinkedIn URL to be able to connect with partners post-event for potential job opportunities.&#x20;
 
 ## MLH Checkboxes
 
