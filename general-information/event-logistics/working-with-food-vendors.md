@@ -10,7 +10,7 @@ Often times venues will require you to use their catering services, especially u
 
 We recommend that you place your order 2-4 weeks prior to your event. If you use the venue's catering company, they may require you to finalize your order sooner.
 
-Delivery If your vendor is delivering the food to your venue, make sure you are scheduling the drop-off at least 30-60 minutes before you plan to serve the food. You don’t want the food to get cold, but you also want to allow enough buffer time in case the delivery arrives late.
+If your vendor is delivering the food to your venue, make sure you are scheduling the drop-off at least 30-60 minutes before you plan to serve the food. You don’t want the food to get cold, but you also want to allow enough buffer time in case the delivery arrives late.
 
 When you put in your food order, you should be specific about where the food should be delivered and who they should contact upon arrival. Give them a backup phone number in case the first organizer doesn’t pick up.
 
