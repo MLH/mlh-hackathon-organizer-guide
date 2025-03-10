@@ -27,7 +27,7 @@ description: >-
 * ​[Start your Hackathon Outreach](marketing-your-event/how-to-promote-your-event/)
 * ​[Make your main website live!​](putting-together-your-hackathon-website/updating-website-with-day-of-information.md)
 * ​[Collecting Registrations for the Hackathon​](managing-registrations/registration-timelines.md)
-* ​[Start thinking about the experience of your hackathon​](hacker-experience/)
+* ​[Start thinking about the experience of your hackathon​](day-of-logistics-hacker-experience/)
 * ​[Start planning our your hackathon logistics​](event-logistics/)
 
 ### 2 months before
@@ -36,8 +36,8 @@ description: >-
 * ​[Draft up your Mentorship Plans​](draft-up-your-mentorship-plan.md)
 * [​Start booking your judges​/mentors](judging-and-submissions/booking-your-judges.md)
 * ​[Start working with your vendors​](event-logistics/working-with-food-vendors.md)
-* ​[Start Brainstorming Mini Event​](hacker-experience/how-to-brainstorm-events.md)
-* [​Plan Engaging Workshops](hacker-experience/plan-engaging-workshops.md)
+* ​[Start Brainstorming Mini Event​](day-of-logistics-hacker-experience/fun-mini-events.md)
+* [​Plan Engaging Workshops](day-of-logistics-hacker-experience/workshops.md)
 * [Hackathon Software](event-logistics/hackathon-communication-platform.md)
 
 ### 1 month before
@@ -61,7 +61,7 @@ description: >-
 * ​[Distributing Meals](event-logistics/distributing-meals.md)
 * ​[Running Judging​](judging-and-submissions/)
 * [​Doing Mentorship​](draft-up-your-mentorship-plan.md)
-* [​Running Workshops](hacker-experience/plan-engaging-workshops.md)​
-* ​[Opening & Closing Ceremonies​](hacker-experience/running-opening-ceremony.md)
+* [​Running Workshops](day-of-logistics-hacker-experience/workshops.md)​
+* ​[Opening & Closing Ceremonies​](day-of-logistics-hacker-experience/opening-ceremony.md)
 
 ### ​​[After the Event](after-the-event.md)

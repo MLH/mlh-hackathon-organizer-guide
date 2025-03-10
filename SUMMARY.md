@@ -72,12 +72,12 @@
   * [Run-Through with the Team](general-information/creating-your-hackathon-schedule/do-a-run-through-with-the-team.md)
   * [MLH Tips & Templates](general-information/creating-your-hackathon-schedule/general-mlh-tips.md)
 * [Mentorship](general-information/draft-up-your-mentorship-plan.md)
-* [Day of Logistics / Hacker Experience](general-information/hacker-experience/README.md)
-  * [Help Desk Recommendations](general-information/hacker-experience/how-to-engage-your-hackers.md)
-  * [Fun Mini Events](general-information/hacker-experience/how-to-brainstorm-events.md)
-  * [Workshops](general-information/hacker-experience/plan-engaging-workshops.md)
-  * [Opening Ceremony](general-information/hacker-experience/running-opening-ceremony.md)
-  * [Closing Ceremony](general-information/hacker-experience/running-closing-ceremony.md)
+* [Day of Logistics / Hacker Experience](general-information/day-of-logistics-hacker-experience/README.md)
+  * [Help Desk Recommendations](general-information/day-of-logistics-hacker-experience/help-desk-recommendations.md)
+  * [Fun Mini Events](general-information/day-of-logistics-hacker-experience/fun-mini-events.md)
+  * [Workshops](general-information/day-of-logistics-hacker-experience/workshops.md)
+  * [Opening Ceremony](general-information/day-of-logistics-hacker-experience/opening-ceremony.md)
+  * [Closing Ceremony](general-information/day-of-logistics-hacker-experience/closing-ceremony.md)
 * [After The Event](general-information/after-the-event.md)
 
 ## Organizer Resources
