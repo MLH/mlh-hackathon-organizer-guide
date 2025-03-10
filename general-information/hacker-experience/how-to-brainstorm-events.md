@@ -1,17 +1,20 @@
 ---
 description: >-
-  After you’ve planned the logistics and set up your chat platform, start
-  planning how you’re going to make your event fun for hackers. We’ve
-  brainstormed some fun activities you can do.
+  Time to start planning how you’re going to make your event fun for hackers.
+  We’ve brainstormed some fun activities you can do.
 ---
 
-# Brainstorming Mini Events
+# Fun Mini Events
 
-After you’ve planned the logistics and set up your chat platform, start planning how you’re going to make your experience fun for hackers. Activities can range from simple chat activities for a better introduction to facilitate a conversation to more active games to play.&#x20;
+Most hackathons have a couple fun events as a break from hacking and more technical focused workshops. Activities can range from simple chat activities for a better introduction to facilitate a conversation to more active games to play.&#x20;
 
 You can make the brainstorming events a fun activity by involving your organizing team. Have a different gaming round for each and selecting the best of them to be hosted at your event. This can be a great team-building activity as well!
 
-To support you better, we’ve brainstormed some fun activities you can do. Have a look!
+To support you better, we’ve collected some fun activity options for what you can do. The following link has some examples from other events, and the rest of this page has more digital focused examples.&#x20;
+
+{% content-ref url="../../organizer-resources/host-exciting-mini-events/" %}
+[host-exciting-mini-events](../../organizer-resources/host-exciting-mini-events/)
+{% endcontent-ref %}
 
 ## **Activities via Slack/Discord**
 
@@ -38,7 +41,7 @@ Online game tournaments are one of the most common ways to engage folks. You can
 
 There are numerous online gaming tournaments, and here are a few ideas:
 
-* \*\*\*\*[**Jackbox games**](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD\_BwE)**:** We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _(Run it in family mode to avoid inappropriate prompts!)_
+* \*\*\*\*[**Jackbox games**](https://jackboxgames.com/?gclid=EAIaIQobChMIvO28maqf6AIVysDACh3ftAAQEAAYASAAEgKAfvD_BwE)**:** We highly recommend Jackbox and Jackbox- style games because they are an extremely accessible event to run. You only need 1 person to own the game for everyone to participate! _(Run it in family mode to avoid inappropriate prompts!)_
 * **Stream multiplayer games –** League of Legends, Dota, Rocket League, and Smash can all be fun games to play over the web. Just be mindful that bad internet connection can make any of these games a bad time.
 * Online **Chess** tournament&#x20;
 * Create a **Minecraft** server for hackers to build in
@@ -55,7 +58,3 @@ Keep in mind that not all your hackers will be video game players. Host some non
 * **User Experience Design Competition –** Give hackers a limited amount of time to create a design based on a theme you announce. Have them post it in a thread on slack/discord and participants can vote on their favorite.&#x20;
 * **Bob Ross painting competition using MS Paint** – Hackers can watch Bob Ross painting tutorials for free on YouTube. Have a competition to see who can recreate a Bob Ross landscape using MS Paint or other online drawing tool.&#x20;
 * [**Skribbl.io**](https://skribbl.io/) – Draw and guess words with your friends and people all around the world! Score the most points and be the winner!
-
-{% content-ref url="../../organizer-resources/host-exciting-mini-events/" %}
-[host-exciting-mini-events](../../organizer-resources/host-exciting-mini-events/)
-{% endcontent-ref %}
