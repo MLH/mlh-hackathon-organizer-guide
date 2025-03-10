@@ -1,8 +1,7 @@
 ---
 description: >-
-  Getting in funds is the major starting point for any hackathon. This article
-  focuses to give you an idea of how and what Sponsorship for a hackathon looks
-  like.
+  Securing funds is a major cornerstone for any hackathon. This article focuses
+  to give you an idea of how and what Sponsorship for a hackathon looks like.
 ---
 
 # Introduction to Fundraising

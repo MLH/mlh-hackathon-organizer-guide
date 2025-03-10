@@ -1,8 +1,8 @@
 # Build Your Leadership Team
 
-Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, **think like a startup CEO: choose enthusiastic and smart people with complementary skills**. Think your hackathon as your product and your team as the people putting it together. Here’s what a typical hackathon leadership team looks like:
+Every first-rate hackathon has an exceptional leadership team behind it. When selecting yours, **think like a startup CEO: choose enthusiastic and smart people with complementary skills**. Think of your hackathon as your product and your team as the people putting it together. Here’s what a typical hackathon leadership team looks like:
 
-* **Hackathon Lead Organizer:** The person in-charge on all the happenings in and around the hackathon. They look after the entire team making decisions on what will be the next best steps in a particular situation.&#x20;
+* **Hackathon Lead Organizer:** The person in charge of all the happenings in and around the hackathon. They look after the entire team making decisions on what will be the next best steps in a particular situation.&#x20;
 * **Logistics Team:** This team is responsible for all logistics of the hackathon like booking the venue, developing and making the schedule, ordering swag, prizes, food and other essentials for the event etc.
 * **Finance Team:** This team is responsible for securing sponsorships, making sure the vendors get paid according to the agreed timelines and managing the cash flow and budget.
 * **Marketing Team:** This team is in charge of promoting the event, deciding the marketing strategy, developing the website, handling social media etc.

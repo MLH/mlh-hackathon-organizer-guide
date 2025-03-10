@@ -8,7 +8,7 @@ description: The MLH Hackathon Organizer Guide
 
 Take a look and learn some of the practices used by hackathon organizers all around the world. This guide should contain most, if not all, of the practices you need to throw a great hackathon.
 
-**Disclaimer:** The hackathon organizer guide is never finished. It's an ongoing project that we're always trying to update as we and the global hackathon organizer community learn. Try everything, contribute your learnings back to the guide with a pull request over on [our GitHub repository for this guide](https://github.com/mlh/hackathon-organizer-guide).
+**Disclaimer:** The hackathon organizer guide is never finished. It's an ongoing project that we're always trying to update as we and the global hackathon organizer community learn. Try everything, and feel free to contribute your learnings back to the guide with a pull request over on [our GitHub repository for this guide](https://github.com/mlh/hackathon-organizer-guide).
 
 ## Introduction to Organizer Guide
 
