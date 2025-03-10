@@ -4,7 +4,7 @@ description: >-
   sponsorship materials, you’re ready to embark on the fundraising process.
 ---
 
-# The 5-step MLH Sponsorship Process
+# The 5-Step MLH Sponsorship Process
 
 ## 1. Set Targets And Do Your Research
 
@@ -17,7 +17,7 @@ description: >-
 ## 2. Get In Touch
 
 * Send a well-crafted, thoughtful email.
-  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](emailing-your-sponsors-cheat-sheet.md).&#x20;
+  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](cheat-sheet-emailing-your-sponsors.md).&#x20;
   * Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc in your first email. Instead put them in a follow-up email 1-2 weeks after the initial!
 * Reach out to the decision maker at each company. When in doubt, email the CEO.&#x20;
   * Other useful job titles:

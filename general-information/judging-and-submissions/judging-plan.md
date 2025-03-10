@@ -60,7 +60,7 @@ Now the calculation looks like:
 
 J= (150\*3\*3)/120 = 11.25 = 12
 
-Hence the number of **judges required is 12**. Look at our[ judge communication and recruiting page](booking-your-judges.md) to get enough judges for your event!
+Hence the number of **judges required is 12**. Look at our[ judge communication and recruiting page](judges-communication-and-recruiting.md) to get enough judges for your event!
 
 ### A go to table to estimate the number of judges required:
 
@@ -86,7 +86,7 @@ Allocating projects for overall judging is more logistically heavy in a science 
 
 For categories that have fewer submissions(like AI or Hardware challenges/tracks), you can instead have 1-2 subject matter experts who are familiar with the category view just those projects and pick the winner that best fits the category. Your subject matter expert for a hardware category might be the president of the IEEE club on campus or a teacher familiar with hardware. If you have a large category(like best design), use overall judging to narrow down top teams then see who among them best fit the criteria for the category.
 
-Check out the Readme on our [Judging Example Sheet](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG\_89l6n6zpHj\_o5V2xwS-gyndmTl5Z24/edit#gid=1202683513) for allocating judges to projects! This example process makes sure each team is seen by at least 3 different judges.&#x20;
+Check out the Readme on our [Judging Example Sheet](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG_89l6n6zpHj_o5V2xwS-gyndmTl5Z24/edit#gid=1202683513) for allocating judges to projects! This example process makes sure each team is seen by at least 3 different judges.&#x20;
 
 ### Judging Debrief
 
@@ -114,6 +114,6 @@ Now, you'll have a list of the project that appeared across multiple judges' top
 
 ### Resources:
 
-* Template: [Judging Expo Process ](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG\_89l6n6zpHj\_o5V2xwS-gyndmTl5Z24/edit?usp=sharing)
+* Template: [Judging Expo Process ](https://docs.google.com/spreadsheets/d/1eyfZmUMA63oG_89l6n6zpHj_o5V2xwS-gyndmTl5Z24/edit?usp=sharing)
 
 Any questions? Feel free to shoot an email to _league@mlh.io_ to discuss your Judging Plans!

@@ -38,7 +38,13 @@ Also, having some kind of a slot booking system can help you determine that they
 
 ## Day-of: Running Judging
 
-Check out [Judging Plan](draft-up-a-judging-plan.md) for the process for day of judging.  Some occasional follow-ups with them about the judging process is also a great way to keep a track of time as you follow the steps listed there.&#x20;
+Check out [Judging Plan](judging-plan.md) for the process for day of judging.  Some occasional follow-ups with them about the judging process is also a great way to keep a track of time as you follow the steps listed there.&#x20;
+
+## Go Above and Beyond!
+
+To make the judging process clear to both judges and hackers, we suggest printing out a brief summary of the rules and placing them at every presenting table alongside their table number.
+
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>an example from HackUTD 2024</p></figcaption></figure>
 
 ## MLH Tips
 

@@ -1,6 +1,6 @@
 # Legal Considerations
 
-There are several legal considerations you should be aware of when planning your event. If you are a student club, we recommend consulting with your university or high school on the following legal topics before your event.&#x20;
+There are several legal considerations you should be aware of when planning your event. If you are a student club, we recommend consulting with an advisor from your university or high school on the following legal topics before your event.&#x20;
 
 * [ ] Donations&#x20;
   * Is our school a 501(c)(3) nonprofit? If so, can our team accept donations? How can we accept donations?
@@ -16,8 +16,8 @@ If your team is not a student club, we recommend consulting the MLH team to help
 
 One common alternative is working with a fiscal sponsor - an existing 501(c)(3) nonprofit - to get access to their tax-exemption status as well as their additional financial and legal benefits. The fiscal sponsors listed below are designed to support hackathon teams.&#x20;
 
-* [Hack Club](https://hackclub.com/?utm\_campaign=other-organizers-organizer\_guide\_hackclub\_referral\&utm\_medium=website\&utm\_source=partner) - A nonprofit network of high school coding clubs and makers around the world.&#x20;
-* [Hack+ ](https://hackplus.io/?utm\_campaign=mlh-organizers-organizer\_guide\_hackplus\_referral\&utm\_medium=website\&utm\_source=partner)- An accessible nonprofit accelerator for student-led impacts. They are a full-spectrum platform that enables students to launch startups, nonprofits, and events.
+* [Hack Club](https://hackclub.com/?utm_campaign=other-organizers-organizer_guide_hackclub_referral\&utm_medium=website\&utm_source=partner) - A nonprofit network of high school coding clubs and makers around the world.&#x20;
+* [Hack+ ](https://hackplus.io/?utm_campaign=mlh-organizers-organizer_guide_hackplus_referral\&utm_medium=website\&utm_source=partner)- An accessible nonprofit accelerator for student-led impacts. They are a full-spectrum platform that enables students to launch startups, nonprofits, and events.
 
 
 
