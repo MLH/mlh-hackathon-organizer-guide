@@ -45,7 +45,7 @@ MLH Member Events serve as examples of excellence to other hackathons and commun
 * Have a link to the Code of Conduct on their website and ask **all registrant to agree** to the Code of Conduct during registration (e.g. a compulsory checkbox).
 * Make it clear that the **Code of Conduct extends to all attendees**, including hackers, volunteers, organizers, sponsors, judges, mentors, and MLH staff.
 * Make sure that bad actors and attendees who violate the Code of Conduct or rules will not attend the event.
-* **Respect and enforce the drug and alcohol laws** and customs of the local country _\*\*_&#x61;nd only allow moderate alcohol consumption in locales where drinking is allowed.
+* **Respect and enforce the drug and alcohol laws** and customs of the local country and only allow moderate alcohol consumption in locales where drinking is allowed.
 * Have a **first aid kit** on-site during the event.
 * If minors are attending, the **child safeguarding** requirements for the region/state have been met.
 * Whenever possible, events **provide sleeping spaces for attendees** and encourage attendees to take advantage of them.
