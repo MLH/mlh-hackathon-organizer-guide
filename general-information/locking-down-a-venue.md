@@ -38,7 +38,7 @@ On rare occasions, students aren’t able to find a free on-campus venue. If tha
   * Videos and/or photos of past events.
   * At least 3 ways students will _directly_ benefit from using this location.&#x20;
 
-Whenever possible, **don’t fall into the trap of paying to rent a venue**. With additional and hidden charges, it could easily double the cost of your hackathon. In addition to the rental fee, you will be responsible for providing all of the infrastructure required to run a large event, including Internet wiring, table and chair rental, and your own security team.
+Whenever possible, **avoid paying to rent a venue**. With additional and hidden charges, it could easily double the cost of your hackathon. In addition to the rental fee, you will be responsible for providing all of the infrastructure required to run a large event, including Internet wiring, table and chair rental, and your own security team.
 
 If you really can’t find a free venue, look into renting a coworking space with most of this infrastructure in place.
 
