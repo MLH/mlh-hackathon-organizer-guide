@@ -34,7 +34,7 @@ description: >-
 Keep in mind that sponsors haven't received your prospectus at this stage, so practicing a brief elevator pitch based on the information in your packet is a great starting point for this call.
 {% endhint %}
 
-* Make sure the sponsor knows what a hackathon is. Offer analogies such as comparing it to a science fair.&#x20;
+* Help the sponsor understand what a hackathon is. Offer analogies such as comparing it to a science fair.&#x20;
 * Sell your team and your story. What makes your hackathon special?
   * Get the prospect excited about the event.  Be sure to share personal experiences about the impact and takeaways of hackathons.&#x20;
 * Ask about success metrics. What did they ask for in previous sponsorships?
@@ -45,13 +45,13 @@ Keep in mind that sponsors haven't received your prospectus at this stage, so pr
 
 ## 4. Make A Proposal
 
-* Do this immediately after your call. Sometimes it’s as easy as sending over your prospectus and highlighting the packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
-* Explain why your offerings are a good fit for the sponsor.
+* Do this immediately after your call. Sometimes it’s as easy as sending over your prospectus and highlighting the pre-made packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
+* Explain why your proposal is a good fit for the sponsor.
 * Give your sponsorship deadline.
 
 ## 5. Follow Up And Track Your Progress
 
-* Email a week or two later offering to answer questions.
-* Track your emails with a CRM (Customer Relationship Management) tool, an email service like Boomerang, or plain old Excel.
+* Email a week or two after sending your initial proposal by offering to answer questions.
+* Track your emails with a CRM (Customer Relationship Management) tool, an email service like Boomerang, or a manual platform like Excel.
 * When a sponsor says yes, invoice them immediately. Create a contract for them to detail the amount and method of payment (make sure they are paying in a currency you accept).
 
