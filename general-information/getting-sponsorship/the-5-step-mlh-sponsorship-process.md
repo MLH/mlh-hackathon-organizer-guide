@@ -1,6 +1,6 @@
 ---
 description: >-
-  Once you’ve ascertained how much money your hackathon needs and created your
+  Once you’ve assessed how much money your hackathon needs and created your
   sponsorship materials, you’re ready to embark on the fundraising process.
 ---
 
@@ -9,7 +9,7 @@ description: >-
 ## 1. Set Targets And Do Your Research
 
 * Compile a list of potential sponsors:
-  * Check out sponsors of previous MLH events
+  * Check out sponsors of [previous MLH events](https://mlh.io/seasons/2025/events)
   * Search your network (LinkedIn is a great tool for this)
   * Check in with career services at your university — which companies sponsor tech job fairs on your campus?
   * Fundraising announcements
