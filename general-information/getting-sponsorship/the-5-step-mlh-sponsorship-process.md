@@ -53,5 +53,5 @@ Keep in mind that sponsors haven't received your prospectus at this stage, so pr
 
 * Email a week or two after sending your initial proposal by offering to answer questions.
 * Track your emails with a CRM (Customer Relationship Management) tool, an email service like Boomerang, or a manual platform like Excel.
-* When a sponsor says yes, invoice them immediately. Create a contract for them to detail the amount and method of payment (make sure they are paying in a currency you accept).
+* When a sponsor says yes, invoice them immediately. Create a contract for them to finalize their funding amount and method of payment. Make sure they are paying to an account you can easily access with a currency you can accept.
 
