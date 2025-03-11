@@ -29,7 +29,7 @@ In a short email to potential advocates, you can include:
 
 ## What If You Can't Find an On-Campus Location?
 
-On rare occasions, students aren’t able to find a free on-campus venue. If that’s the case, you still have options:
+On rare occasions, students may not be able to find a free on-campus venue. In this case, we recommend the following.
 
 * Research venues in your area that have held events of a similar size: other hackathons, conferences, etc. If you know someone who organized one of these events, ask for an introduction to their director.
 * Approach several companies that stand to gain something by sharing their space with you, such as a tech company that recruits programmers and designers. Your short email introduction should include the same information you sent to potential on-campus advocates:
