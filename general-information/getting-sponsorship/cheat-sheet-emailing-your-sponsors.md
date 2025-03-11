@@ -4,10 +4,10 @@ description: >-
   craft your initial email.
 ---
 
-# Emailing Your Sponsors Cheat Sheet
+# Cheat Sheet: Emailing Your Sponsors
 
 {% hint style="info" %}
-Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc in your first email. Instead put them in a follow-up email 1-2 weeks after the first email!
+Your first email should NEVER contain links, hyperlinks, attachments, or images. Many companies have IT policies that automatically trash new external emails with these to prevent phishing. Do not send your sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up message 1-2 weeks after the initial email!
 {% endhint %}
 
 | **What should you include?**                                               | **Why?**                                                                                                                                       | **Example**                                                                                                                                                          |

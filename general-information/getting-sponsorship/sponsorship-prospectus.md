@@ -6,10 +6,8 @@ description: >-
 
 # Sponsorship Prospectus
 
-
-
 {% hint style="info" %}
-Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up email 1-2 weeks after the first email instead!
+Your first email should NEVER contain links, hyperlinks, attachments, or images. Many companies have IT policies that automatically trash new external emails with these to prevent phishing. Do not send your sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up message 1-2 weeks after the initial email!
 {% endhint %}
 
 Sponsorship prospectuses (also called sponsorship packets) don't need to be fancy. They should explain what a hackathon is and [what perks sponsors can expect](https://guide.mlh.io/general-information/getting-sponsorship/potential-sponsor-perks) in exchange for their support. Providing examples of how sponsors have been involved at other hackathons can be a great starting point for companies to think about what tier is right for them.
@@ -17,6 +15,7 @@ Sponsorship prospectuses (also called sponsorship packets) don't need to be fanc
 ## Your prospectus should:
 
 * **Be 2-3 pages long:** Sponsors generally don't have time to read through a big sponsorship deck.
+* **Be legible:** Less is more! Choose a uniform color scheme and keep text to a minimum on each slide.
 * **Highlight the Basics**: Be sure to include the following info on _all_ promotional materials — we can’t tell you how many times this gets overlooked!
   * Event name
   * Date
@@ -24,7 +23,7 @@ Sponsorship prospectuses (also called sponsorship packets) don't need to be fanc
   * Website URL
   * Contact email
 * **Cover the story behind your event:** This includes a brief introduction to your team, what you’re trying to accomplish, and crucially, what makes your event unique.
-* **Include an overview of available sponsorships:** Companies should be able to easily understand the benefits of each tier and how much they cost.
+* **Include an overview of available sponsorships:** Companies should be able to easily identify the benefits and differences between each tier and how much they cost.
   * We recommend including three sponsorship tiers: reasonable, moderate, and expensive. (Your most expensive tier should not be more than 25% of your budget.)
   * Let companies know that custom packages are available upon further negotiation with your team's email address. We recommend including this message at the bottom of the tier overview page for easy access.
 

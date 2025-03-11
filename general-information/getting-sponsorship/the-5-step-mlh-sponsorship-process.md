@@ -6,44 +6,48 @@ description: >-
 
 # The 5-Step MLH Sponsorship Process
 
-## 1. Set Targets And Do Your Research
+## 1. Do Your Research
 
-* Compile a list of potential sponsors:
-  * Check out sponsors of [previous MLH events](https://mlh.io/seasons/2025/events)
-  * Search your network (LinkedIn is a great tool for this)
+* Compile a list of potential sponsors.
+  * Check out sponsors of [previous MLH events](https://mlh.io/seasons/2025/events), particularly local ones.
+  * Search your network (LinkedIn is a great tool for this).
   * Check in with career services at your university — which companies sponsor tech job fairs on your campus?
-  * Fundraising announcements
+  * Diversify your sponsor profile by reaching out to startups, midsized enterprises, and large enterprises.
+  * Make fundraising announcements to your community.
 
 ## 2. Get In Touch
 
 * Send a well-crafted, thoughtful email.
-  * For what to put in your email, check out our Sponsor Emails Cheat Sheet [here](cheat-sheet-emailing-your-sponsors.md).&#x20;
-  * Your first email should NEVER contain a link, attachment, or image. Many companies have IT policies that send new outside emails containing these straight to trash to prevent phishing. Do not have sponsorship prospectus, meeting invite link, website link, image in signature, etc in your first email. Instead put them in a follow-up email 1-2 weeks after the initial!
-* Reach out to the decision maker at each company. When in doubt, email the CEO.&#x20;
+  * Remember to include an introduction of yourself so sponsors know who they're talking to!
+  * Check out our [Sponsor Emails Cheat Sheet](https://guide.mlh.io/general-information/getting-sponsorship/cheat-sheet-emailing-your-sponsors) to learn what to include and avoid in the body of your message.
+  * Your first email should **NEVER** contain links, hyperlinks, attachments, or images. Many companies have IT policies that automatically trash new external emails with these to prevent phishing. Do not send your sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up message 1-2 weeks after the initial email!
+* Reach out to the relevant decision maker at each company. When in doubt, email the CEO.&#x20;
   * Other useful job titles:
     * Developer Relations - aka Dev Rel
     * Marketing/Recruiting/HR
-  * These are the people who would have the budget or know who to get in contact with if the CEO does not respond.&#x20;
-* Intros are infinitely better than cold emails.
-* Follow up: don’t worry if you don’t receive a response to your initial email; wait 1-2 weeks (3-4 days if closer to your event date) and ask again. You can ping the contact up to 3 times.&#x20;
+  * These contacts will either directly have the budget to support your event or know who to put you in touch with.&#x20;
+* Follow up: don’t worry if you don’t receive a response to your initial email! Your contact may have lost your email or simply had a busy week. Wait 1-2 weeks (3-4 days if close to your event date) and ask again; you should ping the contact up to 3 times.
 
-## 3. Have An Exploratory Phone Call
+## 3. Hop on an Exploratory Phone Call
 
-* Make sure the sponsor knows what a hackathon is — use analogies like comparing it to a science fair.&#x20;
-* Ask about success metrics. What did they get from past sponsorships?
-* Sell your team and your story. What makes you special?
-  * Get the prospect excited about the event.  Be sure to share personal experiences about the impact of hackathons.&#x20;
-* Let THEM do all the talking. You’ll figure out what companies most value this way.&#x20;
-  * Get them talking by asking questions. You want to make the call as conversational as possible so you can figure out their goals, while offering up your own experience and expertise. This helps build credibility and trust.
-* Don’t be afraid to ask their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get?"
+{% hint style="info" %}
+Keep in mind that sponsors haven't received your prospectus at this stage, so practicing a brief elevator pitch based on the information in your packet is a great starting point for this call.
+{% endhint %}
+
+* Make sure the sponsor knows what a hackathon is. Offer analogies such as comparing it to a science fair.&#x20;
+* Sell your team and your story. What makes your hackathon special?
+  * Get the prospect excited about the event.  Be sure to share personal experiences about the impact and takeaways of hackathons.&#x20;
+* Ask about success metrics. What did they ask for in previous sponsorships?
+* Let them do the talking! You’ll figure out the company's primary values this way.&#x20;
+  * Prompt your contact with guiding questions. You want to make the call as conversational as possible so you can learn their goals while sharing your own experiences and expertise to build trust and credibility.
+* Don’t be afraid to ask for their budget. "Given the times you’ve sponsored events similar to this one, what have you spent and what did you get out of it?"
 * Before you hang up, schedule a follow-up call.
 
 ## 4. Make A Proposal
 
-* Do this right away. Sometimes it’s as easy as sending over a prospectus with the packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
-* Make sure to explain why your offerings are a good fit.
+* Do this immediately after your call. Sometimes it’s as easy as sending over your prospectus and highlighting the packages most relevant to that particular company. Other times, you’ll have to put together a custom proposal.
+* Explain why your offerings are a good fit for the sponsor.
 * Give your sponsorship deadline.
-* Less is more! Choose a uniform color scheme and keep text to a minimum on each slide.
 
 ## 5. Follow Up And Track Your Progress
 

@@ -27,7 +27,7 @@
   * [Legal Considerations](general-information/hackathon-budgeting/legal-considerations.md)
 * [Getting Sponsorship](general-information/getting-sponsorship/README.md)
   * [Introduction to Fundraising](general-information/getting-sponsorship/introduction-to-fundraising.md)
-  * [Understanding Your Sponsors - Who to Reach Out to](general-information/getting-sponsorship/understanding-your-sponsors/README.md)
+  * [Understanding Your Sponsors](general-information/getting-sponsorship/understanding-your-sponsors/README.md)
     * [Evaluating In-kind Sponsorships](general-information/getting-sponsorship/understanding-your-sponsors/evaluating-in-kind-sponsorships.md)
   * [Potential Sponsor Perks](general-information/getting-sponsorship/potential-sponsor-perks.md)
   * [Sponsorship Prospectus](general-information/getting-sponsorship/sponsorship-prospectus.md)
