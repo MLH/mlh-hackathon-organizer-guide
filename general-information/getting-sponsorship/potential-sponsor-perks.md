@@ -2,7 +2,7 @@
 
 Hackathons can find unique and fascinating ways of involving sponsors in different aspects of their event to benefit everyone involved. The range of perks you can offer your sponsors is limitless.
 
-## Running a Sponsored Prize
+## **Running a Sponsored Prize**
 
 A sponsored prize track or category can significantly boost interest in your hackathon for the sponsors as well as the participants. For sponsors, this could result in new people contributing in unique ways towards their product. For hackers, this is an additional prize for them to aim for during the hackathon!
 

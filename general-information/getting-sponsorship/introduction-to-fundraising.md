@@ -1,12 +1,12 @@
 ---
 description: >-
-  Securing funds is a major cornerstone for any hackathon. This article focuses
-  to give you an idea of how and what Sponsorship for a hackathon looks like.
+  Securing funds is a major cornerstone for any hackathon. This article aims to
+  give you an idea of how and what sponsorship for a hackathon looks like.
 ---
 
 # Introduction to Fundraising
 
-Landing quality sponsorship is manageable if you **break the process into small steps** and give yourself plenty of lead time. The more practice you get approaching and negotiating with potential backers, the better you’ll become at the art of fundraising.
+Landing quality sponsorships is manageable if you **break the process into small steps** and give yourself plenty of lead time. The more practice you get approaching and negotiating with potential backers, the better you’ll become at the art of fundraising.
 
 One thing to keep in mind as you work your way through this process: **sponsors are like investors — they want to see you’re serious before they give you capital**. In the same way you wouldn’t approach for venture capital without a product prototype, don’t reach out to sponsors until you’ve got evidence that your hackathon is well on its way to happening. Examples of this include a confirmed date and time, pre-registrations from students, etc.
 
