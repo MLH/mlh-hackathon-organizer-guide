@@ -22,7 +22,7 @@ The [Introduction to Fundraising](introduction-to-fundraising.md) page has some 
 
 ## **Fun and Games**
 
-As you’re hosting games and competitions throughout the event, mix it up with sponsor vs hacker vs organizers challenges! If your sponsor isn’t as interested in technical workshops, see if they’re interested in hosting a mini-event or game. Some sponsors don't think they are allowed to participate in the fun mini-events, so encourage one of your organizers (potentially your sponsorship lead) to go around before a mini-event to get the sponsors to come take a break and hang with hackers! You can check out some mini-event ideas under our [Host Exciting Mini-Events](../../organizer-resources/host-exciting-mini-events/) section.&#x20;
+As you’re hosting games and competitions throughout the event, mix it up with sponsor vs hacker vs organizers challenges! If your sponsor isn’t as interested in technical workshops, see if they’re interested in hosting a mini-event or game. Some sponsors don't think they are allowed to participate in the fun mini-events, so encourage one of your organizers (potentially your sponsorship lead) to go around before mini-events to get the sponsors to come take a break and hang with hackers! You can check out some mini-event ideas under our [Host Exciting Mini-Events](../../organizer-resources/host-exciting-mini-events/) section.&#x20;
 
 ## **Recruiting**
 
