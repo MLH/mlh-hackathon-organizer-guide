@@ -7,7 +7,7 @@ description: >-
 # Sponsorship Prospectus
 
 {% hint style="info" %}
-Your first email should NEVER contain links, hyperlinks, attachments, or images. Many companies have IT policies that automatically trash new external emails with these to prevent phishing. Do not send your sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up message 1-2 weeks after the initial email!
+Your first email should **NEVER** contain links, hyperlinks, attachments, or images. Many companies have IT policies that automatically trash new external emails with these to prevent phishing. Do not send your sponsorship prospectus, meeting invite link, website link, image in signature, etc. in your first email. Include them in a follow-up message 1-2 weeks after the initial email!
 {% endhint %}
 
 Sponsorship prospectuses (also called sponsorship packets) don't need to be fancy. They should explain what a hackathon is and [what perks sponsors can expect](https://guide.mlh.io/general-information/getting-sponsorship/potential-sponsor-perks) in exchange for their support. Providing examples of how sponsors have been involved at other hackathons can be a great starting point for companies to think about what tier is right for them.
