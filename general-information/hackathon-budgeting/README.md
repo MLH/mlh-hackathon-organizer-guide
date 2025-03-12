@@ -11,10 +11,9 @@ The best starting point for your budget is an Excel sheet that tracks the catego
 ## Major Costs to Consider
 
 * **Food:** This is one of the most significant costs and contributors to overall hacker experience at any hackathon. Everyone expects high quality food that respects their dietary restrictions.
-  * Order enough food while not being wasteful. If you plan on ordering extra food, talk to a nearby shelter or student organizations you can bring extras to after meal time. Keep in mind that you will have to do this quickly to keep the food at the right temperature to still be safe for consumption.&#x20;
-  * You also might want to order less food as the hackathon progresses to be cost efficient.&#x20;
+  * Order enough food while not being wasteful. If you plan on ordering extra food, talk to a nearby shelter or student organization you can bring extras to after meal time. Keep in mind that you will have to do this quickly to keep the food safe for consumption.&#x20;
+  * You may want to order less food as the hackathon progresses to be cost efficient.&#x20;
     * The [HackUTD](https://hackutd.co/) team shared these stats with us using information gathered at checkin and each mealtime with QR code scans from their platform called [HackPortal](https://github.com/acmutd/hackportal). "At a high level theres usually \~90% claim rate (out of total registrations) for 1st day lunch, \~80% Dinner, midnight snack \~70%, \~30% breakfast and 60% day 2 lunch. These stats are not including what we give to sponsors, volunteers, mentors and organizers, so depending on those numbers we usually order a fixed amount of more food for each meal. These are generalized stats from the portals I have access to. Most of them are in a +/-10% range to these numbers. The location of the hackathon can impact these numbers - for instance, \[if an event] didn't let anyone leave the building... I suspect their %s \[would be] higher."
-  *
 * **Communication Platform** for building up conversations within the hackathon.  It can also be used for announcements or updates and to share resources with hackers. This is usually free but if you want to upgrade the platform (for example, paying for Discord Nitro) you should budget the costs. _Recommended Platform: Discord_
 * **Swag**: "Stuff We All Get" T-shirts, stickers, water bottles, lanyards, etc.
   * We recommend not getting white t-shirts as they frequently end up being see through depending on the quality. &#x20;

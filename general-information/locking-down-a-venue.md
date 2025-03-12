@@ -25,7 +25,7 @@ In a short email to potential advocates, you can include:
 * Videos and/or photos from past events.
 * At least 3 ways students will _directly_ benefit from an on-campus hackathon.
 
-[Frame your hackathon as a recruiting event with a twist. Your school most likely already hosts a recurring career fair -- you can pitch your event relative to this terminology to immediately align it with your school’s goals.](http://news.mlh.io/how-to-throw-an-epic-hackathon-07-07-2014)
+Frame your hackathon as a recruiting event with a twist. Your school most likely already hosts a recurring career fair -- you can pitch your event relative to this terminology to immediately align it with your school’s goals.
 
 ## What If You Can't Find an On-Campus Location?
 
