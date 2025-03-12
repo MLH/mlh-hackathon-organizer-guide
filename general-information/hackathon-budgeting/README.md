@@ -4,23 +4,22 @@ description: Know the costs associated with your hackathon.
 
 # Hackathon Budgeting
 
-Budget determines the sponsorship requirement for your hackathon, the logistical load of your organizing team, and the tools and services you have at your disposal.
+Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. This budget determines the sponsorship requirement for your hackathon, the logistical load of your organizing team, and the tools and services you have at your disposal.
 
-The best starting point for your budget is an Excel sheet that tracks the categories of expenses that are essential to creating the best experience for your hackers.
+The best starting point for your budget is an Excel sheet that tracks the categories of expenses that are essential to creating the best experience for your hackers. Create a [budget template based on estimated costs and your expected number of attendees](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit).
 
 ## Major Costs to Consider
 
 * **Food:** This is one of the most significant costs and contributors to overall hacker experience at any hackathon. Everyone expects high quality food that respects their dietary restrictions.
   * Order enough food while not being wasteful. If you plan on ordering extra food, talk to a nearby shelter or student organization you can bring extras to after meal time. Keep in mind that you will have to do this quickly to keep the food safe for consumption.&#x20;
   * You may want to order less food as the hackathon progresses to be cost efficient.&#x20;
-    * The [HackUTD](https://hackutd.co/) team shared these stats with us using information gathered at checkin and each mealtime with QR code scans from their platform called [HackPortal](https://github.com/acmutd/hackportal). "At a high level theres usually \~90% claim rate (out of total registrations) for 1st day lunch, \~80% Dinner, midnight snack \~70%, \~30% breakfast and 60% day 2 lunch. These stats are not including what we give to sponsors, volunteers, mentors and organizers, so depending on those numbers we usually order a fixed amount of more food for each meal. These are generalized stats from the portals I have access to. Most of them are in a +/-10% range to these numbers. The location of the hackathon can impact these numbers - for instance, \[if an event] didn't let anyone leave the building... I suspect their %s \[would be] higher."
-* **Communication Platform** for building up conversations within the hackathon.  It can also be used for announcements or updates and to share resources with hackers. This is usually free but if you want to upgrade the platform (for example, paying for Discord Nitro) you should budget the costs. _Recommended Platform: Discord_
-* **Swag**: "Stuff We All Get" T-shirts, stickers, water bottles, lanyards, etc.
+    * The [HackUTD](https://hackutd.co/) team shared these stats with us using information gathered at checkin and each mealtime with QR code scans from their platform called [HackPortal](https://github.com/acmutd/hackportal). "At a high level there's usually \~90% claim rate (out of total registrations) for 1st day lunch, \~80% Dinner, midnight snack \~70%, \~30% breakfast and 60% day 2 lunch. These stats are not including what we give to sponsors, volunteers, mentors and organizers, so depending on those numbers we usually order a fixed amount of more food for each meal. These are generalized stats from the portals I have access to. Most of them are in a +/-10% range to these numbers. The location of the hackathon can impact these numbers - for instance, \[if an event] didn't let anyone leave the building... I suspect their percentages \[would be] higher."
+* **Communication Platform:** Even if you are holding an in-person hackathon, you should host a space for digital communication. We recommend using [Discord](https://discord.com/download) as your central platform. This can be used to post announcements, updates, and hacker resources. Hosting a server is usually free, but if you want to upgrade the platform (by paying for Discord Nitro, for example) you should budget the costs.
+  * If it's your first time setting up a Discord server, some useful topics to create channels for include announcements, FAQs, general, resources, and sponsor-specific questions. Ask your HCM for tips about role permissions, attendee verification, and more!
+* **Swag:** Short for "Stuff We All Get." These include t-shirts, stickers, water bottles, lanyards, and more. They're a great way to spread your hackathon branding and incentivize your hackers.
   * We recommend not getting white t-shirts as they frequently end up being see through depending on the quality. &#x20;
-* **Prizes:** Though giving out prize money might seem like an easier option, we recommend giving out something that can help hackers learn, grow and utilize for their personal development.&#x20;
-* **Web Hosting/ Internal Toolings:** One of the starting costs for any hackathon. Though these are one of the most important costs which might get overlooked we recommend checking out the [GitHub Education Student Developer Pack](https://hackp.ac/github) and different open source alternatives for the tools you might be paying for unnecessarily.
-
-Before you can begin asking for money, get a sense of how much cash you need to pull off your hackathon. Create a [budget template based on estimated costs and your expected number of attendees](https://docs.google.com/spreadsheets/d/1ADKWatCbC3AhBKlyWOtVSqMcD6O6Y3FcwMTZwynPwDA/edit).
+* **Prizes:** We recommend awarding something that hackers can directly use to learn and grow for their personal development.
+* **Web Hosting/ Internal Tooling:** This is one of the initial costs of organizing that tends to be overlooked. We recommend checking out the [GitHub Education Student Developer Pack](https://hackp.ac/github) for open source alternatives to the tools you might be paying for.
 
 Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will **always** need this extra money. If you don't, you now have a head start for next year!
 
