@@ -15,7 +15,7 @@ _Think about your hackathon as a movie. You first release a teaser, then a trail
 * **Email Support:** You should keep a team inbox to answer hacker questions. This will have a great impact on the word of mouth marketing.
 * **Social Media:** Links to your event’s social media accounts. Common platforms include Facebook, Instagram, TikTok, and LinkedIn. Staying active on these platforms helps hackers remember your event is coming up.
 * **Release Date:** A date for visitors to check back for more information.
-* **Frequently Asked Questions:** A basic FAQ about your event to explain things to someone new to hackathons. See the [main website page](main-website.md) for some easy copy-paste questions!
+* **Frequently Asked Questions:** A basic FAQ about your event to explain things to someone new to hackathons. See the [main website page](main-website.md) for some common copy-paste questions.
 * **Sponsor Interest Page:** A page just for sponsors, including:
   * An email address for sponsorship inquiries.
   * Some information about your event and your team.
