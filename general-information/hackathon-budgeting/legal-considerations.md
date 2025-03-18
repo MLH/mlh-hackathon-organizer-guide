@@ -12,7 +12,7 @@ There are several legal considerations you should be aware of when planning your
   * Where will our funds be kept? How can we access them? Are there any fees we should be aware of? What is the realistic timeline for how long it takes for us to actually use the funds that come into our account?
   * Are there any tax requirements we should be aware of? Do we need to keep our receipts?
 * [ ] Age Restrictions
-  * Do we need waivers for high schoolers to stay at our venue overnight? What about for middle schoolers?
+  * Do we need waivers for high schoolers to stay at our venue overnight?
 
 If your team is not a student organization, we recommend consulting the MLH team to help you evaluate legal alternatives. &#x20;
 
