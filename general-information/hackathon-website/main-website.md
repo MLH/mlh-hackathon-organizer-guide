@@ -51,7 +51,7 @@ Once you've published your placeholder website, your team should immediately pri
 Ideally, you’ve been updating your site on a rolling basis as more details get finalized. This is a great way to keep your hackers engaged and motivated to check out all the offerings at your hackathon. You'll want to add the following sections at least a month ahead of your event for the best hacker experience.
 
 * **Schedule:** This is a great way to increase visibility and to keep hackers informed what to expect at different times during your hackathon.
-* **Venue:** An address can help hackers from other universities find your building.&#x20;
+* **Venue Address and Map:** An address can help hackers from other universities find your building. A map highlighting areas for workshops, hacking, and sleep is also strongly encouraged.
 * **Link to your Hackathon Chat Channel:** [Set up a single channel of communication](https://guide.mlh.io/general-information/event-logistics/hackathon-communication-platform) for day-of updates.&#x20;
 * **Prizes:** Get your hackers excited by revealing the prizes from time to time as they get finalized!
 * **Tracks:** Let hackers know about the different themes they can work upon during the hackathon.
