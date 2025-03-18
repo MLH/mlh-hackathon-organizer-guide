@@ -6,7 +6,7 @@ description: Things to consider when choosing your designs
 
 Creating a brand guideline and design theme for your hackathon can be one of the most rewarding ways to get your hackers excited for your event.
 
-Your design is only as impactful as how accessible and recognizable it is to your hackers. Coming up with your hackathon's website and brand identity always starts with accessibility — for example, your design should have enough contrast to be immediately legible to your hackers. Fortunately, there are many public resources that streamline the process of checking for and implementing web and visual accessibility measures. We've compiled a list of some of the most relevant ones below.&#x20;
+Your design is only as impactful as how accessible and recognizable it is to your hackers. Coming up with your hackathon's website and brand identity always starts with accessibility. Fortunately, there are many public resources that streamline the process of checking for and implementing web and visual accessibility measures. We've compiled a list of some of the most relevant ones below.&#x20;
 
 * Web Accessibility
   * ADA Compliance Across the Web - [https://www.ada.gov/resources/web-guidance/](https://www.ada.gov/resources/web-guidance/)

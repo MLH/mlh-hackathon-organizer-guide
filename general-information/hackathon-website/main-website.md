@@ -4,7 +4,7 @@ description: Your hackathon's face to the external world!
 
 # Main Website
 
-After you have set up your placeholder website, your team should immediately start to work on the main hackathon website. This website should be carefully designed, keeping in mind that it will reflect your hackathon's goals and is the face of your hackathon to the whole community. Not just that, great design language helps set up a brand that will severely affect the perceived worth of your hackathon in front of the attendees.
+After you have set up your placeholder website, your team should immediately start working on the main hackathon website. This website should be designed with the intent to reflect your hackathon's goals and serve as the face of your event to the whole community. Not just that, great design language helps set up a brand that will severely affect the perceived worth of your hackathon in front of the attendees.
 
 ### A typical hackathon website contains the following sections:
 
