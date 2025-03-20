@@ -11,6 +11,7 @@ Your design is only as impactful as how accessible and recognizable it is to you
 * Web Accessibility
   * ADA Compliance Across the Web - [https://www.ada.gov/resources/web-guidance/](https://www.ada.gov/resources/web-guidance/)
   * How to Evaluate Web Accessibility - [https://www.w3.org/WAI/test-evaluate/#initial](https://www.w3.org/WAI/test-evaluate/#initial)
+  * Web Content Accessibility Guidelines (v2.2) - [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)
 * Visual Accessibility
   * Testing Text Size and Color - [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)&#x20;
   * Accessibility 101: Color Contrast - [https://cultureconnectme.com/color/](https://cultureconnectme.com/color/)
