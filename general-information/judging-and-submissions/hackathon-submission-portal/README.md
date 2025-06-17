@@ -14,11 +14,7 @@ While there are a ton of different platforms to use for judging, Devpost is the 
 [using-devfolio.md](using-devfolio.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-If your event chooses not to use Devpost (we recommend using Devpost as it is much easier than custom making a platform) you should have have the ability to create an export of projects that has the fields below. We also included an anonomized example Devpost export below. While some in the example are Devpost specific and just recommendations to help you, this list is the required fields to submit to MLH after your event.&#x20;
+If your event chooses not to use Devpost (we recommend using Devpost as it is much easier than custom making a platform) you should have have the ability to create an export of projects that has the fields below. We also included an anonymized example Devpost export below. While some in the example are Devpost specific and just recommendations to help you, this list is the required fields to submit to MLH after your event.&#x20;
 
 * Project Name
 * Submission URL (so that project can be viewed post event)
