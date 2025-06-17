@@ -66,7 +66,6 @@
   * [Hackathon Submission Portal](general-information/judging-and-submissions/hackathon-submission-portal/README.md)
     * [Using Devpost](general-information/judging-and-submissions/hackathon-submission-portal/using-devpost.md)
     * [Using Devfolio](general-information/judging-and-submissions/hackathon-submission-portal/using-devfolio.md)
-    * [Using DoraHacks](general-information/judging-and-submissions/hackathon-submission-portal/using-dorahacks.md)
 * [Hackathon Scheduling](general-information/hackathon-scheduling/README.md)
   * [Detailed Run of Show](general-information/hackathon-scheduling/detailed-run-of-show.md)
   * [Run-Through with the Team](general-information/hackathon-scheduling/run-through-with-the-team.md)
