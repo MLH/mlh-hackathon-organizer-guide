@@ -82,6 +82,7 @@
 ## Organizer Resources
 
 * [Template Links](organizer-resources/template-links.md)
+* [Hardware Lab Contents](organizer-resources/hardware-lab-contents.md)
 * [Getting Support from Others](organizer-resources/getting-support-from-others.md)
 * [Leadership Resources](organizer-resources/leadership-resources.md)
 * [Marketing Resources](organizer-resources/marketing-resources.md)
