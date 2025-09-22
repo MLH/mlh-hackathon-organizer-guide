@@ -4,7 +4,7 @@ description: Being extra clear ahead of time can prevent headaches down the road
 
 # Rules for Your Hackathon
 
-Check out our full recommended rule list at [https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md](https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md)
+Check out our full recommended rule list at [https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md)
 
 Making your rules clear will help you keep your hackathon fair for all attendees, and easily be able to point to specific rules if you have to disqualify hackers for cheating.
 
