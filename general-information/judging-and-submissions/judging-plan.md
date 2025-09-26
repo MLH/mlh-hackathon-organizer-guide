@@ -6,9 +6,9 @@ description: >-
 
 # Judging Plan
 
-Judging has always been the biggest pain point for every hackathon organizer. This is due to the fact that while planning out the event, other than recruiting and finalizing the judges, and assigning a certain time for judging, organizing teams do not plan anything further, assuming everything can be managed on the day-of. But, in reality, if planned right, judging can be one of the easiest and the most smooth aspect of any hackathon.
+Judging has always been the biggest pain point for every hackathon organizer. This is due to the fact that while planning out the event, other than recruiting and finalizing the judges, and assigning a certain time for judging, organizing teams do not plan anything further, assuming everything can be managed on the day-of. But, in reality, if planned right, judging can be one of the easiest and smoothest aspects of any hackathon.
 
-Our recommendation is always towards implementing a science-fair type of judging plan.&#x20;
+Our strong recommendation is implementing a science-fair type of judging plan. We also recommend holding your judging **in person** to ensure less chaos on your end while guaranteeing a meaningful presentation experience to your attendees.
 
 Structurally, we recommend having hackers submit 2 minute videos on your submission platform for the judges to review. Make sure they put a lot of love and care into their submission. Their video should be a demo of their hack, not a presentation. This is not needed for judging when science fair style, but can be a reference during final deliberations, and is always a good future reference if they want to include it on their resumes.&#x20;
 
