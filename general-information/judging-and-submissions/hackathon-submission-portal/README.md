@@ -29,5 +29,11 @@ If your event chooses not to use Devpost (we recommend using Devpost as it is mu
   * First
   * Last
   * Email
+* Which of the following GenAI tools did you use this weekend? (Required Dropdown Multiselect)
+  * OpenAI, Anthropic, Hugging Face, Llama, IBM Watson, Gemini, Gemma, DeepSeek, I did not use GenAI, and Other
+* Did you implement a generative AI model or API in your hack this weekend? (Required Long text)
+  * Help Text: "If so, how and why did you use it? If not, mark your response as ‘N/A’"
+* If you are submitting to the Best Use of Gemini API prize category, please provide your Gemini API Key Project Number. (Optional, Short text)
+  * Help Text: "Head over to Gemini AI Studio > Click the 'Get API Key' button > Click the 'Project Number' for your API Key > Copy the 'Project Number' and submit below"
 
 {% embed url="https://docs.google.com/spreadsheets/d/1M7ju0OOPAbqNq2ZQH42vU9TXcXOtpF1OQN8an6o-fEs/edit?usp=sharing" %}
