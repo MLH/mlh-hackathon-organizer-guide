@@ -54,7 +54,7 @@ $$n =$$ Number of Judges for each project (or number of rounds of judging per pr
 $$t =$$ Time taken by a Judge per project (MLH recommendation: 4 mins per project. 2 minutes for presentation + demo, 1 minute for questions from judges and score compilations, and 1 minute for judge travel)\
 $$T =$$ Total time allocated for Judging (in minutes)
 
-For eg.: Consider you have **175 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **4 minutes are allocated per project** for a judge to take their decision.
+For eg.: Consider you have **175 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **4 minutes are allocated per project** for a judge to evaluate a project, make their decision, and move to the next project.
 
 Now the calculation looks like:
 
