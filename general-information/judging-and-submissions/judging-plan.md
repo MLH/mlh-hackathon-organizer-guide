@@ -38,7 +38,7 @@ We recommend events use stack ranking (detailed below) as it is easier for organ
 
 ### Time Requirement
 
-Towards the end of the hackathon, take out some buffer time for the judging. This usually takes around 2 - 3 hours, depending on the number of submissions and judges.
+Towards the end of the hackathon, take out some buffer time for the judging. This usually takes around 2 - 3 hours, depending on the number of submissions and judges. Across the 2026 Season (August 2025 - March 2026), we've seen an average submission rate of 1 project per 4 checked-in hackers.
 
 ### Calculating the required number of Judges
 
