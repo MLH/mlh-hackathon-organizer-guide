@@ -51,34 +51,34 @@ $$J =$$ Number of Judges\
 $$P =$$ Number of Submitted Projects\
 $$n =$$ Number of Judges for each project (or number of rounds of judging per project)\
 (MLH recommendation: 3 rounds per project)\
-$$t =$$ Time taken by a Judge per project (MLH recommendation: 3 mins per project)\
+$$t =$$ Time taken by a Judge per project (MLH recommendation: 4 mins per project. 2 minutes for presentation + demo, 1 minute for questions from judges and score compilations, and 1 minute for judge travel)\
 $$T =$$ Total time allocated for Judging (in minutes)
 
-For eg.: Consider you have **150 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **3 minutes are allocated per project** for a judge to take their decision.
+For eg.: Consider you have **175 projects submitted** at your hackathon and you have **allocated 2 hours for judging**. As per our recommendation, we are having **3 rounds of judging** per project and **4 minutes are allocated per project** for a judge to take their decision.
 
 Now the calculation looks like:
 
-J= (150\*3\*3)/120 = 11.25 = 12
+J= ceiling\_function((175\*3\*4)/120) = ceiling\_function(17.5) = 18
 
-Hence the number of **judges required is 12**. Look at our[ judge communication and recruiting page](judges-communication-and-recruiting.md) to get enough judges for your event!
+Hence the number of **judges required is 18**. Look at our[ judge communication and recruiting page](judges-communication-and-recruiting.md) to get enough judges for your event!
 
 ### A go to table to estimate the number of judges required:
 
 |                                       | **Number of attendees** |        |        |        |         |         |         |
 | ------------------------------------- | ----------------------- | :----: | ------ | ------ | ------- | ------- | ------- |
 | **Time Allocated for Judging (mins)** |                         | **45** | **60** | **90** | **120** | **150** | **180** |
-|                                       | **100**                 |    9   | 7      | 5      | 5       | 4       | 4       |
-|                                       | **200**                 |   15   | 12     | 9      | 7       | 6       | 5       |
-|                                       | **300**                 |   22   | 17     | 12     | 10      | 8       | 7       |
-|                                       | **400**                 |   29   | 22     | 15     | 12      | 10      | 9       |
-|                                       | **500**                 |   35   | 27     | 19     | 15      | 12      | 10      |
-|                                       | **600**                 |   42   | 32     | 22     | 17      | 14      | 12      |
-|                                       | **700**                 |   49   | 37     | 25     | 20      | 16      | 14      |
-|                                       | **800**                 |   55   | 42     | 29     | 22      | 18      | 15      |
-|                                       | **900**                 |   62   | 47     | 32     | 25      | 20      | 17      |
-|                                       | **1000**                |   69   | 52     | 35     | 27      | 22      | 19      |
-|                                       | **1100**                |   75   | 57     | 39     | 30      | 24      | 20      |
-|                                       | **1200**                |   82   | 62     | 42     | 32      | 26      | 22      |
+|                                       | **100**                 |    7   | 5      | 4      | 3       | 2       | 2       |
+|                                       | **200**                 |   14   | 10     | 7      | 5       | 4       | 4       |
+|                                       | **300**                 |   20   | 15     | 10     | 8       | 6       | 5       |
+|                                       | **400**                 |   27   | 20     | 14     | 10      | 8       | 7       |
+|                                       | **500**                 |   34   | 25     | 17     | 13      | 10      | 9       |
+|                                       | **600**                 |   40   | 30     | 20     | 15      | 12      | 10      |
+|                                       | **700**                 |   47   | 35     | 24     | 18      | 14      | 12      |
+|                                       | **800**                 |   54   | 40     | 27     | 20      | 16      | 14      |
+|                                       | **900**                 |   60   | 45     | 30     | 23      | 18      | 15      |
+|                                       | **1000**                |   67   | 50     | 34     | 25      | 20      | 17      |
+|                                       | **1100**                |   74   | 55     | 37     | 28      | 22      | 19      |
+|                                       | **1200**                |   80   | 60     | 40     | 30      | 24      | 20      |
 
 ### Allocating Projects
 
