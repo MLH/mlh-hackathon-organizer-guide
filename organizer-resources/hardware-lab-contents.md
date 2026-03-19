@@ -1,8 +1,8 @@
 # Hardware Lab Contents
 
-One of the perks of being an MLH Member Event is that you may receive a hardware lab to rent components to your hackers over the course of the weekend! Please speak to your HCM if this is something that your team is interested in.
+One of the perks of being an MLH Member Event is that you may receive a hardware lab to rent components to your hackers over the course of the weekend! Please speak to your HCM if this is something that your team is interested in. We require a second table for the Hardware Lab, and a volunteer to check items in and out while the Coach at your event is helping hackers debug, running a workshop, or sleeping. You can put MLH near your Help Desk so that the overnight shift can help cover the occasional checkout.&#x20;
 
-The following components are included in your kit, though exact counts may be subject to change.
+The following components are included in your kit, though exact counts may be subject to change. In particular the EU and APAC hardware labs have different contents due to customs. Ask your HCM if you need specific contents for EU/APAC as the replacement of broken items has a longer turnaround time than our US/Canada based events.&#x20;
 
 {% include "../.gitbook/includes/untitled.md" %}
 
