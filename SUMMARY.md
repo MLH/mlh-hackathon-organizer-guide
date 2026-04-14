@@ -79,6 +79,23 @@
   * [Closing Ceremony](general-information/day-of-logistics-and-hacker-experience/closing-ceremony.md)
 * [After the Event](general-information/after-the-event.md)
 
+
+## Hardware Hackathon Guide
+* [Introduction](hardware-hackathon-guide/INTRO.md)
+* [Why Hardware Hackathons](hardware-hackathon-guide/why-hardware-hackathons.md)
+* [Naming and Framing Your Event](hardware-hackathon-guide/naming-and-framing-your-event.md)
+* [Hardware Hackathon Organizing Timeline](hardware-hackathon-guide/hardware-hackathon-timeline.md)
+* [Recruitment](hardware-hackathon-guide/recruitment.md)
+* [Challenges](hardware-hackathon-guide/challenges.md)
+* [Pitfalls](hardware-hackathon-guide/pitfalls.md)
+* [Hardware Labs and Additional Resources](hardware-hackathon-guide/.hardware-labs-and-additional-resources.md)
+* [Workshops and Learning Resources](hardware-hackathon-guide/workshops-and-learning-resources.md)
+* [(Physical) Environment Requirements](hardware-hackathon-guide/environment-requirements.md)
+* [Prizes](hardware-hackathon-guide/prizes.md)
+* [Sponsors and Partners](hardware-hackathon-guide/sponsors-and-partners.md)
+* [After the Hack](hardware-hackathon-guide/after-the-hack.md)
+
+
 ## Organizer Resources
 
 * [Template Links](organizer-resources/template-links.md)
