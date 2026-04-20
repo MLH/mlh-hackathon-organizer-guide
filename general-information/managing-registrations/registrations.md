@@ -33,7 +33,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
   * So you can communicate before and after the event. Location, schedule, feedback, etc.&#x20;
 * **School** (use [MLH's list of verified schools](https://github.com/MLH/mlh-policies/blob/master/schools.csv))
   * Use a set list instead of having students type out their school. This will result in uniform results. If you see one that hasn't been included, please add it via [my.mlh.io](https://my.mlh.io/signin) and we'll verify it soon.
-    * For example some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.&#x20;
+    * For example, some universities can have multiple versions of the name. Each will show as a different option, and will skew your demographic data showing how many students came from each school.&#x20;
       * **The** University of Texas at Dallas
       * University of Texas at Dallas
       * UTD
@@ -52,14 +52,12 @@ You can see our example Registration form [here](https://majorleaguehacking.type
   * Prefer not to answer
 * **Country of Residence**
   * [**We heavily recommend using the ISO 3166 Standard for Country names.**](https://www.iso.org/iso-3166-country-codes.html)
-  * **We recommend this as a dropdown.** It’s okay to put your hackathon’s country at the top for ease of use.
-  * Again be careful not to have users type input, or you will get a million answers for the same countries.&#x20;
+  * **We recommend using a dropdown.** It’s okay to put your hackathon’s country at the top for ease of use.
+  * If this question is a short text response, you be unable to standardize your data as you will get variants for the same countries.&#x20;
     * US
     * USA
     * United States
     * Unites States of America
-* **LinkedIn URLs**
-  * Ask hackers to provide their LinkedIn URL to be able to connect with partners post-event for potential job opportunities.&#x20;
 
 ## MLH Checkboxes
 
@@ -75,7 +73,7 @@ MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST
 * “I authorize you to share my application/registration information with Major League Hacking for event administration, ranking, and MLH administration in-line with the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)). I further agree to the terms of both the MLH Contest Terms and Conditions ([https://github.com/MLH/mlh-policies/blob/main/contest-terms.md](https://github.com/MLH/mlh-policies/blob/main/contest-terms.md)) and the MLH Privacy Policy ([https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md](https://github.com/MLH/mlh-policies/blob/main/privacy-policy.md)).”
 * “I authorize MLH to send me occasional emails about relevant events, career opportunities, and community announcements."<br>
 
-## Optional Demographic Fields
+## Optional Participant Fields
 
 * **Dietary Restrictions (For in-Person events - see more about planning for dietary restrictions in our Event Logistics section!)**
   * Vegetarian
@@ -163,3 +161,5 @@ MLH Member Events also are required to have 3 checkboxes. 2 of them hackers MUST
   * Undecided / No Declared Major&#x20;
   * My school does not offer majors / primary areas of study&#x20;
   * Prefer not to answer
+* **LinkedIn URLs**
+  * Ask hackers to provide their LinkedIn URL to be able to connect with partners post-event for potential job opportunities.&#x20;
