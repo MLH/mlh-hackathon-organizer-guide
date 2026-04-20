@@ -57,7 +57,7 @@ You can see our example Registration form [here](https://majorleaguehacking.type
     * US
     * USA
     * United States
-    * Unites States of America
+    * Unites States of America (Yes, you will get these kinds of typos.)
 
 ## MLH Checkboxes
 
