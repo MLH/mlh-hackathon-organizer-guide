@@ -30,7 +30,7 @@ We know that some hackathons vary though, so are including some specific rules y
   * Recommend Yes
 * Deadline for submissions / time they can work on their projects
   * Make it very clear they cannot work on their project before the event.&#x20;
-* Will judging will be in person?
+* Will judging be in person?
   * Will it be science fair style?
     * Recommended
   * Or will everyone demo to the larger group
