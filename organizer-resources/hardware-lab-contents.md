@@ -11,7 +11,7 @@ We also have an assorted count of the following. While we include an approximate
 | Grove Buzzer                           | 10      | <p><img src="../.gitbook/assets/httpsstatics3.seeedstudio.comseeedfile2018-08bazaar897328_1.jpg" alt="" data-size="original"></p><p></p>         |
 | -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Grove Touch Sensor                     | 10      | <p></p><p><img src="../.gitbook/assets/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881144_3.jpg" alt="" data-size="original"></p>         |
-| Grove LED                              | 20      | <p><img src="../.gitbook/assets/grove-led-pack-all-2.jpg" alt="" data-size="original"></p><p></p>                                                |
+| Grove LED Socket Kit                   | 20      | <p><img src="../.gitbook/assets/grove-led-pack-all-2.jpg" alt="" data-size="original"></p><p></p>                                                |
 | Grove Temperature and Barometer Sensor | 3       | ![](<../.gitbook/assets/image (23).png>)                                                                                                         |
 | Grove Button                           | 12      | ![](../.gitbook/assets/perspectiive.jpg)                                                                                                         |
 | Grove Rotary Angle Sensor              | 5       | ![](<../.gitbook/assets/image (4).png>)                                                                                                          |
@@ -20,8 +20,8 @@ We also have an assorted count of the following. While we include an approximate
 | Grove Light Sensor                     | 10      | ![](<../.gitbook/assets/image (5).png>)                                                                                                          |
 | Grove I2C Color Sensor                 | 3       | ![](../.gitbook/assets/httpsstatics3.seeedstudio.comseeedfile2017-06bazaar482888_1.jpg)                                                          |
 | Grove LCD Screen                       | 4       | <p><img src="../.gitbook/assets/httpsstatics3.seeedstudio.comimages104030001201.jpg" alt="" data-size="original"></p><p></p>                     |
-| Grove Stepper Motors                   | 3       | <p><img src="../.gitbook/assets/c00cc96b-995e-422e-a760-1025441ca464.jpg" alt="" data-size="original"></p><p></p>                                |
-| Grove Ultrasonic Distance sensor       | 3       | <img src="../.gitbook/assets/grove---ultrasonic-distance-sensor-preview_1.webp" alt="" data-size="original">                                     |
+| Grove Stepper Motor                    | 3       | <p><img src="../.gitbook/assets/c00cc96b-995e-422e-a760-1025441ca464.jpg" alt="" data-size="original"></p><p></p>                                |
+| Grove Ultrasonic Distance Sensor       | 3       | <img src="../.gitbook/assets/grove---ultrasonic-distance-sensor-preview_1.webp" alt="" data-size="original">                                     |
 | Grove Cables                           | 25      | <p></p><p><img src="../.gitbook/assets/httpsstatics3.seeedstudio.comimagesproduct20cmbk1.jpg" alt="" data-size="original"></p><p></p>            |
 | Grove Moisture Sensor                  | 3       | <p><img src="../.gitbook/assets/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar881132_3.jpg" alt="" data-size="original"></p><p></p>         |
 | Grove Motor/Servo Driver Board         | 5       | <p><img src="../.gitbook/assets/grove-i2c-motor-driver-with-l298-front.jpg" alt="" data-size="original"></p><p></p>                              |
