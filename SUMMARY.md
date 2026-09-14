@@ -109,6 +109,7 @@
 * [Host Exciting Mini-Events](organizer-resources/host-exciting-mini-events/README.md)
   * [Cup Stacking](organizer-resources/host-exciting-mini-events/cup-stacking.md)
   * [MLH Mini Events](organizer-resources/host-exciting-mini-events/mlh-mini-events/README.md)
+    * [TechTogether Meetups](organizer-resources/host-exciting-mini-events/mlh-mini-events/techtogether-meetups.md)
     * [WereWolf](organizer-resources/host-exciting-mini-events/mlh-mini-events/werewolf.md)
     * [Slideshow Karaoke](organizer-resources/host-exciting-mini-events/mlh-mini-events/slideshow-karaoke.md)
     * [!Light](organizer-resources/host-exciting-mini-events/mlh-mini-events/light.md)
