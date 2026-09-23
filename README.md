@@ -8,7 +8,7 @@ description: The MLH Hackathon Organizer Guide
 
 Take a look and learn some of the practices used by hackathon organizers all around the world. This guide should contain most, if not all, of the practices you need to throw a great hackathon.
 
-**Disclaimer:** The hackathon organizer guide is never finished. It's an ongoing project that we're always trying to update as we and the global hackathon organizer community learn. Try everything, and feel free to contribute your learnings back to the guide with a pull request over on [our GitHub repository for this guide](https://github.com/mlh/hackathon-organizer-guide).
+**Disclaimer:** The hackathon organizer guide is never finished. It's an ongoing project that we're always trying to update as we and the global hackathon organizer community learn. Try everything, and feel free to contribute your learnings back to the guide with a pull request over on [our GitHub repository for this guide](https://github.com/MLH/mlh-hackathon-organizer-guide).
 
 ## Introduction to Organizer Guide
 
@@ -22,9 +22,9 @@ Major League Hacking's [mission is to empower hackers](https://mlh.io/about). Th
 
 ### Code of Conduct
 
-We enforce a Code of Conduct for all maintainers and contributors of this Guide. Read more in [CONDUCT.md](https://github.com/yashovardhan/mlh-hackathon-organizer-guide/tree/e1f777578c8c5c905dcebc5b506c1f93f4c613b4/CONDUCT.md).
+We enforce a Code of Conduct for all maintainers and contributors of this Guide. Read more in [CONDUCT.md](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/CONDUCT.md).
 
 ### License
 
-The Hackathon Organizer Guide is open sourced under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. [Read more here](https://github.com/yashovardhan/mlh-hackathon-organizer-guide/tree/e1f777578c8c5c905dcebc5b506c1f93f4c613b4/LICENSE.md).
+The Hackathon Organizer Guide is open sourced under the [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. [Read more here](https://github.com/MLH/mlh-hackathon-organizer-guide/blob/master/LICENSE.md).
 
