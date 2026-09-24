@@ -4,7 +4,7 @@ description: Things to keep an eye out for
 
 # Cheating Check
 
-First of all, assume non-malicious mistakes from hackers will happen. Some of them are beginners, some may have misunderstood your instructions, or arrived late and missed opening ceremony. Make sure to post all rules on Devpost(or your other submission platform) and that you include everything you go over in your opening ceremony.&#x20;
+First of all, assume non-malicious mistakes from hackers will happen. Some of them are beginners, some may have misunderstood your instructions, or arrived late and missed opening ceremony. Make sure to post all rules on Devpost (or your other submission platform) and that you include everything you go over in your opening ceremony.&#x20;
 
 That being said, we do see some projects submitted that cheat. This is more common for digital events. You should still check all winning projects regardless of event type for cheating.&#x20;
 
@@ -15,6 +15,7 @@ Here are common things to check:
 * You should check their GitHub(recommended you require this as part of the submissions)
   * Did they start before the event?
   * Is it one big commit at the beginning of the event? (Remember, some hackers are new! And just don't know how to use Git. One commit at the end of the event is NOT a reason to DQ)
+  * Did they push changes after submissions closed? Check the repository’s activity and compare views to inspect recent changes. Small bug fixes may be allowed depending on your rules; substantial new features may not be.
   * Does their readme mention a different event?
   * Is every team member contributing?
 * Is a solo hacker making a really advanced project in a single weekend?
