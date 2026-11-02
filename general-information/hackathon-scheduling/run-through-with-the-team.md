@@ -18,6 +18,8 @@ Any others?
 
 * Physically walk-through the run-of-show document in the event space.
 
+For a run-through with a shared presentation, the optional [Hybrid presentation pointing rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) (Light Tracer, CC BY 4.0) provides a two-page blank record for the presenter and AV organizer to compare an indicated detail in the room, shared view and any permitted rehearsal recording, then note one change and a recheck. Leave unused views as Not tested; no particular hardware purchase is required.
+
 ## MLH Tips
 
 * Keep in mind most organizers, especially team leaders, will be responsible for more than one thing
