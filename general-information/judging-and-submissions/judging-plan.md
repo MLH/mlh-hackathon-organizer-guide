@@ -1,6 +1,6 @@
 ---
 description: >-
-  Check out our example template at https://hackp.ac/judgingexample - Email
+  Check out our example template at https://mlh.link/judgingexample - Email
   league@mlh.io if you need any help!
 ---
 

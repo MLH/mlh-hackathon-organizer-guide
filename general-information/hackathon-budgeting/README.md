@@ -19,7 +19,7 @@ The best starting point for your budget is an Excel sheet that tracks the catego
 * **Swag:** Short for "Stuff We All Get." These include t-shirts, stickers, water bottles, lanyards, and more. They're a great way to spread your hackathon branding and incentivize your hackers.
   * We recommend not getting white t-shirts as they frequently end up being see through depending on the quality. &#x20;
 * **Prizes:** We recommend awarding something that hackers can directly use to learn and grow for their personal development.
-* **Web Hosting/ Internal Tooling:** This is one of the initial costs of organizing that tends to be overlooked. We recommend checking out the [GitHub Education Student Developer Pack](https://hackp.ac/github) for open source alternatives to the tools you might be paying for.
+* **Web Hosting/ Internal Tooling:** This is one of the initial costs of organizing that tends to be overlooked. We recommend checking out the [GitHub Education Student Developer Pack](https://education.github.com/pack) for open source alternatives to the tools you might be paying for.
 
 Note: We recommend you build in a buffer of $1,000 to $3,000, depending on the size of the event. In our experience, organizers will **always** need this extra money. If you don't, you now have a head start for next year!
 

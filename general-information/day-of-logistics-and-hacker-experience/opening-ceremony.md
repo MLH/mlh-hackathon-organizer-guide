@@ -15,4 +15,4 @@ In the Opening Ceremony, make sure you cover:
 * Prize categories and rules
 * Your MLH Coach’s 5-8 minute presentation!
 
-Check out an example slide deck [here](https://hackp.ac/openingceremonyexample)
+Check out an example slide deck [here](https://mlh.link/openingceremonyexample)
