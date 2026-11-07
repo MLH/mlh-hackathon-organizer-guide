@@ -55,6 +55,7 @@ Before you book an event space, make sure it has everything you need help you ho
 * **Tables and chairs** — How many seats and tables do you need? Does the venue provide them, or do you need to rent from a separate vendor? Coordinate with your vendor to create a floor plan.
 * **Food**— Does the venue offer catering? If it does, are you required to use it? How much will this cost?
 * **Accessibility** — Can hackers in need of physical accommodation conveniently access the building?
+* **Quiet / prayer / reflection space** — Many hackers observe daily prayers or need a low-sensory break space. Set aside a clearly signposted quiet room (separate from sleeping areas), share prayer times and Qibla direction where relevant, and list the room on your venue map and schedule. A private lactation space with a power outlet is a plus for nursing parents.
 * **Security** — Will there be a secure space where sponsors, organizers, and attendees can keep expensive equipment? Does the venue offer their own security, or do you need to find and pay for them?
 
 If your venue lacks in some areas but is hosted on campus, you may be able to work with other branches of your administration to cover them. For example:
