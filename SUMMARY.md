@@ -100,6 +100,7 @@
 ## Organizer Resources
 
 * [Template Links](organizer-resources/template-links.md)
+* [Lanyards for your event](organizer-resources/lanyards-for-your-event.md)
 * [Hardware Lab Contents](organizer-resources/hardware-lab-contents.md)
 * [Getting Support from Others](organizer-resources/getting-support-from-others.md)
 * [Leadership Resources](organizer-resources/leadership-resources.md)
